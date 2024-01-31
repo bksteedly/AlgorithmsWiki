@@ -1,0 +1,1950 @@
+name,link,year
+Sorting,https://www.researchgate.net/profile/Adolf-Fenyi-2/publication/346468901_Comparative_Analysis_of_Comparison_and_Non_Comparison_based_Sorting_Algorithms/links/62d80a6c492b5a42c7c3715c/Comparative-Analysis-of-Comparison-and-Non-Comparison-based-Sorting-Algorithms.pdf,
+Comparison Sorting,https://www.researchgate.net/profile/Adolf-Fenyi-2/publication/346468901_Comparative_Analysis_of_Comparison_and_Non_Comparison_based_Sorting_Algorithms/links/62d80a6c492b5a42c7c3715c/Comparative-Analysis-of-Comparison-and-Non-Comparison-based-Sorting-Algorithms.pdf,
+Non-Comparison Sorting,https://www.researchgate.net/profile/Adolf-Fenyi-2/publication/346468901_Comparative_Analysis_of_Comparison_and_Non_Comparison_based_Sorting_Algorithms/links/62d80a6c492b5a42c7c3715c/Comparative-Analysis-of-Comparison-and-Non-Comparison-based-Sorting-Algorithms.pdf,
+kth Order Statistic,https://dl.acm.org/citation.cfm?doid=366622.366647,
+Matrix Chain Ordering Problem,https://dl.acm.org/doi/pdf/10.1145/359545.359556,
+Approximate MCOP,https://dl.acm.org/doi/pdf/10.1145/359545.359556,
+Matrix Chain Scheduling Problem,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.222&rep=rep1&type=pdf,
+Approximate MCSP,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.222&rep=rep1&type=pdf,
+Longest Common Subsequence,https://cse.hkust.edu.hk/mjg_lib/bibs/DPSu/DPSu.Files/HuSz77.pdf,
+Longest Common Substring with don't cares,https://link.springer.com/chapter/10.1007/978-3-662-43948-7_4,
+st-Maximum Flow,https://dl.acm.org/doi/abs/10.1145/3212510,
+Integer Maximum Flow,https://dl.acm.org/doi/abs/10.1145/3212510,
+Unweighted Maximum Flow,https://dl.acm.org/doi/abs/10.1145/3212510,
+Non-integer Maximum Flow,https://dl.acm.org/doi/abs/10.1145/3212510,
+Minimum-Cost Flow,https://www.tandfonline.com/doi/pdf/10.1080/10556788.2014.895828,
+All-Pairs Maximum Flow,https://dl.acm.org/doi/abs/10.1145/3212510,
+Maximum Local Edge Connectivity,https://dl.acm.org/doi/abs/10.1145/3212510,
+Matrix Multiplication,https://era.ed.ac.uk/bitstream/handle/1842/4734/Stothers2010.pdf,
+Boolean Matrix Multiplication,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4569672,
+Boolean Matrix Multiplication (Combinatorial),https://dl.acm.org/doi/pdf/10.1145/3186893,
+Matrix Product Verification,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Distance Product,https://dl.acm.org/doi/pdf/10.1145/3186893,
+"$(\min, \leq)$ Product",https://dl.acm.org/doi/pdf/10.1145/3186893,
+General Linear System,https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wics.164,
+Sparse Linear System,https://arxiv.org/pdf/0811.3171.pdf,
+"Positive Definite, Hermitian Matrix",https://www.cs.utexas.edu/users/flame/Notes/NotesOnChol.pdf,
+"Non-Definite, Symmetric Matrix",https://link.springer.com/article/10.1007/BF01931804,
+Toeplitz Matrix,https://link.springer.com/content/pdf/10.1007/BF02163269.pdf,
+Vandermonde Matrix,https://www.jstor.org/stable/2004623,
+General Linear Programming,https://books.google.com/books?hl=en&lr=&id=DTjPAAAAQBAJ&oi=fnd&pg=PP1&dq=general+linear+programming&ots=vD4ZikjK9Z&sig=hKNx-yjfv4eztlHMjbWBIEWhfGA#v=onepage&q=general%20linear%20programming&f=false,
+Linear Programming with Reals,https://link.springer.com/content/pdf/10.1007/BF01580859.pdf,
+Integer Linear Programming,https://d1wqtxts1xzle7.cloudfront.net/30784929/15023096-libre.pdf?1392035464=&response-content-disposition=inline%3B+filename%3DThree_models_of_fuzzy_integer_linear_pro.pdf&Expires=1661187732&Signature=KJX0f8E8YpE~2X0f4tgDBvqlsPKVldp3BztygETrIDDscwI25~PAsRrtZ8JYXgalpEd1vJEuYuUDCyefMcdsMqq0I-yN0l0DOn6AaZhB-Wr-bjzxuorwUjudediDpIFtzK6t6ue30Gy5smKflevKkLzd~C9gDO9wLM7rXs9Qc3Pt3WRq~eyXrNERyyX8nQCj3-FtOFPVWttivVFqKopzQ7zHUnkMsSQ9~TOyB58tJX5mjZ0qwTnG-E5WdkYIcxSqFFMvQciOztMjOw4ztTOoaR-bK4zm23a~Rhmy9YnvyN6H807Dn4R7Gz2HhIi7fBpZKuN7TRUUDLZoYF3E6AhV1g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA,
+0-1 Linear Programming,https://www.jstor.org/stable/pdf/2628745.pdf,
+"Reporting all intersection points, line segments",https://dl.acm.org/doi/10.1145/147508.147511,
+"Reporting all intersection points, generalized segments",https://epubs.siam.org/doi/abs/10.1137/S0097539797329373,
+"Reporting all intersection points, convex polygons",https://pdfs.semanticscholar.org/a571/cc92218132a1b0e65c2adbf663c79d015737.pdf,
+"Reporting all intersection points, general polygons",https://pdfs.semanticscholar.org/a571/cc92218132a1b0e65c2adbf663c79d015737.pdf,
+"Counting number of intersection points, line segments",https://www.sciencedirect.com/science/article/pii/0022000086900255,
+2-dimensional Convex Hull,https://dl.acm.org/doi/10.1145/359423.359430,
+3-dimensional Convex Hull,https://dl.acm.org/doi/10.1145/359423.359430,
+d-dimensional Convex Hull,https://dl.acm.org/doi/pdf/10.1145/12130.12172,
+"2-dimensional Convex Hull, Online",https://dl.acm.org/doi/abs/10.1145/359131.359132,
+"2-dimensional Convex Hull, Dynamic",https://www.sciencedirect.com/science/article/pii/002200008190012X?via%3Dihub,
+Strongly Connected Components,https://ieeexplore.ieee.org/abstract/document/6979028?casa_token=daaoBjrHUa4AAAAA:DCjk_WMWZ5Is6KvGpmS8a2bL9LskvV0P1zEG4U2u-Tm_C8sixu1w65OpTyjml1HEpaikXhtYsg,
+Transitive Closure,https://link.springer.com/article/10.1007/BF01940892,
+Maximum Strongly Connected Component,https://ieeexplore.ieee.org/abstract/document/6979028?casa_token=daaoBjrHUa4AAAAA:DCjk_WMWZ5Is6KvGpmS8a2bL9LskvV0P1zEG4U2u-Tm_C8sixu1w65OpTyjml1HEpaikXhtYsg,
+Strong Connectivity (dynamic),https://ieeexplore.ieee.org/abstract/document/6979028?casa_token=daaoBjrHUa4AAAAA:DCjk_WMWZ5Is6KvGpmS8a2bL9LskvV0P1zEG4U2u-Tm_C8sixu1w65OpTyjml1HEpaikXhtYsg,
+2 Strong Components (dynamic),https://ieeexplore.ieee.org/abstract/document/6979028?casa_token=daaoBjrHUa4AAAAA:DCjk_WMWZ5Is6KvGpmS8a2bL9LskvV0P1zEG4U2u-Tm_C8sixu1w65OpTyjml1HEpaikXhtYsg,
+Connected Subgraph,https://ieeexplore.ieee.org/abstract/document/6979028?casa_token=daaoBjrHUa4AAAAA:DCjk_WMWZ5Is6KvGpmS8a2bL9LskvV0P1zEG4U2u-Tm_C8sixu1w65OpTyjml1HEpaikXhtYsg,
+"Undirected, General MST",https://dl.acm.org/citation.cfm?id=2791225,
+"Undirected, Dense MST",https://epubs.siam.org/doi/abs/10.1137/0205051,
+"Undirected, Planar MST",https://epubs.siam.org/doi/abs/10.1137/0205051,
+"Undirected, Integer Weights MST",https://www.sciencedirect.com/science/article/pii/S0022000005800649?via%3Dihub,
+"Directed (Optimum Branchings), General MST",https://nvlpubs.nist.gov/nistpubs/jres/71b/jresv71bn4p233_a1b.pdf,
+"Directed (Optimum Branchings), Super Dense MST",https://onlinelibrary.wiley.com/doi/10.1002/net.3230070103,
+"k-dimensional space, $l_m$ (or $l_\infty$) norm",https://dl.acm.org/citation.cfm?id=540196,
+"2-dimensional space, $l_m$ (or $l_\infty$) norm",https://www.sciencedirect.com/science/article/pii/0020019088901500,
+"2-dimensional space, Euclidean metric",https://ieeexplore.ieee.org/document/4567872,
+2-dimensional array representation,https://www.sciencedirect.com/science/article/pii/0020019080900356,
+General Weights,https://apps.dtic.mil/sti/pdfs/AD0422842.pdf,
+Nonnegative Weights,https://www.jstor.org/stable/3007178?seq=1#page_scan_tab_contents,
+Nonnegative Integer Weights,https://doi.org/10.1016/0166-218X(83)90104-X,
+Second Shortest Simple Path,https://dl.acm.org/doi/pdf/10.1145/3186893,
+st-Shortest Path,https://arxiv.org/pdf/1703.01638.pdf,
+1-sensitive (3/2)-approximate ss-shortest paths,https://arxiv.org/pdf/1703.01638.pdf,
+2-sensitive (7/5)-approximate st-shortest paths,https://arxiv.org/pdf/1703.01638.pdf,
+1-sensitive decremental st-shortest paths,https://arxiv.org/pdf/1703.01638.pdf,
+2-sensitive decremental st-shortest paths,https://arxiv.org/pdf/1703.01638.pdf,
+Replacement Paths Problem,https://arxiv.org/pdf/1703.01638.pdf,
+APSP,https://dl.acm.org/doi/10.1145/2591796.2591811,
+APSP on Dense Directed Graphs with Arbitrary Weights,https://dl.acm.org/doi/10.1145/2591796.2591811,
+APSP on Dense Undirected Graphs with Arbitrary Weights,https://dl.acm.org/doi/10.1145/2591796.2591811,
+APSP on Geometrically Weighted Graphs,https://dl.acm.org/doi/10.1145/2591796.2591811,
+APSP on Dense Undirected Graphs with Positive Integer Weights,https://dl.acm.org/doi/10.1145/2591796.2591811,
+APSP on Sparse Directed Graphs with Arbitrary Weights,https://dl.acm.org/doi/10.1145/321992.321993,
+APSP on Sparse Undirected Graphs with Positive Integer Weights,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.22.7128&rep=rep1&type=pdf,
+APSP on Sparse Undirected Graphs with Arbitrary Weights,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.22.7128&rep=rep1&type=pdf,
+APSP on Dense Directed Unweighted Graphs,https://dl.acm.org/doi/abs/10.1145/567112.567114,
+APSP on Dense Undirected Unweighted Graphs,https://www.sciencedirect.com/science/article/pii/S0022000085710781?via%3Dihub,
+APSP on Sparse Directed Unweighted Graphs,https://dl.acm.org/doi/abs/10.1145/567112.567114,
+APSP on Sparse Undirected Unweighted Graphs,https://www.sciencedirect.com/science/article/pii/S0022000085710781?via%3Dihub,
+(5/3)-approximate ap-shortest paths,https://arxiv.org/pdf/1703.01638.pdf,
+Integer Factoring,https://link.springer.com/content/pdf/10.1007/BF01933667.pdf,
+Smallest Factor,https://www.ams.org/journals/mcom/1981-36-153/S0025-5718-1981-0595059-1/home.html,
+Rectangular Matrix LU Decomposition,https://arxiv.org/abs/math/0506382,
+Square Matrix LU Decomposition,https://arxiv.org/abs/math/0506382,
+Informed Search,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4082128,
+Single String Search,http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Knuth77.pdf,
+Multiple String Search,http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Knuth77.pdf,
+"Edit Distance, constant-size alphabet",https://doi.org/10.1016/0022-0000(80)90002-1,
+"Edit Sequence, constant-size alphabet",https://doi.org/10.1016/0022-0000(80)90002-1,
+Joins,https://www.w3schools.com/sql/sql_join.asp,
+Rectangular Window,https://dl.acm.org/doi/pdf/10.1145/357332.357333,
+Convex Polygonal Window,https://www.sciencedirect.com/science/article/pii/0097849378900213,
+Convex Polyhedral Window,https://www.sciencedirect.com/science/article/pii/0097849378900213,
+NFA to DFA conversion,https://ieeexplore.ieee.org/document/5392601,
+Multiplication,https://mathworld.wolfram.com/Multiplication.html,
+Bipartite Graph MCM,https://epubs.siam.org/doi/epdf/10.1137/0202019,
+General Graph MCM,https://web.eecs.umich.edu/~pettie/matching/Blum-matching-ICALP90.pdf,
+Planar Bipartite Graph Perfect Matching,http://theory.stanford.edu/~virgi/cs267/papers/planar-sssp.pdf,
+Key Exchange,https://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B08.pdf,
+Mutual Exclusion,https://dl.acm.org/doi/abs/10.5555/6649,
+Exact Laplacian Solver,https://theory.epfl.ch/vishnoi/Lxb-Web.pdf,
+Inexact Laplacian Solver,https://theory.epfl.ch/vishnoi/Lxb-Web.pdf,
+Cycle Detection,http://bvicam.in/INDIACom/BJIT/downloads/BIJIT%20-%20Complete%20Issue%2012.pdf#page=25,
+General Permutations,https://dl.acm.org/doi/10.1145/364520.364540,
+Cyclic Permutations,https://www.sciencedirect.com/science/article/pii/0020019086900736,
+Convex Optimization (Non-linear),https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf,
+Gröbner Bases,https://dl.acm.org/doi/10.1145/1088216.1088219,
+Minimum value in each row of an implicitly-defined totally monotone matrix,https://link.springer.com/article/10.1007/BF01840359,
+All Permutations,https://doi.org/10.1090/S0025-5718-1963-0159764-2,
+Optimal Binary Search Tree Problem,https://doi.org/10.1016/S0304-3975(96)00320-9,
+Approximate OBST,https://doi.org/10.1016/S0304-3975(96)00320-9,
+Huffman Encoding,https://doi.org/10.1016/S0304-3975(96)00320-9,
+Alphabetic Tree Problem,https://doi.org/10.1016/S0304-3975(96)00320-9,
+2-Player,https://dl.acm.org/doi/pdf/10.1145/779928.779933,
+n-Player,https://dl.acm.org/doi/pdf/10.1145/779928.779933,
+Maximum-Weight Matching,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1366244,
+Bipartite Maximum-Weight Matching,https://ieeexplore.ieee.org/abstract/document/6979028?casa_token=daaoBjrHUa4AAAAA:DCjk_WMWZ5Is6KvGpmS8a2bL9LskvV0P1zEG4U2u-Tm_C8sixu1w65OpTyjml1HEpaikXhtYsg,
+Constructing Eulerian Trails in a Graph,https://drops.dagstuhl.de/opus/volltexte/2016/6474/pdf/LIPIcs-MFCS-2016-62.pdf,
+Discrete Fourier Transform,https://www.ams.org/journals/mcom/1978-32-141/S0025-5718-1978-0468306-4/S0025-5718-1978-0468306-4.pdf,
+Line Drawing,http://www.cs.gettysburg.edu/~ilinkin/courses/Fall-2014/cs373/handouts/papers/gs-fegsd-81.pdf,
+Polygon Clipping with Arbitrary Clipping Polygon,https://davis.wpi.edu/~matt/courses/clipping/,
+Polygon Clipping with Convex Clipping Polygon,,
+"(3-Dimensional, i.e. project onto a 2D plane)",https://www.cs.drexel.edu/~david/Classes/Papers/p443-newell.pdf,
+Line Simplification,https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.494.7321,
+All Eigenvalues,"https://mathworld.wolfram.com/Eigenvalue.html#:~:text=Eigenvalues%20are%20a%20special%20set,Marcus%20and%20Minc%201988,%20p.",
+Any Eigenvalue,"https://mathworld.wolfram.com/Eigenvalue.html#:~:text=Eigenvalues%20are%20a%20special%20set,Marcus%20and%20Minc%201988,%20p.",
+All Eigenpairs,"https://mathworld.wolfram.com/Eigenvalue.html#:~:text=Eigenvalues%20are%20a%20special%20set,Marcus%20and%20Minc%201988,%20p.",
+Any Eigenpair,"https://mathworld.wolfram.com/Eigenvalue.html#:~:text=Eigenvalues%20are%20a%20special%20set,Marcus%20and%20Minc%201988,%20p.",
+Eigenpair with the Largest Eigenvalue,"https://mathworld.wolfram.com/Eigenvalue.html#:~:text=Eigenvalues%20are%20a%20special%20set,Marcus%20and%20Minc%201988,%20p.",
+Eigenpair closest to mu,"https://mathworld.wolfram.com/Eigenvalue.html#:~:text=Eigenvalues%20are%20a%20special%20set,Marcus%20and%20Minc%201988,%20p.",
+General Root Computation,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1084580,
+Root Computation with continuous first derivative,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1084580,
+k Nearest Neighbors Search,https://dl.acm.org/doi/pdf/10.1145/355744.355745,
+k Approximate Nearest Neighbors Search,https://ieeexplore.ieee.org/document/8594636,
+k-ANNS for a dense 3D map of geometric points,https://ieeexplore.ieee.org/document/8594636,
+Coset Enumeration,https://arxiv.org/pdf/math/9406202.pdf,
+Maximum Likelihood Parameters,https://www.jstor.org/stable/2984875,
+Cardinality Estimation,http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf,
+Local Register Allocation,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.8606&rep=rep1&type=pdf,
+Global Register Allocation,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.8606&rep=rep1&type=pdf,
+Voronoi Diagrams,https://www.wias-berlin.de/people/si/course/files/Fortune87-SweepLine-Voronoi.pdf,
+Variance Calculations,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.7503&rep=rep1&type=pdf,
+Topological Sorting,https://dl.acm.org/doi/10.1145/368996.369025,
+DFA Minimization,https://www.labri.fr/perso/zeitoun/research/pdf/Almeida-Zeitoun-IPL2008.pdf,
+Acyclic DFA Minimization,https://www.labri.fr/perso/zeitoun/research/pdf/Almeida-Zeitoun-IPL2008.pdf,
+Cyclic Nontrivial SCCs DFA Minimization,https://www.labri.fr/perso/zeitoun/research/pdf/Almeida-Zeitoun-IPL2008.pdf,
+Lowest Common Ancestor,https://www.semanticscholar.org/paper/Fast-Algorithms-for-Finding-Nearest-Common-Harel-Tarjan/8867d059dda279b1aed4a0301e4e46f9daf65174,
+Off-Line Lowest Common Ancestor,https://www.semanticscholar.org/paper/Fast-Algorithms-for-Finding-Nearest-Common-Harel-Tarjan/8867d059dda279b1aed4a0301e4e46f9daf65174,
+Lowest Common Ancestor with Static Trees,https://www.semanticscholar.org/paper/Fast-Algorithms-for-Finding-Nearest-Common-Harel-Tarjan/8867d059dda279b1aed4a0301e4e46f9daf65174,
+Lowest Common Ancestor with Linking Roots,https://www.semanticscholar.org/paper/Fast-Algorithms-for-Finding-Nearest-Common-Harel-Tarjan/8867d059dda279b1aed4a0301e4e46f9daf65174,
+Lowest Common Ancestor with Linking,https://www.semanticscholar.org/paper/Fast-Algorithms-for-Finding-Nearest-Common-Harel-Tarjan/8867d059dda279b1aed4a0301e4e46f9daf65174,
+Lowest Common Ancestors with Linking and Cutting,https://www.semanticscholar.org/paper/Fast-Algorithms-for-Finding-Nearest-Common-Harel-Tarjan/8867d059dda279b1aed4a0301e4e46f9daf65174,
+Exact GED,https://www.sciencedirect.com/science/article/am/pii/S095070511830488X,
+Inexact GED,https://www.sciencedirect.com/science/article/am/pii/S095070511830488X,
+"Enumerating Maximal Cliques, arbitrary graph",https://dl.acm.org/doi/10.1145/362342.362367,
+k-Clique,https://people.csail.mit.edu/virgi/eccentri.pdf,
+Exact k-Clique,https://people.csail.mit.edu/virgi/eccentri.pdf,
+Min-Weight k-Clique,https://people.csail.mit.edu/virgi/eccentri.pdf,
+Max-Weight k-Clique,https://arxiv.org/pdf/1602.05837.pdf,
+Minimum TSP,https://dl.acm.org/doi/pdf/10.1145/876638.876640,
+Maximum TSP,https://dl.acm.org/doi/pdf/10.1145/876638.876640,
+Approximate TSP,https://link.springer.com/chapter/10.1007/978-1-4020-9688-4_3,
+2-Dimensional Poisson Problem,https://dl.acm.org/doi/abs/10.1145/1053379.1053381,
+3-Dimensional Poisson Problem,https://dl.acm.org/doi/abs/10.1145/1053379.1053381,
+Delaunay Triangulation,http://www.geom.uiuc.edu/~samuelp/del_project.html,
+De Novo Genome Assembly,https://www.illumina.com/techniques/sequencing/dna-sequencing/whole-genome-sequencing/de-novo-sequencing.html,
+Subset Sum,https://dl.acm.org/doi/pdf/10.1145/3329863,
+Functional Dependency Inference Problem,https://dl.acm.org/doi/pdf/10.1145/509404.509414,
+Multivalued Dependency Inference Problem,https://dl.acm.org/doi/pdf/10.1145/509404.509414,
+BCNF Decomposition,https://www.microsoft.com/en-us/research/uploads/prod/2020/12/WhatDoesBCNFdo-VLDB1980.pdf,
+Decisional BCNF,https://www.microsoft.com/en-us/research/uploads/prod/2020/12/WhatDoesBCNFdo-VLDB1980.pdf,
+4NF Decomposition,https://dl.acm.org/doi/abs/10.1145/320557.320571,
+4NF Decomposition for Functional and Multivalued Dependency Sets,https://www.vldb.org/conf/1983/P186.PDF,
+4NF Decomposition for Conflict-Free Dependency Sets,https://www.vldb.org/conf/1983/P186.PDF,
+Disk Scheduling,https://dl.acm.org/doi/10.1145/98949.99156,
+The Vertex Cover Problem,https://dl.acm.org/doi/pdf/10.1145/1101821.1101823,
+"The Vertex Cover Problem, Degrees Bounded By 3",https://doi.org/10.1002/1097-0037(200007)35:4<253::AID-NET3>3.0.CO;2-K,
+CFG Parsing,https://arxiv.org/pdf/cs/0112018.pdf,
+CFG Recognition,https://arxiv.org/pdf/cs/0112018.pdf,
+Finding Frequent Itemsets,http://infolab.stanford.edu/~ullman/mmds/ch6.pdf,
+Lossy Compression,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8708945,
+Lossless Compression,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8708945,
+Factorization of Polynomials Over Finite Fields,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768643,
+Cryptanalysis of Linear Feedback Shift Registers,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1054260,
+Stable Marriage Problem,http://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf,
+Almost Stable Marriage Problem,https://arxiv.org/pdf/0812.4893.pdf,
+Stable Roommates Problem,https://doi.org/10.1016/0196-6774(85)90033-1,
+Boolean d-Attribute Stable Matching,https://arxiv.org/pdf/1510.06452.pdf,
+Stable Matching Verification,https://arxiv.org/pdf/1510.06452.pdf,
+Stable Pair Checking,https://arxiv.org/pdf/1510.06452.pdf,
+Longest Path on Interval Graphs,https://link.springer.com/content/pdf/10.1007/s00453-010-9411-3.pdf,
+Maximum Subarray,https://arxiv.org/pdf/1602.05837.pdf,
+1D Maximum Subarray,https://arxiv.org/pdf/1602.05837.pdf,
+2D Maximum Subarray,https://arxiv.org/pdf/1602.05837.pdf,
+Maximum Square Subarray,https://arxiv.org/pdf/1602.05837.pdf,
+Constructing Suffix Trees,https://link.springer.com/content/pdf/10.1007/BF01206331.pdf,
+Ray Tracing,https://graphics.stanford.edu/courses/Appel.pdf,
+Entity Resolution,https://dl.acm.org/doi/pdf/10.1145/1559845.1559870,
+Longest Palindromic Substring,https://link.springer.com/content/pdf/10.1007/BF01182773.pdf,
+AST to Code Translation,https://hillside.net/plop/plop2003/Papers/Jones-ImplementingASTs.pdf,
+Arithmetic Expression Binary Tree,https://dl.acm.org/doi/10.1145/236114.236117,
+"Graph Isomorphism, General Graphs",https://onlinelibrary.wiley.com/doi/pdf/10.1002/jgt.3190010410,
+"Graph Isomorphism, Bounded Number of Vertices of Each Color",https://link.springer.com/content/pdf/10.1007/BF02104746.pdf,
+"Graph Isomorphism, Trivalent Graphs",https://link.springer.com/content/pdf/10.1007/BF02104746.pdf,
+"Graph Isomorphism, Bounded Vertex Valences",https://link.springer.com/content/pdf/10.1007/BF02104746.pdf,
+Largest Common Subtree,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.4833&rep=rep1&type=pdf,
+Subtree Isomorphism,https://dl.acm.org/doi/pdf/10.1145/3093239,
+Digraph Realization Problem,https://arxiv.org/pdf/1203.3636.pdf,
+DAG Realization Problem,https://arxiv.org/pdf/1203.3636.pdf,
+Duplicate Elimination,https://doi.org/10.1109/ICMV.2009.43,
+Hyperbolic Spline Interpolation,https://link.springer.com/content/pdf/10.1134/S0965542511050095.pdf,
+Mesh Parameterization,https://dl.acm.org/doi/10.1145/1236246.1236287,
+Maximum Likelihood Methods in Unknown Latent Variables,https://www.jstor.org/stable/2984875#metadata_info_tab_contents,
+Matrix Factorization,https://doi.org/10.1109/MC.2009.263,
+Corner Detection,https://doi.org/10.1016/0031-3203(90)90118-5,
+Blob Detection,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7467122,
+Culling,https://dl.acm.org/doi/pdf/10.1145/253284.253312,
+Filtering Problem (Stochastic Processes),https://ieeexplore.ieee.org/abstract/document/506400,
+Optimal Policies for MDPs,https://mas.cs.umass.edu/classes/cs683/lectures-2010/Lec13_MDP2-F2010-4up.pdf,
+Unweighted Set-Covering,https://dl.acm.org/doi/pdf/10.1145/237814.237991,
+Weighted Set-Covering,https://www.jstor.org/stable/pdf/3689577.pdf,
+Motif Search,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-S7-S21#MOESM6,
+All Maximal Non-Branching Paths in a Graph,https://rosalind.info/problems/ba3m/,
+InDegree Analysis,https://dl.acm.org/doi/pdf/10.1145/1052934.1052942,
+Image Compositing,https://dl.acm.org/doi/pdf/10.1145/800031.808606,
+Texture Synthesis,https://dl.acm.org/doi/abs/10.1145/344779.345009,
+Distributed Locking Algorithms,https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html,
+Cyclic Peptide Sequencing Problem,https://link.springer.com/content/pdf/10.1007/978-3-540-78839-3_16.pdf,
+Diffuse Reflection,https://web.archive.org/web/20100727005751/http://www.cs.berkeley.edu/~ravir/6998/papers/p165-hanrahan.pdf,
+Specular Reflection,https://web.archive.org/web/20100727005751/http://www.cs.berkeley.edu/~ravir/6998/papers/p165-hanrahan.pdf,
+Point-in-Polygon,https://ir.nctu.edu.tw/bitstream/11536/749/1/A1997WM15100010.pdf,
+Image Segmentation,http://www.ttcenter.ir/ArticleFiles/ENARTICLE/3405.pdf,
+Mesh Simplification,http://webdocs.cs.ualberta.ca/~anup/Courses/604_3DTV/Presentation_files/Polygon_Simplification/7.pdf,
+Clock Synchronization in Distributed Systems,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4359404,
+POMDPs,https://www.techfak.uni-bielefeld.de/~skopp/Lehre/STdKI_SS10/POMDP_survey.pdf,
+Rasterization,https://dl.acm.org/doi/abs/10.1145/74333.74370,
+Environment Mapping,https://doi.org/10.1109/MCG.1986.276672,
+Occupancy Grid Mapping,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=30720,
+SLAM Algorithms,http://ais.informatik.uni-freiburg.de/teaching/ss12/robotics/slides/12-slam.pdf,
+d-Neighborhood of a String,https://rosalind.info/problems/ba1n/,
+Maximum Cut,https://doi.org/10.1016/0167-6377(81)90020-1,
+Minimum Wiener Connector Problem,https://dl.acm.org/doi/10.1145/2723372.2749449,
+Undirected Wiener Index,https://arxiv.org/pdf/1712.08147v2.pdf,
+Determinant of Matrices with Integer Entries,https://www.ams.org/journals/mcom/1968-22-103/S0025-5718-1968-0226829-0/S0025-5718-1968-0226829-0.pdf,
+Integer Relation Among Reals,https://epubs.siam.org/doi/pdf/10.1137/0218059,
+Integer Relation Among Integers,https://epubs.siam.org/doi/pdf/10.1137/0218059,
+Sequence-To-Graph Alignment,https://doi.org/10.1016/S0304-3975(99)00333-3,
+Discrete Logarithm Over Finite Fields,https://doi.org/10.1006/inco.1998.2761,
+Rod-Cutting Problem,https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture12.pdf,
+Self-Balancing Trees Creation,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567957,
+Self-Balancing Trees Insertion,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567957,
+Self-Balancing Trees Deletion,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567957,
+Self-Balancing Trees Search,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567957,
+Transitive Reduction Problem of Directed Graphs,https://epubs.siam.org/doi/pdf/10.1137/0201008,
+Change-Making Problem,https://dl.acm.org/doi/10.1145/321864.321874,
+Turnpike Problem,http://hariharan-ramesh.com/ppts/turnpike.pdf,
+Counting Solutions,https://doi.org/10.1080/00029890.1994.11997004,
+Constructing Solutions,https://doi.org/10.1080/00029890.1994.11997004,
+n-Queens Completion,https://doi.org/10.1080/00029890.1994.11997004,
+Median String Problem with Unbounded Alphabets,https://link.springer.com/content/pdf/10.1007/3-540-44888-8_23.pdf,
+Median String Problem with Bounded Alphabets,https://link.springer.com/content/pdf/10.1007/3-540-44888-8_23.pdf,
+Median String Problem with Binary Alphabets,https://link.springer.com/content/pdf/10.1007/3-540-44888-8_23.pdf,
+Frequent Words with Mismatches Problem,https://academic.oup.com/bioinformatics/article/30/14/2000/2391348,
+Tower of Hanoi,https://www.fmf.uni-lj.si/~klavzar/preprints/topdiscs-scan.pdf,
+The Frequent Words Problem,https://bioinformaticsalgorithms.com/data/debugdatasets/replication/FrequentWordsProblem.pdf,
+Fredholm Equations,https://books.google.com/books?hl=en&lr=&id=JFU0ltx0E68C&oi=fnd&pg=PR3&dq=integral+equations&ots=Kp98jJWIJT&sig=CXobYQkw_g35JhZ6qKjdy7P1idw#v=onepage&q=integral%20equations&f=false,
+Volterra Equations,https://books.google.com/books?hl=en&lr=&id=JFU0ltx0E68C&oi=fnd&pg=PR3&dq=integral+equations&ots=Kp98jJWIJT&sig=CXobYQkw_g35JhZ6qKjdy7P1idw#v=onepage&q=integral%20equations&f=false,
+Keyed Hash Functions,https://doi.org/10.1016/B0-12-227240-4/00054-X,
+Unkeyed Hash Functions,https://doi.org/10.1016/B0-12-227240-4/00054-X,
+Secret Sharing,https://doi.org/10.1145%2F359168.359176,
+Solutions to Nonlinear Equations,https://link.springer.com/content/pdf/10.1007/s11075-006-9015-9.pdf,
+Block Ciphers,https://www.cs.ucdavis.edu/~rogaway/classes/227/spring05/book/main.pdf,
+Polynomial Interpolation,https://link.springer.com/content/pdf/10.1023/A:1018981505752.pdf,
+Greatest Common Divisor,https://dl.acm.org/doi/pdf/10.1145/321662.321664,
+Unweighted Interval Scheduling,https://onlinelibrary.wiley.com/doi/pdf/10.1002/nav.20231,
+"Unweighted Interval Scheduling, Online",https://onlinelibrary.wiley.com/doi/pdf/10.1002/nav.20231,
+Weighted Interval Schedule Maximization Problem (ISMP),https://onlinelibrary.wiley.com/doi/pdf/10.1002/nav.20231,
+Deadlock Avoidance,https://doi.org/10.1109/TRA.2002.801048,
+Dining Philosophers Problem,https://www.cs.utexas.edu/~EWD/ewd03xx/EWD310.PDF,
+Offline,https://www.researchgate.net/profile/Gyanendra-Kumar-3/publication/319467661_A_Novel_Longest_Distance_First_Page_Replacement_Algorithm/links/59b209f1aca2728472d14684/A-Novel-Longest-Distance-First-Page-Replacement-Algorithm.pdf,
+Online,https://www.researchgate.net/profile/Gyanendra-Kumar-3/publication/319467661_A_Novel_Longest_Distance_First_Page_Replacement_Algorithm/links/59b209f1aca2728472d14684/A-Novel-Longest-Distance-First-Page-Replacement-Algorithm.pdf,
+"Steal, No-Force",https://dsf.berkeley.edu/jmh/cs186/f02/lecs/lec25_6up.pdf,
+"No-Steal, Force",https://dsf.berkeley.edu/jmh/cs186/f02/lecs/lec25_6up.pdf,
+Link Analysis,http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf,
+k-Graph Coloring,https://www.sciencedirect.com/science/article/pii/0166218X96000960/pdf?md5=0a6c305277dd00a5e798cf731f79731e&pid=1-s2.0-0166218X96000960-main.pdf,
+Chromatic Number,https://www.sciencedirect.com/science/article/pii/0166218X96000960/pdf?md5=0a6c305277dd00a5e798cf731f79731e&pid=1-s2.0-0166218X96000960-main.pdf,
+2-Graph Coloring,https://www.sciencedirect.com/science/article/pii/0166218X96000960/pdf?md5=0a6c305277dd00a5e798cf731f79731e&pid=1-s2.0-0166218X96000960-main.pdf,
+3-Graph Coloring,https://www.sciencedirect.com/science/article/pii/0166218X96000960/pdf?md5=0a6c305277dd00a5e798cf731f79731e&pid=1-s2.0-0166218X96000960-main.pdf,
+4-Graph Coloring,https://www.sciencedirect.com/science/article/pii/0166218X96000960/pdf?md5=0a6c305277dd00a5e798cf731f79731e&pid=1-s2.0-0166218X96000960-main.pdf,
+5-Graph Coloring,https://www.sciencedirect.com/science/article/pii/0166218X96000960/pdf?md5=0a6c305277dd00a5e798cf731f79731e&pid=1-s2.0-0166218X96000960-main.pdf,
+#k-Graph Coloring,http://web.cs.elte.hu/blobs/diplomamunkak/mat/2009/hubai_tamas.pdf,
+#2-Graph Coloring,http://web.cs.elte.hu/blobs/diplomamunkak/mat/2009/hubai_tamas.pdf,
+#3-Graph Coloring,http://web.cs.elte.hu/blobs/diplomamunkak/mat/2009/hubai_tamas.pdf,
+#4-Graph Coloring,http://web.cs.elte.hu/blobs/diplomamunkak/mat/2009/hubai_tamas.pdf,
+#5-Graph Coloring,http://web.cs.elte.hu/blobs/diplomamunkak/mat/2009/hubai_tamas.pdf,
+SAT,https://eprints.soton.ac.uk/265340/1/jpms-wodes08.pdf,
+Conjunctive Normal Form SAT,https://dl.acm.org/doi/pdf/10.1145/2925416,
+Disjunctive Normal Form SAT,https://link.springer.com/content/pdf/10.1007/BF00996269.pdf,
+1-in-3SAT,https://dl.acm.org/doi/pdf/10.1145/800133.804350,
+Monotone 1-in-3SAT,https://drops.dagstuhl.de/opus/volltexte/2016/6476/pdf/LIPIcs-MFCS-2016-64.pdf,
+Monotone Not-Exactly-1-in-3SAT,https://www.sciencedirect.com/science/article/pii/S1572528613000030,
+All-Equal-SAT,https://dl.acm.org/doi/pdf/10.1145/800133.804350,
+Not-All-Equal 3-SAT (NAE 3SAT),https://dl.acm.org/doi/pdf/10.1145/800133.804350,
+Monotone Not-All-Equal 3-SAT (Monotone NAE 3SAT),https://doi.org/10.1016/j.tcs.2020.02.010,
+k-SAT,https://dl.acm.org/doi/pdf/10.1145/3491210?casa_token=9ge17j5R2vAAAAAA:Ex4kBr0hTUo_VEVlcFUJgW3zwfdyUhGW6VyV6IxDUq9eJbxBMa8GPx0dv-AR8xyuyCKk6uie8To,
+2SAT,https://dl.acm.org/doi/pdf/10.1145/3491210?casa_token=9ge17j5R2vAAAAAA:Ex4kBr0hTUo_VEVlcFUJgW3zwfdyUhGW6VyV6IxDUq9eJbxBMa8GPx0dv-AR8xyuyCKk6uie8To,
+3SAT,https://dl.acm.org/doi/pdf/10.1145/3491210?casa_token=9ge17j5R2vAAAAAA:Ex4kBr0hTUo_VEVlcFUJgW3zwfdyUhGW6VyV6IxDUq9eJbxBMa8GPx0dv-AR8xyuyCKk6uie8To,
+3SAT-5,https://dl.acm.org/doi/pdf/10.1145/237814.237977,
+4SAT,https://dl.acm.org/doi/pdf/10.1145/3491210?casa_token=9ge17j5R2vAAAAAA:Ex4kBr0hTUo_VEVlcFUJgW3zwfdyUhGW6VyV6IxDUq9eJbxBMa8GPx0dv-AR8xyuyCKk6uie8To,
+Monotone 3SAT,https://iccl.inf.tu-dresden.de/w/images/9/9d/Brandt-ECAI-2004.pdf,
+XOR-SAT,https://doi.org/10.1016/S0166-218X(99)00032-3,
+Horn SAT,https://doi.org/10.1016/0743-1066(84)90014-1,
+Dual-Horn SAT,https://www.sciencedirect.com/science/article/pii/S0304397519300076?via%3Dihub,
+Renamable Horn,https://doi.org/10.1145%2F322047.322059,
+MaxSAT,https://eprints.soton.ac.uk/265340/1/jpms-wodes08.pdf,
+OV,https://epubs.siam.org/doi/epdf/10.1137/1.9781611975482.2,
+k-OV,https://drops.dagstuhl.de/opus/volltexte/2018/9031/pdf/LIPIcs-ICALP-2018-27.pdf,
+3-OV,https://drops.dagstuhl.de/opus/volltexte/2018/9031/pdf/LIPIcs-ICALP-2018-27.pdf,
+Unbalanced OV,https://arxiv.org/pdf/1502.01063.pdf,
+Median,https://doi.org/10.1016/0378-8733(94)00248-9,
+Radius,https://doi.org/10.1016/0378-8733(94)00248-9,
+Diameter,https://doi.org/10.1016/0378-8733(94)00248-9,
+Diameter 2 vs 3,https://people.csail.mit.edu/virgi/diam.pdf,
+Diameter 3 vs 7,https://people.csail.mit.edu/virgi/diam.pdf,
+Approximate Diameter,https://people.csail.mit.edu/virgi/diam.pdf,
+Decremental Diameter,https://arxiv.org/pdf/1703.01638.pdf,
+1-sensitive (4/3)-approximate decremental diameter,https://arxiv.org/pdf/1703.01638.pdf,
+1-sensitive decremental diameter,https://arxiv.org/pdf/1703.01638.pdf,
+constant sensitivity (4/3)-approximate incremental diameter,https://arxiv.org/pdf/1703.01638.pdf,
+1-sensitive (4/3)-approximate decremental eccentricity,https://arxiv.org/pdf/1703.01638.pdf,
+Eccentricity,https://doi.org/10.1016/0378-8733(94)00248-9,
+All-Nodes Median Parity,https://epubs.siam.org/doi/10.1137/1.9781611973730.112,
+Betweenness Centrality,https://doi.org/10.1137/1.9781611973730.112,
+Approximate Betweenness Centrality,https://epubs.siam.org/doi/10.1137/1.9781611973730.112,
+Positive Betweenness Centrality,https://doi.org/10.1137/1.9781611973730.112,
+Directed All-Nodes Positive Betweenness Centrality,https://doi.org/10.1137/1.9781611973730.112,
+Undirected All-Nodes Positive Betweenness Centrality,https://doi.org/10.1137/1.9781611973730.112,
+Reach Centrality,https://epubs.siam.org/doi/epdf/10.1137/1.9781611973730.112,
+Directed All-Nodes Reach Centrality,https://epubs.siam.org/doi/epdf/10.1137/1.9781611973730.112,
+Undirected All-Nodes Reach Centrality,https://epubs.siam.org/doi/epdf/10.1137/1.9781611973730.112,
+Approximate Reach Centrality,https://epubs.siam.org/doi/epdf/10.1137/1.9781611973730.112,
+Negative Triangle Detection,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Negative Triangle Search,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Negative Triangle Listing,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Nondecreasing Triangle,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Minimum Triangle,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Triangle in Unweighted Graph,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Triangle Detection,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Triangle Collection*,https://arxiv.org/abs/1602.06705,
+Metricity,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Frechet Distance,https://people.mpi-inf.mpg.de/~kbringma/paper/2014FOCS.pdf,
+Dynamic Time Warping,https://arxiv.org/pdf/1502.01063.pdf,
+Partial Match,https://people.csail.mit.edu/virgi/6.s078/lecture6-post.txt,
+3 Points on Line,https://doi.org/10.1016/0925-7721(95)00022-2,
+Point on 3 Lines,https://doi.org/10.1016/0925-7721(95)00022-2,
+Separator1,https://doi.org/10.1016/0925-7721(95)00022-2,
+Separator2,https://doi.org/10.1016/0925-7721(95)00022-2,
+Strips Cover Box,https://doi.org/10.1016/0925-7721(95)00022-2,
+Triangles Cover Triangle,https://doi.org/10.1016/0925-7721(95)00022-2,
+Hole in Union,https://doi.org/10.1016/0925-7721(95)00022-2,
+Triangle Measure,https://doi.org/10.1016/0925-7721(95)00022-2,
+Point Covering,https://doi.org/10.1016/0925-7721(95)00022-2,
+Max-Weight Rectangle,https://arxiv.org/pdf/1602.05837.pdf,
+Weighted Depth,https://arxiv.org/pdf/1602.05837.pdf,
+Visibility Between Segments,https://doi.org/10.1016/0925-7721(95)00022-2,
+Visibility From Infinity,https://doi.org/10.1016/0925-7721(95)00022-2,
+Visible Triangle,https://doi.org/10.1016/0925-7721(95)00022-2,
+Planar Motion Planning,https://doi.org/10.1016/0925-7721(95)00022-2,
+3D Motion Planning,https://doi.org/10.1016/0925-7721(95)00022-2,
+Geometric Base,https://doi.org/10.1016/0925-7721(95)00022-2,
+Local Alignment,https://link.springer.com/chapter/10.1007/978-3-662-43948-7_4,
+Multiple Local Alignment,https://link.springer.com/chapter/10.1007/978-3-662-43948-7_4,
+Minimum Witness Finding,https://dl.acm.org/doi/pdf/10.1145/3186893,
+All Pairs Minimum Witness,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Independent Set Queries,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Price Query,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Shortest Cycle,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Shortest k-Cycle,https://arxiv.org/pdf/1712.08147v2.pdf,
+Online Matrix-Vector Multiplication,https://doi.org/10.1145/2746539.2746609,
+Online Vector-Matrix-Vector Multiplication,https://doi.org/10.1145/2746539.2746609,
+#SSR,https://ieeexplore.ieee.org/abstract/document/6979028?casa_token=daaoBjrHUa4AAAAA:DCjk_WMWZ5Is6KvGpmS8a2bL9LskvV0P1zEG4U2u-Tm_C8sixu1w65OpTyjml1HEpaikXhtYsg,
+sensitive incremental #SSR,https://arxiv.org/pdf/1703.01638.pdf,
+ST-Reach,https://arxiv.org/pdf/1703.01638.pdf,
+st-Reach,https://arxiv.org/pdf/1703.01638.pdf,
+constant sensitivity incremental ST-Reach,https://arxiv.org/pdf/1703.01638.pdf,
+1-sensitive incremental ss-reach,https://arxiv.org/pdf/1703.01638.pdf,
+2-sensitive incremental st-reach,https://arxiv.org/pdf/1703.01638.pdf,
+ap-reach,https://arxiv.org/pdf/1703.01638.pdf,
+RNA Folding,https://ieeexplore.ieee.org/iel7/8100284/8104011/08104058.pdf?casa_token=tuNJo01Tyh0AAAAA:VuzSKuC4fDZ_f7O99-O062M2xCFl8qZqUr1BjNKgzWI6rp9Ij6-NXHZvpi16JN_jEucLmPI,
+Maximum Inner Product Search,https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Shen_Learning_Binary_Codes_ICCV_2015_paper.pdf,
+Reachability in MDPs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Disjunctive Reachability Queries in MDPs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Conjunctive Reachability Queries in MDPs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Safety in MDPs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Disjunctive Safety Queries in MDPs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Conjunctive Safety Queries in MDPs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Safety in Graphs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Disjunctive Queries of Safety in Graphs,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Disjunctive coBüchi Objectives,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Generalized Büchi Games,https://dl.acm.org/doi/pdf/10.1145/2933575.2935304,
+Static Dihedral Rotation Queries,https://doi.org/10.1016/S0925-7721(02)00156-6,
+Dynamic Dihedral Rotation Queries,https://doi.org/10.1016/S0925-7721(02)00156-6,
+Bichromatic Hamming Close Pair,https://proceedings.neurips.cc/paper/2017/file/635440afdfc39fe37995fed127d7df4f-Paper.pdf,
+Approximate Hard-Margin SVM,https://proceedings.neurips.cc/paper/2017/file/635440afdfc39fe37995fed127d7df4f-Paper.pdf,
+3SUM,https://doi.org/10.1016/0925-7721(95)00022-2,
+Real 3SUM,https://dl.acm.org/doi/abs/10.1145/3363541,
+3SUM',https://doi.org/10.1016/0925-7721(95)00022-2,
+All-Integers 3SUM,https://dl.acm.org/doi/pdf/10.1145/3186893,
+Melhorn's Approximation algorithm,https://people.mpi-inf.mpg.de/~mehlhorn/ftp/mehlhorn3.pdf,1975
+Karpinski,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.6940&rep=rep1&type=pdf,1996
+Klawe; Mumey,https://epubs.siam.org/doi/abs/10.1137/S0895480193256651?journalCode=sjdmec,1993
+Larmore,https://www.sciencedirect.com/science/article/pii/0196677487900526,1987
+Hierarchical Navigable Small World (HNSW),https://doi.org/10.1109/TPAMI.2018.2889473,2018
+Locality-sensitive hashing,http://infolab.stanford.edu/~ullman/mmds/ch3n.pdf,2010
+Projected radial search,http://www.araa.asn.au/acra/acra2013/papers/pap148s1-file1.pdf,2013
+Compression/Clustering [Vector Quantization],,1992
+Pisinger,https://link.springer.com/article/10.1007/s00453-002-0989-y,2003
+Faaland,https://doi.org/10.1287/opre.21.1.332,1973
+Pferschy,https://link.springer.com/article/10.1007/s006070050042,1999
+Klinz,https://doi.org/10.1002/(SICI)1097-0037(199905)33:3%3C189::AID-NET5%3E3.0.CO;2-2,1999
+Eppstein,https://www.sciencedirect.com/science/article/abs/pii/S019667749690841X?via%3Dihub,1997
+Serang,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091507,2014
+Serang,https://www.liebertpub.com/doi/10.1089/cmb.2015.0013,2015
+Lokshtanov,https://dl.acm.org/doi/abs/10.1145/1806689.1806735,2010
+"Valentin Polishchuk, and Jukka Suomela",https://arxiv.org/pdf/0812.4893.pdf,2008
+"Lawrence, Reilly",https://www.ncbi.nlm.nih.gov/pubmed/2184437,1990
+Lawrence Gibbs Sampling,https://science.sciencemag.org/content/262/5131/208,1993
+MotifSampler ,https://www.ncbi.nlm.nih.gov/pubmed/12015892,2001
+tree-structured vector quantization Wei-Levoy,https://dl.acm.org/doi/abs/10.1145/344779.345009,2000
+"Spatial GAN-Based; Urs Bergmann, Nikolay Jetchev, Roland Vollgraf",https://arxiv.org/abs/1705.06566,2017
+Grigoryan,https://arxiv.org/abs/1912.05935,2018
+Sedgewick; Szymanski; and Yao,https://epubs.siam.org/doi/abs/10.1137/0211030?journalCode=smjcat,1982
+Nivasch,https://drive.google.com/file/d/16H_lrjeaBJqWvcn07C_w-6VNHldJ-ZZl/view,2004
+Naive sorting,-,1940
+Selection Sort,-,1962
+Merge Sort,-,1945
+Bubble Sort,-,1956
+Intro Sort,https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-024X%28199708%2927%3A8%3C983%3A%3AAID-SPE117%3E3.0.CO%3B2-%23,1997
+Heap Sort,https://www.bibsonomy.org/bibtex/2f485e4ea9a877871b59ab503151a7f10/bjoern,1964
+Counting Sort,http://bitsavers.org/pdf/mit/whirlwind/R-series/R-232_Information_Sorting_in_the_Application_of_Electronic_Digital_Computers_to_Business_Operations_May54.pdf,1954
+Bucket Sort,-,1940
+Radix Sort,-,1940
+Naive Selection,-,1940
+Hoare's Selection Algorithm (QuickSelect),https://dl.acm.org/citation.cfm?doid=366622.366647,1961
+Brute Force,-,1940
+Dynamic Programming Algorithm (S. S. Godbole),-,1953
+Wagner and Fischer,https://dl.acm.org/citation.cfm?doid=321796.321811,1974
+Ford & Fulkerson,http://www.cs.yale.edu/homes/lans/readings/routing/ford-max_flow-1956.pdf,1955
+Dinitz,https://www.scirp.org/(S(lz5mqp453edsnp55rrgjct55))/reference/ReferencesPapers.aspx?ReferenceID=1690549,1970
+Edmonds & Karp,https://web.eecs.umich.edu/~pettie/matching/Edmonds-Karp-network-flow.pdf,1972
+Karzanov,http://alexander-karzanov.net/Publications/maxflow-acyc.pdf,1974
+Galil & Naamad,https://core.ac.uk/download/pdf/81946904.pdf,1980
+Naive algorithm,-,1940
+Strassen's algorithm,https://link.springer.com/article/10.1007%2FBF02165411,1969
+Pan's algorithm,https://ieeexplore.ieee.org/document/4567976,1978
+Romani's algorithm,https://epubs.siam.org/doi/abs/10.1137/0211020,1981
+Coppersmith–Winograd algorithm,https://epubs.siam.org/doi/abs/10.1137/0211038,1981
+Strassen's algorithm,https://ieeexplore.ieee.org/abstract/document/4568194,1986
+Coppersmith–Winograd algorithm,http://www.cs.umd.edu/~gasarch/TOPICS/ramsey/matrixmult.pdf,1990
+Vassilevska Williams,http://theory.stanford.edu/~virgi/matrixmult-f.pdf,2014
+François Le Gall,https://arxiv.org/abs/1401.7714,2014
+Brute-force search,-,1852
+Brute force,,1852
+Gaussian-Jordan Elimination,-,-150
+Cholesky,-,1940
+Aasen's method,https://link.springer.com/article/10.1007/BF01931804,1971
+Levinson–Durbin recursion,https://onlinelibrary.wiley.com/doi/abs/10.1002/sapm1946251261,1947
+Bareiss Algorithm,https://link.springer.com/article/10.1007/BF02163269,1969
+Bjorck-Pereyra,https://www.jstor.org/stable/2004623?seq=1,1970
+Fourier–Motzkin elimination,-,1940
+Khachiyan Ellipsoid algorithm ,https://www.sciencedirect.com/science/article/abs/pii/0041555380900610,1979
+Naive,-,1940
+Bentley–Ottmann algorithm,https://doi.org/10.1109%2FTC.1979.1675432,1979
+Brute Force,-,1935
+Jarvis,https://linkinghub.elsevier.com/retrieve/pii/0020019073900203,1973
+Kruskal’s algorithm with demand-sorting,https://link.springer.com/chapter/10.1007/BFb0028279,1991
+Quick Kruskal algorithm,https://dl.acm.org/citation.cfm?id=2791187,2006
+Karger; Klein & Tarjan,http://cs.brown.edu/research/pubs/pdfs/1995/Karger-1995-RLT.pdf,1995
+Naive Implementation,-,1975
+Doolittle Algorithm,,1878
+Crout and LUP algorithms,https://en.wikipedia.org/wiki/Crout_matrix_decomposition,2007
+Okunev; Johnson,https://arxiv.org/abs/math/0506382,1997
+A* Algorithm,https://ieeexplore.ieee.org/document/4082128/,1968
+Bidirectional A* Algorithm,https://www.cs.princeton.edu/courses/archive/spr06/cos423/Handouts/EPP%20shortest%20path%20algorithms.pdf,2007
+Fringe Saving A* (FSA*),http://idm-lab.org/bib/abstracts/papers/aamas09d.pdf,2008
+Generalized Adaptive A* (GAA*),http://idm-lab.org/bib/abstracts/papers/aamas08b.pdf,2008
+Iterative Deepening A* (IDA*),https://linkinghub.elsevier.com/retrieve/pii/0004370285900840,1985
+Jump Point Search (JPS),http://users.cecs.anu.edu.au/~dharabor/data/papers/harabor-grastien-aaai11.pdf,2011
+Lifelong Planning A* (LPA*),http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf,2001
+Simplified Memory-Bounded A* (SMA*),https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.105.7839,1992
+Theta*,http://idm-lab.org/bib/abstracts/papers/aaai07a.pdf,2010
+Anytime Repairing A* (ARA*),https://papers.nips.cc/paper/2382-ara-anytime-a-with-provable-bounds-on-sub-optimality.pdf,2005
+Time-Bounded A* (TBA*),https://www.cs.du.edu/~sturtevant/papers/TBA.pdf,2009
+Naïve string-search algorithm,-,1940
+Knuth-Morris-Pratt (KMP) algorithm,https://pdfs.semanticscholar.org/4479/9559a1067e06b5a6bf052f8f10637707928f.pdf,1977
+Boyer-Moore (BM) algorithm,https://www.cs.utexas.edu/users/moore/publications/fstrpos.pdf,1977
+Rabin-Karp (RK) algorithm,https://pdfs.semanticscholar.org/c47d/151f09c567013761632c89e237431c6291a2.pdf,1987
+Needleman–Wunsch algorithm,https://www.sciencedirect.com/science/article/pii/0022283670900574,1970
+Smith–Waterman algorithm,https://www.sciencedirect.com/science/article/pii/0022283681900875,1981
+Masek; Patterson,https://www.sciencedirect.com/science/article/pii/0022000080900021,1980
+Hirschberg's algorithm,https://dl.acm.org/doi/10.1145/360825.360861,1975
+FASTA,https://www.ncbi.nlm.nih.gov/pubmed/2983426,1985
+Gotoh,https://www.sciencedirect.com/science/article/pii/0022283682903989,1982
+Altschul and Erickson,https://link.springer.com/article/10.1007/BF02462326,1986
+Myers and Miller,https://academic.oup.com/bioinformatics/article/4/1/11/205106?login=true,1988
+David Sankoff,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC427531/,1972
+Cohen–Sutherland,https://books.google.com/books/about/Principles_of_interactive_computer_graph.html?id=inJ8AAAAIAAJ,1967
+Liang–Barsky,https://dl.acm.org/doi/10.1145/357332.357333,1984
+Cyrus–Beck,https://www.sciencedirect.com/science/article/pii/0097849378900213,1978
+Nicholl–Lee–Nicholl,https://dl.acm.org/doi/10.1145/37401.37432,1987
+Fast clipping,https://www.sciencedirect.com/science/article/pii/0097849387900616,1987
+Rabin–Scott powerset construction,https://ieeexplore.ieee.org/document/5392601,1959
+Karatsuba Algorithm,http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dan&paperid=26729&option_lang=eng,1962
+Toom-3,https://www.ams.org/journals/tran/1969-142-00/S0002-9947-1969-0249212-8/S0002-9947-1969-0249212-8.pdf,1969
+Long Multiplication,,1940
+Ramer–Douglas–Peucker algorithm,https://www.sciencedirect.com/science/article/abs/pii/S0146664X72800170,1972
+Visvalingam–Whyatt,https://hull-repository.worktribe.com/output/459275,1993
+Reumann–Witkam,,1974
+Opheim simplification,http://dx.doi.org/10.2312/eg.19811012,1981
+Lang simplification,-,1969
+Zhao-Saalfeld,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.494.7321,1997
+Linear search,-,1940
+k-d Tree,https://dl.acm.org/doi/pdf/10.1145/355744.355745,1975
+R-tree,http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf,1984
+Horowitz and Sahni,https://dl.acm.org/doi/10.1145/321812.321823,1974
+Bellman dynamic programming algorithm,https://onlinelibrary.wiley.com/doi/10.1002/nav.3800030107,1956
+Psinger,https://www.sciencedirect.com/science/article/abs/pii/S0196677499910349,1999
+Koiliaris and Xu,https://dl.acm.org/doi/pdf/10.1145/3329863,2019
+Bringman,https://arxiv.org/abs/1610.04712,2017
+Brute Force,-,1977
+Grenander,-,1977
+Faster Brute Force (via x[L:U] = x[L:U-1]+x[U]),https://dl.acm.org/doi/pdf/10.1145/358234.381162,1977
+Shamos,-,1978
+Kadane's Algorithm,-,1982
+Perumalla and Deo,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.1291&rep=rep1&type=pdf,1995
+Speller,https://link.springer.com/chapter/10.1007/BFb0054337,1998
+Mitra,https://pubmed.ncbi.nlm.nih.gov/12169566/,2002
+Census,https://link.springer.com/chapter/10.1007/978-3-540-45078-8_5,2003
+Risotto,https://link.springer.com/chapter/10.1007/11682462_69,2006
+PMS,https://ieeexplore.ieee.org/abstract/document/4359890,2007
+Brute Force,,1940
+Dynamic Programming,,1953
+Brute Force,,1940
+Dynamic Programming,https://dl.acm.org/doi/10.1145/321864.321874,1953
+Czumaj,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.8168&rep=rep1&type=pdf,1996
+Czumaj,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.8168&rep=rep1&type=pdf,1996
+Chandra,https://www.worldcat.org/title/computing-matrix-chain-products-in-near-optimal-time/oclc/727708286,1975
+Chin,https://dl.acm.org/citation.cfm?id=359556,1978
+Bini's algorithm,https://doi.org/10.1016/0020-0190(79)90113-3,1979
+Schonhage's algorithm,https://epubs.siam.org/doi/abs/10.1137/0210032,1980
+"Karger, Blum",http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.4204,1997
+Brélaz (DSatur),https://dl.acm.org/doi/10.1145/359094.359101,1979
+Micali and Vazirani,https://ieeexplore.ieee.org/document/4567800,1980
+Miller-Tucker-Zemlin (MTZ) formulation ,https://dl.acm.org/doi/10.1145/321043.321046,1960
+Dantzig-Fulkerson-Johnson (DFJ) formulation,https://doi.org/10.1287/opre.2.4.393,1954
+Barvinok,https://dl.acm.org/doi/10.1145/876638.876640,2003
+Harris and Stephens algorithm,http://www.bmva.org/bmvc/1988/avc-88-023.pdf,1988
+L. Kitchen and A. Rosenfeld,https://www.sciencedirect.com/science/article/abs/pii/0167865582900204,1982
+The SUSAN corner detector,,1997
+Chvatal greedy heuristic,https://www.jstor.org/stable/3689577#metadata_info_tab_contents,1979
+Alon; Moshkovitz & Safra,https://dl.acm.org/doi/pdf/10.1145/1150334.1150336,2006
+Roth AlignACE,https://www.ncbi.nlm.nih.gov/pubmed/9788350,1998
+Petro Vlahos Algorithm,,1985
+non-parametric sampling Efros and Leung,https://ieeexplore.ieee.org/abstract/document/790383,1999
+image analogies Hertzmann,https://dl.acm.org/doi/abs/10.1145/383259.383295,2001
+R. Paget ; I.D. Longstaff,https://ieeexplore.ieee.org/abstract/document/679446,1998
+Image quilting Efros-Freeman,https://dl.acm.org/doi/abs/10.1145/383259.383296,2001
+EKF SLAM,http://ais.informatik.uni-freiburg.de/teaching/ss12/robotics/slides/12-slam.pdf,1998
+UKF,https://www.seas.harvard.edu/courses/cs281/papers/unscented.pdf,2000
+Compressed Extended KF,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.206.999&rep=rep1&type=pdf,2002
+Rao-Blackwellized Particle Filtering SLAM,https://papers.nips.cc/paper/1716-bayesian-map-learning-in-dynamic-environments.pdf,2001
+Petford and Welsh,https://www.sciencedirect.com/science/article/pii/0012365X89902148,1989
+Fomin; Gaspers & Saurabh,https://link.springer.com/chapter/10.1007/978-3-540-73545-8_9,2007
+Khuller; Matias,https://www.sciencedirect.com/science/article/pii/S0890540185710498,1995
+Bunch; Hopcroft,https://dl.acm.org/citation.cfm?id=248979,1974
+Bitap algorithm,https://en.wikipedia.org/wiki/Bitap_algorithm,1964
+Tree sort,https://link.springer.com/chapter/10.1007/978-1-349-08147-9_4,1986
+Quick Sort,https://apps.dtic.mil/dtic/tr/fulltext/u2/740110.pdf,1961
+Tim Sort,-,2002
+Cube Sort Parallel Implementation,https://www.sciencedirect.com/science/article/pii/0196677492900166?via%3Dihub,1992
+Shell Sort (Shell),https://dl.acm.org/citation.cfm?doid=368370.368387,1959
+Shell Sort (Frank & Lazarus),https://dl.acm.org/citation.cfm?doid=366947.366957,1960
+Shell Sort (Pratt),https://apps.dtic.mil/sti/pdfs/AD0740110.pdf,1971
+Shell Sort (Sedgewick),https://www.sciencedirect.com/science/article/pii/0196677486900015?via%3Dihub,1986
+Bitonic Merge Sort Parallel Implementation,https://epubs.siam.org/doi/abs/10.1137/0218014,1968
+Thorup's Sorting Algorithm,https://www.sciencedirect.com/science/article/pii/S0196677402912113,2002
+Naive sorting,-,1940
+Flash Sort,http://www.neubert.net/FSOIntro.html,1998
+Bead Sort,https://web.archive.org/web/20170809110409/https://www.cs.auckland.ac.nz/~jaru003/research/publications/journals/beadsort.pdf,2002
+Burst Sort,https://dl.acm.org/citation.cfm?doid=1005813.1041517,2004
+Spreadsort,https://www.semanticscholar.org/paper/The-Spreadsort-High-performance-General-case-Ross/41f5b49e9843b2d98b6b22a84924dae5761e6e52,2002
+Hashing,-,1940
+T. C. Hu ; M. T. Shing,https://doi.org/10.1137/0211028,1982
+Hunt and Szymanski,http://www.cs.ust.hk/mjg_lib/bibs/DPSu/DPSu.Files/HuSz77.pdf,1977
+Mukhopadhyay,https://www.sciencedirect.com/science/article/pii/0020025580900250,1980
+Dantzig,,1951
+Dinitz (with dynamic trees),https://www.scirp.org/(S(lz5mqp453edsnp55rrgjct55))/reference/ReferencesPapers.aspx?ReferenceID=1690549,1973
+Cherkassky,https://www.sciencedirect.com/science/article/abs/pii/S037722179600269X,1977
+Sleator & Tarjan,https://www.sciencedirect.com/science/article/pii/0022000083900065,1983
+Goldberg & Tarjan,https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/a%20new%20approach.pdf,1986
+Ahuja & Orlin,https://www.researchgate.net/publication/38008130_A_Fast_and_Simple_Algorithm_for_the_Maximum_Flow_Problem,1987
+Cheriyan & Hagerup,https://ieeexplore.ieee.org/document/63465,1989
+Cheriyan et al.,https://link.springer.com/chapter/10.1007/BFb0032035,1990
+Alon,https://www.sciencedirect.com/science/article/pii/002001909090024R,1990
+King et al. (KRT),https://dl.acm.org/citation.cfm?id=139438,1992
+Phillips & Westbrook,https://dl.acm.org/citation.cfm?id=167201,1993
+Goldberg & Rao,https://dl.acm.org/citation.cfm?id=290181,1997
+Goldberg & Rao,https://dl.acm.org/citation.cfm?id=290181,1997
+James B Orlin's + KRT (King; Rao; Tarjan)'s algorithm,https://dl.acm.org/citation.cfm?id=2488705,2013
+Lawler,https://www.sciencedirect.com/science/article/pii/002001907690065X?via%3Dihub,1976
+Schiermeyer,https://link.springer.com/chapter/10.1007/3-540-57899-4_51,1994
+Beigel & Eppstein,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=492575,1995
+Beigel & Eppstein,https://www.sciencedirect.com/science/article/pii/S0196677404001117?via%3Dihub,2000
+Lawler,https://www.sciencedirect.com/science/article/pii/002001907690065X?via%3Dihub,1976
+Byskov,https://www.sciencedirect.com/science/article/abs/pii/S0167637704000409?via%3Dihub,2004
+Conjugate Gradient,https://nvlpubs.nist.gov/nistpubs/jres/049/jresv49n6p409_A1b.pdf,1952
+Harrow (Quantum),https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.150502,2009
+Karmarkar's algorithm,https://web.archive.org/web/20131228145520/http://retis.sssup.it/~bini/teaching/optim2010/karmarkar.pdf,1984
+Simplex Algorithm,-,1947
+Terlaky's Criss-cross algorithm,-,1985
+Affine scaling,-,1967
+Cohen; Lee and Song,https://arxiv.org/abs/1810.07896,2018
+Lee and Sidford,https://arxiv.org/abs/1503.01752,2015
+Chazelle & Edelsbrunner,https://dl.acm.org/doi/10.1145/147508.147511,1992
+CHAZELLE,https://www.sciencedirect.com/science/article/pii/0022000086900255,1986
+NIEVERGELT. J.. AND PREPARATA (Section 3),https://pdfs.semanticscholar.org/a571/cc92218132a1b0e65c2adbf663c79d015737.pdf,1982
+"Jean-Daniel Boissonnat and Franco P.
+Preparata. ",https://epubs.siam.org/doi/abs/10.1137/S0097539797329373,1997
+Balaban.,https://dl.acm.org/doi/pdf/10.1145/220279.220302,1995
+Boissonnat; Snoeyink,https://dl.acm.org/citation.cfm?id=304991,1999
+Goodrich,https://dl.acm.org/citation.cfm?id=72950,1989
+Graham,https://www.sciencedirect.com/science/article/pii/0020019072900452?via%3Dihub,1972
+W. Eddy Quickhull,https://dl.acm.org/citation.cfm?id=355766,1977
+Preparata and Hong,https://dl.acm.org/citation.cfm?id=359430,1977
+Andrew's algorithm,https://www.sciencedirect.com/science/article/pii/0020019079900723,1979
+The ultimate planar convex hull algorithm,https://ecommons.cornell.edu/handle/1813/6417,1986
+Chan's algorithm,https://link.springer.com/article/10.1007/BF02712873,1996
+Miller; Stout,https://cse.buffalo.edu/faculty/miller/Papers/IEEETC88a.pdf,1988
+Kosaraju's algorithm,https://www.sciencedirect.com/science/article/pii/0898122181900080,1978
+Tarjan's strongly connected components algorithm,https://www.semanticscholar.org/paper/Depth-First-Search-and-Linear-Graph-Algorithms-Tarjan/385742fffcf113656f0d3cf6c06ef95cb8439dc6,1972
+Path-based strong components algorithm; Dijkstra,https://www.worldcat.org/title/discipline-of-programming/oclc/1958445,1976
+Fleischer forward-backward (FB) algorithm,https://ldhulipala.github.io/readings/sequential-scc.pdf,2003
+Pearce,https://www.sciencedirect.com/science/article/pii/S0020019015001532,2016
+Path-based depth-first search Gabow,https://www.sciencedirect.com/science/article/pii/S002001900000051X?via%3Dihub,2000
+Paul Purdom,https://link.springer.com/article/10.1007%2FBF01940892,1970
+Lowe’s Algorithm,http://www.cs.ox.ac.uk/people/gavin.lowe/parallelDFS.html,2014
+Renault’s Algorithm,https://link.springer.com/chapter/10.1007/978-3-642-45221-5_44,2009
+Couvreur,https://link.springer.com/chapter/10.1007/3-540-48119-2_16,1999
+Munro’s algorithm,https://www.sciencedirect.com/science/article/pii/0020019071900068,1971
+OBF Algorithm,https://ieeexplore.ieee.org/document/8133154,2011
+CH Algorithm,https://research.vu.nl/en/publications/on-distributed-verification-and-verified-distribution,2004
+Hong’s algorithm,https://stanford-ppl.github.io/website/papers/sc13-hong.pdf,2013
+Borůvka's algorithm,-,1926
+Prim's algorithm + adjacency matrix searching,https://ieeexplore.ieee.org/document/6773228,1957
+Prim's algorithm + Fibonacci heaps; Fredman & Tarjan,https://dl.acm.org/citation.cfm?id=28874,1987
+Kruskal's algorithm,https://www.jstor.org/stable/2033241,1956
+Yao's algorithm,https://www.sciencedirect.com/science/article/pii/0020019075900563,1975
+Cheriton-Tarjan Algorithm,https://epubs.siam.org/doi/abs/10.1137/0205051,1976
+Filter Kruskal algorithm,https://dl.acm.org/citation.cfm?id=2791225,2009
+Chazelle's algorithm,https://www.cs.princeton.edu/~chazelle/pubs/mst.pdf,2000
+Thorup (reverse-delete),https://www.cs.princeton.edu/courses/archive/spr10/cos423/handouts/NearOpt.pdf,2000
+Fortune and Hopcroft,https://www.sciencedirect.com/science/article/pii/0020019079900851,1979
+F. Preparata and M. Shamos,https://www.springer.com/gp/book/9780387961316,1986
+Rabin' Algorithm,https://dl.acm.org/citation.cfm?id=540196,1976
+Bentley,https://dl.acm.org/citation.cfm?id=358850,1980
+Bentley; Shamos,https://dl.acm.org/citation.cfm?id=803652,1976
+Hinrichs; Nievergelt; Schorn,https://www.sciencedirect.com/science/article/pii/0020019088901500,1988
+Shamos; Hoey,https://ieeexplore.ieee.org/document/4567872,1975
+Dyer,https://www.sciencedirect.com/science/article/pii/0020019080900356,1980
+Bellman–Ford algorithm (Ford 1956),https://apps.dtic.mil/sti/pdfs/AD0422842.pdf,1956
+Bellman–Ford algorithm (Shimbel 1955; Bellman 1958; Moore 1959),https://www.ams.org/journals/qam/1958-16-01/S0033-569X-1958-0102435-2/S0033-569X-1958-0102435-2.pdf,1959
+Bellman–Ford algorithm (Dantzig 1960),https://www.jstor.org/stable/pdf/2627005.pdf,1960
+Dijkstra's algorithm with list (Whiting & Hillier 1960),https://www.jstor.org/stable/3007178?seq=1#page_scan_tab_contents,1960
+Dijkstra's algorithm with binary heap (Johnson 1977),https://dl.acm.org/citation.cfm?id=321993,1977
+Dijkstra's algorithm with Fibonacci heap (Fredman & Tarjan 1984; Fredman & Tarjan 1987),https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/fibonacci%20heaps.pdf,1984
+Dijkstra's algorithm with Fibonacci heap (Johnson 1981; Karlsson & Poblete 1983),https://www.sciencedirect.com/science/article/pii/0166218X8390104X?via%3Dihub,1981
+Gabow's algorithm,https://ieeexplore.ieee.org/document/4568085,1983
+Gabow Ahuja Algorithm,https://dl.acm.org/doi/10.1145/77600.77615,1990
+Thorup's algorithm,https://dl.acm.org/doi/10.1016/j.jcss.2004.04.003,2004
+Shimbel Algorithm,https://link.springer.com/article/10.1007/BF02476438,1953
+Floyd–Warshall algorithm,https://dl.acm.org/citation.cfm?id=368168,1962
+Seidel's algorithm,https://www.sciencedirect.com/science/article/pii/S0022000085710781,1995
+Williams,https://dl.acm.org/citation.cfm?id=2591811,2014
+Pettie & Ramachandran,https://dl.acm.org/citation.cfm?id=545417,2002
+Thorup,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.22.7128&rep=rep1&type=pdf,1999
+Chan (Geometrically Weighted),http://tmc.web.engr.illinois.edu/moreapsp.pdf,2009
+Chan,http://tmc.web.engr.illinois.edu/moreapsp.pdf,2009
+Trial division,-,1202
+Wheel factorization,,1940
+Pollard's rho algorithm,https://link.springer.com/article/10.1007%2FBF01933667,1975
+Pollard's p − 1 algorithm,https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/theorems-on-factorization-and-primality-testing/6762E84DBD34AEF13E6B1D1A8334A989,1974
+Williams' p + 1 algorithm,https://www.jstor.org/stable/2007633?origin=crossref,1982
+Lenstra elliptic curve factorization,https://www.jstor.org/stable/1971363?origin=crossref&seq=1,1987
+Fermat's factorization method,https://archive.org/details/oeuvresdefermat02ferm,1894
+Euler's factorization method,-,1940
+Dixon's algorithm,https://www.ams.org/journals/mcom/1981-36-153/S0025-5718-1981-0595059-1/home.html,1981
+Continued fraction factorization (CFRAC),https://www.ams.org/journals/bull/1931-37-10/S0002-9904-1931-05271-X/home.html,1931
+Quadratic sieve,https://www.semanticscholar.org/paper/Analysis-and-comparison-of-some-integer-factoring-Pomerance/134b7b065a73d4ca00bb16c7b8bebbde951b0ba0,1981
+Rational sieve,https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182953-4/S0025-5718-1993-1182953-4.pdf,1993
+Shanks's square forms factorization (SQUFOF),https://www.ams.org/journals/mcom/2008-77-261/S0025-5718-07-02010-8/S0025-5718-07-02010-8.pdf,2007
+Closed formula,,1975
+Randomized LU Decomposition,https://www.sciencedirect.com/science/article/pii/S1063520316300069,2016
+David,,2006
+"Press, Teukolsky, Flannery",https://books.google.com/books?hl=en&lr=&id=1aAOdzK3FegC&oi=fnd&pg=PA1&dq=Teukolsky#v=onepage&q=Teukolsky&f=false,2007
+Greedy Best-First Search,,1959
+Incremental Heuristic Search,,1968
+Block A*,https://webdocs.cs.ualberta.ca/~holte/Publications/aaai11PeterYapFinal.pdf,2011
+D*,https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.15.3683,1994
+Field D*,https://www.ri.cmu.edu/pub_files/pub4/ferguson_david_2006_3/ferguson_david_2006_3.pdf,2006
+Fringe,,2005
+Tuned Boyer-Moore algorithm,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.9460&rep=rep1&type=pdf,1991
+FOGSAA,https://www.nature.com/articles/srep01746,2013
+O(lg N) algorithm,https://www.sciencedirect.com/science/article/pii/0097849394900647/pdf?md5=06bd1f11031af17d1fd34626c4e2f49b&pid=1-s2.0-0097849394900647-main.pdf,1994
+Skala,https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8659.1510061,1996
+Schönhage–Strassen algorithm,https://link.springer.com/article/10.1007/BF02242355,1971
+Furer's algorithm,https://web.archive.org/web/20130425232048/http://www.cse.psu.edu/~furer/Papers/mult.pdf,2007
+De,https://arxiv.org/abs/0801.1416,2008
+Harvey; Hoeven,https://hal.archives-ouvertes.fr/hal-02070778,2019
+Harvey; Hoeven; Lecerf,https://arxiv.org/abs/1407.3360,2015
+Covanov and Thomé,https://hal.inria.fr/hal-01108166v1/document,2015
+Covanov and Thomé,https://arxiv.org/abs/1502.02800,2016
+Harvey; Hoeven; Lecerf,https://arxiv.org/abs/1802.07932,2018
+Lamport's bakery algorithm,http://lamport.azurewebsites.net/pubs/bakery.pdf,1974
+Szymanski's algorithm,https://www.researchgate.net/publication/221235887_A_simple_solution_to_Lamport's_concurrent_programming_problem_with_linear_wait,1988
+Taubenfeld's black-white bakery algorithm,https://link.springer.com/chapter/10.1007/978-3-540-30186-8_5,2004
+Maekawa's algorithm,https://cseweb.ucsd.edu/classes/wi09/cse223a/p145-maekawa.pdf,1985
+Raymond's algorithm,https://dl.acm.org/doi/abs/10.1145/58564.59295,1997
+Suzuki-Kasami's algorithm,https://cse.iitkgp.ac.in/~agupta/distsys/Mutex-SuzukiKasami.pdf,1985
+Painter's algorithm/Newell's algorithm,https://www.cs.drexel.edu/~david/Classes/Papers/p443-newell.pdf,1972
+Warnock's algorithm,https://dl.acm.org/doi/book/10.5555/905316?dl=ACM,1969
+Ray tracing,,1982
+Binary space partitioning (BSP),https://apps.dtic.mil/dtic/tr/fulltext/u2/700375.pdf,1969
+Z-buffering,http://isgwww.cs.uni-magdeburg.de/graphics/misc/Wolfgang_Stra%C3%9Fer_Schnelle_Kurven-_und_Flaechendarstellung_auf_grafischen_Sichtgeraeten.pdf,1974
+S-buffer/Scanline Rendering,,1980
+Power Iteration,https://onlinelibrary.wiley.com/doi/pdf/10.1002/zamm.19290090105?casa_token=xSwK6PkV010AAAAA:j_1-JKs0GG-KuwUUyM_dIt8kmOa5z6lvp_GABgDryAYxKdYvChyNGA9VA5CZLyAurWOVYPRn45geRTFk,1929
+Fortune,http://www.wias-berlin.de/people/si/course/files/Fortune87-SweepLine-Voronoi.pdf,1987
+Gries,https://www.sciencedirect.com/science/article/pii/0167642383900151?via%3Dihub,1982
+Bird,https://dl.acm.org/doi/10.1093/comjnl/32.2.122,1989
+"Ferreira, Camargo, Song",https://ieeexplore.ieee.org/document/6972008,2014
+HJLS algorithm,https://epubs.siam.org/doi/pdf/10.1137/0218059,1986
+Resource hierarchy solution,https://en.wikipedia.org/wiki/Dining_philosophers_problem#Resource_hierarchy_solution,1965
+Arbitrator solution,https://en.wikipedia.org/wiki/Dining_philosophers_problem#Arbitrator_solution,1965
+Applegate et al.,https://www.jstor.org/stable/j.ctt7s8xg,2006
+Johnson; D. S.; McGeoch; L. A.,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.1635&rep=rep1&type=pdf,1997
+ Gutina; Gregory; Yeob; Anders; Zverovich; Alexey,https://www.researchgate.net/publication/222408030_Traveling_Salesman_Should_not_be_Greedy_Domination_Analysis_of_Greedy-Type_Heuristics_for_the_TSP,2002
+Rosenkrantz; D. J.; Stearns; R. E.; Lewis; P. M.,https://link.springer.com/chapter/10.1007/978-1-4020-9688-4_3,1974
+Lin–Kernighan,https://www.cs.princeton.edu/~bwk/btl.mirror/tsp.pdf,1981
+Overlap Layout Consensus,,1987
+Greedy SEQAID,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC321006/,1984
+Dürer rendering algorithm,,1956
+Appel's algorithm 1968,https://dl.acm.org/doi/10.1145/1468075.1468082,1968
+Whitted's algorithm 1979,https://dl.acm.org/doi/10.1145/358876.358882,1979
+J.-C. Nebel 1998,https://www.academia.edu/814419/A_New_Parallel_Algorithm_Provided_by_a_Computation_Time_Model,1998
+A. Chalmers; T. Davis; and E. Reinhard 2002,,2002
+Moravec's algorithm 1980,https://www.ri.cmu.edu/pub_files/pub4/moravec_hans_1980_1/moravec_hans_1980_1.pdf,1980
+Förstner algorithm 1987,,1987
+J. J. Koenderink and W. Richards 1988,https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-5-7-1136,1988
+Lindeberg (1994),,1994
+Lindeberg (1998),https://link.springer.com/article/10.1023/A:1008045108935,1998
+K. Mikolajczyk; K. and C. Schmid LoG 2004,https://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/mikolajczyk_pami2004.pdf,2004
+Lowe (2004),https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf,2004
+T. Lindeberg and J. Garding (1997),,1997
+Lindeberg 2005,,2005
+The Wang and Brady corner detection algorithm 1995,,1995
+The Trajkovic and Hedley corner detector 1998,,1998
+FAST E. Rosten and T. Drummond 2006,https://www.edwardrosten.com/work/rosten_2006_machine.pdf,2006
+Trujillo and Olague 2008,https://www.mitpressjournals.org/doi/abs/10.1162/evco.2008.16.4.483?journalCode=evco&mobileUi=0&,2008
+Geert Willems; Tinne Tuytelaars and Luc van Gool (2008),http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.471.6845,2008
+"Tao Luo, Zaifeng Shi and Pumeng Wang",,2019
+T. Lindeberg DoG 2012,,2012
+T. Lindeberg DoG 2015,,2015
+SIFT Algorithm Lowe 2004,,2004
+Hessain Determinant Lindeberg 1994,,1994
+Hessain Determinant Lindeberg 1998,,1998
+SURF Descriptor 2006,,2006
+Hessian-Laplace Mikolajczyk and Schmid 2004,,2004
+Spatio-temporal Geert Willems; Tinne Tuytelaars and Luc van Gool (2008),,2008
+Lindeberg's watershed-based grey-level blob detection algorithm 1991,,1991
+Maximally stable extremal regions Matas 2002,,2002
+A. Baumberg. 2000,,2000
+Y. Dufournaud; C. Schmid; and R. Horaud 2000,,2000
+local scale-invariant Lowe 1999,,1999
+T. Tuytelaars and L. Van Gool 2000,,2000
+view frustum culling,,2008
+Sector-Based Culling,,1991
+Occlusion Culling,,1986
+Contribution Culling,,1987
+Kwatra 2003,https://dl.acm.org/doi/abs/10.1145/882262.882264,2003
+CNN Based Gatys; Leon A 2001,,2001
+P.Hanrahan and W.Krueger 1993,,1993
+H.W.Jensen 2001,,2001
+He; X. D.; Torrance; K. E.; Sillion; 1991,,1991
+Kajiya; J. Anisotropic Reflection Models 1985,,1985
+"Nakamae; E.; Kaneda; K.; Okamoto; T.; and
+Nishita 1990",,1990
+Cabral; B.; Max; N.; and Springmeyer; R 1990,,1990
+Westin; S. H.; Arvo; J. R.; and Torrance; K. E 1992,,1992
+Phong,,1971
+Blinn–Phong,,1977
+Cook–Torrance (microfacets),,1973
+Ward anisotropic,,1989
+Hanrahan–Krueger,,1995
+Linda G. Shapiro and George C. Stockman (2001),,2001
+Recursive Region Splitting,,1978
+Barghout; Lauren Visual Taxometric approach,,2014
+Dual clustering - Guberman,,2012
+R. Nock and F. Nielsen Statistical Region Merging,,2004
+Kass; Witkin and Terzopoulos,,1987
+Chen's lambda-connected segmentation,,1991
+S.L. Horowitz and T. Pavlidis - directed split and merge,,1974
+David Mumford and Jayant Shah (1989),,1989
+Geman and Geman Markov random fields,,1984
+Iterated conditional modes algorithm,,1986
+watershed transformation 1979,,1979
+topological watershed,,1997
+Florack and Kuijper,,2000
+Bijaoui and Rué,,1995
+Multi-scale MAP estimation - A. Bouman and M. Shapiro (2002),,2002
+Multiple Resolution segmentation - J. Liu and Y. H. Yang (1994),,1994
+Quasi-linear Topological watershed,,2005
+Isometric graph partitioning - Leo Grady and Eric L. Schwartz (2006),,2006
+Coplanar facets merging - M.J. De Haemer and M.J. Zyda 1991,,1991
+Coplanar facets merging - Hinker; P. and Hansen; C. 1993,,1993
+Coplanar facets merging - Kalvin; A. D.; Cutting; C. B.; Haddad; B. and Noz; M. E. 1991,,1991
+Coplanar facets merging - A.D. Kalvin and R.H. Taylor 1996,,1996
+Controlled vertex/edge/face decimation - M.E. Algorri and F. Schmitt 1996,,1996
+Controlled vertex/edge/face decimation - Guéziec 1996,,1996
+Controlled vertex/edge/face decimation - R. Ronfard and J. Rossignac 1996,,1996
+Controlled vertex/edge/face decimation - Hamann 1994,,1994
+Controlled vertex/edge/face decimation - Cohen; J.; Varshney; A 1996,,1996
+Re-tiling - Turk; G 1992,,1992
+Vertex clustering - Rossignac; J. and Borrel; P. 1993,,1993
+Vertex clustering - Low; K. L. and Tan; T. S 1997,,1997
+Vertex clustering - Reddy 1996,,1996
+Vertex clustering - Hoppe; H.; DeRose; T.;  1993,,1993
+Vertex clustering - Rossignac; J. and Borrel; P. 1997,,1997
+Wavelet-based - M.H. Gross; O.G. Staadt and R. Gatti 1996,,1996
+Wavelet-based - D.J. Hebert and H-J. Kim 1995,,1995
+Wavelet-based - Certain; A.; Popovic; J.; 1996,,1996
+Wavelet-based - Eck; M.; DeRose; T.; 1995,,1995
+Simplification via intermediate hierarchical rep-resentation - Andujar 1996,,1996
+Simplification via intermediate hierarchical rep-resentation - He; T.; Hong; L.; Kaufman 1995,,1995
+Simplification via intermediate hierarchical rep-resentation - He;  T.;  Hong;  1996,,1996
+Hauskrecht; 2000;,,2000
+ Pineau; Gordon; & Thrun; 2003; ,,2003
+Braziunas & Boutilier; 2004; ,,2004
+Poupart; 2005; ,,2005
+Smith & Simmons; 2005; ,,2005
+Spaan & Vlassis; 2005,,2005
+Satia & Lave; 1973; ,,1973
+Washington; 1997; ,,1997
+Barto;Bradtke; & Singhe; 1995; ,,1995
+Paquet; Tobin; & Chaib-draa; 2005; ,,2005
+McAllester & Singh; 1999;,,1999
+Bertsekas & Castanon; 1999; ,,1999
+Shani; Brafman; & Shimony; 2005,,2005
+Digital Differential Analyzer (DDA),"Hearn, Baker (1997) pg. 87",1983
+Bresenham Algorithm,"Hearn, Baker (1997) pg. 88",1962
+Blinn and Newell,,1976
+ Nate Green,,1986
+Sphere mapping,,1984
+Heidrich; W.; and H.-P. Seidel,,1998
+Emil Praun,,2003
+Mauro Steigleder,,2005
+HEALPix mapping Wong,,2008
+Maximum a Posteriori Occupancy Mapping,,2004
+FastSlam,http://robots.stanford.edu/papers/montemerlo.fastslam-tr.pdf,2003
+srba,http://ingmec.ual.es/~jlblanco/papers/blanco2013rba.pdf,2002
+Probabilistic Convolution Tree,https://www.ncbi.nlm.nih.gov/pubmed/24626234,2014
+Odd Even Sort Parallel  Implementation,https://www.semanticscholar.org/paper/Parallel-Neighbor-Sort-(or-the-Glory-of-the-Habermann/bc7b6efb99aae6225239425747fd0169a51f30ce,1972
+Spaghetti Sort Parallel Implementation,https://link.springer.com/chapter/10.1007/978-94-009-2794-0_11,1984
+Heejo Lee; Jong Kim; Sungje Hong; and Sunggu Lee,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.222&rep=rep1&type=pdf,1997
+Prakesh Ramanan,https://epubs.siam.org/doi/abs/10.1137/0225039,1996
+Czumaj,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.9426&rep=rep1&type=pdf,1993
+Hsu and Du (Scheme 2),https://www.sciencedirect.com/science/article/pii/0022000084900254,1984
+Apostolico and Guerra (HS1 Algorithm),https://link.springer.com/article/10.1007/BF01840365,1987
+Kuo and Cross,https://dl.acm.org/citation.cfm?id=74702,1989
+Rick,https://link.springer.com/chapter/10.1007/3-540-60044-2_53,1995
+Rick,https://link.springer.com/chapter/10.1007/3-540-60044-2_53,1995
+Hirschberg,https://dl.acm.org/citation.cfm?id=322044,1977
+Hsu and Du (Scheme 1),https://www.sciencedirect.com/science/article/pii/0022000084900254,1984
+Apostolico and Guerra (Algorithm 2),https://link.springer.com/article/10.1007/BF01840365,1987
+Chin and Poon,https://dl.acm.org/doi/abs/10.5555/105582.105592,1991
+Nakatsu et al.,https://link.springer.com/article/10.1007/BF00264437,1982
+Miller and Myers,https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380151102,1985
+Wu et al.,https://publications.mpi-cbg.de/Wu_1990_6334.pdf,1990
+Ahuja et al.,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.5093&rep=rep1&type=pdf,1987
+Robson,https://www.sciencedirect.com/science/article/pii/0196677486900325,1986
+Schöning,https://ieeexplore.ieee.org/document/814612,1999
+Hirsch,https://dl.acm.org/doi/10.5555/314613.314838,1998
+Johnson,https://www.sciencedirect.com/science/article/abs/pii/0020019088900658,1988
+Alon and Kahale,http://www.cs.tau.ac.il/~nogaa/PDFS/spectcolpr1.pdf,1997
+Incremental convex hull algorithm; Michael Kallay,https://www.sciencedirect.com/science/article/pii/002001908490084X,1984
+Bader & Cong Parallel Implementation ,https://www.sciencedirect.com/science/article/pii/S0743731506001262,2006
+Special number field sieve,,1940
+General number field sieve,http://www.ams.org/notices/199612/pomerance.pdf,1996
+Shor's algorithm Quantum Implementation,https://ieeexplore.ieee.org/document/365700/,1994
+Two-way String-Matching Algorithm,http://monge.univ-mlv.fr/~mac/Articles-PDF/CP-1991-jacm.pdf,1991
+String-Matching with Finite Automata,-,1940
+Quick-Skip Searching,http://www.ijcte.org/papers/462-G1278.pdf,2012
+Fast Hybrid Algorithm,https://thesai.org/Downloads/Volume8No6/Paper_15-Fast_Hybrid_String_Matching_Algorithm.pdf,2017
+Backward Non-Deterministic DAWG Matching (BNDM),https://link.springer.com/chapter/10.1007/BFb0030778,1998
+Commentz-Walter Algorithm,https://link.springer.com/chapter/10.1007/3-540-09510-1_10,1979
+Aho–Corasick (AC) Algorithm,https://cr.yp.to/bib/1975/aho.pdf,1975
+Boyer-Moore-Horspool (BMH),https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380100608,1980
+Raita Algorithm,https://www.cin.ufpe.br/~paguso/courses/if767/bib/Raita_1992.pdf,1991
+BOM (Backward Oracle Matching),https://link.springer.com/chapter/10.1007/3-540-47849-3_18,1999
+Apostolico–Giancarlo Algorithm,https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1456&context=cstech&sei-redir=1,1986
+Gapped BLAST,https://www.ncbi.nlm.nih.gov/pubmed/9254694,1997
+Basic Local Alignment Search Tool (BLAST),https://www.ncbi.nlm.nih.gov/pubmed/2231712,1990
+Nested loop join,-,1960
+Sort merge join,-,1960
+Hash join,-,1960
+Ford–Fulkerson algorithm,https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/maximal-flow-through-a-network/5D6E55D3B06C4F7B1043BC1D82D40764,1956
+Hopcroft–Karp algorithm,https://epubs.siam.org/doi/10.1137/0202019,1973
+Mucha; Sankowski (planar),https://link.springer.com/article/10.1007/s00453-005-1187-5,2006
+Madry's algorithm,https://arxiv.org/abs/1307.2205,2013
+Chandran and Hochbaum,https://arxiv.org/abs/1105.1569,2011
+Blum,https://web.eecs.umich.edu/~pettie/matching/Blum-matching-ICALP90.pdf,1990
+Gabow; Tarjan,https://web.eecs.umich.edu/~pettie/matching/Gabow-Tarjan-scaling-general-graph-matching.pdf,1991
+"Mucha, Sankowski (general)",https://ieeexplore.ieee.org/document/1366244,2004
+Klein (section 5),http://theory.stanford.edu/~virgi/cs267/papers/planar-sssp.pdf,1997
+Diffie–Hellman key exchange,https://ieeexplore.ieee.org/document/1055638,1978
+Elliptic-curve Diffie-Hellman (ECDH),https://csrc.nist.gov/publications/detail/sp/800-56a/revised/archive/2007-03-14,2006
+Dekker's algorithm,-,1963
+Peterson's algorithm,https://zoo.cs.yale.edu/classes/cs323/doc/Peterson.pdf,1981
+Naimi-Trehel's algorithm,https://www.sciencedirect.com/science/article/abs/pii/S0743731596900416,1996
+Chan-Singhal-Liu,https://ieeexplore.ieee.org/document/113817,1990
+"Spielman, Teng ",https://dl.acm.org/doi/pdf/10.1145/1007352.1007372?casa_token=k60CrC_UJp0AAAAA:yGVve4fRNbftRM0P7aaEbq8OIlxa4nRy8-CjZErlGrBwBfPEt0ECHGYc8Ei48rdA9W9NoY73xC2W,2004
+Vaidya,,1990
+Gremban; Miller; Zagha,https://www.cs.cmu.edu/~glmiller/Publications/Papers/GrMiZa94-tr.pdf,1995
+Bern; Gilbert;  Hendrickson,https://dl.acm.org/citation.cfm?id=1117896,2006
+Boman; Hendrickson,https://epubs.siam.org/doi/10.1137/S0895479801390637,2003
+Boman; Chen; Hendrickson; Toledo,https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.343,2004
+Koutis; Miller and Peng,https://arxiv.org/abs/1102.4842,2010
+Koutis; Miller and Peng,https://arxiv.org/abs/1003.2958,2011
+Blelloch; Koutis;  Miller; Tangwongsan,https://ieeexplore.ieee.org/document/5644892,2010
+Briggs; Henson; McCormick,http://www.math.ust.hk/~mamu/courses/531/tutorial_with_corrections.pdf,2000
+Kelner; Orecchia; Sidford; Zhu,https://arxiv.org/pdf/1301.6628.pdf,2013
+Lee; Peng; Spielman,https://arxiv.org/abs/1506.08204,2015
+Daitch; Spielman,https://arxiv.org/abs/cs/0703119,2007
+Gaussian Elimination,-,-150
+Naive Implementation,-,1940
+Floyd's tortoise and hare algorithm,http://pds7.egloos.com/pds/200801/07/29/p636-floyd.pdf,1967
+Brent's algorithm,https://maths-people.anu.edu.au/~brent/pd/rpb005.pdf,1973
+Gosper's algorithm,https://www.inwap.com/pdp10/hbaker/hakmem/flows.html#item132,1978
+Fisher–Yates/Knuth shuffle,https://www.worldcat.org/title/statistical-tables-for-biological-agricultural-and-medical-research/oclc/14222135,1938
+Durstenfeld's Algorithm 235,https://dl.acm.org/doi/10.1145/364520.364540,1964
+Radix sorting method,-,1887
+Sattolo's algorithm,https://www.sciencedirect.com/science/article/abs/pii/0020019086900736,1986
+Gomory's cutting method,https://www.cs.uleth.ca/~benkoczi/OR/read/cutting-stock-LP.pdf,1953
+Wolfe; Lemaréchal; Kiwiel,https://link.springer.com/content/pdf/10.1007/BFb0120703.pdf,1964
+Ellipsoid method,https://www.sciencedirect.com/science/article/abs/pii/0041555380900610,1971
+Subgradient method,https://www.springer.com/gp/book/9783642821202,1981
+Dual subgradients and the drift-plus-penalty method,,1993
+Buchberger's algorithm,https://dl.acm.org/doi/10.1145/1088216.1088219,1976
+Faugère F4 algorithm,https://linkinghub.elsevier.com/retrieve/pii/S0022404999000055,1999
+Faugère F5 algorithm,https://dl.acm.org/doi/10.1145/780506.780516,2002
+Naive algorithm,-,1940
+SMAWK algorithm,https://link.springer.com/article/10.1007/BF01840359,1987
+Steinhaus–Johnson–Trotter algorithm,https://www.ams.org/journals/mcom/1963-17-083/S0025-5718-1963-0159764-2/home.html,1963
+Tompkins–Paige algorithm,https://mathscinet.ams.org/mathscinet-getitem?mr=0080380,1956
+Heap's algorithm,https://academic.oup.com/comjnl/article/6/3/293/360213,1963
+Garsia–Wachs algorithm,https://epubs.siam.org/doi/abs/10.1137/0206045,1977
+Hu–Tucker algorithm,https://epubs.siam.org/doi/10.1137/0121057,1971
+Modified Knuth's DP algorithm,https://www.cs.bgu.ac.il/~michaluz/seminar/Knuth71.pdf,1970
+Knuth's DP algorithm,https://www.cs.bgu.ac.il/~michaluz/seminar/Knuth71.pdf,1970
+Naive algorithm,https://www.cs.bgu.ac.il/~michaluz/seminar/Knuth71.pdf,1940
+Yao,https://doi.org/10.1137/0603055,1982
+Levcopoulos; Lingas; Sack,https://www.sciencedirect.com/science/article/pii/0304397589901345,1989
+de Prisco,https://www.sciencedirect.com/science/article/pii/002001909390212R,1993
+Lemke–Howson algorithm,https://epubs.siam.org/doi/abs/10.1137/0112033?journalCode=smjmap.1,1964
+Lipton; Mehta,https://dl.acm.org/doi/10.1145/779928.779933,2003
+Hungarian algorithm,https://web.eecs.umich.edu/~pettie/matching/Kuhn-hungarian-assignment.pdf,1955
+Edmonds,https://nvlpubs.nist.gov/nistpubs/jres/69B/jresv69Bn1-2p125_A1b.pdf,1965
+Micali; Vazirani,https://ieeexplore.ieee.org/document/4567800,1980
+Mucha and Sankowski,https://dl.acm.org/doi/10.1109/FOCS.2004.40,2004
+Fleury's algorithm + Tarjan,https://collaborate.princeton.edu/en/publications/a-note-on-finding-the-bridges-of-a-graph,1974
+Hierholzer's algorithm,-,1873
+Fleury's algorithm + Thorup,https://www.cs.princeton.edu/courses/archive/spr10/cos423/handouts/NearOpt.pdf,2000
+Naive algorithm,-,1965
+Cooley–Tukey algorithm,https://www.ams.org/journals/mcom/1965-19-090/S0025-5718-1965-0178586-1/S0025-5718-1965-0178586-1.pdf,1965
+Rader–Brenner algorithm,https://ieeexplore.ieee.org/document/1162805,1976
+Bruun's FFT algorithm,https://ieeexplore.ieee.org/document/1163036/,1978
+Yavne Split Radix FFT algorithm,https://dl.acm.org/citation.cfm?id=1476610,1968
+Gentleman; Morven and Gordon Sande radix-4 algorithm,http://cis.rit.edu/class/simg716/FFT_Fun_Profit.pdf,1966
+Bergland; Glenn radix-8 algorithm,https://ieeexplore.ieee.org/document/1162043,1969
+Extended Split Radix FFT algorithm,https://ieeexplore.ieee.org/document/917698,2001
+ Von zur Gathen-Gerhard additive FFT,https://dl.acm.org/doi/10.1145/236869.236882,1996
+Wang-Zhu-Cantor additive FFT,https://ieeexplore.ieee.org/document/1926/,1988
+Gao’s additive FFT,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5625613,2010
+Naive algorithm,-,1940
+Digital Differential Analyzer,-,1940
+Bresenham's line algorithm,https://web.archive.org/web/20080528040104/http://www.research.ibm.com/journal/sj/041/ibmsjIVRIC.pdf,1965
+Xiaolin Wu's line algorithm,http://www-users.mat.umk.pl/~gruby/teaching/lgim/1_wu.pdf,1991
+Gupta-Sproull algorithm,http://www.cs.gettysburg.edu/~ilinkin/courses/Fall-2014/cs373/handouts/papers/gs-fegsd-81.pdf,1981
+Greiner–Hormann clipping algorithm,http://davis.wpi.edu/~matt/courses/clipping/,1998
+Sutherland–Hodgman algorithm,https://dl.acm.org/doi/10.1145/360767.360802,1974
+Vatti clipping algorithm,https://dl.acm.org/doi/10.1145/129902.129906,1992
+Weiler–Atherton clipping algorithm,https://www.cs.drexel.edu/~david/Classes/CS430/HWs/p214-weiler.pdf,1977
+Inverse iteration,https://onlinelibrary.wiley.com/doi/abs/10.1002/zamm.19210010104,1921
+Rayleigh quotient iteration,-,1940
+LOBPCG algorithm,-,1948
+Bisection method,-,1985
+Laguerre iteration,-,1940
+QR algorithm,https://academic.oup.com/comjnl/article/4/4/332/432033,1962
+Jacobi eigenvalue algorithm,https://gdz.sub.uni-goettingen.de/id/PPN243919689_0030,1846
+Divide-and-conquer,https://link.springer.com/content/pdf/10.1007/BF01389480.pdf,1986
+Homotopy method,https://www.scirp.org/(S(czeh2tfqyw2orz553k1w0r45))/reference/ReferencesPapers.aspx?ReferenceID=530065,1992
+Folded spectrum method,https://journals.aps.org/pr/abstract/10.1103/PhysRev.46.828,1934
+MRRR algorithm,https://www.cs.utexas.edu/users/inderjit/public_papers/DesignMRRR_toms06.pdf,1999
+Bisection method,-,1820
+False position method,-,1690
+Newton's method,,1940
+Halley's method,-,1940
+Secant method,-,1940
+Ridder's method,https://ieeexplore.ieee.org/document/1084580/,1979
+Muller's method,https://www.jstor.org/stable/2001916,1956
+Todd–Coxeter algorithm,https://www.cambridge.org/core/journals/proceedings-of-the-edinburgh-mathematical-society/article/practical-method-for-enumerating-cosets-of-a-finite-abstract-group/0306574AD958F694A0A8339338348AA1,1936
+Haselgrove-Leech-Trotter (HLT) algorithm,,1940
+Knuth–Bendix algorithm,https://www.cs.tufts.edu/~nr/cs257/archive/don-knuth/knuth-bendix.pdf,1970
+Expectation–maximization (EM) algorithm,https://www.jstor.org/stable/2984875,1977
+Newton–Raphson algorithm,-,1685
+Parameter-expanded expectation maximization (PX-EM) algorithm,https://www.jstor.org/stable/2337481,1998
+Expectation conditional maximization (ECM),https://arxiv.org/abs/1709.06970,2017
+Generalized expectation maximization (GEM) algorithm,https://web.eecs.umich.edu/~fessler/papers/files/jour/94/web/fessler-94-sag.pdf,1994
+α-EM algorithm,https://dl.acm.org/doi/10.1109/TIT.2002.808105,2003
+Naive solution,-,1940
+ Flajolet–Martin algorithm,http://algo.inria.fr/flajolet/Publications/src/FlMa85.pdf,1984
+LogLog algorithm,http://algo.inria.fr/flajolet/Publications/DuFl03-LNCS.pdf,2003
+HyperLogLog algorithm,http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf,2007
+HyperLogLog++,https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf,2014
+Min/max sketches streaming algorithm,,1980
+Bottom-m sketches streaming algorithm,,1980
+Chaitin's Algorithm,https://dl.acm.org/doi/10.1145/872726.806984,1981
+Chow's Algorithm,https://dl.acm.org/doi/10.1145/502874.502896,1984
+"Linear Scan, Poletto & Sarkar",http://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf,1999
+Cooper and Dasgupta algorithm,,1983
+"Optimal Register Allocation (ORA), Goodwin & Wilken Algorithm",https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-024X(199608)26:8%3C929::AID-SPE40%3E3.0.CO;2-T,1996
+Kong and Wilken Algorithm,https://dl.acm.org/doi/10.5555/290940.291002,1998
+Fortune's algorithm,http://www.wias-berlin.de/people/si/course/files/Fortune87-SweepLine-Voronoi.pdf,1986
+Linde–Buzo–Gray algorithm,https://ieeexplore.ieee.org/document/1094577/,1980
+Bowyer–Watson algorithm,https://academic.oup.com/comjnl/article/24/2/167/338200,1981
+Naïve algorithm,-,1940
+Two-pass algorithm,-,1940
+Welford's Online algorithm,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.7503&rep=rep1&type=pdf,1962
+Weighted incremental algorithm,https://dl.acm.org/doi/10.1145/359146.359153,1979
+Chan's algorithm Parallel Implementation,http://i.stanford.edu/pub/cstr/reports/cs/tr/79/773/CS-TR-79-773.pdf,1979
+Kahn's algorithm,https://dl.acm.org/doi/10.1145/368996.369025,1962
+Tarjan's DFS based algorithm,https://link.springer.com/article/10.1007/BF00268499,1976
+Dekel; Nassimi & Sahni Parallel Implementation ,https://www.proquest.com/docview/920003939?pq-origsite=gscholar&fromopenview=true,1981
+Hopcroft's algorithm,https://www.cs.cmu.edu/~./sutner/CDM/papers/Hopcroft71.pdf,1971
+Moore's algorithm,https://doi.org/10.2307/2964500,1956
+Brzozowski's algorithm,https://www.semanticscholar.org/paper/Canonical-regular-expressions-and-minimal-state-for-Brzozowski/94def4233e1e8f15bab72e82708a03fd37233b14,1963
+Revuz's algorithm,https://www.sciencedirect.com/science/article/pii/0304397592901423,1992
+Almeida & Zeitoun,https://www.labri.fr/perso/zeitoun/research/pdf/Almeida-Zeitoun-IPL2008.pdf,2008
+Tarjan's off-line lowest common ancestors algorithm,https://www.semanticscholar.org/paper/Fast-Algorithms-for-Finding-Nearest-Common-Harel-Tarjan/8867d059dda279b1aed4a0301e4e46f9daf65174,1984
+Schieber; Vishkin,https://epubs.siam.org/doi/abs/10.1137/0217079?journalCode=smjcat,1988
+Berkman; Vishkin,https://apps.dtic.mil/dtic/tr/fulltext/u2/a227803.pdf,1993
+Bender; Colton [LCA <=> RMQ],https://www.ics.uci.edu/~eppstein/261/BenFar-LCA-00.pdf,2000
+"Stephen Alstrup, Cyril Gavoille, Haim Kaplan & Theis Rauhe ",https://link.springer.com/article/10.1007/s00224-004-1155-5,2004
+ X Chen,https://doi.org/10.1016/j.knosys.2018.10.002,2019
+Y Bai,https://asset-pdf.scinapse.io/prod/2886034153/2886034153.pdf,2018
+L Chang,https://doi.org/10.48550/arXiv.1709.06810,2017
+K Riesen,https://doi.org/10.1007/978-3-642-38221-5_15,2013
+Alberto Sanfeliu and King-Sun Fu,https://doi.org/10.1109/TSMC.1983.6313167,1983
+"Neuhaus, Riesen, Bunke",https://link.springer.com/chapter/10.1007/11815921_17,2006
+Wang Y-K; Fan K-C; Horng J-T,https://doi.org/10.1109/3477.604100,1997
+Tao D; Tang X; Li X et al,https://eprints.bbk.ac.uk/id/eprint/443/1/Binder1.pdf,2006
+Finch,https://direct.mit.edu/neco/article-pdf/10/7/1873/813998/089976698300017188.pdf?casa_token=nCYv9xO_Cc4AAAAA:EHiG4v8QmQju6u9RE6w4X6EGRtk5O5W6hIGy-_0A3HSit43f__4oSd4wjAtFIGJuopGMZzU,1998
+Bron–Kerbosch algorithm,https://dl.acm.org/doi/10.1145/362342.362367,1973
+Akkoyunlu; E. A. ,http://www.dcs.gla.ac.uk/~pat/jchoco/clique/enumeration/papers/SMJ000001%5B1%5D.pdf,1973
+Tomita; Tanaka & Takahashi,https://snap.stanford.edu/class/cs224w-readings/tomita06cliques.pdf,2006
+Segundo; Artieda;  Strash Parallel,https://arxiv.org/pdf/1801.00202.pdf,2011
+"David Eppstein, Maarten Löffler, Darren Strash",https://arxiv.org/pdf/1006.5440.pdf,2010
+Chiba and Nishizeki ,https://pdfs.semanticscholar.org/0d19/245a27bc65a87a8014d5b8a66fb514c8ff0b.pdf,1985
+M. Chrobak and D. Eppstein,https://www.ics.uci.edu/~eppstein/pubs/ChrEpp-TCS-91.pdf,1989
+"Shuji Tsukiyama, Mikio Ide, Hiromu Ariyoshi, and Isao Shirakawa",https://www.proquest.com/docview/918487776?pq-origsite=gscholar&fromopenview=true,1977
+"Kazuhisa Makino, Takeaki Uno; Section 5",https://link.springer.com/chapter/10.1007/978-3-540-27810-8_23,2004
+Held–Karp algorithm,https://www.jstor.org/stable/2098806,1962
+Christofides algorithm,https://apps.dtic.mil/dtic/tr/fulltext/u2/a025602.pdf,1976
+Lawler; E. L.,https://onlinelibrary.wiley.com/doi/10.1002/net.3230180309,1985
+TSPLIB,https://pubsonline.informs.org/doi/abs/10.1287/ijoc.3.4.376,1991
+5-point star Cramer's rule,,1945
+5-point Gauss elimination,,1945
+5-point Gauss Seidel iteration,,1945
+5-point SOR iteration,,1954
+5-point ADI iteration,,1955
+9-point SOR iteration,,1956
+9-point Tensor product,https://epubs.siam.org/doi/pdf/10.1137/0113067,1964
+9-point ADI iteration,,1965
+5-point FFT,,1965
+9-point ADI iteration + smooth guess,,1969
+5-point cyclic reduction,,1970
+9-point FFT,,1978
+5-point star Cramer's rule,,1945
+5-point Gauss elimination,,1945
+5-point Gauss Seidel iteration,,1945
+5-point SOR iteration,,1954
+5-point ADI iteration,,1955
+9-point SOR iteration,,1956
+9-point Tensor product,https://epubs.siam.org/doi/pdf/10.1137/0113067,1964
+9-point ADI iteration,,1965
+5-point FFT,,1965
+9-point ADI iteration + smooth guess,,1969
+5-point cyclic reduction,,1970
+9-point FFT,,1978
+Naive algorithm,-,1934
+Flipping algorithm,https://link.springer.com/article/10.1007/PL00009464,1999
+de Berg; Cheong,https://web.archive.org/web/20091028054315/http://www.cs.uu.nl/geobook/interpolation.pdf,2008
+Bowyer–Watson algorithm,https://academic.oup.com/comjnl/article/24/2/167/338200,1981
+Belloch,https://web.archive.org/web/20180425231851/https://www.cs.cmu.edu/~ygu1/paper/SPAA16/Incremental.pdf,2006
+Guibas; Stofli,http://www.geom.uiuc.edu/~samuelp/del_project.html,1985
+Fortune,https://dl.acm.org/doi/10.1145/142675.142695,1992
+S-hull (Sinclair),http://www.s-hull.org/paper/s_hull.pdf,2010
+Dwyer,https://link.springer.com/article/10.1007/BF01840356,1987
+ Katajainen and M. Koppinen,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6313167,1988
+Drysdale; Su,https://web.archive.org/web/20120308043808/http://www.cs.berkeley.edu/~jrs/meshpapers/SuDrysdale.pdf,1996
+Dwyer (higher dimensions),https://link.springer.com/article/10.1007/BF02574694,1987
+"de Bruijn Graph (Idury, Waterman)",https://www.ncbi.nlm.nih.gov/pubmed/7497130,1994
+String Graph (Myers),https://www.ncbi.nlm.nih.gov/pubmed/7497129,1994
+"String Graph with Ferragina–Manzini Index (Simpson, Durbin)",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881401/pdf/btq217.pdf,2010
+Hybrid Algorithm,,1999
+Naive algorithm,,1940
+Random Split Exponential algorithm,,1940
+Brute force algorithm,https://www.sciencedirect.com/science/article/pii/0166218X92900315,1967
+Schlimmer,https://www.aaai.org/Papers/Workshops/1993/WS-93-02/WS93-02-017.pdf,1993
+Liu,https://doi.org/10.1016/0950-5849(92)90028-N,1992
+Tradu; Mirc,,1967
+Xu; Renio,,1972
+Derek's Algorithm,,1983
+Russell et. al.,,1989
+Maxwell,,2000
+Derek's + Maxwell,,2001
+Naive,,1956
+Trino,,2004
+Räihä; Manilla,https://www.sciencedirect.com/science/article/pii/0166218X92900315,1992
+Catriel Beeri Ronald Fagin John H. Howard,https://dl.acm.org/doi/10.1145/509404.509414,1977
+FCFS,-,1979
+SSTF,-,1979
+SCAN,-,1979
+LOOK,-,1979
+C-SCAN,-,1979
+C-LOOK,-,1979
+Brute force (backtracking search),,1940
+Sam Buss ,http://bud.cs.uky.edu/~goldsmit/papers/NondetWithinP.pdf,1993
+Chen; I. Kanj; and W. Jia.,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7.4800&rep=rep1&type=pdf,2001
+Chandran and F. Grandoni,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.4409&rep=rep1&type=pdf,2004
+Chen; I. Kanj; and W. Jia.,https://www.cs.lafayette.edu/~gexia/research/mfcs06.pdf,2006
+J. Chen; L. Liu; and W. Jia.,https://onlinelibrary.wiley.com/doi/abs/10.1002/1097-0037(200007)35:4%3C253::AID-NET3%3E3.0.CO;2-K,2000
+Balasubramanian; Fellows,https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.711.8844,1996
+Papadimitriou and M Yannakakis,https://www.sciencedirect.com/science/article/pii/S0022000096900586,1996
+"Niedermeier, Rossmanith",https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.1933&rep=rep1&type=pdf,1999
+Downey,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.4079&rep=rep1&type=pdf,1998
+Cocke–Younger–Kasami algorithm,https://core.ac.uk/download/pdf/158319955.pdf,1968
+Valiant,https://linkinghub.elsevier.com/retrieve/pii/S0022000075800468,1975
+Earley parser,https://web.archive.org/web/20040708052627/http://www-2.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-55/lti/Courses/711/Class-notes/p94-earley.pdf,1968
+GLR parser,https://link.springer.com/chapter/10.1007%2F978-3-662-21545-6_18,1974
+A-Priori algorithm,http://www.vldb.org/conf/1994/P487.PDF,1994
+The Algorithm of Park; Chen; and Yu (PCY),https://dl.acm.org/doi/abs/10.1145/568271.223813,1995
+The Multistage Algorithm,http://ilpubs.stanford.edu:8090/423/,1999
+The Multihash Algorithm,http://ilpubs.stanford.edu:8090/423/,1999
+Gupta; Verdu,https://doi.org/10.1109/TIT.2009.2016040,2009
+Discrete Cosine Transform,https://doi.org/10.1109%2FT-C.1974.223784,1974
+Maneva and M. J. Wainwright,https://ieeexplore.ieee.org/document/1523592,2005
+ Ciliberti; Mézard,https://arxiv.org/abs/cond-mat/0504509,2005
+Brute force,,1940
+Matsunaga; Yamamoto,https://doi.org/10.1109/TIT.2003.815805,2003
+Sun; M. Shao; J. Chen; K. Wong; and X. Wu,https://ieeexplore.ieee.org/document/5474629/,2010
+Miyake 2006,https://www.semanticscholar.org/paper/Lossy-Data-Compression-over-Zq-by-LDPC-Code-Miyake/652f0438118898b63126f7261ec4cd2002ff0e0b,2006
+Martinian and M. J. Wainwright,https://arxiv.org/abs/cs/0602046,2006
+Jalali and T. Weissman,https://web.stanford.edu/~tsachy/pdf_files/Lossy%20Source%20Coding%20via%20Markov%20Chain%20Monte%20Carlo.pdf,2008
+Jalali; A. Montanari; and T. Weissman,https://authors.library.caltech.edu/17983/1/Jalali2010p7459Ieee_T_Inform_Theory.pdf,2010
+Korada and R. Urbanke;,https://arxiv.org/pdf/0903.0307.pdf,2010
+Berlekamp's algorithm,https://ieeexplore.ieee.org/document/6768643/,1967
+Schubert's algorithm,-,1940
+Square-free factorization,-,1975
+Distinct-degree factorization,-,1944
+Cantor–Zassenhaus algorithm,https://www.ams.org/journals/mcom/1981-36-154/S0025-5718-1981-0606517-5/home.html,1981
+Victor Shoup's algorithm,https://www.sciencedirect.com/science/article/abs/pii/0020019090901954,1990
+Berlekamp–Massey algorithm,https://ieeexplore.ieee.org/document/1054260,1969
+Gale–Shapley algorithm,http://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf,1962
+Irving's Algorithm,http://www.dcs.gla.ac.uk/~pat/jchoco/roommates/papers/Comp_sdarticle.pdf,1985
+Manlove; Malley,http://www.dcs.gla.ac.uk/~davidm/pubs/7981.pdf,2005
+Unsworth; C.; Prosser; P,http://www.dcs.gla.ac.uk/~pat/roommates/distribution/papers/SM2N.pdf,2005
+Hentenryck et. al.,https://www.sciencedirect.com/science/article/abs/pii/000437029290020X,1992
+Gent; I.P.; Irving; R.W.; Manlove; D.F.; Prosser; P.; Smith; B.M.,https://link.springer.com/chapter/10.1007/3-540-45578-7_16,2001
+Patrick Posser,https://link.springer.com/chapter/10.1007%2F978-3-319-07046-9_2,2014
+S. S. TSENG and R. C. T. LEE,https://link.springer.com/content/pdf/10.1007/BF02136029.pdf,1984
+"Tomas Feder, Nimrod Megiddoy, Serge A_x0001_ Plotki",http://theory.stanford.edu/~megiddo/pdf/soda94.pdf,1994
+Ioannidou; Kyriaki; Mertzios; George B.; Nikolopoulos; Stavros D.,https://link.springer.com/content/pdf/10.1007/s00453-010-9411-3.pdf,2011
+Naive,-,1973
+Weiner's algorithm,https://dl.acm.org/citation.cfm?id=1441766,1973
+Pratt,-,1973
+Ukkonen,https://www.cs.helsinki.fi/u/ukkonen/SuffixT1withFigs.pdf,1995
+Ukkonen and D. Wood,https://link.springer.com/article/10.1007/BF01769703,1993
+Hariharan,https://www.sciencedirect.com/science/article/pii/S0022000097914963,1997
+Süleyman Cenk Sahinalp ; Uzi Vishkin,https://link.springer.com/content/pdf/10.1007/3-540-57811-0_3.pdf,1994
+Farach,https://www.cs.rutgers.edu/~farach/pubs/PRAMSuffixICALP.pdf,1997
+Rytter,https://www.researchgate.net/publication/228945502_On_parallel_transformations_of_suffix_arrays_into_suffix_trees,2004
+McCreight,http://libeccio.di.unisa.it/TdP/suffix.pdf,1976
+Fellegi & Sunter Model,https://courses.cs.washington.edu/courses/cse590q/04au/papers/Felligi69.pdf,1969
+Gupta & Sarawagi CRF,https://doi.org/10.14778/1687627.1687661,2009
+Chen Ensembles of classifiers,,1989
+EM Based Winkler,https://courses.cs.washington.edu/courses/cse590q/04au/papers/WinklerEM.pdf,2000
+Ravikumar & Cohen Generative Models,https://arxiv.org/abs/1207.4180,2004
+Bellare Active Learning,https://dl.acm.org/doi/10.1145/2339530.2339707,2012
+Ananthakrishna,https://doi.org/10.1016/B978-155860869-6/50058-5,2002
+BOYS algorithm,https://www.sciencedirect.com/science/article/abs/pii/016794739390116B,1993
+Naive,-,1940
+Dynamic Programming,-,1953
+Manacher,https://doi.org/10.1145%2F321892.321896,1975
+Jeuring,https://doi.org/10.1007%2FBF01182773,1994
+Gusfield ,https://www.cambridge.org/core/books/algorithms-on-strings-trees-and-sequences/F0B095049C7E6EF5356F0A26686C20D3,1997
+Demand-Driven Register Allocation,https://dl.acm.org/doi/10.1145/236114.236117,1996
+Sethi–Ullman Algorithm,https://dl.acm.org/doi/10.1145/321607.321620,1970
+Babai and Luks,https://dl.acm.org/doi/10.1145/800061.808746,1983
+Babai,https://epubs.siam.org/doi/10.1137/0209018,1980
+Spielman,https://www.cs.yale.edu/homes/spielman/PAPERS/srg.pdf,1996
+McKay,http://users.cecs.anu.edu.au/~bdm/papers/pgi.pdf,1981
+Schmidt & Druffel,https://dl.acm.org/doi/10.1145/321958.321963,1976
+Ullman,https://dl.acm.org/doi/10.1145/321921.321925,1976
+Babai,"http://people.cs.uchicago.edu/~laci/update.html, http://people.cs.uchicago.edu/~laci/17groups/version2.1.pdf",2017
+Muzychuk,https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024611503014412,2004
+Bodlaender,https://www.sciencedirect.com/science/article/pii/0196677490900135,1990
+Babai & Codenotti,https://oa.mg/work/10.1109/focs.2008.80,2008
+Kleitman–Wang Algorithm,https://linkinghub.elsevier.com/retrieve/pii/0012365X7390037X,1973
+Fulkerson–Chen–Anstee,https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/properties-of-a-class-of-01matrices-covering-a-given-matrix/9A3857D219511017536142BD7F132C91,1982
+Berger & Müller-Hannemann,https://arxiv.org/abs/1203.3636,2011
+Sorting based [Merge Sort],,1964
+Sorting based [Merge Sort] + real-time elimination,,1964
+BST Algorithm,,1999
+Priority Queue Algorithm,,1976
+Sorted Neighborhood Algorithm (SNA),https://link.springer.com/article/10.1023/A:1009761603038,1998
+Duplicate Elimination Sorted Neighborhood Algorithm (DE-SNA),,2002
+Adaptive Duplicate Detection Algorithm (ADD),https://dl.acm.org/doi/10.1145/956750.956759,2003
+B.I. Kvasov,https://link.springer.com/article/10.1134/S0965542508040039,2008
+V. A. Lyul’ka and A. V. Romanenko,https://www.mathnet.ru/eng/zvmmf2544,1994
+V. A. Lyul’ka and I. E. Mikhailov,http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=zvmmf&paperid=943&option_lang=eng,2003
+V. I. Paasonen,,1968
+"P. Costantini, B. I. Kvasov, and C. Manni",https://link.springer.com/article/10.1023/A:1018988312596,1999
+B. I. Kvasov,http://sutir.sut.ac.th:8080/sutir/bitstream/123456789/431/1/bib115.pdf,2000
+ECK M.; DEROSE T.; DUCHAMP T.; 1995,https://dl.acm.org/doi/10.1145/218380.218440,1995
+FLOATER 1997,http://www.cs.jhu.edu/~misha/Fall09/Floater97.pdf,1997
+PINKALL U.; POLTHIER K 1993,http://www.cs.jhu.edu/~misha/Fall09/Pinkall93.pdf,1993
+FLOATER 2003,https://www.ams.org/journals/mcom/2003-72-242/S0025-5718-02-01466-7/S0025-5718-02-01466-7.pdf,2003
+LEE Y.; KIM H. S.; LEE S 2002,https://www.sciencedirect.com/science/article/abs/pii/S0097849302001231,2002
+DESBRUN M.; MEYER M.; ALLIEZ P. 2002,https://dl.acm.org/doi/10.1145/566654.566588,2002
+LÉVY B.; PETITJEAN S.; RAY N.; MAILLOT J 2002,https://members.loria.fr/Bruno.Levy/papers/LSCM_SIGGRAPH_2002.pdf,2002
+KARNI Z.; GOTSMAN C.; GORTLER S. J. 2005,https://dash.harvard.edu/bitstream/handle/1/2634388/Gortler_FreeBoundary.pdf?sequence=2&isAllowed=y,2005
+HORMANN K.; GREINER G 1999,https://www.semanticscholar.org/paper/MIPS%3A-An-Efficient-Global-Parametrization-Method-Hormann-Greiner/a2f7f69b37565eb2729b45a7d72c6aae2e4908b8,1999
+SHEFFER A.; DE STURLER E. 2000,https://link.springer.com/article/10.1007/PL00013391,2000
+SHEFFER A.; LÉVY B.; MOGILNITSKY M.; BOGOMYAKOV A. 2005,https://hal.inria.fr/inria-00105689/document,2005
+ZAYER R.; LÉVY B.; SEIDEL H.-P. 2007,https://dl.acm.org/doi/10.5555/1281991.1282010,2007
+SANDER P. V.; SNYDER J.; GORTER S. J.; HOPPE 2001,https://dl.acm.org/doi/pdf/10.1145/383259.383307,2001
+YAN J. Q.; YANG X.; SHI P. F 2006,,2006
+ZAYER R.; ROESSL C.; SEIDEL H.-P 2005,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.1150&rep=rep1&type=pdf,2005
+YOSHIZAWA S.; BELYAEV A. G.; SEIDEL H.-P 2004,https://www.researchgate.net/profile/Alexander_Belyaev5/publication/47861414_A_fast_and_simple_stretch-minimizing_mesh_parameterization/links/5b962a6292851c78c40c0c3f/A-fast-and-simple-stretch-minimizing-mesh-parameterization.pdf,2004
+CHEN Z. G.; LIU L. G.; ZHANG Z. Y.; WANG G. J. 2007,https://dl.acm.org/doi/10.1145/1236246.1236287,2007
+YANG Y.; KIM J.; LUO F.; HU S.; GU X. 2008,,2008
+BEN-CHEN M.; GOTSMAN C.; BUNIN G. 2008,http://www.cs.technion.ac.il/~gotsman/AmendedPubl/Miri/EG08_Conf.pdf,2008
+SPRINGBORN B.; SCHROEDER P.; PINKALL U. 2008,https://dl.acm.org/doi/10.1145/1399504.1360676,2008
+Expectation-Maximization (EM) algorithm,https://www.jstor.org/stable/2984875,1977
+EM with Quasi-Newton Methods (Jamshidian; Mortaza; Jennrich; Robert I.),https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00083,1997
+Parameter-expanded expectation maximization (PX-EM),http://www.stat.ucla.edu/~ywu/research/papers/PXEM.pdf,1998
+Expectation conditional maximization (ECM),https://academic.oup.com/biomet/article-abstract/80/2/267/251605?redirectedFrom=fulltext,1993
+Expectation conditional maximization either (ECME) (Liu; Chuanhai; Rubin; Donald B),https://www.jstor.org/stable/2337067,1994
+α-EM Algorithm,https://waseda.pure.elsevier.com/en/publications/the-%CE%B1-em-algorithm-surrogate-likelihood-maximization-using-%CE%B1-loga,2003
+Shaban; Amirreza; Mehrdad; Farajtabar,https://faculty.cc.gatech.edu/~bboots3/files/SpectralExteriorPoint-NIPSWorkshop.pdf,2015
+"alpha-HMM (Matsuyama, Yasuo)",https://ieeexplore.ieee.org/abstract/document/7895145,2011
+LU Matrix Decomposition,,1945
+QR Matrix Decomposition,,1955
+Cholesky Decomposition,,1983
+Kalman Filter,,1960
+Particle filter Del Moral,,1996
+Stratonovich,,1959
+Stratonovich,,1960
+Kushner non-linear filter,https://ieeexplore.ieee.org/document/1098671,1967
+Zakai,https://link.springer.com/article/10.1007/BF00536382,1969
+Maybeck; Peter S Extended Kalman Filter,,1979
+Damiano Brigo; Bernard Hanzon and François LeGland,https://ieeexplore.ieee.org/abstract/document/661075,1998
+Del Moral; Pierre,https://projecteuclid.org/journals/annals-of-applied-probability/volume-8/issue-2/Measure-valued-processes-and-interacting-particle-systems-Application-to-nonlinear/10.1214/aoap/1028903535.full,1998
+Ocone,https://link.springer.com/chapter/10.1007/978-1-4612-1784-8_28,1999
+Bellman Value Iteration (VI),https://www.jstor.org/stable/24900506,1957
+Howard Policy Iteration (PI),http://web.mit.edu/dimitrib/www/dpchapter.pdf,1960
+Puterman Modified Policy Iteration (MPI),,1974
+Integer linear program Vazirani,https://link.springer.com/chapter/10.1007/978-3-662-04565-7_13,2001
+Greedy Algorithm,https://dl.acm.org/doi/10.1145/237814.237991,1996
+Lund & Yannakakis,https://doi.org/10.1145%2F185675.306789,1994
+Feige,https://courses.cs.duke.edu/spring07/cps296.2/papers/p634-feige.pdf,1998
+Raz & Safra,https://dl.acm.org/doi/10.1145/258533.258641,1997
+Dinur & Steurer,https://www.dsteurer.org/paper/productgames.pdf,2013
+Cardoso; Nuno; Abreu; Rui,https://www.semanticscholar.org/paper/An-efficient-distributed-algorithm-for-computing-Cardoso-Abreu/ce32696c1176800c5b90fab026bf93f282e2b161,2014
+Brute force,,1972
+Helden Oligo-Analysis,https://www.ncbi.nlm.nih.gov/pubmed/9719638,1998
+van Helden J; Rios AF; Collado-Vides J,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC102821/,2000
+Tompa M,https://www.aaai.org/Papers/ISMB/1999/ISMB99-030.pdf,1999
+Sinha S; Tompa M YMF (Yeast Motif Finder),https://www.ncbi.nlm.nih.gov/pubmed/10977095,2000
+Bailey TL; Elkan C MEME,https://link.springer.com/article/10.1007/BF00993379,1995
+Sagot M,https://link.springer.com/chapter/10.1007/BFb0054337,1988
+Liang Cwinnower,https://www.worldscientific.com/doi/10.1142/S0219720004000466,2003
+Kingsford,https://link.springer.com/chapter/10.1007/11780441_22,2006
+Naive,http://rosalind.info/problems/ba3m/,1940
+The INDEGREE Algorithm,https://www.w3.org/People/Massimo/papers/quest_hypersearch.pdf,1997
+The PAGERANK Algorithm,http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf,1998
+The (Hyperlink-Induced Topic Search) HITS Algorithm,https://dl.acm.org/doi/pdf/10.1145/324133.324140,1998
+Kleinberg,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.585.7341&rep=rep1&type=pdf,1998
+The (Stochastic Approach for Link Structure Analysis) SALSA Algorithm,https://dl.acm.org/doi/abs/10.1145/382979.383041,2000
+Randomized HITS,https://dl.acm.org/doi/pdf/10.1145/383952.384003,2001
+PHITS Coheng Chan,http://web.cse.msu.edu/~cse960/Papers/LinkAnalysis/phits.pdf,2000
+Haveliwala,http://www-cs-students.stanford.edu/~taherh/papers/topic-sensitive-pagerank.pdf,2002
+Jeh and Widom,http://infolab.stanford.edu/~glenj/spws.pdf,2003
+ Richardson and Domingos,https://homes.cs.washington.edu/~pedrod/papers/nips01b.pdf,2002
+Tomlin,https://dl.acm.org/doi/10.1145/775152.775202,2003
+Achlioptas,https://homes.cs.washington.edu/~karlin/papers/web-search.pdf,2001
+Leases (Cary G Gray and David R Cheriton),https://web.stanford.edu/class/cs240/readings/89-leases.pdf,1989
+Chubby (Mike Burrows),https://dl.acm.org/doi/10.5555/1298455.1298487,2006
+Tushar Deepak Chandra and Sam Toueg,https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf,1996
+Brute force,,1987
+Branch and bound,,1993
+Ray casting algorithm Shimrat; M,https://dl.acm.org/doi/pdf/10.1145/368637.368653,1962
+Nordbeck and Rystedt (Grid Method),https://doi.org/10.1007/BF01934125,1967
+Salomon (Swath Method),https://doi.org/10.1016/0098-3004(78)90085-7,1978
+Nordbeck and Rystedt (Sum of area),https://doi.org/10.1007/BF01934125,1967
+Preparata and Shamos (Wedge),http://www.cs.kent.edu/~dragan/CG/CG-Book.pdf,1985
+Saalfeld (Sign of offset),https://doi.org/10.1080/02693798708927823,1987
+Preparata and Shamos (Intersection sum of angle),http://www.cs.kent.edu/~dragan/CG/CG-Book.pdf,1985
+Nordbeck and Rystedt (Orientation),https://doi.org/10.1007/BF01934125,1967
+ASP,https://ieeexplore.ieee.org/document/1281624,2005
+Clock-sampling mutual network synchronization,https://www.researchgate.net/publication/224306349_Clock-Sampling_Mutual_Network_Synchronization_for_Mobile_Multi-hop_Wireless_Ad_Hoc_Networks,2007
+MATSF,https://ieeexplore.ieee.org/document/4359404,2004
+Iterative naive,http://rosalind.info/problems/ba1n/,1940
+Hadlock,,1975
+Motwani & Raghavan,https://rajsain.files.wordpress.com/2013/11/randomized-algorithms-motwani-and-raghavan.pdf,1995
+Mitzenmacher & Upfal,http://lib.ysu.am/open_books/413311.pdf,2005
+"Khuller; Raghavachari & Young, ""Greedy Methods""",https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Handbook%20of%20Approximation%20Algorithms%20and%20Metaheuristics%20%5BGonzalez%202007-01-05%5D.pdf,2007
+Ausiello et al.,https://link.springer.com/content/pdf/10.1007/978-3-642-58412-1.pdf?pdf=button,2003
+Dunning; Gupta & Silberholz,https://pubsonline.informs.org/doi/epdf/10.1287/ijoc.2017.0798,2018
+Ruchansky,https://arxiv.org/abs/1504.00513,2015
+Bareiss algorithm,https://www.ams.org/journals/mcom/1968-22-103/S0025-5718-1968-0226829-0/S0025-5718-1968-0226829-0.pdf,1968
+Bareiss algorithm with fast multiplication,-,1968
+Ferguson–Forcade algorithm,https://www.ams.org/journals/bull/1979-01-06/S0273-0979-1979-14691-3/S0273-0979-1979-14691-3.pdf,1979
+LLL algorithm,https://www.math.leidenuniv.nl/~hwl/PUBLICATIONS/1982f/art.pdf,1982
+PSOS algorithm,https://www.ams.org/journals/mcom/1989-53-188/S0025-5718-1989-0979934-9/S0025-5718-1989-0979934-9.pdf,1988
+PSLQ algorithm,https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00995-3/S0025-5718-99-00995-3.pdf,1992
+Amir et al.,https://link.springer.com/chapter/10.1007/3-540-63307-3_56,1997
+Navarro,https://www.sciencedirect.com/science/article/pii/S0304397599003333,2000
+HybridSpades,https://www.ncbi.nlm.nih.gov/pubmed/26589280,2015
+V-ALIGN,https://www.biorxiv.org/content/10.1101/124941v1.full,2018
+Rautiainen and Marschall,https://www.biorxiv.org/content/10.1101/216127v1,2017
+"Jain, Chang",https://www.biorxiv.org/content/10.1101/522912v1.full.pdf,2019
+"Rautiainen, Marschall",https://www.ncbi.nlm.nih.gov/pubmed/30851095,2019
+Trial Multiplication,,1940
+Baby-step Giant-step,https://doi.org/10.1090/pspum/020,1971
+Function Field Sieve (FFS),https://www.sciencedirect.com/science/article/pii/S0890540198927614,1999
+Index calculus algorithm,,1922
+Number Field Sieve (NFS),http://www.ams.org/notices/199612/pomerance.pdf,1990
+Pohlig-Hellman,https://dl.acm.org/citation.cfm?id=2269283,1978
+Pollard's rho algorithm,https://www.ams.org/mcom/1978-32-143/S0025-5718-1978-0491431-9/S0025-5718-1978-0491431-9.pdf,1978
+Pollard's kangaroo algorithm,https://www.ams.org/mcom/1978-32-143/S0025-5718-1978-0491431-9/S0025-5718-1978-0491431-9.pdf,1978
+AVL Tree,,1962
+"Guibas, Sedgewick Red-Black Tree",https://ieeexplore.ieee.org/document/4567957,1972
+Hopcroft 2-3 Tree,,1970
+Tarjan Splay Tree,,1985
+"Bayer, McCreight B-Tree",,1970
+Hopcroft 2-3 Tree,,1970
+"Guibas, Sedgewick Red-Black Tree",https://ieeexplore.ieee.org/document/4567957,1972
+Hopcroft 2-3 Tree,,1970
+"Guibas, Sedgewick Red-Black Tree",https://ieeexplore.ieee.org/document/4567957,1972
+Hopcroft 2-3 Tree,,1970
+"Guibas, Sedgewick Red-Black Tree",https://ieeexplore.ieee.org/document/4567957,1972
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1972
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1972
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1978
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1979
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1980
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1980
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1981
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1986
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,1990
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,2014
+"Aho, Garey & Ullman",https://epubs.siam.org/doi/pdf/10.1137/0201008,2014
+"Gries, Martin",https://www.sciencedirect.com/science/article/pii/0167642389900397,1989
+Outside-In algorithm,,1991
+Naive Algorithm,,1848
+Naive + 1 queen per row restriction,,1850
+Dijkstra,https://dl.acm.org/citation.cfm?id=1243380,1972
+Nauck,,1850
+Gunther Determinants solution,,1874
+"Rivin, Zabih",http://www.cs.cornell.edu/~rdz/Papers/RZ-IPL92.pdf,1992
+Naive Solution,,1965
+Naive solution,,1940
+Iteration based,,1883
+Recursion based,,1940
+Non-recursion based,,1940
+Gray-code based,,1940
+Hanoi graph,https://books.google.com/books/about/Topics_in_Graph_Theory.html?id=pSv3XotPCQgC,2008
+Naive solution,,1940
+Rabin Karp,,1987
+Naive Implementation,,1800
+MD5,,1991
+SHA-1,,1993
+RIPEMD-160,,1996
+bcrypt,,1999
+Whirlpool,,2000
+SHA-2,,2001
+SHA-3,,2015
+BLAKE2,,2012
+Shamir's scheme,,1979
+Blakley's scheme,,1979
+Bisection method,,-150
+Regula Falsi method,,-200
+Secant method,,-1400
+Newton's method,,1669
+Lucifer / DES,,1976
+IDEA,,1991
+RC5,https://link.springer.com/chapter/10.1007/3-540-60590-8_7,1994
+Rijndael / AES,https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf,2001
+Blowfish,https://link.springer.com/chapter/10.1007/3-540-58108-1_24,1993
+Gaussian elimination,,-150
+Bjorck,https://www.jstor.org/stable/2004623?origin=crossref&seq=5#metadata_info_tab_contents,1970
+Higham,https://academic.oup.com/imajna/article/8/4/473/758789?login=true,1988
+"Calvetti, Reichel",https://link.springer.com/article/10.1007/BF01990529,1993
+Euclid's algorithm,,-300
+Lehmer's GCD algorithm,,1940
+Binary GCD algorithm,https://arxiv.org/abs/0910.0095,1967
+"Sthele, Zimmermann",https://hal.inria.fr/file/index/docid/71533/filename/RR-5050.pdf,2006
+Brute force algorithm,,1940
+$O(n^3)$ Dynamic Programming,,1953
+$O(n^2)$ Dynamic Programming,,1953
+$O(n\log n)$ Dynamic Programming,,1953
+Fixed priority shortest job first,,1940
+Priority scheduling,,1940
+Shortest remaining time first,,1940
+"First come, first served",,1940
+Round-robin scheduling,,1940
+Multilevel queue scheduling,,1940
+Work-conserving schedulers,,1940
+Banker's Algorithm,https://www.cs.utexas.edu/users/EWD/ewd01xx/EWD108.PDF,1966
+The theoretically optimal page replacement algorithm,,1940
+Not recently used,,1940
+"First-in, first-out",,1940
+Second-chance,,1940
+Clock,,1940
+Least recently used,,1940
+Random,,1940
+Not frequently used (NFU),,1940
+Aging,,1940
+Longest distance first (LDF) page replacement algorithm,https://www.researchgate.net/profile/Gyanendra-Kumar-3/publication/319467661_A_Novel_Longest_Distance_First_Page_Replacement_Algorithm/links/59b209f1aca2728472d14684/A-Novel-Longest-Distance-First-Page-Replacement-Algorithm.pdf,2017
+ARIES,https://dl.acm.org/doi/10.1145/128765.128770,1992
+odd-even sort - Batcher,https://dl.acm.org/doi/abs/10.1145/1468075.1468121,1968.0
+bitonic sort - Batcher,https://dl.acm.org/doi/abs/10.1145/1468075.1468121,1968.0
+Alekseyev,https://link.springer.com/article/10.1007/BF01267888,1969.0
+Stone,https://ieeexplore.ieee.org/abstract/document/1671798,1971.0
+Van Voorhis,https://apps.dtic.mil/sti/citations/AD0737270,1971.0
+Odd Even Sort Parallel  Implementation // parallel neighborhood sort - Habermann,https://www.semanticscholar.org/paper/Parallel-Neighbor-Sort-(or-the-Glory-of-the-Habermann/bc7b6efb99aae6225239425747fd0169a51f30ce,1972.0
+Shellsort - Pratt,https://apps.dtic.mil/sti/citations/AD0740110,1972.0
+Knuth,"The art of computer programming, volume 3: Sorting and searching",1973.0
+parallel tape sort - Even (1),https://dl.acm.org/doi/abs/10.1145/360924.360941,1974.0
+parallel tape sort - Even (2),https://dl.acm.org/doi/abs/10.1145/360924.360941,1974.0
+"Parallel Neighborhood sort - Baudet, Stevenson",https://kilthub.cmu.edu/articles/Optimal_sorting_algorithms_for_parallel_computers/6608162/files/12099023.pdf,1975.0
+Muller and Preperata,https://dl.acm.org/doi/pdf/10.1145/321879.321882,1975.0
+Parallel Merge Sort - Valiant,https://epubs.siam.org/doi/abs/10.1137/0204030,1975.0
+Gavril,https://dl.acm.org/doi/abs/10.1145/361020.361216,1975.0
+Parallel bucket-sort - Hirschberg (1),https://dl.acm.org/doi/abs/10.1145/359576.359582,1977.0
+Parallel bucket-sort - Hirschberg (2),https://dl.acm.org/doi/abs/10.1145/359576.359582,1977.0
+Preperata,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1675167&tag=1,1977.0
+Preperata,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1675167&tag=1,1977.0
+s^2-way merge sort - Thompson and Kung (1),https://dl.acm.org/doi/abs/10.1145/359461.359481,1977.0
+adaptation of Batcher's bitonic merge sort - Thompson and Kung (2),https://dl.acm.org/doi/abs/10.1145/359461.359481,1977.0
+Siegel,https://dl.acm.org/doi/abs/10.1145/800255.810655,1977.0
+Rebound sort - Chen et al.,https://dl.acm.org/doi/abs/10.5555/1286643.1286685,1978.0
+Bentley and Kung,https://www.eecs.harvard.edu/htk/static/files/bg891xp4727.pdf,1979.0
+Nassimi and Sahni,https://ieeexplore.ieee.org/abstract/document/1675216,1979.0
+Preperata and Vuillemin,https://dl.acm.org/doi/abs/10.1145/358645.358660; https://ieeexplore.ieee.org/abstract/document/4568010,1979.0
+odd-even sort - Hsiao and Menon (1),https://apps.dtic.mil/sti/citations/ADA090192,1980.0
+modified Stone sort - Hsiao and Menon (2),https://apps.dtic.mil/sti/citations/ADA090192,1980.0
+specialized minimum time sort - Hsiao and Menon (3),https://apps.dtic.mil/sti/citations/ADA090192,1980.0
+Chung et al.,https://ieeexplore.ieee.org/abstract/document/5390784,1980.0
+Schwartz,https://dl.acm.org/doi/abs/10.1145/357114.357116,1980.0
+Haggkvist and Hell,https://epubs.siam.org/doi/abs/10.1137/0210034,1981.0
+Lee et al.,https://ieeexplore.ieee.org/abstract/document/1675805,1981.0
+Leiserson,https://www.proquest.com/docview/303100225?pq-origsite=gscholar&fromopenview=true,1981.0
+Shiloach and Vishkin,https://link.springer.com/chapter/10.1007/BFb0105127,1981.0
+Reischuk,https://ieeexplore.ieee.org/abstract/document/4568337,1981.0
+basic parallel comparison-tree - Borodin and Hopcroft,https://dl.acm.org/doi/abs/10.1145/800070.802209,1982.0
+Fishburn and Finkel,https://ieeexplore.ieee.org/abstract/document/1675994,1982.0
+Dohi et al.,https://dl.acm.org/doi/abs/10.1145/1067649.801730,1982.0
+Yasuura et al.,https://ieeexplore.ieee.org/abstract/document/1675943,1982.0
+"Nassimi, Sahni",https://dl.acm.org/doi/pdf/10.1145/322326.322329,1982.0
+"Aijtai, Komlos, Szemeredi",https://dl.acm.org/doi/pdf/10.1145/800061.808726,1983.0
+Kumar and Hirschberg,https://ieeexplore.ieee.org/abstract/document/1676217; https://scholarship.rice.edu/handle/1911/104542 ?,1983.0
+Ajtai et al.,https://dl.acm.org/doi/pdf/10.1145/800061.808726,1983.0
+Thompson,https://link.springer.com/chapter/10.1007/978-3-642-68402-9_13,1983.0
+Kruskal,https://ieeexplore.ieee.org/abstract/document/1676138/authors#authors,1983.0
+Bilardi and Preperata,https://dl.acm.org/doi/abs/10.1145/800057.808666,1983.0
+Akl,https://link.springer.com/article/10.1007/BF02243071; https://www.sciencedirect.com/science/article/abs/pii/B9780444878069500062,1983.0
+Reif and Valiant,https://dl.acm.org/doi/abs/10.1145/800061.808727,1983.0
+Bollobas and Thomason,https://www.sciencedirect.com/science/article/pii/0166218X83900951,1983.0
+Spaghetti Sort Parallel Implementation - Steiglitz,https://link.springer.com/chapter/10.1007/978-94-009-2794-0_11,1984.0
+"Kirkpatrick, Reisch",https://www.sciencedirect.com/science/article/pii/0304397583900233,1984.0
+Reif,https://ieeexplore.ieee.org/abstract/document/4568176,1985.0
+Reischuk,https://epubs.siam.org/doi/abs/10.1137/0214030,1985.0
+Tseng and Lee,https://link.springer.com/article/10.1007/BF00991185,1985.0
+modified block bitonic sort - Menon,https://www.vldb.org/conf/1986/P197.PDF,1986.0
+"Wagner, Han",http://h.web.umkc.edu/hanyij/html/research/icpp86.pdf,1986.0
+"Schnorr, Shamir",https://dl.acm.org/doi/pdf/10.1145/12130.12156,1986.0
+Hagerup,https://www.sciencedirect.com/science/article/pii/0890540187900629,1987.0
+"Akl, Santoro",https://ieeexplore.ieee.org/abstract/document/5009478,1987.0
+Kunde,https://link.springer.com/chapter/10.1007/BFb0040409,1988.0
+Parallel Merge Sort - Cole (1),https://epubs.siam.org/doi/abs/10.1137/0217049,1988.0
+Parallel Merge Sort - Cole (2),https://epubs.siam.org/doi/abs/10.1137/0217049,1988.0
+Francis and Mathieson,https://ieeexplore.ieee.org/abstract/document/9738,1988.0
+"Rajesekaran, Reif",https://epubs.siam.org/doi/abs/10.1137/0218041,1989.0
+"Scherson, Sen",https://ieeexplore.ieee.org/abstract/document/16500,1989.0
+"Hagerub, Rub",https://www.sciencedirect.com/science/article/pii/0020019089901385,1989.0
+"Bitonic Merge Sort Parallel Implementation - Bilardi, Nicolau",https://epubs.siam.org/doi/abs/10.1137/0218014,1989.0
+"Takefuji, Lee",https://ieeexplore.ieee.org/abstract/document/62417,1990.0
+"Hagerup, Shen",https://www.sciencedirect.com/science/article/pii/002001909090097H,1990.0
+Raman,https://link.springer.com/chapter/10.1007/3-540-53487-3_42,1990.0
+"Cypher, Plaxton",https://dl.acm.org/doi/pdf/10.1145/100216.100240,1990.0
+"Leighton, Plaxton",https://ieeexplore.ieee.org/abstract/document/89545,1990.0
+"Anderson, Miller",https://link.springer.com/article/10.1007/BF01759076,1991.0
+"Bhatt, Diks, Hagerup, Prasad, Radzik, Saxena",https://www.sciencedirect.com/science/article/pii/089054019190031V,1991.0
+Hagerup,https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1834995,1991.0
+Hagerup,https://dl.acm.org/doi/pdf/10.1145/103418.103452,1991.0
+"Matias, Vishkin",https://www.sciencedirect.com/science/article/pii/019667749190034V,1991.0
+"Cube Sort Parallel Implementation - Cypher, Sanz",https://www.sciencedirect.com/science/article/pii/0196677492900166?via%3Dihub,1992.0
+"Varman, Doshi",https://www.computer.org/csdl/journal/tc/1992/01/t0097/13rRUILLkD1,1992.0
+"Shi, Schaeffer",https://www.sciencedirect.com/science/article/pii/074373159290075X,1992.0
+"Corbett, Scherson",https://www.computer.org/csdl/journal/td/1992/05/l0626/13rRUxly9dj,1992.0
+"Rajesekaran, Sen",https://www.cse.iitd.ac.in/~sSen/journals/acta.pdf,1992.0
+"Hagerup, Raman",https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1834884,1992.0
+"Hagerup, Raman",https://dl.acm.org/doi/pdf/10.1145/165231.157380,1993.0
+"Kale, Krishnan",https://ieeexplore.ieee.org/abstract/document/4134268,1993.0
+"Vaidyanathan, Hartmann, Varshney",https://ieeexplore.ieee.org/abstract/document/262880,1993.0
+"Leighton, Maggs, Ranade, Rao",https://www.sciencedirect.com/science/article/pii/S0196677484710303,1994.0
+"Goodrich, Matias, Vishkin",https://dl.acm.org/doi/pdf/10.5555/314464.314499,1994.0
+Han and Shen,https://link.springer.com/chapter/10.1007/BFb0030847,1995.0
+"Bast, Hagerup",https://www.infona.pl/resource/bwmeta1.element.elsevier-27dbeebf-1d67-3c08-a222-c630ae81af5c,1995.0
+Andersson,https://ieeexplore.ieee.org/abstract/document/548472,1996.0
+Goodrich,https://dl.acm.org/doi/pdf/10.1145/237814.237870,1996.0
+Shear-sort - De et al.,https://ieeexplore.ieee.org/abstract/document/628397,1997.0
+"Albers, Hagerup (1)",https://www.sciencedirect.com/science/article/pii/S0890540197926328,1997.0
+"Albers, Hagerup (2)",https://www.sciencedirect.com/science/article/pii/S0890540197926328,1997.0
+"Albers, Hagerup (3)",https://www.sciencedirect.com/science/article/pii/S0890540197926328,1997.0
+"Helman, Bader, JaJa",https://www.sciencedirect.com/science/article/abs/pii/S0743731598914629,1998.0
+"Dessmark, Lingas",https://www.sciencedirect.com/science/article/abs/pii/S0743731597914015,1998.0
+"Suehiro, Murai, Seo",https://dl.acm.org/doi/pdf/10.1145/277830.277904,1998.0
+"Cheng, Shah, Gilbert, Edelman",https://sites.cs.ucsb.edu/~gilbert/cs140resources/old/cs140Win2011/slides/ViralParallelSort.pdf,2007.0
+"partition and concurrent merging (PCM) - Herruzo, Ruiz, Benavides, Plata",https://ieeexplore.ieee.org/abstract/document/4135254,2007.0
+Multi-sort - Rakesh,https://link.springer.com/article/10.1007/s11227-010-0404-4,2010.0
+"Alquaied, Almudaifer and AlShaya",https://ieeexplore.ieee.org/abstract/document/5877001,2011.0
+Czumaj,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.8168&rep=rep1&type=pdf,1996.0
+Czumaj,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.8168&rep=rep1&type=pdf,1996.0
+Heejo Lee; Jong Kim; Sungje Hong; and Sunggu Lee,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.222&rep=rep1&type=pdf,1997.0
+Prakesh Ramanan,https://epubs.siam.org/doi/abs/10.1137/0225039,1996.0
+Czumaj,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.9426&rep=rep1&type=pdf,1993.0
+Lu & Lin,https://ieeexplore.ieee.org/document/298210,1994.0
+Lu & Lin,https://ieeexplore.ieee.org/document/298210,1994.0
+Aggarwal & Park,https://ieeexplore.ieee.org/document/21966,1988.0
+Apostolico,https://www.proquest.com/openview/efa7264fa824ce7768c53ccdcc6d1458/1?pq-origsite=gscholar&cbl=666313,1990.0
+Mathies,https://kilthub.cmu.edu/articles/journal_contribution/A_fast_parallel_algorithm_to_determine_edit_distance/6587387/1,1988.0
+Shiloach,http://users.umiacs.umd.edu/~vishkin/TEACHING/4CLASS/SV82-maxflow.pdf,1981.0
+Goldberg & Rao (Parallel),https://dl.acm.org/citation.cfm?id=290181,1997.0
+Goldberg & Rao (Parallel),https://dl.acm.org/citation.cfm?id=290181,1997.0
+Dekel; Nassimi & Sahni,https://epubs.siam.org/doi/abs/10.1137/0210049,1981.0
+Chandra,"A. CHANDRA, Maximal parallelism in matrix multiplication, IBM Tech. Rept. R C 6193, Sept. 1976",1976.0
+Frieze & Rudolph,http://math.cmu.edu/~af1p/Texfiles/PARALLELALG.pdf,1984.0
+" Zhang, Wu, Wei & Wang",https://www.sciencedirect.com/science/article/pii/S1051200411000650,2011.0
+Ajtai & Megiddo,https://epubs.siam.org/doi/pdf/10.1137/S0097539792234858,1996.0
+Dyer,https://dl.acm.org/doi/pdf/10.1145/167088.167211,1993.0
+Alon & Megiddo,https://ieeexplore.ieee.org/document/89578,1990.0
+Deng,https://www.sciencedirect.com/science/article/pii/002001909090026T?ref=pdf_download&fr=RR-2&rr=7d29f5c94c8e2249,1990.0
+Goodrich,https://dl.acm.org/citation.cfm?id=72950,1989.0
+Miller; Stout,https://cse.buffalo.edu/faculty/miller/Papers/IEEETC88a.pdf,1988.0
+Fleischer forward-backward (FB) algorithm,https://ldhulipala.github.io/readings/sequential-scc.pdf,2003.0
+Lowe’s Algorithm,http://www.cs.ox.ac.uk/people/gavin.lowe/parallelDFS.html,2014.0
+Renault’s Algorithm,https://link.springer.com/chapter/10.1007/978-3-642-45221-5_44,2009.0
+OBF Algorithm,https://ieeexplore.ieee.org/document/8133154,2011.0
+CH Algorithm,https://research.vu.nl/en/publications/on-distributed-verification-and-verified-distribution,2004.0
+Hong’s algorithm,https://stanford-ppl.github.io/website/papers/sc13-hong.pdf,2013.0
+Geldenhuys-Valmari,https://www.semanticscholar.org/paper/Depth-First-Search-and-Linear-Graph-Algorithms-Tarjan/385742fffcf113656f0d3cf6c06ef95cb8439dc6,2004.0
+Reghbati (Arjomandi) and Corneil,https://epubs.siam.org/doi/abs/10.1137/0207020,1978.0
+Reghbati (Arjomandi) and Corneil,https://epubs.siam.org/doi/abs/10.1137/0207020,1978.0
+Chandra,https://cir.nii.ac.jp/crid/1573105974323147776,1976.0
+Hirschberg,https://dl.acm.org/doi/abs/10.1145/800113.803631,1976.0
+Hirschberg,https://dl.acm.org/doi/abs/10.1145/800113.803631,1976.0
+Hirschberg et al.,https://dl.acm.org/doi/abs/10.1145/359138.359141,1979.0
+Wyllie,https://hdl.handle.net/1813/7502,1979.0
+Nassimi and Sahni,https://epubs.siam.org/doi/abs/10.1137/0209058,1980.0
+Chin et al.,https://dl.acm.org/doi/pdf/10.1145/358628.358650,1982.0
+Savage and Ja'Ja',https://epubs.siam.org/doi/abs/10.1137/0210051,1981.0
+Savage and Ja'Ja',https://epubs.siam.org/doi/abs/10.1137/0210051,1981.0
+Savage,https://link.springer.com/chapter/10.1007/978-3-642-68402-9_32,1981.0
+Nath and Maheshwari,https://www.sciencedirect.com/science/article/pii/0020019082901314,1982.0
+Shiloach and Vishkin,"SHILOACH, Y., AND VISHKIN, U. 1982a. An O(log n) parallel connectivity algorithm. J Algorithms 3, 1 (Mar.), 57-67.",1982.0
+Kucera,https://www.sciencedirect.com/science/article/pii/002001908290093X,1982.0
+Reif and Spirakis,https://apps.dtic.mil/sti/citations/ADA114875,1982.0
+Hambrusch,https://www.proquest.com/docview/303249065?pq-origsite=gscholar&fromopenview=true,1982.0
+Bader & Cong Parallel Implementation ,https://www.sciencedirect.com/science/article/pii/S0743731506001262,2006.0
+"Nobari, Cao, Karras, Bressan",https://dl.acm.org/doi/pdf/10.1145/2145816.2145842,2012.0
+Levitt and Kautz ,https://dl.acm.org/doi/abs/10.1145/361573.361576,1972.0
+Levitt and Kautz ,https://dl.acm.org/doi/abs/10.1145/361573.361576,1972.0
+Levitt and Kautz ,https://dl.acm.org/doi/abs/10.1145/361573.361576,1972.0
+Savage,https://www.proquest.com/docview/302856503?pq-origsite=gscholar&fromopenview=true,1977.0
+Bentley,https://www.sciencedirect.com/science/article/pii/0196677480900048,1980.0
+Deo and Yoo,"DEO, N., AND YOO, Y. B. 1981. Parallel algorithms for the minimum spanning tree problem.",1981.0
+Savage and Ja'Ja',https://epubs.siam.org/doi/abs/10.1137/0210051,1981.0
+Nath and Maheshwari,https://www.sciencedirect.com/science/article/pii/0020019082901314,1982.0
+Kucera,https://www.sciencedirect.com/science/article/pii/002001908290093X,1982.0
+Chin et al.,https://dl.acm.org/doi/abs/10.1145/358628.358650,1982.0
+Hambrusch,https://www.proquest.com/docview/303249065?pq-origsite=gscholar&fromopenview=true,1982.0
+Hirschberg,"HIRSCHBERG, D. S. 1982. Parallel graph algorithms without memory conflicts.",1982.0
+Yoo,https://www.osti.gov/biblio/5689584,1983.0
+Cole & Gooddrich,https://link.springer.com/article/10.1007/BF01758749,1988.0
+Lenhof & Smid,https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1834886,1992.0
+Dyer,https://www.sciencedirect.com/science/article/pii/0020019080900356,1980.0
+Rational sieve,https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182953-4/S0025-5718-1993-1182953-4.pdf,1993.0
+Backward Non-Deterministic DAWG Matching (BNDM),https://link.springer.com/chapter/10.1007/BFb0030778,1998.0
+Skala,https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8659.1510061,1996.0
+Karpinski,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.6940&rep=rep1&type=pdf,1996.0
+Chan's algorithm Parallel Implementation,http://i.stanford.edu/pub/cstr/reports/cs/tr/79/773/CS-TR-79-773.pdf,1979.0
+Dekel; Nassimi & Sahni Parallel Implementation ,https://www.proquest.com/docview/920003939?pq-origsite=gscholar&fromopenview=true,1981.0
+Schieber; Vishkin [Parallel],https://epubs.siam.org/doi/abs/10.1137/0217079?journalCode=smjcat,1988.0
+"Fischer, Heun",https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.64.5439,2006.0
+Kmett,https://www.schoolofhaskell.com/user/edwardk/online-lca,2015.0
+Segundo; Artieda;  Strash Parallel,https://arxiv.org/pdf/1801.00202.pdf,2011.0
+Belloch,https://web.archive.org/web/20180425231851/https://www.cs.cmu.edu/~ygu1/paper/SPAA16/Incremental.pdf,2006.0
+"Valentin Polishchuk, and Jukka Suomela",https://arxiv.org/pdf/0812.4893.pdf,2008.0
+S. S. TSENG and R. C. T. LEE,https://link.springer.com/content/pdf/10.1007/BF02136029.pdf,1984.0
+"Tomas Feder, Nimrod Megiddo, Serge A. Plotkin",http://theory.stanford.edu/~megiddo/pdf/soda94.pdf,1994.0
+Perumalla and Deo,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.1291&rep=rep1&type=pdf,1995.0
+"Ferreira, Camargo, Song",https://ieeexplore.ieee.org/document/6972008,2014.0
+Wen,https://www.sciencedirect.com/science/article/abs/pii/016781919400063G,1995.0
+Smith,https://www.sciencedirect.com/science/article/pii/0167642387900347,1987.0
+KALYAN PERUMALLA and NARSINGH DEO,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.1291&rep=rep1&type=pdf,1995.0
+Wen,https://www.sciencedirect.com/science/article/abs/pii/016781919400063G,1995.0
+Hariharan,https://www.sciencedirect.com/science/article/pii/S0022000097914963,1997.0
+Süleyman Cenk Sahinalp ; Uzi Vishkin,https://link.springer.com/content/pdf/10.1007/3-540-57811-0_3.pdf,1994.0
+Farach,https://www.cs.rutgers.edu/~farach/pubs/PRAMSuffixICALP.pdf,1997.0
+Rytter,https://www.researchgate.net/publication/228945502_On_parallel_transformations_of_suffix_arrays_into_suffix_trees,2004.0
+J.-C. Nebel 1998,https://www.academia.edu/814419/A_New_Parallel_Algorithm_Provided_by_a_Computation_Time_Model,1998.0
+A. Chalmers; T. Davis; and E. Reinhard 2002,,2002.0
+Ullman,https://dl.acm.org/doi/10.1145/321921.321925,1976.0
+Cardoso; Nuno; Abreu; Rui,https://www.semanticscholar.org/paper/An-efficient-distributed-algorithm-for-computing-Cardoso-Abreu/ce32696c1176800c5b90fab026bf93f282e2b161,2014.0
+"Rautiainen, Marschall",https://www.ncbi.nlm.nih.gov/pubmed/30851095,2019.0
+Levitt and Kautz,https://dl.acm.org/doi/abs/10.1145/361573.361576,1972.0
+Arjomandi,https://dl.acm.org/doi/abs/10.5555/908319,1975.0
+Savage,https://apps.dtic.mil/sti/citations/ADA056888,1977.0
+Deo et al.,https://cir.nii.ac.jp/crid/1571698600670249216,1980.0
+Dekel; Nassimi & Sahni,https://epubs.siam.org/doi/abs/10.1137/0210049,1981.0
+Kucera,https://www.sciencedirect.com/science/article/pii/002001908290093X,1982.0
+Frieze & Rudolph,http://math.cmu.edu/~af1p/Texfiles/PARALLELALG.pdf,1984.0
+Jenq & Sahni,https://digitalcommons.montclair.edu/compusci-facpubs/96/,1987.0
+Takaoka,https://link.springer.com/content/pdf/10.1007/3-540-50728-0_51.pdf,1989.0
+Takaoka,https://www.sciencedirect.com/science/article/pii/002001909290200F,1992.0
+"Han, Pan & Reif",https://dl.acm.org/doi/pdf/10.1145/140901.141913,1992.0
+"Han, Pan & Reif",https://dl.acm.org/doi/pdf/10.1145/140901.141913,1992.0
+"Han, Pan & Reif",https://dl.acm.org/doi/pdf/10.1145/140901.141913,1992.0
+Pal & Bhattacharjee,https://dl.acm.org/doi/abs/10.5555/640121.640124,1997.0
+Takaoka,https://link.springer.com/article/10.1007/PL00009198,1998.0
+Takaoka,https://link.springer.com/chapter/10.1007/978-3-540-27798-9_31,2004.0
+"Saha, Pal & Pal",https://link.springer.com/article/10.1007/BF02936037,2005.0
+Katz & Kider,https://repository.upenn.edu/hms/180/,2008.0
+Tran,https://ieeexplore.ieee.org/abstract/document/5501465/,2010.0
+" Zhang, Wu, Wei & Wang",https://www.sciencedirect.com/science/article/pii/S1051200411000650,2011.0
+"Okuyama, Ino, Hagihara",https://www.researchgate.net/profile/Fumihiko-Ino/publication/262236119_A_task_parallel_algorithm_for_finding_all-pairs_shortest_paths_using_the_GPU/links/00b49536c9c521a413000000/A-task-parallel-algorithm-for-finding-all-pairs-shortest-paths-using-the-GPU.pdf,2012.0
+"Solomonik, Buluç, Demmel",https://ieeexplore.ieee.org/abstract/document/6569841,2013.0
+"Pradhan, Mahinthakumar",https://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000220,2013.0
+"Djidjev, Thulasidasan, Chapuis, Andonov, Lavenier
+",https://ieeexplore.ieee.org/abstract/document/6877270/,2014.0
+"Sao, Kannan, Gera, Vuduc",https://dl.acm.org/doi/abs/10.1145/3332466.3374533,2020.0
+,https://www.computer.org/csdl/journal/tc/1983/03/01676223/13rRUy0HYQg,
+Levitt and Kautz,https://dl.acm.org/doi/abs/10.1145/361573.361576,1972
+Levitt and Kautz,https://dl.acm.org/doi/abs/10.1145/361573.361576,1972
+Pease,https://dl.acm.org/doi/abs/10.1145/321420.321434,1967
+Crane,https://ieeexplore.ieee.org/abstract/document/1687426/,1968
+Frieze & Rudolph,http://math.cmu.edu/~af1p/Texfiles/PARALLELALG.pdf,1984
+"Habbal, Koutsopoulos & Lerman",https://www.jstor.org/stable/pdf/25768652.pdf,1994
+,,
+Lamport's bakery algorithm,http://lamport.azurewebsites.net/pubs/bakery.pdf?from=https://research.microsoft.com/users/lamport/pubs/bakery.pdf&type=path,1974.0
+3-Coloring rooted trees,"Proceedings of the twenty-fifth annual ACM symposium on Theory of computing, pages 201–207. ACM, 1993.",1993.0
+"Linial's coloring algorithm
+","Nathan Linial. Distributive graph algorithms global solutions
+from local data. In Proc. of the Symp. on Found. of Comp. Sci.
+(FOCS), pages 331–335. IEEE, 1987.
+",1987.0
+Kuhn-Wattenhofer Coloring Algorithm,"Fabian Kuhn and Rogert Wattenhofer. On the complexity of distributed graph coloring. In Proceedings of the twenty-fifth annual ACM symposium on Principles of distributed computing, pages 7–15. ACM, 2006.",2006.0
+Kuhn’s Algorithm via Defective Coloring,"Fabian Kuhn. Weak graph colorings: distributed algorithms and applications. In Proceedings of the twenty-first annual symposium on Parallelism in algorithms and architectures, pages 138–144. ACM, 2009.",2009.0
+Barenboim,"] Leonid Barenboim. Deterministic (δ+ 1)-coloring in sublinear (in δ) time in static, dynamic and faulty networks. In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing, pages 345–354. ACM, 2015.",2015.0
+,,
+,,
+Sublogarithmic-Time Randomized Coloring,,
+Luby's MIS Algorithm,"Michael Luby. A simple parallel algorithm for the maximal independent set problem. In Proc. of the Symp. on Theory of Comp. (STOC), pages 1–10, 1985.",1985.0
+Randomized Construction," NEEDED: https://people.csail.mit.edu/ghaffari/DA22/Notes/DGA.pdf#page=16&zoom=100,134,470 - section 1.5.2\",
+Deterministic Construction 1,"Alessandro Panconesi and Aravind Srinivasan. Improved distributed algorithms for coloring and network decomposition problems. In Proc. of the Symp. on Theory of Comp. (STOC), pages 581–592. ACM, 1992.",1992.0
+Deterministic Construction 2,"Vaclav Rozhon and Mohsen Ghaffari. Polylogarithmic-time deterministic network decomposition and distributed derandomization. In STOC, page to appear, 2020.",2020.0
+,,
+,,
+,https://dl.acm.org/doi/pdf/10.1145/357195.357200,1983.0
+,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4568149,1985.0
+,https://dl.acm.org/doi/pdf/10.1145/28395.28421,1987.0
+,https://www.researchgate.net/publication/220616582_A_SubLinear_Time_Distributed_Algorithm_for_Minimum-Weight_Spanning_Trees,1995.0
+,https://dl.acm.org/doi/pdf/10.1145/224964.224990,1995.0
+,https://arxiv.org/pdf/1703.02411.pdf,2017.0
+,https://dl.acm.org/doi/pdf/10.1145/3087801.3087827?casa_token=N_pwQthOKmUAAAAA:NU5tllIrcUFzqU3aPBKqHVpyQM_Cp7hiYmNifPB_qyEgEylCHAuzsCSoR28INVytyRNnJGBpDhaNKw,2017.0
+,https://arxiv.org/pdf/1607.06883.pdf,2018.0
+,https://www.research-collection.ethz.ch/handle/20.500.11850/315337,2018.0
+,https://dl.acm.org/doi/pdf/10.1145/3380546?casa_token=ehRtETWEBjkAAAAA:9-yaE0ChoFo92WwZtGsWKa2kf6kfx6hd51ex0_zIb5i_N7o7YBx0c4LLt0mwuIknNMMVYmCQrJWMoQ,2020.0
+,,
+,https://arxiv.org/pdf/1305.5520.pdf,2013.0
+,https://arxiv.org/pdf/1305.5520.pdf,2013.0
+,https://dl.acm.org/doi/pdf/10.1145/2612669.2612706?casa_token=txOlIa5V41sAAAAA:tMIAwQ4-R-ablfyw7oeE6OVlD1V76jMwgj39HCcUkRsvxQ6j0hWHccZQNTKhSuUCwMzjS1woXVcKuw,2014.0
+,https://dl.acm.org/doi/abs/10.1145/3212734.3212750,2018.0
+,https://dl.acm.org/doi/10.1145/3313276.3316346,2019.0
+,https://dl.acm.org/doi/pdf/10.1145/3406325.3451020?casa_token=Np84jW6NR8QAAAAA:7hKDr2WMCm4Osl_Jq-nuADiX5u4Xf4t8GOtH3qvMN6eK22VeOyvo_hU26Na6R-RKa7j7WMl-tMMx,2021.0
+,https://dl.acm.org/doi/pdf/10.1145/3519270.3538429?casa_token=BNR0TcvdUaMAAAAA:X4HuiIi_4Ubtumbx2vhncXBiiARejlV17sIrzRWseqVEmcv-UHhjeA9d1BHJZtKHd4HZru4YwTDw,2022.0
+,https://dl.acm.org/doi/pdf/10.1145/224964.224990,1995.0
+,https://dl.acm.org/doi/pdf/10.1145/3357713.3384298,2020.0
+,https://onlinelibrary.wiley.com/doi/abs/10.1002/rsa.20130,2006.0
+,https://link.springer.com/chapter/10.1007/978-3-540-75142-7_16,2007.0
+,https://link.springer.com/chapter/10.1007/978-3-540-75142-7_16,2007.0
+,https://link.springer.com/chapter/10.1007/978-3-540-75142-7_16,2007.0
+,https://link.springer.com/chapter/10.1007/978-3-540-75142-7_16,2007.0
+,https://link.springer.com/chapter/10.1007/978-3-540-75142-7_16,2007.0
+,https://dl.acm.org/doi/abs/10.1145/1400751.1400788,2008.0
+,https://dl.acm.org/doi/abs/10.1145/1400751.1400788,2008.0
+,https://www.sciencedirect.com/science/article/pii/S0304397508001138,2008.0
+,https://link.springer.com/chapter/10.1007/978-3-642-04355-0_20,2009.0
+,https://link.springer.com/chapter/10.1007/978-3-642-04355-0_20,2009.0
+,https://link.springer.com/chapter/10.1007/978-3-642-04355-0_20,2009.0
+,https://link.springer.com/chapter/10.1007/978-3-642-04355-0_20,2009.0
+,https://dl.acm.org/doi/abs/10.1145/1868237.1868242,2010.0
+,https://dl.acm.org/doi/abs/10.1145/2484239.2484262,2013.0
+,https://arxiv.org/pdf/1805.05404.pdf,2018.0
+,https://arxiv.org/pdf/1805.05404.pdf,2018.0
+,https://arxiv.org/pdf/1805.05404.pdf,2018.0
+,https://www.sciencedirect.com/science/article/abs/pii/S0304397520303194,2020.0
+,https://dl.acm.org/doi/abs/10.1145/3465084.3467928,2021.0
+,https://dl.acm.org/doi/pdf/10.1145/3519270.3538439,2022.0
+,https://www.ams.org/journals/qam/1958-16-01/S0033-569X-1958-0102435-2/S0033-569X-1958-0102435-2.pdf,1958.0
+,https://dl.acm.org/doi/pdf/10.1145/3055399.3055452,2017.0
+,"S. Forster and D. Nanongkai, ""A Faster Distributed Single-Source Shortest Paths Algorithm,"" 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS), Paris, France, 2018, pp. 686-697, doi: 10.1109/FOCS.2018.00071.
+",2017.0
+,"S. Forster and D. Nanongkai, ""A Faster Distributed Single-Source Shortest Paths Algorithm,"" 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS), Paris, France, 2018, pp. 686-697, doi: 10.1109/FOCS.2018.00071.
+",2017.0
+,https://ieeexplore.ieee.org/abstract/document/9317987,2020.0
+,https://ieeexplore.ieee.org/abstract/document/9317987,2020.0
+,https://dl.acm.org/doi/pdf/10.1145/1993636.1993639,2011.0
+,https://dl.acm.org/doi/abs/10.1145/2484239.2501983,2013.0
+,https://dl.acm.org/doi/abs/10.1145/3087801.3087827,2017.0
+,https://arxiv.org/abs/1805.04764,2018.0
+,https://people.csail.mit.edu/andyd/cong_clique_podc14.pdf,2014.0
+,https://arxiv.org/abs/1503.04963,2015.0
+,https://arxiv.org/pdf/1201.6652.pdf,2012.0
+,https://arxiv.org/abs/1705.09061,2017.0
+,https://arxiv.org/abs/1807.06624,2018.0
+,https://ieeexplore.ieee.org/abstract/document/9317987,2020.0
+,https://dl.acm.org/doi/abs/10.1145/3446330,2021.0
+,https://arxiv.org/abs/2205.09245,2022.0
+,https://arxiv.org/abs/1201.6652,2012.0
+,https://arxiv.org/abs/1602.08481,2016.0
+,https://arxiv.org/abs/1802.04789,2018.0
+,https://arxiv.org/abs/1908.11825,2019.0
+,https://arxiv.org/abs/1503.04963,2015.0
+,https://arxiv.org/abs/1705.09061,2017.0
+,https://arxiv.org/abs/1807.06624,2018.0
+,https://ieeexplore.ieee.org/abstract/document/9317987,2020.0
+,https://dl.acm.org/doi/abs/10.1145/3446330,2021.0
+,https://arxiv.org/pdf/1201.6652.pdf,2012.0
+,https://arxiv.org/pdf/1705.09061.pdf,2017.0
+,https://dl.acm.org/doi/abs/10.1145/2332432.2332504,2012.0
+,https://dl.acm.org/doi/abs/10.1145/2935764.2935812,2016.0
+,https://arxiv.org/abs/1210.5774,2012.0
+,https://dl.acm.org/doi/abs/10.1145/2484239.2484262,2013.0
+,https://dl.acm.org/doi/abs/10.1145/2591796.2591850,2014.0
+,https://dl.acm.org/doi/abs/10.1145/2591796.2591850,2014.0
+,https://dl.acm.org/doi/pdf/10.1145/3055399.3055452,2017.0
+,"https://arxiv.org/pdf/1811.03337.pdf#:~:text=In%20the%20distributed%20all%2Dpairs,(typically%20called%20time%20complexity).",2019.0
+,https://ieeexplore.ieee.org/abstract/document/8104056,2017.0
+,https://dl.acm.org/doi/abs/10.1145/3212734.3212773,2018.0
+,https://dl.acm.org/doi/abs/10.1145/3350755.3400256,2020.0
+,https://dl.acm.org/doi/abs/10.1145/3293883.3295729,2019.0
+,https://dl.acm.org/doi/pdf/10.1145/3293611.3331633,2019.0
+,https://arxiv.org/abs/2003.03058,2020.0
+,https://arxiv.org/abs/2003.03058,2020.0
+,https://dl.acm.org/doi/pdf/10.1145/3465084.3467928,2021.0
+,https://dl.acm.org/doi/pdf/10.1145/3465084.3467928,2021.0
+,https://dl.acm.org/doi/pdf/10.1145/3293611.3331633,2019.0
+,https://arxiv.org/abs/2003.03058,2020.0
+,https://arxiv.org/abs/2003.03058,2020.0
+,https://dl.acm.org/doi/pdf/10.1145/2332432.2332504,2012.0
+,https://link.springer.com/chapter/10.1007/978-3-642-31585-5_58,2012.0
+,https://arxiv.org/pdf/2101.07590.pdf,2021.0
+,https://arxiv.org/pdf/1503.04963.pdf,2015.0
+,https://arxiv.org/pdf/2101.07590.pdf,2021.0
+,https://link.springer.com/article/10.1007/s11432-020-2931-x,2021.0
+,https://arxiv.org/pdf/2205.14797.pdf,2022.0
+,https://link.springer.com/chapter/10.1007/978-3-642-31585-5_58,2012.0
+,https://dl.acm.org/doi/abs/10.1145/2484239.2484262,2013.0
+,https://dl.acm.org/doi/abs/10.1145/2332432.2332504,2012.0
+,https://dl.acm.org/doi/abs/10.1145/2332432.2332504,2013.0
+,https://arxiv.org/pdf/2011.05066.pdf,2020.0
+,https://arxiv.org/pdf/2011.05066.pdf,2020.0
+,https://arxiv.org/pdf/2205.14797.pdf,2022.0
+,https://arxiv.org/pdf/2205.14797.pdf,2022.0
+,https://arxiv.org/pdf/2205.14797.pdf,2022.0
+,https://arxiv.org/pdf/2205.14797.pdf,2022.0
+,https://arxiv.org/pdf/0812.4893.pdf,2008.0
+,https://ieeexplore.ieee.org/document/7536526,2016.0
+,https://arxiv.org/abs/1805.08124,2018.0
+,https://dl.acm.org/doi/abs/10.1145/3293883.3295729,2019.0
+LCR (basic),"E. Chang, R. Roberts, An improved algorithm for decentralized extrema-finding in circular configurations of processes, Comm. ACM 22 (5) (1979) 281–283.",1979.0
+LCR (halting),"E. Chang, R. Roberts, An improved algorithm for decentralized extrema-finding in circular configurations of processes, Comm. ACM 22 (5) (1979) 281–283.",1979.0
+HS Algorithm,"Hirschberg, D. S.; Sinclair, J. B. (November 1980), ""Decentralized extrema-finding in circular configurations of processors"", Communications of the ACM, 23 (11): 627–628,",1980.0
+,,
+VariableSpeeds Algorithm,"FREDERICKSON, G. N., AND LYNCH, N. The impact of synchronous communication on the problem of electing a leader in a ring. In Proceedings of the 16th Annual ACM Symposium on Theory c$Computing (Washington, D.C., Apr. 30-May 2). ACM, New York, 1984, pp. 493-503.",1984.0
+VariableSpeeds Algorithm (modified),"FREDERICKSON, G. N., AND LYNCH, N. The impact of synchronous communication on the problem of electing a leader in a ring. In Proceedings of the 16th Annual ACM Symposium on Theory c$Computing (Washington, D.C., Apr. 30-May 2). ACM, New York, 1984, pp. 493-503.",1984.0
+VariableSpeeds Algorithm (modified),"FREDERICKSON, G. N., AND LYNCH, N. The impact of synchronous communication on the problem of electing a leader in a ring. In Proceedings of the 16th Annual ACM Symposium on Theory c$Computing (Washington, D.C., Apr. 30-May 2). ACM, New York, 1984, pp. 493-503.",1984.0
+VariableSpeeds Algorithm (modified),"FREDERICKSON, G. N., AND LYNCH, N. The impact of synchronous communication on the problem of electing a leader in a ring. In Proceedings of the 16th Annual ACM Symposium on Theory c$Computing (Washington, D.C., Apr. 30-May 2). ACM, New York, 1984, pp. 493-503.",1984.0
+,,
+,,
+basic coordinated multiple-source algorilhl'n,http://groups.csail.mit.edu/tds/papers/Awerbuch/FOCS85.pdf,1985.0
+bootstrap algorithm,http://groups.csail.mit.edu/tds/papers/Awerbuch/FOCS85.pdf,1985.0
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+AVL Tree,https://zhjwpku.com/assets/pdf/AED2-10-avl-paper.pdf,1962
+Red-Black Tree,https://ieeexplore.ieee.org/document/4567957,1978
+Left-Leaning Red-Black Tree,https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.139.282,2008
+AA tree,https://cs.gmu.edu/~rcarver/cs310/aa-tree.pdf,1993
+2-3 tree,[Hopcroft],1970
+2-3-4 tree,?,?
+"(a,b)-tree",?,?
+B-tree,https://infolab.usc.edu/csci585/Spring2010/den_ar/indexing.pdf,1970
+B+ tree,https://dl.acm.org/doi/pdf/10.1145/356770.356776,1973?
+B* tree,https://dl.acm.org/doi/pdf/10.1145/356770.356776,1973?
+B+* tree,https://ispranproceedings.elpub.ru/jour/article/view/1188,2019
+Scapegoat Tree,https://user.it.uu.se/~arnea/abs/partb.html,1989
+Splay Tree,https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf,1985
+Treap,http://faculty.washington.edu/aragon/pubs/rst89.pdf,1989
+Dynamic BST,https://ieeexplore.ieee.org/abstract/document/1648303,2006
+WAVL Tree,https://dl.acm.org/doi/abs/10.1145/2689412,2015
+Zip Tree,https://arxiv.org/abs/1806.06726,2018
+Partitioned Binary Search Tree,https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3108/2727,2019
+BB[alpha] Tree,https://dl.acm.org/doi/pdf/10.1145/800152.804906,1973
+Hash Table with Linked-List Separate Chaining,[Dumey],1956
+Hash Table with Self-Organized Separate Chaining,[Dumey],1956
+"Hash Table, Dynamic Perfect",https://web.archive.org/web/20160304094014/http://www.arl.wustl.edu/~sailesh/download_files/Limited_Edition/hash/Dynamic%20Perfect%20Hashing-%20Upper%20and%20Lower%20Bounds.pdf,1994
+Hash Table with Linear Probing,https://web.archive.org/web/20160303225949/http://algo.inria.fr/AofA/Research/11-97.html,1954
+Hash Table with Quadratic Probing,?,?
+Hash Table with Double Hashing,?,?
+Hash Table with Coalesced Hashing,https://archive.org/details/designanalysisof0000vitt,?
+Hash Table with 2-Choice Hashing,?,?
+Hash Table with Cuckoo Hashing,https://link.springer.com/content/pdf/10.1007/3-540-44676-1.pdf#page=133,2001
+Hash Table with Hopscotch Hashing,http://people.csail.mit.edu/shanir/publications/disc2008_submission_98.pdf,2008
+Strongly History-Independent Hash Table,https://www.cs.cmu.edu/~dgolovin/papers/focs07.pdf,2007
+Iceberg Hashing,https://arxiv.org/abs/2109.04548,2021
+Radix Tree,?,?
+Trie (Uncompressed),https://web.archive.org/web/20200211163605/https://pdfs.semanticscholar.org/3ce3/f4cc1c91d03850ed84ef96a08498e018d18f.pdf,1959
+Ternary Search Tree/Trie,https://dl.acm.org/doi/pdf/10.1145/1008620.1008624,1979
+Judy Array,https://judy.sourceforge.net/application/shop_interm.pdf,2000
+van Emde Boas Tree,https://www.sciencedirect.com/science/article/pii/002001907790031X,1975
+x-fast Trie,https://www.sciencedirect.com/science/article/pii/0020019083900753?via%3Dihub,1982
+y-fast Trie,https://www.sciencedirect.com/science/article/pii/0020019083900753?via%3Dihub,1982
+p-fast Trie,https://www.sciencedirect.com/science/article/pii/0022000084900205,1981
+q-fast Trie,https://www.sciencedirect.com/science/article/pii/0022000084900205,1981
+Fusion Tree,https://dl.acm.org/doi/10.1145/100216.100217,1990
+Exponential Tree,https://ieeexplore.ieee.org/document/548472,1996
+"Fusion Tree (dynamic, using Exponential Trees)",https://arxiv.org/abs/cs/0210006,2007
+Fusion Tree (dynamic),https://ieeexplore.ieee.org/document/6979001,2014
+Priority Unsorted List,?,?
+Priority Sorted List,?,?
+Binary Heap,https://dl.acm.org/doi/10.1145/512274.512284,1964
+d-ary Heap,https://www.sciencedirect.com/science/article/pii/0020019075900010?via%3Dihub,1975
+Height-biased Leftist Heap,https://www.proquest.com/docview/288011272,1972
+Weight-biased Leftist Heap,https://dl.acm.org/doi/10.1145/297096.297111,1998
+Binomial Heap,https://dl.acm.org/doi/10.1145/359460.359478,1978
+Fibonacci Heap,https://dl.acm.org/doi/10.1145/28869.28874,1987
+Rank-Relaxed Heap,https://dl.acm.org/doi/pdf/10.1145/50087.50096,1988
+Run-Relaxed Heap,https://dl.acm.org/doi/pdf/10.1145/50087.50096,1988
+Pairing Heap,https://www.cs.cmu.edu/~sleator/papers/pairing-heaps.pdf,1986
+Pairing Heap (lazy),https://www.researchgate.net/publication/321068476_Toward_Optimal_Self-Adjusting_Heaps,2017
+Brodal Heap,https://dl.acm.org/doi/pdf/10.5555/313852.313883,1996
+One-Pass Binomial Heap,https://link.springer.com/chapter/10.1007/978-3-642-04128-0_59,2009
+Rank-Pairing Heap,https://link.springer.com/chapter/10.1007/978-3-642-04128-0_59,2009
+Strict Fibonacci Heap,https://www.cs.au.dk/~gerth/papers/stoc12.pdf,2012
+Quake Heap,https://tmc.web.engr.illinois.edu/heap_ianfest.pdf,2013
+Violation Heap,https://link.springer.com/chapter/10.1007/978-3-642-14031-0_51,2010
+Thin Heap,https://www.cs.princeton.edu/research/techreps/TR-597-99,1999
+Fat Heap,https://www.cs.princeton.edu/research/techreps/TR-597-99,1999
+Thick Heap,https://dl.acm.org/doi/pdf/10.1145/1328911.1328914,2008
+Trinomial Heap,https://dl.acm.org/doi/abs/10.5555/646718.702069,2000
+Top-Down Skew Heap,https://www.cs.cmu.edu/~sleator/papers/Adjusting-Heaps.htm,1986
+Bottom-Up Skew Heap,https://www.cs.cmu.edu/~sleator/papers/Adjusting-Heaps.htm,1986
+Weak Heap,https://link.springer.com/article/10.1007/BF01990520,1993
+Weak Heap with Bulk Insertions,https://www.sciencedirect.com/science/article/pii/S1570866712000792,2012
+Run-Relaxed Weak Heap,https://www.sciencedirect.com/science/article/pii/S1570866712000792,2012
+Rank-Relaxed Weak Heap,https://www.sciencedirect.com/science/article/pii/S1570866712000792,2012
+Hash Heap,,
+Beap,,
+B-heap,,
+K-D heap,,
+Randomized Meldable Heap,,
+Soft Heap,,
+Shadow Heap,,
+Red-Black Priority Queue,https://ieeexplore.ieee.org/document/377045,1995
+One-Step Priority Queue,https://ieeexplore.ieee.org/document/377045,1995
+AVL Priority Queue,https://ieeexplore.ieee.org/document/377045,1995
+"(a,b) Priority Queue",https://ieeexplore.ieee.org/document/377045,1995
+2-3 Heap,,
+Bucket Queue (Bounded-height Priority Queue),,
+Radix Heap,,
+Monotone Min-PQ,https://link.springer.com/chapter/10.1007/3-540-61680-2_51,1996
+Symmetric Min-Max Heap,,
+Interval Heap,,
+Deap,,
+Finger Search Tree,,
+Skip List,,
+Deterministic Skip List,https://www.ic.unicamp.br/~celio/peer2peer/skip-net-graph/deterministic-skip-lists-munro.pdf,
+Conc-Tree,https://www.researchgate.net/publication/281740929,2015
+Fenwick Tree,https://onlinelibrary.wiley.com/doi/10.1002/spe.4380240306,1994
+Jump List,https://epubs.siam.org/doi/pdf/10.1137/S0097539792241102?casa_token=RoY3RrpUuFMAAAAA:Sc89TVYIb4xGcTVVpBeM-WoC7JonLRX7Jq8jOaEsyJydwqW-cEsdJEJEGGXOcvFZuUrr7c3qSA,
+Tango Tree,http://erikdemaine.org/papers/Tango_SICOMP/paper.pdf,2007

@@ -1,0 +1,1041 @@
+Wikipedia Problem,Sheet1 Problem,Time Complexity Class,Space Complexity Class
+#N/A,Optimal Binary Search Trees,3,3
+#N/A,Optimal Binary Search Trees,2.6,1
+#N/A,Optimal Binary Search Trees,3,3
+#N/A,Optimal Binary Search Trees,4.6,3
+Nearest Neighbor Search,Nearest Neighbor Search,4,1
+Nearest Neighbor Search,Nearest Neighbor Search,3,3
+Nearest Neighbor Search,Nearest Neighbor Search,3,1
+Nearest Neighbor Search,Nearest Neighbor Search,3,#VALUE!
+#N/A,The Subset-Sum Problem,3,1
+#N/A,The Subset-Sum Problem,3,1
+#N/A,The Subset-Sum Problem,3,1
+#N/A,The Subset-Sum Problem,4.5,1
+#N/A,The Subset-Sum Problem,4,1
+#N/A,The Subset-Sum Problem,4,1
+#N/A,The Subset-Sum Problem,4,1
+#N/A,The Subset-Sum Problem,6,5
+Stable Matching Problem,Stable Matching Problem,1,1
+#N/A,Motif Search,3,3
+#N/A,Motif Search,3,2.5
+#N/A,Motif Search,3,2.5
+#N/A,Texture Synthesis,5.01,3
+#N/A,Texture Synthesis,3,3
+#N/A,n-Queens Problem,3,5
+Cycle Detection,Cycle Detection,3,1
+Cycle Detection,Cycle Detection,3,2
+Sorting,Sorting,5,1
+Sorting,Sorting,5,1
+Sorting,Sorting,4,3
+Sorting,Sorting,5,1
+Sorting,Sorting,4,2
+Sorting,Sorting,4,1
+Sorting,Sorting,3,3
+Sorting,Sorting,5,3
+Sorting,Sorting,3,3
+#N/A,kth Order Statistic,4,1
+#N/A,kth Order Statistic,5,1
+#N/A,Matrix Chain Multiplication,8,3
+#N/A,Matrix Chain Multiplication,6,5
+#N/A,Longest Common Subsequence,5,5
+Maximum Flow,Maximum Flow,7,5
+Maximum Flow,Maximum Flow,7,5
+Maximum Flow,Maximum Flow,7,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6.02,5
+Matrix Product,Matrix Product,4.5,1
+Matrix Product,Matrix Product,4.4035,3
+Matrix Product,Matrix Product,4.3975,3
+Matrix Product,Matrix Product,4.258325,3
+Matrix Product,Matrix Product,4.247774,3
+Matrix Product,Matrix Product,4.23925,3
+Matrix Product,Matrix Product,4.18775,3
+Matrix Product,Matrix Product,4.1864365,3
+Matrix Product,Matrix Product,4.18643195,3
+#N/A,Graph Coloring,8,3
+#N/A,Graph Coloring,8,3
+Linear System,Linear System,4.5,3
+Linear System,Linear System,4.5,3
+Linear System,Linear System,4.5,3
+Linear System,Linear System,3,3
+Linear System,Linear System,3,3
+Linear System,Linear System,3,3
+Linear Programming,Linear Programming,8,8
+Linear Programming,Linear Programming,7,3
+#N/A,Line segment intersection,5,1
+#N/A,Line segment intersection,4,3
+Convex Hull,Convex Hull,6,3
+Convex Hull,Convex Hull,3,1
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,5
+#N/A,Closest Pair Problem,5,1
+LU Decomposition,LU Decomposition,4.5,1
+LU Decomposition,LU Decomposition,4.5,1
+LU Decomposition,LU Decomposition,6,1
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+String Search,String Search,5,1
+String Search,String Search,3,3
+String Search,String Search,5,1
+String Search,String Search,5,1
+Sequence Alignment,Sequence Alignment,5,5
+Sequence Alignment,Sequence Alignment,6,5
+Sequence Alignment,Sequence Alignment,4.99,3
+Sequence Alignment,Sequence Alignment,5,3
+Sequence Alignment,Sequence Alignment,5,5
+Sequence Alignment,Sequence Alignment,5,5
+Sequence Alignment,Sequence Alignment,5,5
+Sequence Alignment,Sequence Alignment,5,3
+Sequence Alignment,Sequence Alignment,5,5
+Line Clipping,Line Clipping,3,1
+Line Clipping,Line Clipping,3,1
+Line Clipping,Line Clipping,3,1
+Line Clipping,Line Clipping,3,1
+Line Clipping,Line Clipping,3,1
+#N/A,NFA to DFA conversion,8,1
+Multiplication,Multiplication,4.58,3
+Multiplication,Multiplication,4.46,3
+Multiplication,Multiplication,5,3
+Line Simplification,Line Simplification,5,3
+Line Simplification,Line Simplification,5,3
+Line Simplification,Line Simplification,3,1
+Line Simplification,Line Simplification,3,1
+Line Simplification,Line Simplification,3,1
+Line Simplification,Line Simplification,3,3
+Nearest Neighbor Search,Nearest Neighbor Search,3,1
+Nearest Neighbor Search,Nearest Neighbor Search,4,3
+Nearest Neighbor Search,Nearest Neighbor Search,4,2
+#N/A,The Subset-Sum Problem,8,8
+#N/A,The Subset-Sum Problem,3,1
+#N/A,The Subset-Sum Problem,3,1
+#N/A,The Subset-Sum Problem,4,1
+#N/A,The Subset-Sum Problem,4,3
+Maximum Subarray Problem,Maximum Subarray Problem,6,1
+Maximum Subarray Problem,Maximum Subarray Problem,5,3
+Maximum Subarray Problem,Maximum Subarray Problem,5,1
+Maximum Subarray Problem,Maximum Subarray Problem,4,2
+Maximum Subarray Problem,Maximum Subarray Problem,3,1
+Maximum Subarray Problem,Maximum Subarray Problem,2,3
+#N/A,Motif Search,5.5,5.5
+#N/A,Motif Search,3,3
+#N/A,Motif Search,3,3
+#N/A,Motif Search,5.5,5.5
+#N/A,Motif Search,5.5,5.5
+#N/A,Rod-Cutting Problem,8,3
+#N/A,Rod-Cutting Problem,5,3
+#N/A,Change-Making Problem,8,3
+#N/A,Change-Making Problem,5,5
+#N/A,Matrix Chain Multiplication,2,3
+#N/A,Matrix Chain Multiplication,1.99,3
+#N/A,Matrix Chain Multiplication,3,3
+#N/A,Matrix Chain Multiplication,3,3
+Matrix Product,Matrix Product,4.38995,3
+Matrix Product,Matrix Product,4.2609,3
+#N/A,Graph Coloring,7,#VALUE!
+#N/A,Graph Coloring,5,5
+#N/A,Maximum Cardinality Matching,5.5,3
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,7
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,8
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,5.01,3
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,The Set-Covering Problem,5,5
+#N/A,The Set-Covering Problem,4,#VALUE!
+#N/A,Motif Search,3,2
+#N/A,Image Compositing,5,3
+#N/A,Texture Synthesis,6,#VALUE!
+#N/A,Texture Synthesis,3,#VALUE!
+#N/A,Texture Synthesis,6,#VALUE!
+#N/A,Texture Synthesis,6,#VALUE!
+SLAM Algorithms,SLAM Algorithms,6,5
+SLAM Algorithms,SLAM Algorithms,6,5
+SLAM Algorithms,SLAM Algorithms,6,5
+SLAM Algorithms,SLAM Algorithms,5,3
+#N/A,Graph Coloring,4,3
+#N/A,Graph Coloring,8,3
+#N/A,Closest Pair Problem,3,3
+LU Decomposition,LU Decomposition,4.188,4
+String Search,String Search,5,3
+Sorting,Sorting,4,3
+Sorting,Sorting,5,2
+Sorting,Sorting,4,3
+Sorting,Sorting,4,3
+Sorting,Sorting,5,1
+Sorting,Sorting,4.5,1
+Sorting,Sorting,4.01,1
+Sorting,Sorting,4.33,1
+Sorting,Sorting,2,1
+Sorting,Sorting,4,3
+Sorting,Sorting,5,1
+Sorting,Sorting,5,3
+Sorting,Sorting,3,5
+Sorting,Sorting,4,4
+Sorting,Sorting,4,3
+#N/A,kth Order Statistic,3,3
+#N/A,Matrix Chain Multiplication,4,3
+#N/A,Longest Common Subsequence,3,3
+#N/A,Longest Common Subsequence,3,3
+Maximum Flow,Maximum Flow,7,6
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6.01,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6.01,5
+Maximum Flow,Maximum Flow,5.99,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,6,5
+Maximum Flow,Maximum Flow,5.66,5
+Maximum Flow,Maximum Flow,6,5
+#N/A,Graph Coloring,8,3
+#N/A,Graph Coloring,8,6
+#N/A,Graph Coloring,8,5
+#N/A,Graph Coloring,8,5
+#N/A,Graph Coloring,8,3
+#N/A,Graph Coloring,8,5
+Linear System,Linear System,3,3
+Linear System,Linear System,2,2
+Linear Programming,Linear Programming,6.5,3
+Linear Programming,Linear Programming,8,3
+Linear Programming,Linear Programming,8,3
+Linear Programming,Linear Programming,6.5,3
+Linear Programming,Linear Programming,6,5
+Linear Programming,Linear Programming,5.5,5
+#N/A,Line segment intersection,4,3
+#N/A,Line segment intersection,4,3
+#N/A,Line segment intersection,4,3
+#N/A,Line segment intersection,4,3
+#N/A,Line segment intersection,4,3
+#N/A,Line segment intersection,4,3
+#N/A,Line segment intersection,2,3
+Convex Hull,Convex Hull,4,3
+Convex Hull,Convex Hull,5,3
+Convex Hull,Convex Hull,4,3
+Convex Hull,Convex Hull,4,3
+Convex Hull,Convex Hull,4,3
+Convex Hull,Convex Hull,4,3
+Convex Hull,Convex Hull,#VALUE!,3
+Strongly Connected Components,Strongly Connected Components,5,5
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,5.01,3
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,6,5
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,5,3
+Strongly Connected Components,Strongly Connected Components,6,5
+Strongly Connected Components,Strongly Connected Components,6,3
+Strongly Connected Components,Strongly Connected Components,6,3
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,3
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,3
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,3
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.001,5
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.001,5
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,5
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.02,5
+#N/A,Closest Pair Problem,4,3
+#N/A,Closest Pair Problem,4,3
+#N/A,Closest Pair Problem,5,3
+#N/A,Closest Pair Problem,4,3
+#N/A,Closest Pair Problem,4,3
+#N/A,Closest Pair Problem,4,3
+#N/A,Closest Pair Problem,4,3
+#N/A,Closest Pair Problem,3,5
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),7,5
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),6,3
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5.01,5
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5.01,3
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,5
+Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),7,5
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,5
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),5.373,5
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,5
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,#VALUE!
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,6
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),5.844,5
+All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,5
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,#VALUE!,3
+Integer Factoring,Integer Factoring,8,8
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,#VALUE!,3
+Integer Factoring,Integer Factoring,8,3
+Integer Factoring,Integer Factoring,8,3
+LU Decomposition,LU Decomposition,2.51,#VALUE!
+LU Decomposition,LU Decomposition,4.5,3
+LU Decomposition,LU Decomposition,2.51,#VALUE!
+LU Decomposition,LU Decomposition,4.5,2.5
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,#VALUE!
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+Informed Search,Informed Search,8,8
+String Search,String Search,5,3
+Sequence Alignment,Sequence Alignment,5,5
+Line Clipping,Line Clipping,3,1
+Line Clipping,Line Clipping,3,1
+Multiplication,Multiplication,4.001,3
+Multiplication,Multiplication,7,3
+Multiplication,Multiplication,7,3
+Multiplication,Multiplication,4,3
+Multiplication,Multiplication,7,3
+Multiplication,Multiplication,7,3
+Multiplication,Multiplication,7,3
+Multiplication,Multiplication,7,3
+Mutual Exclusion,Mutual Exclusion,3,3
+Mutual Exclusion,Mutual Exclusion,3,3
+Mutual Exclusion,Mutual Exclusion,3,3
+Mutual Exclusion,Mutual Exclusion,2.5,3
+Mutual Exclusion,Mutual Exclusion,2,3
+Mutual Exclusion,Mutual Exclusion,3,3
+Shown Surface Determination,Shown Surface Determination,4,3
+Shown Surface Determination,Shown Surface Determination,3,3
+Shown Surface Determination,Shown Surface Determination,3,3
+Shown Surface Determination,Shown Surface Determination,5,5
+Shown Surface Determination,Shown Surface Determination,3,3
+Shown Surface Determination,Shown Surface Determination,3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,2.5
+Delaunay Triangulation,Delaunay Triangulation,4,3
+Maximum Subarray Problem,Maximum Subarray Problem,3,1
+Maximum Subarray Problem,Maximum Subarray Problem,3,1
+Maximum Subarray Problem,Maximum Subarray Problem,2,3
+Integer Relation,Integer Relation,7,5
+Deadlock avoidance,Deadlock Avoidance,8,3
+Deadlock avoidance,Deadlock Avoidance,8,1
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,7,#VALUE!
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,#VALUE!
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,#VALUE!,#VALUE!
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,5,1
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,5,3
+#N/A,De Novo Genome Assembly,5,5
+#N/A,De Novo Genome Assembly,5,5
+#N/A,Ray Tracing,5,#VALUE!
+#N/A,Ray Tracing,5,#VALUE!
+#N/A,Ray Tracing,5,#VALUE!
+#N/A,Ray Tracing,5,#VALUE!
+#N/A,Ray Tracing,5,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,5.02,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5.02,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,4,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,5,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,5.03,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,5.001,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Feature Detection,6,#VALUE!
+#N/A,Culling,5,#VALUE!
+#N/A,Culling,5,#VALUE!
+#N/A,Culling,5,#VALUE!
+#N/A,Culling,5,#VALUE!
+#N/A,Texture Synthesis,6,#VALUE!
+#N/A,Texture Synthesis,6,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Texture Mapping,3,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Texture Mapping,6,#VALUE!
+#N/A,Texture Mapping,6,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Texture Mapping,4.68,#VALUE!
+#N/A,Texture Mapping,5.01,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,4,#VALUE!
+Image Segmentation,Image Segmentation,4,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,4,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+Image Segmentation,Image Segmentation,4,#VALUE!
+Image Segmentation,Image Segmentation,5,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,Mesh Simplification,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+#N/A,POMDPs,#VALUE!,#VALUE!
+Rasterization,Rasterization,3,1
+Rasterization,Rasterization,3,1
+#N/A,Texture Mapping,#VALUE!,#VALUE!
+#N/A,Texture Mapping,7,#VALUE!
+#N/A,Texture Mapping,#VALUE!,#VALUE!
+#N/A,Texture Mapping,6,#VALUE!
+#N/A,Texture Mapping,6,#VALUE!
+#N/A,Texture Mapping,#VALUE!,#VALUE!
+#N/A,Texture Mapping,5,#VALUE!
+#N/A,Occupancy Grid Mapping,6,#VALUE!
+SLAM Algorithms,SLAM Algorithms,2,3
+SLAM Algorithms,SLAM Algorithms,5,5
+#N/A,Change-Making Problem,4,4
+Sorting,Sorting,5,1
+Sorting,Sorting,3,1
+#N/A,Matrix Chain Multiplication,5,5
+#N/A,Matrix Chain Multiplication,2.03,3
+#N/A,Matrix Chain Multiplication,2.02,5
+#N/A,Longest Common Subsequence,5.01,5
+#N/A,Longest Common Subsequence,5,3
+#N/A,Longest Common Subsequence,5,3
+#N/A,Longest Common Subsequence,5,3
+#N/A,Longest Common Subsequence,5,3
+#N/A,Longest Common Subsequence,5,3
+#N/A,Longest Common Subsequence,5,5
+#N/A,Longest Common Subsequence,5,3
+#N/A,Longest Common Subsequence,5,3
+#N/A,Longest Common Subsequence,5,5
+#N/A,Longest Common Subsequence,5,5
+#N/A,Longest Common Subsequence,5,5
+Maximum Flow,Maximum Flow,6,#VALUE!
+#N/A,Graph Coloring,8,#VALUE!
+#N/A,Graph Coloring,8,#VALUE!
+#N/A,Graph Coloring,8,#VALUE!
+#N/A,Graph Coloring,8,#VALUE!
+#N/A,Graph Coloring,8,#VALUE!
+Convex Hull,Convex Hull,4,#VALUE!
+Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,3
+Integer Factoring,Integer Factoring,8,2.66
+Integer Factoring,Integer Factoring,8,2.66
+Integer Factoring,Integer Factoring,3,3
+String Search,String Search,3,1
+String Search,String Search,5,3
+String Search,String Search,5,3
+String Search,String Search,3,3
+String Search,String Search,3,3
+String Search,String Search,5,3
+String Search,String Search,3,3
+String Search,String Search,5,1
+String Search,String Search,5,1
+String Search,String Search,5,3
+String Search,String Search,3,3
+Sequence Alignment,Sequence Alignment,5,5
+Sequence Alignment,Sequence Alignment,5,5
+#N/A,Joins,5,1
+#N/A,Joins,4,3
+#N/A,Joins,3,3
+#N/A,Maximum Cardinality Matching,6,5
+#N/A,Maximum Cardinality Matching,5.5,3
+#N/A,Maximum Cardinality Matching,4.1864298,4
+#N/A,Maximum Cardinality Matching,5.857,5
+#N/A,Maximum Cardinality Matching,3,5
+#N/A,Maximum Cardinality Matching,5.5,5
+#N/A,Maximum Cardinality Matching,5.5,5
+#N/A,Maximum Cardinality Matching,5.376,5
+#N/A,Maximum Cardinality Matching,4.33,4.33
+Key Exchange,Key Exchange,7,3
+Key Exchange,Key Exchange,7,3
+Mutual Exclusion,Mutual Exclusion,3,#VALUE!
+Mutual Exclusion,Mutual Exclusion,3,3
+Mutual Exclusion,Mutual Exclusion,2,3
+Mutual Exclusion,Mutual Exclusion,2,3
+#N/A,SDD Systems Solvers,4,2.5
+#N/A,SDD Systems Solvers,4.375,2.5
+#N/A,SDD Systems Solvers,3,3
+#N/A,SDD Systems Solvers,2.501,#VALUE!
+#N/A,SDD Systems Solvers,4.25,#VALUE!
+#N/A,SDD Systems Solvers,2.5,2.5
+#N/A,SDD Systems Solvers,4,2.5
+#N/A,SDD Systems Solvers,4,2.5
+#N/A,SDD Systems Solvers,2.51,2.5
+#N/A,SDD Systems Solvers,2.635,#VALUE!
+#N/A,SDD Systems Solvers,4.011,2.5
+#N/A,SDD Systems Solvers,2.5,2.5
+#N/A,SDD Systems Solvers,2.635,2.5
+#N/A,SDD Systems Solvers,4.5,3
+#N/A,SDD Systems Solvers,8,3
+Cycle Detection,Cycle Detection,3,1
+Cycle Detection,Cycle Detection,3,1
+Cycle Detection,Cycle Detection,4,2
+Generating Random Permutations,Generating Random Permutations,5,3
+Generating Random Permutations,Generating Random Permutations,3,1
+Generating Random Permutations,Generating Random Permutations,3,3
+Generating Random Permutations,Generating Random Permutations,3,1
+#N/A,Convex Optimization (Non-linear),8,3
+#N/A,Convex Optimization (Non-linear),7,3
+#N/A,Convex Optimization (Non-linear),5.01,3
+#N/A,Convex Optimization (Non-linear),5,3
+#N/A,Convex Optimization (Non-linear),5,3
+Gröbner Bases,Gröbner Bases,8,8
+Gröbner Bases,Gröbner Bases,8,8
+Gröbner Bases,Gröbner Bases,8,8
+#N/A,Minimum value in each row of an implicitly-defined totally monotone matrix,3,1
+#N/A,Minimum value in each row of an implicitly-defined totally monotone matrix,2.51,2.5
+All Permutations,All Permutations,3,1
+All Permutations,All Permutations,3,3
+All Permutations,All Permutations,3,3
+#N/A,Optimal Binary Search Trees,4,3
+#N/A,Optimal Binary Search Trees,4,3
+#N/A,Optimal Binary Search Trees,5,5
+#N/A,Optimal Binary Search Trees,6,5
+#N/A,Optimal Binary Search Trees,8,1
+#N/A,Optimal Binary Search Trees,5,5
+#N/A,Optimal Binary Search Trees,3,3
+#N/A,Optimal Binary Search Trees,3,3
+#N/A,Nash Equilibria,8,3
+#N/A,Nash Equilibria,8,#VALUE!
+Maximum-Weight Matching,Maximum-Weight Matching,7,5
+Maximum-Weight Matching,Maximum-Weight Matching,7,7
+Maximum-Weight Matching,Maximum-Weight Matching,6.01,#VALUE!
+Maximum-Weight Matching,Maximum-Weight Matching,6,#VALUE!
+Constructing Eulerian Trails in a Graph,Constructing Eulerian Trails in a Graph,7,5
+Constructing Eulerian Trails in a Graph,Constructing Eulerian Trails in a Graph,5,5
+Constructing Eulerian Trails in a Graph,Constructing Eulerian Trails in a Graph,5.03,5
+Discrete Fourier Transform,Discrete Fourier Transform,5,1
+Discrete Fourier Transform,Discrete Fourier Transform,4,3
+Discrete Fourier Transform,Discrete Fourier Transform,4,3
+Discrete Fourier Transform,Discrete Fourier Transform,4,3
+Discrete Fourier Transform,Discrete Fourier Transform,4,3
+Discrete Fourier Transform,Discrete Fourier Transform,4,3
+Discrete Fourier Transform,Discrete Fourier Transform,4,3
+Discrete Fourier Transform,Discrete Fourier Transform,4,3
+Discrete Fourier Transform,Discrete Fourier Transform,4.01,3
+Discrete Fourier Transform,Discrete Fourier Transform,4.00585,3
+Discrete Fourier Transform,Discrete Fourier Transform,4.001,3
+Line Drawing,Line Drawing,3,1
+Line Drawing,Line Drawing,3,1
+Line Drawing,Line Drawing,3,1
+Line Drawing,Line Drawing,3,1
+Line Drawing,Line Drawing,3,1
+#N/A,Polygon Clipping,5,5
+#N/A,Polygon Clipping,5,3
+#N/A,Polygon Clipping,5,5
+#N/A,Polygon Clipping,5,5
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,2.5
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),2.51,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,2.5
+Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),2.5,3
+Root Computation,Root Computation,3,1
+Root Computation,Root Computation,3,1
+Root Computation,Root Computation,3,1
+Root Computation,Root Computation,3,1
+Root Computation,Root Computation,3,1
+Root Computation,Root Computation,3,1
+Root Computation,Root Computation,3,1
+#N/A,Coset Enumeration,8,8
+#N/A,Coset Enumeration,8,8
+#N/A,Coset Enumeration,8,8
+Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3
+Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3
+Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3
+Maximum Likelihood Parameters,Maximum Likelihood Parameters,5.01,3
+Maximum Likelihood Parameters,Maximum Likelihood Parameters,7,3
+Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3
+Cardinality Estimation,Cardinality Estimation,3,3
+Cardinality Estimation,Cardinality Estimation,3,2
+Cardinality Estimation,Cardinality Estimation,3,1.99
+Cardinality Estimation,Cardinality Estimation,3,2
+Cardinality Estimation,Cardinality Estimation,3,2
+Cardinality Estimation,Cardinality Estimation,3,1
+Cardinality Estimation,Cardinality Estimation,3,3
+#N/A,Register Allocation,5,5
+#N/A,Register Allocation,5,5
+#N/A,Register Allocation,3,1
+#N/A,Register Allocation,5,#VALUE!
+#N/A,Register Allocation,6,#VALUE!
+#N/A,Register Allocation,6,#VALUE!
+#N/A,Voronoi Diagrams,4,3
+#N/A,Voronoi Diagrams,4,#VALUE!
+#N/A,Voronoi Diagrams,4,3
+#N/A,Variance Calculations,3,1
+#N/A,Variance Calculations,3,1
+#N/A,Variance Calculations,3,1
+#N/A,Variance Calculations,3,1
+#N/A,Variance Calculations,2,3
+#N/A,Topological Sorting,5,3
+#N/A,Topological Sorting,5,3
+#N/A,Topological Sorting,2,5
+#N/A,DFA Minimization,4,3
+#N/A,DFA Minimization,5,3
+#N/A,DFA Minimization,8,8
+#N/A,DFA Minimization,3,3
+#N/A,DFA Minimization,3,3
+#N/A,Lowest Common Ancestor,3,3
+#N/A,Lowest Common Ancestor,3,3
+#N/A,Lowest Common Ancestor,3,3
+#N/A,Lowest Common Ancestor,3,3
+#N/A,Lowest Common Ancestor,3,3
+#N/A,Graph Edit Distance Computation,8,6
+#N/A,Graph Edit Distance Computation,5,5
+#N/A,Graph Edit Distance Computation,7,3
+#N/A,Graph Edit Distance Computation,5,3
+#N/A,Graph Edit Distance Computation,7,#VALUE!
+#N/A,Graph Edit Distance Computation,5,5
+#N/A,Graph Edit Distance Computation,7,#VALUE!
+#N/A,Graph Edit Distance Computation,5,#VALUE!
+#N/A,Graph Edit Distance Computation,7,5
+Clique Problems,Clique Problems,8,5
+Clique Problems,Clique Problems,8,5
+Clique Problems,Clique Problems,8,5
+Clique Problems,Clique Problems,8,5
+Clique Problems,Clique Problems,8,5
+Clique Problems,Clique Problems,6,5
+Clique Problems,Clique Problems,8,3
+Clique Problems,Clique Problems,6,5
+Clique Problems,Clique Problems,5.3728596,5
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,8
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,6,5
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,#VALUE!
+The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,#VALUE!
+#N/A,Poisson Problem,8,8
+#N/A,Poisson Problem,7,7
+#N/A,Poisson Problem,7.01,5
+#N/A,Poisson Problem,6.01,5
+#N/A,Poisson Problem,5.02,5
+#N/A,Poisson Problem,6,5
+#N/A,Poisson Problem,6,5
+#N/A,Poisson Problem,5.01,5
+#N/A,Poisson Problem,5.01,5
+#N/A,Poisson Problem,5.01,5
+#N/A,Poisson Problem,5.01,5
+#N/A,Poisson Problem,5.01,5
+#N/A,Poisson Problem,8,8
+#N/A,Poisson Problem,7,7
+#N/A,Poisson Problem,7,6
+#N/A,Poisson Problem,7,6
+#N/A,Poisson Problem,6.02,6
+#N/A,Poisson Problem,7,6
+#N/A,Poisson Problem,7,6
+#N/A,Poisson Problem,6.01,6
+#N/A,Poisson Problem,6.01,6
+#N/A,Poisson Problem,6.01,6
+#N/A,Poisson Problem,6.01,6
+#N/A,Poisson Problem,6.01,6
+Delaunay Triangulation,Delaunay Triangulation,7,3
+Delaunay Triangulation,Delaunay Triangulation,5,3
+Delaunay Triangulation,Delaunay Triangulation,4,3
+Delaunay Triangulation,Delaunay Triangulation,4,3
+Delaunay Triangulation,Delaunay Triangulation,4,3
+Delaunay Triangulation,Delaunay Triangulation,4,3
+Delaunay Triangulation,Delaunay Triangulation,5,3
+Delaunay Triangulation,Delaunay Triangulation,4,3
+Delaunay Triangulation,Delaunay Triangulation,4,3
+Delaunay Triangulation,Delaunay Triangulation,4,#VALUE!
+Delaunay Triangulation,Delaunay Triangulation,3,3
+Delaunay Triangulation,Delaunay Triangulation,3.99,3
+#N/A,De Novo Genome Assembly,5,3
+#N/A,De Novo Genome Assembly,4,3
+#N/A,De Novo Genome Assembly,3,3
+#N/A,De Novo Genome Assembly,5,#VALUE!
+#N/A,The Subset-Sum Problem,8,3
+#N/A,The Subset-Sum Problem,8,8
+#N/A,Dependency Inference Problem,8,8
+#N/A,Dependency Inference Problem,8,8
+#N/A,BCNF Decomposition,6,3
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,4NF Decomposition,8,#VALUE!
+#N/A,Dependency Inference Problem,8,8
+#N/A,Dependency Inference Problem,8,#VALUE!
+#N/A,Disk Scheduling,3,1
+#N/A,Disk Scheduling,4,3
+#N/A,Disk Scheduling,4,3
+#N/A,Disk Scheduling,4,3
+#N/A,Disk Scheduling,4,3
+#N/A,Disk Scheduling,4,3
+#N/A,The Vertex Cover Problem,8,3
+#N/A,The Vertex Cover Problem,8,5
+#N/A,The Vertex Cover Problem,8,6
+#N/A,The Vertex Cover Problem,8,8
+#N/A,The Vertex Cover Problem,8,7
+#N/A,The Vertex Cover Problem,8,6
+#N/A,The Vertex Cover Problem,8,6
+#N/A,The Vertex Cover Problem,8,3
+#N/A,The Vertex Cover Problem,8,6
+#N/A,The Vertex Cover Problem,8,6
+CFG Problems,CFG Problems,6,5
+CFG Problems,CFG Problems,5.3728596,5
+CFG Problems,CFG Problems,6,5
+CFG Problems,CFG Problems,6,6
+#N/A,Finding Frequent Itemsets,5,5
+#N/A,Finding Frequent Itemsets,5,5
+#N/A,Finding Frequent Itemsets,5,5
+#N/A,Finding Frequent Itemsets,5,5
+#N/A,Data Compression,5.03,3
+#N/A,Data Compression,5,3
+#N/A,Data Compression,5,5
+#N/A,Data Compression,5,5
+#N/A,Data Compression,8,8
+#N/A,Data Compression,8,8
+#N/A,Data Compression,8,3
+#N/A,Data Compression,8,8
+#N/A,Data Compression,8,3
+#N/A,Data Compression,3,3
+#N/A,Data Compression,3,3
+#N/A,Data Compression,8,8
+#N/A,Factorization of Polynomials Over Finite Fields,6.01,3
+#N/A,Factorization of Polynomials Over Finite Fields,6,3
+#N/A,Factorization of Polynomials Over Finite Fields,6,3
+#N/A,Factorization of Polynomials Over Finite Fields,6,3
+#N/A,Factorization of Polynomials Over Finite Fields,6.01,3
+#N/A,Factorization of Polynomials Over Finite Fields,5,3
+#N/A,Cryptanalysis of Linear Feedback Shift Registers,5,3
+Stable Matching Problem,Stable Matching Problem,5,3
+Stable Matching Problem,Stable Matching Problem,5,5
+Stable Matching Problem,Stable Matching Problem,5,5
+Stable Matching Problem,Stable Matching Problem,5,5
+Stable Matching Problem,Stable Matching Problem,6,6
+Stable Matching Problem,Stable Matching Problem,5,5
+Stable Matching Problem,Stable Matching Problem,6,3
+Stable Matching Problem,Stable Matching Problem,5,3
+Stable Matching Problem,Stable Matching Problem,2.5,2.5
+Longest Path Problem,Longest Path Problem,7,6
+#N/A,Constructing Suffix Trees,5,3
+#N/A,Constructing Suffix Trees,3,3
+#N/A,Constructing Suffix Trees,3,#VALUE!
+#N/A,Constructing Suffix Trees,3,3
+#N/A,Constructing Suffix Trees,5,5
+#N/A,Constructing Suffix Trees,2.03,3
+#N/A,Constructing Suffix Trees,2.01,4.01
+#N/A,Constructing Suffix Trees,2,3
+#N/A,Constructing Suffix Trees,2,3
+#N/A,Constructing Suffix Trees,3,3
+#N/A,Entity Resolution,6.5,2.5
+#N/A,Entity Resolution,6.5,4.5
+#N/A,Entity Resolution,5.01,#VALUE!
+#N/A,Entity Resolution,6.5,2.5
+#N/A,Entity Resolution,5.5,2.5
+#N/A,Entity Resolution,5.01,#VALUE!
+#N/A,Entity Resolution,5.5,3
+#N/A,Entity Resolution,5.5,5
+Longest Palindromic Substring,Longest Palindromic Substring,6,1
+Longest Palindromic Substring,Longest Palindromic Substring,5,5
+Longest Palindromic Substring,Longest Palindromic Substring,3,3
+Longest Palindromic Substring,Longest Palindromic Substring,3,3
+Longest Palindromic Substring,Longest Palindromic Substring,3,3
+#N/A,Register Allocation,5,5
+#N/A,AST to Code Translation,3,1
+#N/A,Graph Isomorphism Problem,8,#VALUE!
+#N/A,Graph Isomorphism Problem,8,5
+#N/A,Graph Isomorphism Problem,8,#VALUE!
+#N/A,Graph Isomorphism Problem,#VALUE!,6
+#N/A,Graph Isomorphism Problem,8,5
+#N/A,Graph Isomorphism Problem,#VALUE!,3m
+#N/A,Graph Isomorphism Problem,7.5,#VALUE!
+#N/A,Graph Isomorphism Problem,5,5
+#N/A,Graph Isomorphism Problem,7,#VALUE!
+#N/A,Graph Isomorphism Problem,8,#VALUE!
+#N/A,Graph Realization Problems,3,3
+#N/A,Graph Realization Problems,3,1
+#N/A,Graph Realization Problems,8,#VALUE!
+Duplicate Elimination,Duplicate Elimination,4,3
+Duplicate Elimination,Duplicate Elimination,4,#VALUE!
+Duplicate Elimination,Duplicate Elimination,4,2
+Duplicate Elimination,Duplicate Elimination,5,3
+Duplicate Elimination,Duplicate Elimination,5,3
+Duplicate Elimination,Duplicate Elimination,4,#VALUE!
+Duplicate Elimination,Duplicate Elimination,6,1
+#N/A,Hyperbolic Spline Interpolation,6,3
+#N/A,Hyperbolic Spline Interpolation,7,#VALUE!
+#N/A,Hyperbolic Spline Interpolation,7,#VALUE!
+#N/A,Hyperbolic Spline Interpolation,7,#VALUE!
+#N/A,Hyperbolic Spline Interpolation,7,3
+#N/A,Hyperbolic Spline Interpolation,7,3
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,4.02,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,4.015,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,3,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,4,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,5,#VALUE!
+#N/A,Mesh Parameterization,3.99,#VALUE!
+#N/A,Mesh Parameterization,4.01,#VALUE!
+#N/A,Mesh Parameterization,4.01,#VALUE!
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,6,3
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,5.03,3
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,6,3
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,6,3
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,6,3
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,6,3
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,5.02,1
+#N/A,Maximum Likelihood Methods in Unknown Latent Variables,5.02,#VALUE!
+#N/A,Collaborative Filtering,4.5,3
+#N/A,Collaborative Filtering,3,3
+#N/A,Collaborative Filtering,3,3
+#N/A,Filtering Problem (Stochastic Processes),6,5
+#N/A,Filtering Problem (Stochastic Processes),6,3
+#N/A,Filtering Problem (Stochastic Processes),6,#VALUE!
+#N/A,Filtering Problem (Stochastic Processes),6,#VALUE!
+#N/A,Filtering Problem (Stochastic Processes),6,5
+#N/A,Filtering Problem (Stochastic Processes),6,#VALUE!
+#N/A,Filtering Problem (Stochastic Processes),5.02,5
+#N/A,Filtering Problem (Stochastic Processes),5.46,#VALUE!
+#N/A,Filtering Problem (Stochastic Processes),5,#VALUE!
+#N/A,Filtering Problem (Stochastic Processes),5,#VALUE!
+Optimal Policies for MDPs,Optimal Policies for MDPs,8,3
+Optimal Policies for MDPs,Optimal Policies for MDPs,6,3
+Optimal Policies for MDPs,Optimal Policies for MDPs,6,3
+#N/A,The Set-Covering Problem,5,1
+#N/A,The Set-Covering Problem,6.01,1
+#N/A,The Set-Covering Problem,8,#VALUE!
+#N/A,The Set-Covering Problem,8,#VALUE!
+#N/A,The Set-Covering Problem,6.03,#VALUE!
+#N/A,The Set-Covering Problem,5.01,#VALUE!
+#N/A,The Set-Covering Problem,5,#VALUE!
+#N/A,The Set-Covering Problem,8,1
+#N/A,Motif Search,3,2.5
+#N/A,Motif Search,3,2.5
+#N/A,Motif Search,3,3
+#N/A,Motif Search,2.83,2.5
+#N/A,Motif Search,5,3
+#N/A,Motif Search,4.225,4.5
+#N/A,Motif Search,2.75,3
+#N/A,Motif Search,3,5
+#N/A,All Maximal Non-Branching Paths in a Graph,5,3
+Link Analysis,Link Analysis,6,3
+Link Analysis,Link Analysis,6,3
+Link Analysis,Link Analysis,5,3
+Link Analysis,Link Analysis,7,#VALUE!
+Link Analysis,Link Analysis,7,3
+Link Analysis,Link Analysis,6.01,3
+Link Analysis,Link Analysis,6,3
+Link Analysis,Link Analysis,6,3
+Link Analysis,Link Analysis,6,3
+Link Analysis,Link Analysis,6,3
+Link Analysis,Link Analysis,6,3
+Link Analysis,Link Analysis,6,5
+#N/A,Distributed Locking Algorithms,3,1
+#N/A,Distributed Locking Algorithms,3,1
+#N/A,Distributed Locking Algorithms,3,#VALUE!
+#N/A,Cyclic Peptide Sequencing Problem,8,3
+#N/A,Cyclic Peptide Sequencing Problem,8,8
+Point-in-Polygon,Point-in-Polygon,3,1
+Point-in-Polygon,Point-in-Polygon,3,3
+Point-in-Polygon,Point-in-Polygon,4,5
+Point-in-Polygon,Point-in-Polygon,3,1
+Point-in-Polygon,Point-in-Polygon,3,3
+Point-in-Polygon,Point-in-Polygon,3,1
+Point-in-Polygon,Point-in-Polygon,3,1
+Point-in-Polygon,Point-in-Polygon,3,1
+#N/A,Clock Synchronization in Distributed Systems,3,3
+#N/A,Clock Synchronization in Distributed Systems,3,1
+#N/A,Clock Synchronization in Distributed Systems,3,3
+#N/A,d-Neighborhood of a String,8,3
+#N/A,Maximum Cut,8,#VALUE!
+#N/A,Maximum Cut,3,3
+#N/A,Maximum Cut,6,3
+#N/A,Maximum Cut,5,3
+#N/A,Maximum Cut,6.01,5
+#N/A,Maximum Cut,6,#VALUE!
+#N/A,Wiener Index,5.01,5
+#N/A,Determinant of Matrices with Integer Entries,5.52,4.51
+#N/A,Determinant of Matrices with Integer Entries,5.011,4.51
+Integer Relation,Integer Relation,6,5
+Integer Relation,Integer Relation,7,5
+Integer Relation,Integer Relation,6,5
+Integer Relation,Integer Relation,6,5
+#N/A,Sequence-to-Graph Alignment,6,6
+#N/A,Sequence-to-Graph Alignment,5,3
+#N/A,Sequence-to-Graph Alignment,7,7
+#N/A,Sequence-to-Graph Alignment,6,3
+#N/A,Sequence-to-Graph Alignment,5,3
+#N/A,Sequence-to-Graph Alignment,5,3
+#N/A,Sequence-to-Graph Alignment,5,3
+Logarithm Calculations,Logarithm Calculations,8,1
+Logarithm Calculations,Logarithm Calculations,8,8
+Logarithm Calculations,Logarithm Calculations,8,3
+Logarithm Calculations,Logarithm Calculations,8,3
+Logarithm Calculations,Logarithm Calculations,8,3
+Logarithm Calculations,Logarithm Calculations,8,8
+Logarithm Calculations,Logarithm Calculations,8,1
+Logarithm Calculations,Logarithm Calculations,8,1
+#N/A,Self-Balancing Trees Creation,4,3
+#N/A,Self-Balancing Trees Creation,4,3
+#N/A,Self-Balancing Trees Creation,4,3
+#N/A,Self-Balancing Trees Creation,4,3
+#N/A,Self-Balancing Trees Creation,4,3
+#N/A,Self-Balancing Trees Insertion,2,1
+#N/A,Self-Balancing Trees Insertion,2,1
+#N/A,Self-Balancing Trees Deletion,2,1
+#N/A,Self-Balancing Trees Deletion,2,1
+#N/A,Self-Balancing Trees Search,2,1
+#N/A,Self-Balancing Trees Search,2,1
+#N/A,Transitive Reduction Problem,5.3728596,5
+#N/A,Transitive Reduction Problem,5.807,5
+#N/A,Transitive Reduction Problem,5.8,5
+#N/A,Transitive Reduction Problem,5.78,5
+#N/A,Transitive Reduction Problem,5.52,5
+#N/A,Transitive Reduction Problem,5.518,5
+#N/A,Transitive Reduction Problem,5.495,5
+#N/A,Transitive Reduction Problem,5.48,5
+#N/A,Transitive Reduction Problem,5.372,5
+#N/A,Transitive Reduction Problem,5.373,5
+#N/A,Transitive Reduction Problem,5.371,5
+#N/A,Transitive Reduction Problem,6,5
+#N/A,Turnpike Problem,8,3
+#N/A,n-Queens Problem,8,2.5
+#N/A,n-Queens Problem,8,2.5
+#N/A,n-Queens Problem,8,2.5
+#N/A,n-Queens Problem,8,#VALUE!
+#N/A,n-Queens Problem,8,8
+#N/A,n-Queens Problem,8,8
+#N/A,Median String Problem,8,3
+#N/A,Frequent Words with Mismatches Problem,8,8
+Tower of Hanoi,Tower of Hanoi,8,3
+Tower of Hanoi,Tower of Hanoi,8,4
+Tower of Hanoi,Tower of Hanoi,8,3
+Tower of Hanoi,Tower of Hanoi,8,3
+Tower of Hanoi,Tower of Hanoi,8,#VALUE!
+#N/A,The Frequent Words Problem,3,3
+#N/A,The Frequent Words Problem,3,3
+#N/A,Integral Equations,8,#VALUE!
+One-Way Hash Functions,One-Way Hash Functions,3,1
+One-Way Hash Functions,One-Way Hash Functions,3,1
+One-Way Hash Functions,One-Way Hash Functions,3,1
+One-Way Hash Functions,One-Way Hash Functions,3,1
+One-Way Hash Functions,One-Way Hash Functions,3,1
+One-Way Hash Functions,One-Way Hash Functions,3,1
+One-Way Hash Functions,One-Way Hash Functions,3,1
+One-Way Hash Functions,One-Way Hash Functions,3,1
+#N/A,Secret Sharing,5,5
+#N/A,Secret Sharing,6,5
+#N/A,Solutions to Nonlinear Equations,3,1
+#N/A,Solutions to Nonlinear Equations,3,1
+#N/A,Solutions to Nonlinear Equations,3,1
+#N/A,Solutions to Nonlinear Equations,3,1
+Block Ciphers,Block Ciphers,3,3
+Block Ciphers,Block Ciphers,3,3
+Block Ciphers,Block Ciphers,3,1
+Block Ciphers,Block Ciphers,3,3
+Block Ciphers,Block Ciphers,3,3
+#N/A,Polynomial Interpolation,8,5
+#N/A,Polynomial Interpolation,5,3
+#N/A,Polynomial Interpolation,5,3
+#N/A,Polynomial Interpolation,5,3
+Greatest Common Divisor,Greatest Common Divisor,5,3
+Greatest Common Divisor,Greatest Common Divisor,5,3
+Greatest Common Divisor,Greatest Common Divisor,5,3
+Greatest Common Divisor,Greatest Common Divisor,4.011,3
+#N/A,Interval Scheduling,8,3
+#N/A,Interval Scheduling,6,5
+#N/A,Interval Scheduling,5,3
+#N/A,Interval Scheduling,4,3
+#N/A,Interval Scheduling,4,3
+#N/A,Interval Scheduling,3,3
+#N/A,Interval Scheduling,3,3
+#N/A,Interval Scheduling,3,3
+#N/A,Interval Scheduling,3,3
+#N/A,Interval Scheduling,3,3
+#N/A,Interval Scheduling,3,#VALUE!
+Deadlock avoidance,Deadlock avoidance,5,3
+Page Replacements,Page Replacements,5,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+Page Replacements,Page Replacements,3,1
+#N/A,Recovery,3,3

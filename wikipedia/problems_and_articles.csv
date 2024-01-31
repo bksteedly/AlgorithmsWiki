@@ -1,0 +1,141 @@
+Which Problem,Number of Articles,Sheet1 Problems,Sheet1 Algos
+Disjoint-Set Data Structure,1,Feature Detection,32
+Discrete Fourier Transform,3,Sorting,26
+Graphical Model Inference,1,Poisson Problem,24
+Maximum Flow,2,Mesh Simplification,22
+Graph Traversal,2,Maximum Flow,20
+Ordered Associative Array (Comparison),1,Mesh Parameterization,20
+Travelling Salesman Problem,1,Texture Mapping,19
+Authentication,1,Image Segmentation,19
+Clustering Problem,1,Motif Search,17
+Classification,4,Graph Coloring,17
+Error Detection,2,Informed Search,17
+Combinatorial Games,1,String Search,17
+Non-linear Least Squares,2,Integer Factoring,16
+Block Ciphers,9,The Subset-Sum Problem,15
+Sorting,1,Longest Common Subsequence,15
+Data Compression (Lossless),4,SDD Systems Solvers,15
+Linear System,2,Strongly Connected Components,14
+Scheduling,1,Minimum Spanning Tree (MST),13
+Network Congestion,1,Delaunay Triangulation,13
+Black Box Function Inversion,1,POMDPs,13
+Shortest Path (Directed Graphs),2,Optimal Binary Search Trees,12
+Linear Classification,2,Sequence Alignment,12
+Eigenvalues (Iterative Methods),3,The Traveling-Salesman Problem,12
+Page Replacements,1,Eigenvalues (Iterative Methods),12
+Line Clipping,1,Data Compression,12
+,,Link Analysis,12
+,,Transitive Reduction Problem,12
+Nearest Neighbor Search,1,Matrix Product,11
+Minimum Spanning Tree (MST),2,Multiplication,11
+Median Selection,1,Discrete Fourier Transform,11
+,,Interval Scheduling,11
+Informed Search,1,Stable Matching Problem,10
+Link Analysis,1,Matrix Chain Multiplication,10
+Data Compression (Lossless)/Optimal Binary Search Trees,1,Convex Hull,10
+Shown Surface Determination,1,Closest Pair Problem,10
+Rasterization,3,Maximum Cardinality Matching,10
+Probability Distribution Sampling,1,The Set-Covering Problem,10
+String Search,4,Shortest Path (Directed Graphs),10
+"Division, Integer Factoring",1,Mutual Exclusion,10
+Image Segmentation,1,The Vertex Cover Problem,10
+Color Image Reconstruction,1,Constructing Suffix Trees,10
+Peer-to-Peer Distributed Hash Table,1,Graph Isomorphism Problem,10
+Stable Matching Problem,1,Filtering Problem (Stochastic Processes),10
+,,Page Replacements,10
+Greatest Common Divisor,2,Line segment intersection,9
+All-Pairs Shortest Paths (APSP),2,Maximum Subarray Problem,9
+Collaborative Filtering,1,Graph Edit Distance Computation,9
+Mesh Simplification,1,Clique Problems,9
+Root Computation,2,Texture Synthesis,8
+Neural Network Training,1,Linear System,8
+Genetic Algorithm,3,Linear Programming,8
+Convex Optimization (Non-linear),8,LU Decomposition,8
+Key Exchange,3,All-Pairs Shortest Paths (APSP),8
+Companding,1,4NF Decomposition,8
+"Eigenvalues (Iterative Methods), Collaborative Filtering",1,Entity Resolution,8
+File Erasure,1,Maximum Likelihood Methods in Unknown Latent Variables,8
+,,Point-in-Polygon,8
+,,Logarithm Calculations,8
+,,One-Way Hash Functions,8
+Public Key Cryptosystem,2,Nearest Neighbor Search,7
+Unordered Associative Array,1,n-Queens Problem,7
+"Linear System, SDD Systems Solvers, Collaborative Filtering",1,Line Clipping,7
+Convex Hull,2,Root Computation,7
+Chromosomal Crossover,1,Cardinality Estimation,7
+Consensus,1,Register Allocation,7
+Mesh Parameterization,1,Duplicate Elimination,7
+,,Sequence-to-Graph Alignment,7
+Maximum Likelihood Parameters,1,Line Simplification,6
+Generating Random Permutations,1,SLAM Algorithms,6
+Maximum-Weight Matching,1,Shown Surface Determination,6
+Finding Frequent Itemsets,1,De Novo Genome Assembly,6
+Mutual Exclusion,1,Maximum Likelihood Parameters,6
+CFG Problems,1,Disk Scheduling,6
+Rule-based Systems (CFG Problems),1,Factorization of Polynomials Over Finite Fields,6
+Digits of Pi,1,Hyperbolic Spline Interpolation,6
+,,Maximum Cut,6
+Searching Problem,1,Cycle Detection,5
+Partial Derivatives,1,Integer Relation,5
+Connected Components (undirected),1,Ray Tracing,5
+Exponentiation,1,Convex Optimization (Non-linear),5
+Strongly Connected Components,2,Line Drawing,5
+Graph Drawing,1,Variance Calculations,5
+All Permutations,1,DFA Minimization,5
+Boolean Function Minimization,1,Lowest Common Ancestor,5
+Memory Allocation,1,Longest Palindromic Substring,5
+,,Self-Balancing Trees Creation,5
+,,Tower of Hanoi,5
+,,Block Ciphers,5
+Multiplication,4,Culling,4
+Polynomial Evaluation,1,Generating Random Permutations,4
+Arithmetic,1,Maximum-Weight Matching,4
+Face Detection,1,Polygon Clipping,4
+Numerical Error Reduction,1,Dependency Inference Problem,4
+Type Inference,1,CFG Problems,4
+The Traveling-Salesman Problem,1,Finding Frequent Itemsets,4
+,,Solutions to Nonlinear Equations,4
+,,Polynomial Interpolation,4
+,,Greatest Common Divisor,4
+One-Way Hash Functions,1,kth Order Statistic,3
+Synchronization,1,Change-Making Problem,3
+Searching,1,Deadlock Avoidance,3
+Image Processing,1,Joins,3
+Integration,2,Gröbner Bases,3
+Area of Polygon,1,All Permutations,3
+Cardinality Estimation,1,Constructing Eulerian Trails in a Graph,3
+Line Simplification,1,Coset Enumeration,3
+Variable Swapping,1,Voronoi Diagrams,3
+Linear System (Tridiagonal),1,Topological Sorting,3
+Logarithm Calculations,1,Graph Realization Problems,3
+Boolean Satisfiability,1,Collaborative Filtering,3
+,,Optimal Policies for MDPs,3
+,,Distributed Locking Algorithms,3
+,,Clock Synchronization in Distributed Systems,3
+Linear Programming,1,Rod-Cutting Problem,2
+Matrix Product,2,Rasterization,2
+Primality Testing,2,Key Exchange,2
+Deadlock avoidance,1,Minimum value in each row of an implicitly-defined totally monotone matrix,2
+Sequence Alignment,2,Nash Equilibria,2
+,,Cyclic Peptide Sequencing Problem,2
+,,Determinant of Matrices with Integer Entries,2
+,,Self-Balancing Trees Insertion,2
+,,Self-Balancing Trees Deletion,2
+,,Self-Balancing Trees Search,2
+,,The Frequent Words Problem,2
+,,Secret Sharing,2
+Integer Factoring,2,NFA to DFA conversion,1
+Hidden Markov Models,3,Image Compositing,1
+Routing,4,Occupancy Grid Mapping,1
+Voronoi Diagrams,1,BCNF Decomposition,1
+Filtering Problem,1,Cryptanalysis of Linear Feedback Shift Registers,1
+Integer Relation,1,Longest Path Problem,1
+Electoral System,1,AST to Code Translation,1
+,,All Maximal Non-Branching Paths in a Graph,1
+,,d-Neighborhood of a String,1
+,,Wiener Index,1
+,,Turnpike Problem,1
+,,Median String Problem,1
+,,Frequent Words with Mismatches Problem,1
+,,Integral Equations,1
+,,Recovery,1

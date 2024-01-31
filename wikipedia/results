@@ -1,0 +1,997 @@
+,One of them,Time Complexity Class,Time Complexity Bin,Wikipedia?
+0,0,3.0,3,Not on Wikipedia
+1,0,2.6,2,Not on Wikipedia
+2,0,3.0,3,Not on Wikipedia
+3,0,4.6,4,Not on Wikipedia
+4,1,4.0,4,On Wikipedia
+5,1,3.0,3,On Wikipedia
+6,0,3.0,3,Not on Wikipedia
+7,1,3.0,3,On Wikipedia
+8,1,3.0,3,On Wikipedia
+9,0,3.0,3,Not on Wikipedia
+10,1,3.0,3,On Wikipedia
+11,0,4.5,4,Not on Wikipedia
+12,0,4.0,4,Not on Wikipedia
+13,0,4.0,4,Not on Wikipedia
+14,0,4.0,4,Not on Wikipedia
+15,0,6.0,6,Not on Wikipedia
+16,0,1.0,1,Not on Wikipedia
+17,0,3.0,3,Not on Wikipedia
+18,1,3.0,3,On Wikipedia
+19,1,3.0,3,On Wikipedia
+20,1,5.01,5,On Wikipedia
+21,1,3.0,3,On Wikipedia
+22,0,3.0,3,Not on Wikipedia
+23,1,3.0,3,On Wikipedia
+24,1,3.0,3,On Wikipedia
+25,0,5.0,5,Not on Wikipedia
+26,1,5.0,5,On Wikipedia
+27,1,4.0,4,On Wikipedia
+28,1,5.0,5,On Wikipedia
+29,1,4.0,4,On Wikipedia
+30,1,4.0,4,On Wikipedia
+31,1,3.0,3,On Wikipedia
+32,1,5.0,5,On Wikipedia
+33,1,3.0,3,On Wikipedia
+34,1,4.0,4,On Wikipedia
+35,1,5.0,5,On Wikipedia
+36,1,8.0,8,On Wikipedia
+37,1,6.0,6,On Wikipedia
+38,1,5.0,5,On Wikipedia
+39,1,7.0,7,On Wikipedia
+40,1,7.0,7,On Wikipedia
+41,1,7.0,7,On Wikipedia
+42,1,6.0,6,On Wikipedia
+43,0,6.02,6,Not on Wikipedia
+44,1,4.5,4,On Wikipedia
+45,1,4.4035,4,On Wikipedia
+46,1,4.3975,4,On Wikipedia
+47,1,4.258325,4,On Wikipedia
+48,1,4.247774,4,On Wikipedia
+49,1,4.23925,4,On Wikipedia
+50,1,4.18775,4,On Wikipedia
+51,1,4.1864365,4,On Wikipedia
+52,1,4.18643195,4,On Wikipedia
+53,1,8.0,8,On Wikipedia
+54,0,8.0,8,Not on Wikipedia
+55,1,4.5,4,On Wikipedia
+56,1,4.5,4,On Wikipedia
+57,0,4.5,4,Not on Wikipedia
+58,1,3.0,3,On Wikipedia
+59,1,3.0,3,On Wikipedia
+60,1,3.0,3,On Wikipedia
+61,1,8.0,8,On Wikipedia
+62,1,7.0,7,On Wikipedia
+63,0,5.0,5,Not on Wikipedia
+64,1,4.0,4,On Wikipedia
+65,0,6.0,6,Not on Wikipedia
+66,1,3.0,3,On Wikipedia
+67,0,5.01,5,Not on Wikipedia
+68,0,5.01,5,Not on Wikipedia
+69,1,5.0,5,On Wikipedia
+70,0,5.0,5,Not on Wikipedia
+71,1,4.5,4,On Wikipedia
+72,1,4.5,4,On Wikipedia
+73,1,6.0,6,On Wikipedia
+74,1,8.0,8,On Wikipedia
+75,1,8.0,8,On Wikipedia
+76,1,8.0,8,On Wikipedia
+77,1,8.0,8,On Wikipedia
+78,1,8.0,8,On Wikipedia
+79,1,8.0,8,On Wikipedia
+80,1,8.0,8,On Wikipedia
+81,1,8.0,8,On Wikipedia
+82,1,8.0,8,On Wikipedia
+83,1,8.0,8,On Wikipedia
+84,0,8.0,8,Not on Wikipedia
+85,1,5.0,5,On Wikipedia
+86,1,3.0,3,On Wikipedia
+87,1,5.0,5,On Wikipedia
+88,1,5.0,5,On Wikipedia
+89,1,5.0,5,On Wikipedia
+90,1,6.0,6,On Wikipedia
+91,0,4.99,4,Not on Wikipedia
+92,1,5.0,5,On Wikipedia
+93,1,5.0,5,On Wikipedia
+94,1,5.0,5,On Wikipedia
+95,1,5.0,5,On Wikipedia
+96,1,5.0,5,On Wikipedia
+97,1,5.0,5,On Wikipedia
+98,1,3.0,3,On Wikipedia
+99,1,3.0,3,On Wikipedia
+100,1,3.0,3,On Wikipedia
+101,1,3.0,3,On Wikipedia
+102,1,3.0,3,On Wikipedia
+103,1,8.0,8,On Wikipedia
+104,1,4.58,4,On Wikipedia
+105,1,4.46,4,On Wikipedia
+106,1,5.0,5,On Wikipedia
+107,1,5.0,5,On Wikipedia
+108,1,5.0,5,On Wikipedia
+109,1,3.0,3,On Wikipedia
+110,1,3.0,3,On Wikipedia
+111,1,3.0,3,On Wikipedia
+112,1,3.0,3,On Wikipedia
+113,1,3.0,3,On Wikipedia
+114,1,4.0,4,On Wikipedia
+115,1,4.0,4,On Wikipedia
+116,1,8.0,8,On Wikipedia
+117,1,3.0,3,On Wikipedia
+118,1,3.0,3,On Wikipedia
+119,1,4.0,4,On Wikipedia
+120,0,4.0,4,Not on Wikipedia
+121,1,6.0,6,On Wikipedia
+122,1,5.0,5,On Wikipedia
+123,1,5.0,5,On Wikipedia
+124,1,4.0,4,On Wikipedia
+125,1,3.0,3,On Wikipedia
+126,0,2.0,2,Not on Wikipedia
+127,0,5.5,5,Not on Wikipedia
+128,0,3.0,3,Not on Wikipedia
+129,0,3.0,3,Not on Wikipedia
+130,1,5.5,5,On Wikipedia
+131,1,5.5,5,On Wikipedia
+132,0,8.0,8,Not on Wikipedia
+133,0,5.0,5,Not on Wikipedia
+134,0,8.0,8,Not on Wikipedia
+135,1,5.0,5,On Wikipedia
+136,1,2.0,2,On Wikipedia
+137,1,1.99,1,On Wikipedia
+138,0,3.0,3,Not on Wikipedia
+139,1,3.0,3,On Wikipedia
+140,0,4.38995,4,Not on Wikipedia
+141,1,4.2609,4,On Wikipedia
+142,0,7.0,7,Not on Wikipedia
+143,1,5.0,5,On Wikipedia
+144,1,5.5,5,On Wikipedia
+145,1,8.0,8,On Wikipedia
+146,1,8.0,8,On Wikipedia
+147,0,5.01,5,Not on Wikipedia
+148,1,5.0,5,On Wikipedia
+149,1,6.0,6,On Wikipedia
+150,1,6.0,6,On Wikipedia
+151,1,5.0,5,On Wikipedia
+152,1,4.0,4,On Wikipedia
+153,0,3.0,3,Not on Wikipedia
+154,0,5.0,5,Not on Wikipedia
+155,1,6.0,6,On Wikipedia
+156,1,3.0,3,On Wikipedia
+157,1,6.0,6,On Wikipedia
+158,1,6.0,6,On Wikipedia
+159,1,6.0,6,On Wikipedia
+160,0,6.0,6,Not on Wikipedia
+161,0,6.0,6,Not on Wikipedia
+162,1,5.0,5,On Wikipedia
+163,0,4.0,4,Not on Wikipedia
+164,1,8.0,8,On Wikipedia
+165,1,3.0,3,On Wikipedia
+166,1,4.188,4,On Wikipedia
+167,1,5.0,5,On Wikipedia
+168,1,4.0,4,On Wikipedia
+169,1,5.0,5,On Wikipedia
+170,1,4.0,4,On Wikipedia
+171,1,4.0,4,On Wikipedia
+172,1,5.0,5,On Wikipedia
+173,1,4.5,4,On Wikipedia
+174,1,4.01,4,On Wikipedia
+175,1,4.33,4,On Wikipedia
+176,1,2.0,2,On Wikipedia
+177,1,4.0,4,On Wikipedia
+178,0,5.0,5,Not on Wikipedia
+179,1,5.0,5,On Wikipedia
+180,1,3.0,3,On Wikipedia
+181,1,4.0,4,On Wikipedia
+182,1,4.0,4,On Wikipedia
+183,0,3.0,3,Not on Wikipedia
+184,1,4.0,4,On Wikipedia
+185,1,3.0,3,On Wikipedia
+186,0,3.0,3,Not on Wikipedia
+187,1,7.0,7,On Wikipedia
+188,1,6.0,6,On Wikipedia
+189,1,6.0,6,On Wikipedia
+190,1,6.01,6,On Wikipedia
+191,1,6.0,6,On Wikipedia
+192,1,6.0,6,On Wikipedia
+193,0,6.01,6,Not on Wikipedia
+194,0,5.99,5,Not on Wikipedia
+195,0,6.0,6,Not on Wikipedia
+196,1,6.0,6,On Wikipedia
+197,0,6.0,6,Not on Wikipedia
+198,1,6.0,6,On Wikipedia
+199,1,5.66,5,On Wikipedia
+200,1,6.0,6,On Wikipedia
+201,1,8.0,8,On Wikipedia
+202,0,8.0,8,Not on Wikipedia
+203,0,8.0,8,Not on Wikipedia
+204,1,8.0,8,On Wikipedia
+205,1,8.0,8,On Wikipedia
+206,1,8.0,8,On Wikipedia
+207,1,3.0,3,On Wikipedia
+208,1,2.0,2,On Wikipedia
+209,1,6.5,6,On Wikipedia
+210,1,8.0,8,On Wikipedia
+211,1,8.0,8,On Wikipedia
+212,1,6.5,6,On Wikipedia
+213,1,6.0,6,On Wikipedia
+214,1,5.5,5,On Wikipedia
+215,1,4.0,4,On Wikipedia
+216,1,4.0,4,On Wikipedia
+217,0,4.0,4,Not on Wikipedia
+218,0,4.0,4,Not on Wikipedia
+219,0,4.0,4,Not on Wikipedia
+220,0,4.0,4,Not on Wikipedia
+221,0,2.0,2,Not on Wikipedia
+222,1,4.0,4,On Wikipedia
+223,1,5.0,5,On Wikipedia
+224,1,4.0,4,On Wikipedia
+225,1,4.0,4,On Wikipedia
+226,1,4.0,4,On Wikipedia
+227,1,4.0,4,On Wikipedia
+228,1,5.0,5,On Wikipedia
+229,1,5.0,5,On Wikipedia
+230,1,5.0,5,On Wikipedia
+231,1,5.01,5,On Wikipedia
+232,0,5.0,5,Not on Wikipedia
+233,1,5.0,5,On Wikipedia
+234,1,6.0,6,On Wikipedia
+235,0,5.0,5,Not on Wikipedia
+236,0,5.0,5,Not on Wikipedia
+237,0,5.0,5,Not on Wikipedia
+238,1,5.0,5,On Wikipedia
+239,0,6.0,6,Not on Wikipedia
+240,1,6.0,6,On Wikipedia
+241,0,6.0,6,Not on Wikipedia
+242,1,5.01,5,On Wikipedia
+243,1,5.0,5,On Wikipedia
+244,1,5.0,5,On Wikipedia
+245,1,5.01,5,On Wikipedia
+246,1,5.001,5,On Wikipedia
+247,1,5.001,5,On Wikipedia
+248,1,5.01,5,On Wikipedia
+249,1,5.0,5,On Wikipedia
+250,1,5.02,5,On Wikipedia
+251,1,4.0,4,On Wikipedia
+252,1,4.0,4,On Wikipedia
+253,1,5.0,5,On Wikipedia
+254,1,4.0,4,On Wikipedia
+255,1,4.0,4,On Wikipedia
+256,0,4.0,4,Not on Wikipedia
+257,1,4.0,4,On Wikipedia
+258,0,3.0,3,Not on Wikipedia
+259,1,7.0,7,On Wikipedia
+260,1,6.0,6,On Wikipedia
+261,1,5.01,5,On Wikipedia
+262,1,5.0,5,On Wikipedia
+263,1,5.01,5,On Wikipedia
+264,1,5.0,5,On Wikipedia
+265,1,5.0,5,On Wikipedia
+266,1,5.0,5,On Wikipedia
+267,1,5.0,5,On Wikipedia
+268,1,5.0,5,On Wikipedia
+269,1,7.0,7,On Wikipedia
+270,1,6.0,6,On Wikipedia
+271,1,5.373,5,On Wikipedia
+272,1,6.0,6,On Wikipedia
+273,1,6.0,6,On Wikipedia
+274,1,6.0,6,On Wikipedia
+275,0,5.844,5,Not on Wikipedia
+276,0,6.0,6,Not on Wikipedia
+277,1,8.0,8,On Wikipedia
+278,1,8.0,8,On Wikipedia
+279,1,8.0,8,On Wikipedia
+280,1,8.0,8,On Wikipedia
+281,1,8.0,8,On Wikipedia
+282,1,8.0,8,On Wikipedia
+283,1,8.0,8,On Wikipedia
+284,1,8.0,8,On Wikipedia
+285,1,8.0,8,On Wikipedia
+286,1,8.0,8,On Wikipedia
+287,1,8.0,8,On Wikipedia
+288,0,2.51,2,Not on Wikipedia
+289,0,4.5,4,Not on Wikipedia
+290,0,2.51,2,Not on Wikipedia
+291,1,4.5,4,On Wikipedia
+292,1,8.0,8,On Wikipedia
+293,1,8.0,8,On Wikipedia
+294,1,8.0,8,On Wikipedia
+295,1,8.0,8,On Wikipedia
+296,1,8.0,8,On Wikipedia
+297,1,8.0,8,On Wikipedia
+298,1,5.0,5,On Wikipedia
+299,1,5.0,5,On Wikipedia
+300,1,3.0,3,On Wikipedia
+301,0,3.0,3,Not on Wikipedia
+302,1,4.001,4,On Wikipedia
+303,1,7.0,7,On Wikipedia
+304,1,7.0,7,On Wikipedia
+305,1,4.0,4,On Wikipedia
+306,1,7.0,7,On Wikipedia
+307,0,7.0,7,Not on Wikipedia
+308,1,7.0,7,On Wikipedia
+309,1,7.0,7,On Wikipedia
+310,1,3.0,3,On Wikipedia
+311,1,3.0,3,On Wikipedia
+312,1,3.0,3,On Wikipedia
+313,1,2.5,2,On Wikipedia
+314,1,2.0,2,On Wikipedia
+315,1,3.0,3,On Wikipedia
+316,1,4.0,4,On Wikipedia
+317,1,3.0,3,On Wikipedia
+318,1,3.0,3,On Wikipedia
+319,1,5.0,5,On Wikipedia
+320,1,3.0,3,On Wikipedia
+321,1,3.0,3,On Wikipedia
+322,1,3.0,3,On Wikipedia
+323,1,4.0,4,On Wikipedia
+324,1,3.0,3,On Wikipedia
+325,1,3.0,3,On Wikipedia
+326,0,2.0,2,Not on Wikipedia
+327,1,7.0,7,On Wikipedia
+328,1,8.0,8,On Wikipedia
+329,1,8.0,8,On Wikipedia
+330,1,7.0,7,On Wikipedia
+331,1,8.0,8,On Wikipedia
+332,1,5.0,5,On Wikipedia
+333,1,5.0,5,On Wikipedia
+334,1,5.0,5,On Wikipedia
+335,1,5.0,5,On Wikipedia
+336,0,5.0,5,Not on Wikipedia
+337,1,5.0,5,On Wikipedia
+338,1,5.0,5,On Wikipedia
+339,0,5.0,5,Not on Wikipedia
+340,1,5.0,5,On Wikipedia
+341,1,6.0,6,On Wikipedia
+342,1,5.02,5,On Wikipedia
+343,1,6.0,6,On Wikipedia
+344,1,5.0,5,On Wikipedia
+345,1,5.0,5,On Wikipedia
+346,1,5.0,5,On Wikipedia
+347,1,5.0,5,On Wikipedia
+348,1,5.0,5,On Wikipedia
+349,1,5.0,5,On Wikipedia
+350,1,5.0,5,On Wikipedia
+351,1,5.02,5,On Wikipedia
+352,1,6.0,6,On Wikipedia
+353,1,5.0,5,On Wikipedia
+354,1,5.0,5,On Wikipedia
+355,0,5.0,5,Not on Wikipedia
+356,1,5.0,5,On Wikipedia
+357,1,4.0,4,On Wikipedia
+358,1,6.0,6,On Wikipedia
+359,1,6.0,6,On Wikipedia
+360,1,6.0,6,On Wikipedia
+361,1,5.0,5,On Wikipedia
+362,1,6.0,6,On Wikipedia
+363,1,5.0,5,On Wikipedia
+364,1,6.0,6,On Wikipedia
+365,1,5.03,5,On Wikipedia
+366,1,6.0,6,On Wikipedia
+367,0,5.001,5,Not on Wikipedia
+368,0,6.0,6,Not on Wikipedia
+369,0,6.0,6,Not on Wikipedia
+370,1,5.0,5,On Wikipedia
+371,0,5.0,5,Not on Wikipedia
+372,1,5.0,5,On Wikipedia
+373,1,5.0,5,On Wikipedia
+374,1,6.0,6,On Wikipedia
+375,0,6.0,6,Not on Wikipedia
+376,1,5.0,5,On Wikipedia
+377,1,3.0,3,On Wikipedia
+378,1,5.0,5,On Wikipedia
+379,0,5.0,5,Not on Wikipedia
+380,1,5.0,5,On Wikipedia
+381,0,5.0,5,Not on Wikipedia
+382,0,5.0,5,Not on Wikipedia
+383,1,6.0,6,On Wikipedia
+384,1,6.0,6,On Wikipedia
+385,1,5.0,5,On Wikipedia
+386,1,4.68,4,On Wikipedia
+387,1,5.01,5,On Wikipedia
+388,1,5.0,5,On Wikipedia
+389,1,5.0,5,On Wikipedia
+390,1,4.0,4,On Wikipedia
+391,1,4.0,4,On Wikipedia
+392,1,5.0,5,On Wikipedia
+393,1,5.0,5,On Wikipedia
+394,1,4.0,4,On Wikipedia
+395,1,5.0,5,On Wikipedia
+396,1,5.0,5,On Wikipedia
+397,1,5.0,5,On Wikipedia
+398,1,5.0,5,On Wikipedia
+399,1,5.0,5,On Wikipedia
+400,1,5.0,5,On Wikipedia
+401,1,5.0,5,On Wikipedia
+402,1,5.0,5,On Wikipedia
+403,1,5.0,5,On Wikipedia
+404,1,5.0,5,On Wikipedia
+405,1,4.0,4,On Wikipedia
+406,1,5.0,5,On Wikipedia
+407,1,3.0,3,On Wikipedia
+408,1,3.0,3,On Wikipedia
+409,0,7.0,7,Not on Wikipedia
+410,1,6.0,6,On Wikipedia
+411,1,6.0,6,On Wikipedia
+412,1,5.0,5,On Wikipedia
+413,0,6.0,6,Not on Wikipedia
+414,1,2.0,2,On Wikipedia
+415,0,5.0,5,Not on Wikipedia
+416,1,4.0,4,On Wikipedia
+417,1,5.0,5,On Wikipedia
+418,1,3.0,3,On Wikipedia
+419,1,5.0,5,On Wikipedia
+420,0,2.03,2,Not on Wikipedia
+421,1,2.02,2,On Wikipedia
+422,0,5.01,5,Not on Wikipedia
+423,0,5.0,5,Not on Wikipedia
+424,0,5.0,5,Not on Wikipedia
+425,0,5.0,5,Not on Wikipedia
+426,0,5.0,5,Not on Wikipedia
+427,1,5.0,5,On Wikipedia
+428,0,5.0,5,Not on Wikipedia
+429,0,5.0,5,Not on Wikipedia
+430,0,5.0,5,Not on Wikipedia
+431,0,5.0,5,Not on Wikipedia
+432,0,5.0,5,Not on Wikipedia
+433,0,5.0,5,Not on Wikipedia
+434,0,6.0,6,Not on Wikipedia
+435,0,8.0,8,Not on Wikipedia
+436,1,8.0,8,On Wikipedia
+437,0,8.0,8,Not on Wikipedia
+438,1,8.0,8,On Wikipedia
+439,0,8.0,8,Not on Wikipedia
+440,1,4.0,4,On Wikipedia
+441,1,5.01,5,On Wikipedia
+442,1,8.0,8,On Wikipedia
+443,1,8.0,8,On Wikipedia
+444,1,3.0,3,On Wikipedia
+445,1,3.0,3,On Wikipedia
+446,0,5.0,5,Not on Wikipedia
+447,0,5.0,5,Not on Wikipedia
+448,0,3.0,3,Not on Wikipedia
+449,1,3.0,3,On Wikipedia
+450,1,5.0,5,On Wikipedia
+451,1,3.0,3,On Wikipedia
+452,1,5.0,5,On Wikipedia
+453,1,5.0,5,On Wikipedia
+454,1,5.0,5,On Wikipedia
+455,1,3.0,3,On Wikipedia
+456,1,5.0,5,On Wikipedia
+457,1,5.0,5,On Wikipedia
+458,1,5.0,5,On Wikipedia
+459,1,4.0,4,On Wikipedia
+460,1,3.0,3,On Wikipedia
+461,1,6.0,6,On Wikipedia
+462,1,5.5,5,On Wikipedia
+463,1,4.1864298,4,On Wikipedia
+464,1,5.857,5,On Wikipedia
+465,1,3.0,3,On Wikipedia
+466,0,5.5,5,Not on Wikipedia
+467,1,5.5,5,On Wikipedia
+468,1,5.376,5,On Wikipedia
+469,0,4.33,4,Not on Wikipedia
+470,1,7.0,7,On Wikipedia
+471,1,7.0,7,On Wikipedia
+472,1,3.0,3,On Wikipedia
+473,1,3.0,3,On Wikipedia
+474,1,2.0,2,On Wikipedia
+475,0,2.0,2,Not on Wikipedia
+476,1,4.0,4,On Wikipedia
+477,0,4.375,4,Not on Wikipedia
+478,0,3.0,3,Not on Wikipedia
+479,0,2.501,2,Not on Wikipedia
+480,0,4.25,4,Not on Wikipedia
+481,0,2.5,2,Not on Wikipedia
+482,0,4.0,4,Not on Wikipedia
+483,0,4.0,4,Not on Wikipedia
+484,0,2.51,2,Not on Wikipedia
+485,1,2.635,2,On Wikipedia
+486,0,4.011,4,Not on Wikipedia
+487,1,2.5,2,On Wikipedia
+488,0,2.635,2,Not on Wikipedia
+489,1,4.5,4,On Wikipedia
+490,0,8.0,8,Not on Wikipedia
+491,1,3.0,3,On Wikipedia
+492,1,3.0,3,On Wikipedia
+493,1,4.0,4,On Wikipedia
+494,1,5.0,5,On Wikipedia
+495,1,3.0,3,On Wikipedia
+496,1,3.0,3,On Wikipedia
+497,1,3.0,3,On Wikipedia
+498,1,8.0,8,On Wikipedia
+499,1,7.0,7,On Wikipedia
+500,1,5.01,5,On Wikipedia
+501,1,5.0,5,On Wikipedia
+502,1,5.0,5,On Wikipedia
+503,1,8.0,8,On Wikipedia
+504,1,8.0,8,On Wikipedia
+505,1,8.0,8,On Wikipedia
+506,0,3.0,3,Not on Wikipedia
+507,1,2.51,2,On Wikipedia
+508,1,3.0,3,On Wikipedia
+509,1,3.0,3,On Wikipedia
+510,1,3.0,3,On Wikipedia
+511,1,4.0,4,On Wikipedia
+512,1,4.0,4,On Wikipedia
+513,0,5.0,5,Not on Wikipedia
+514,0,6.0,6,Not on Wikipedia
+515,1,8.0,8,On Wikipedia
+516,0,5.0,5,Not on Wikipedia
+517,1,3.0,3,On Wikipedia
+518,0,3.0,3,Not on Wikipedia
+519,1,8.0,8,On Wikipedia
+520,1,8.0,8,On Wikipedia
+521,1,7.0,7,On Wikipedia
+522,1,7.0,7,On Wikipedia
+523,1,6.01,6,On Wikipedia
+524,1,6.0,6,On Wikipedia
+525,1,7.0,7,On Wikipedia
+526,1,5.0,5,On Wikipedia
+527,0,5.03,5,Not on Wikipedia
+528,0,5.0,5,Not on Wikipedia
+529,1,4.0,4,On Wikipedia
+530,1,4.0,4,On Wikipedia
+531,1,4.0,4,On Wikipedia
+532,1,4.0,4,On Wikipedia
+533,1,4.0,4,On Wikipedia
+534,0,4.0,4,Not on Wikipedia
+535,0,4.0,4,Not on Wikipedia
+536,0,4.01,4,Not on Wikipedia
+537,0,4.00585,4,Not on Wikipedia
+538,0,4.001,4,Not on Wikipedia
+539,1,3.0,3,On Wikipedia
+540,1,3.0,3,On Wikipedia
+541,1,3.0,3,On Wikipedia
+542,1,3.0,3,On Wikipedia
+543,1,3.0,3,On Wikipedia
+544,1,5.0,5,On Wikipedia
+545,1,5.0,5,On Wikipedia
+546,1,5.0,5,On Wikipedia
+547,1,5.0,5,On Wikipedia
+548,1,3.0,3,On Wikipedia
+549,1,3.0,3,On Wikipedia
+550,1,3.0,3,On Wikipedia
+551,0,3.0,3,Not on Wikipedia
+552,1,3.0,3,On Wikipedia
+553,1,3.0,3,On Wikipedia
+554,1,3.0,3,On Wikipedia
+555,1,2.51,2,On Wikipedia
+556,1,3.0,3,On Wikipedia
+557,1,3.0,3,On Wikipedia
+558,1,2.5,2,On Wikipedia
+559,1,3.0,3,On Wikipedia
+560,1,3.0,3,On Wikipedia
+561,1,3.0,3,On Wikipedia
+562,1,3.0,3,On Wikipedia
+563,1,3.0,3,On Wikipedia
+564,1,3.0,3,On Wikipedia
+565,1,3.0,3,On Wikipedia
+566,1,8.0,8,On Wikipedia
+567,1,8.0,8,On Wikipedia
+568,1,8.0,8,On Wikipedia
+569,1,6.0,6,On Wikipedia
+570,1,6.0,6,On Wikipedia
+571,1,6.0,6,On Wikipedia
+572,1,5.01,5,On Wikipedia
+573,1,7.0,7,On Wikipedia
+574,1,6.0,6,On Wikipedia
+575,0,3.0,3,Not on Wikipedia
+576,1,3.0,3,On Wikipedia
+577,1,3.0,3,On Wikipedia
+578,1,3.0,3,On Wikipedia
+579,1,3.0,3,On Wikipedia
+580,0,3.0,3,Not on Wikipedia
+581,1,3.0,3,On Wikipedia
+582,1,5.0,5,On Wikipedia
+583,0,5.0,5,Not on Wikipedia
+584,1,3.0,3,On Wikipedia
+585,0,5.0,5,Not on Wikipedia
+586,0,6.0,6,Not on Wikipedia
+587,0,6.0,6,Not on Wikipedia
+588,1,4.0,4,On Wikipedia
+589,1,4.0,4,On Wikipedia
+590,1,4.0,4,On Wikipedia
+591,0,3.0,3,Not on Wikipedia
+592,1,3.0,3,On Wikipedia
+593,1,3.0,3,On Wikipedia
+594,1,3.0,3,On Wikipedia
+595,0,2.0,2,Not on Wikipedia
+596,1,5.0,5,On Wikipedia
+597,1,5.0,5,On Wikipedia
+598,1,2.0,2,On Wikipedia
+599,1,4.0,4,On Wikipedia
+600,1,5.0,5,On Wikipedia
+601,1,8.0,8,On Wikipedia
+602,0,3.0,3,Not on Wikipedia
+603,0,3.0,3,Not on Wikipedia
+604,1,3.0,3,On Wikipedia
+605,1,3.0,3,On Wikipedia
+606,1,3.0,3,On Wikipedia
+607,1,3.0,3,On Wikipedia
+608,1,3.0,3,On Wikipedia
+609,0,8.0,8,Not on Wikipedia
+610,0,5.0,5,Not on Wikipedia
+611,0,7.0,7,Not on Wikipedia
+612,0,5.0,5,Not on Wikipedia
+613,1,7.0,7,On Wikipedia
+614,0,5.0,5,Not on Wikipedia
+615,0,7.0,7,Not on Wikipedia
+616,0,5.0,5,Not on Wikipedia
+617,0,7.0,7,Not on Wikipedia
+618,1,8.0,8,On Wikipedia
+619,1,8.0,8,On Wikipedia
+620,1,8.0,8,On Wikipedia
+621,0,8.0,8,Not on Wikipedia
+622,1,8.0,8,On Wikipedia
+623,1,6.0,6,On Wikipedia
+624,0,8.0,8,Not on Wikipedia
+625,0,6.0,6,Not on Wikipedia
+626,0,5.3728596,5,Not on Wikipedia
+627,1,8.0,8,On Wikipedia
+628,1,6.0,6,On Wikipedia
+629,1,8.0,8,On Wikipedia
+630,1,8.0,8,On Wikipedia
+631,0,8.0,8,Not on Wikipedia
+632,0,7.0,7,Not on Wikipedia
+633,0,7.01,7,Not on Wikipedia
+634,0,6.01,6,Not on Wikipedia
+635,0,5.02,5,Not on Wikipedia
+636,0,6.0,6,Not on Wikipedia
+637,0,6.0,6,Not on Wikipedia
+638,0,5.01,5,Not on Wikipedia
+639,0,5.01,5,Not on Wikipedia
+640,0,5.01,5,Not on Wikipedia
+641,0,5.01,5,Not on Wikipedia
+642,0,5.01,5,Not on Wikipedia
+643,0,8.0,8,Not on Wikipedia
+644,0,7.0,7,Not on Wikipedia
+645,0,7.0,7,Not on Wikipedia
+646,0,7.0,7,Not on Wikipedia
+647,0,6.02,6,Not on Wikipedia
+648,0,7.0,7,Not on Wikipedia
+649,0,7.0,7,Not on Wikipedia
+650,0,6.01,6,Not on Wikipedia
+651,0,6.01,6,Not on Wikipedia
+652,0,6.01,6,Not on Wikipedia
+653,0,6.01,6,Not on Wikipedia
+654,0,6.01,6,Not on Wikipedia
+655,0,7.0,7,Not on Wikipedia
+656,1,5.0,5,On Wikipedia
+657,0,4.0,4,Not on Wikipedia
+658,1,4.0,4,On Wikipedia
+659,0,4.0,4,Not on Wikipedia
+660,0,4.0,4,Not on Wikipedia
+661,0,5.0,5,Not on Wikipedia
+662,0,4.0,4,Not on Wikipedia
+663,1,4.0,4,On Wikipedia
+664,0,4.0,4,Not on Wikipedia
+665,0,3.0,3,Not on Wikipedia
+666,1,3.99,3,On Wikipedia
+667,0,5.0,5,Not on Wikipedia
+668,0,4.0,4,Not on Wikipedia
+669,0,3.0,3,Not on Wikipedia
+670,1,5.0,5,On Wikipedia
+671,1,8.0,8,On Wikipedia
+672,0,8.0,8,Not on Wikipedia
+673,0,8.0,8,Not on Wikipedia
+674,0,8.0,8,Not on Wikipedia
+675,0,6.0,6,Not on Wikipedia
+676,0,8.0,8,Not on Wikipedia
+677,0,8.0,8,Not on Wikipedia
+678,0,8.0,8,Not on Wikipedia
+679,0,8.0,8,Not on Wikipedia
+680,0,8.0,8,Not on Wikipedia
+681,0,8.0,8,Not on Wikipedia
+682,0,8.0,8,Not on Wikipedia
+683,0,8.0,8,Not on Wikipedia
+684,0,8.0,8,Not on Wikipedia
+685,0,8.0,8,Not on Wikipedia
+686,0,3.0,3,Not on Wikipedia
+687,0,4.0,4,Not on Wikipedia
+688,1,4.0,4,On Wikipedia
+689,1,4.0,4,On Wikipedia
+690,0,4.0,4,Not on Wikipedia
+691,1,4.0,4,On Wikipedia
+692,0,8.0,8,Not on Wikipedia
+693,0,8.0,8,Not on Wikipedia
+694,1,8.0,8,On Wikipedia
+695,0,8.0,8,Not on Wikipedia
+696,1,8.0,8,On Wikipedia
+697,0,8.0,8,Not on Wikipedia
+698,0,8.0,8,Not on Wikipedia
+699,1,8.0,8,On Wikipedia
+700,0,8.0,8,Not on Wikipedia
+701,0,8.0,8,Not on Wikipedia
+702,1,6.0,6,On Wikipedia
+703,0,5.3728596,5,Not on Wikipedia
+704,1,6.0,6,On Wikipedia
+705,1,6.0,6,On Wikipedia
+706,1,5.0,5,On Wikipedia
+707,0,5.0,5,Not on Wikipedia
+708,0,5.0,5,Not on Wikipedia
+709,0,5.0,5,Not on Wikipedia
+710,0,5.03,5,Not on Wikipedia
+711,1,5.0,5,On Wikipedia
+712,0,5.0,5,Not on Wikipedia
+713,0,5.0,5,Not on Wikipedia
+714,0,8.0,8,Not on Wikipedia
+715,0,8.0,8,Not on Wikipedia
+716,0,8.0,8,Not on Wikipedia
+717,0,8.0,8,Not on Wikipedia
+718,0,8.0,8,Not on Wikipedia
+719,0,3.0,3,Not on Wikipedia
+720,0,3.0,3,Not on Wikipedia
+721,0,8.0,8,Not on Wikipedia
+722,1,6.01,6,On Wikipedia
+723,1,6.0,6,On Wikipedia
+724,1,6.0,6,On Wikipedia
+725,1,6.0,6,On Wikipedia
+726,1,6.01,6,On Wikipedia
+727,1,5.0,5,On Wikipedia
+728,1,5.0,5,On Wikipedia
+729,1,5.0,5,On Wikipedia
+730,1,5.0,5,On Wikipedia
+731,0,5.0,5,Not on Wikipedia
+732,0,5.0,5,Not on Wikipedia
+733,0,6.0,6,Not on Wikipedia
+734,0,5.0,5,Not on Wikipedia
+735,0,6.0,6,Not on Wikipedia
+736,0,5.0,5,Not on Wikipedia
+737,0,2.5,2,Not on Wikipedia
+738,1,7.0,7,On Wikipedia
+739,0,5.0,5,Not on Wikipedia
+740,1,3.0,3,On Wikipedia
+741,0,3.0,3,Not on Wikipedia
+742,1,3.0,3,On Wikipedia
+743,0,5.0,5,Not on Wikipedia
+744,0,2.03,2,Not on Wikipedia
+745,0,2.01,2,Not on Wikipedia
+746,1,2.0,2,On Wikipedia
+747,0,2.0,2,Not on Wikipedia
+748,1,3.0,3,On Wikipedia
+749,1,6.5,6,On Wikipedia
+750,0,6.5,6,Not on Wikipedia
+751,0,5.01,5,Not on Wikipedia
+752,0,6.5,6,Not on Wikipedia
+753,0,5.5,5,Not on Wikipedia
+754,0,5.01,5,Not on Wikipedia
+755,0,5.5,5,Not on Wikipedia
+756,0,5.5,5,Not on Wikipedia
+757,0,6.0,6,Not on Wikipedia
+758,0,5.0,5,Not on Wikipedia
+759,1,3.0,3,On Wikipedia
+760,1,3.0,3,On Wikipedia
+761,1,3.0,3,On Wikipedia
+762,0,5.0,5,Not on Wikipedia
+763,1,3.0,3,On Wikipedia
+764,1,8.0,8,On Wikipedia
+765,0,8.0,8,Not on Wikipedia
+766,0,8.0,8,Not on Wikipedia
+767,1,8.0,8,On Wikipedia
+768,1,7.5,7,On Wikipedia
+769,1,5.0,5,On Wikipedia
+770,0,7.0,7,Not on Wikipedia
+771,1,8.0,8,On Wikipedia
+772,1,3.0,3,On Wikipedia
+773,1,3.0,3,On Wikipedia
+774,1,8.0,8,On Wikipedia
+775,0,4.0,4,Not on Wikipedia
+776,0,4.0,4,Not on Wikipedia
+777,0,4.0,4,Not on Wikipedia
+778,0,5.0,5,Not on Wikipedia
+779,0,5.0,5,Not on Wikipedia
+780,0,4.0,4,Not on Wikipedia
+781,0,6.0,6,Not on Wikipedia
+782,0,6.0,6,Not on Wikipedia
+783,0,7.0,7,Not on Wikipedia
+784,0,7.0,7,Not on Wikipedia
+785,0,7.0,7,Not on Wikipedia
+786,0,7.0,7,Not on Wikipedia
+787,0,7.0,7,Not on Wikipedia
+788,0,5.0,5,Not on Wikipedia
+789,0,5.0,5,Not on Wikipedia
+790,1,5.0,5,On Wikipedia
+791,0,5.0,5,Not on Wikipedia
+792,0,4.02,4,Not on Wikipedia
+793,0,5.0,5,Not on Wikipedia
+794,0,4.015,4,Not on Wikipedia
+795,0,5.0,5,Not on Wikipedia
+796,0,5.0,5,Not on Wikipedia
+797,0,5.0,5,Not on Wikipedia
+798,0,5.0,5,Not on Wikipedia
+799,0,3.0,3,Not on Wikipedia
+800,0,5.0,5,Not on Wikipedia
+801,0,5.0,5,Not on Wikipedia
+802,0,4.0,4,Not on Wikipedia
+803,0,5.0,5,Not on Wikipedia
+804,0,5.0,5,Not on Wikipedia
+805,0,3.99,3,Not on Wikipedia
+806,0,4.01,4,Not on Wikipedia
+807,0,4.01,4,Not on Wikipedia
+808,1,6.0,6,On Wikipedia
+809,1,5.03,5,On Wikipedia
+810,0,6.0,6,Not on Wikipedia
+811,1,6.0,6,On Wikipedia
+812,1,6.0,6,On Wikipedia
+813,0,6.0,6,Not on Wikipedia
+814,1,5.02,5,On Wikipedia
+815,1,5.02,5,On Wikipedia
+816,1,4.5,4,On Wikipedia
+817,1,3.0,3,On Wikipedia
+818,1,3.0,3,On Wikipedia
+819,1,6.0,6,On Wikipedia
+820,1,6.0,6,On Wikipedia
+821,0,6.0,6,Not on Wikipedia
+822,0,6.0,6,Not on Wikipedia
+823,1,6.0,6,On Wikipedia
+824,0,6.0,6,Not on Wikipedia
+825,1,5.02,5,On Wikipedia
+826,1,5.46,5,On Wikipedia
+827,1,5.0,5,On Wikipedia
+828,1,5.0,5,On Wikipedia
+829,0,8.0,8,Not on Wikipedia
+830,0,6.0,6,Not on Wikipedia
+831,0,6.0,6,Not on Wikipedia
+832,1,5.0,5,On Wikipedia
+833,1,6.01,6,On Wikipedia
+834,1,8.0,8,On Wikipedia
+835,1,8.0,8,On Wikipedia
+836,1,6.03,6,On Wikipedia
+837,1,5.01,5,On Wikipedia
+838,1,5.0,5,On Wikipedia
+839,0,8.0,8,Not on Wikipedia
+840,0,3.0,3,Not on Wikipedia
+841,0,3.0,3,Not on Wikipedia
+842,1,3.0,3,On Wikipedia
+843,1,2.83,2,On Wikipedia
+844,1,5.0,5,On Wikipedia
+845,1,4.225,4,On Wikipedia
+846,0,2.75,2,Not on Wikipedia
+847,0,3.0,3,Not on Wikipedia
+848,0,5.0,5,Not on Wikipedia
+849,0,6.0,6,Not on Wikipedia
+850,1,6.0,6,On Wikipedia
+851,1,5.0,5,On Wikipedia
+852,1,7.0,7,On Wikipedia
+853,1,7.0,7,On Wikipedia
+854,0,6.01,6,Not on Wikipedia
+855,0,6.0,6,Not on Wikipedia
+856,1,6.0,6,On Wikipedia
+857,1,6.0,6,On Wikipedia
+858,1,6.0,6,On Wikipedia
+859,0,6.0,6,Not on Wikipedia
+860,0,6.0,6,Not on Wikipedia
+861,1,3.0,3,On Wikipedia
+862,1,3.0,3,On Wikipedia
+863,1,3.0,3,On Wikipedia
+864,0,8.0,8,Not on Wikipedia
+865,1,8.0,8,On Wikipedia
+866,1,3.0,3,On Wikipedia
+867,0,3.0,3,Not on Wikipedia
+868,0,4.0,4,Not on Wikipedia
+869,0,3.0,3,Not on Wikipedia
+870,1,3.0,3,On Wikipedia
+871,0,3.0,3,Not on Wikipedia
+872,1,3.0,3,On Wikipedia
+873,0,3.0,3,Not on Wikipedia
+874,0,3.0,3,Not on Wikipedia
+875,1,3.0,3,On Wikipedia
+876,0,3.0,3,Not on Wikipedia
+877,0,8.0,8,Not on Wikipedia
+878,1,8.0,8,On Wikipedia
+879,1,3.0,3,On Wikipedia
+880,1,6.0,6,On Wikipedia
+881,1,5.0,5,On Wikipedia
+882,1,6.01,6,On Wikipedia
+883,1,6.0,6,On Wikipedia
+884,1,5.01,5,On Wikipedia
+885,1,5.52,5,On Wikipedia
+886,1,5.011,5,On Wikipedia
+887,1,6.0,6,On Wikipedia
+888,1,7.0,7,On Wikipedia
+889,1,6.0,6,On Wikipedia
+890,1,6.0,6,On Wikipedia
+891,0,6.0,6,Not on Wikipedia
+892,0,5.0,5,Not on Wikipedia
+893,0,7.0,7,Not on Wikipedia
+894,0,6.0,6,Not on Wikipedia
+895,0,5.0,5,Not on Wikipedia
+896,0,5.0,5,Not on Wikipedia
+897,0,5.0,5,Not on Wikipedia
+898,1,8.0,8,On Wikipedia
+899,1,8.0,8,On Wikipedia
+900,1,8.0,8,On Wikipedia
+901,1,8.0,8,On Wikipedia
+902,1,8.0,8,On Wikipedia
+903,1,8.0,8,On Wikipedia
+904,1,8.0,8,On Wikipedia
+905,1,8.0,8,On Wikipedia
+906,1,4.0,4,On Wikipedia
+907,1,4.0,4,On Wikipedia
+908,1,4.0,4,On Wikipedia
+909,1,4.0,4,On Wikipedia
+910,1,4.0,4,On Wikipedia
+911,1,2.0,2,On Wikipedia
+912,1,2.0,2,On Wikipedia
+913,1,2.0,2,On Wikipedia
+914,1,2.0,2,On Wikipedia
+915,1,2.0,2,On Wikipedia
+916,1,2.0,2,On Wikipedia
+917,1,5.3728596,5,On Wikipedia
+918,1,5.807,5,On Wikipedia
+919,0,5.8,5,Not on Wikipedia
+920,0,5.78,5,Not on Wikipedia
+921,0,5.52,5,Not on Wikipedia
+922,0,5.518,5,Not on Wikipedia
+923,1,5.495,5,On Wikipedia
+924,0,5.48,5,Not on Wikipedia
+925,0,5.372,5,Not on Wikipedia
+926,0,5.373,5,Not on Wikipedia
+927,0,5.371,5,Not on Wikipedia
+928,0,6.0,6,Not on Wikipedia
+929,0,8.0,8,Not on Wikipedia
+930,0,8.0,8,Not on Wikipedia
+931,0,8.0,8,Not on Wikipedia
+932,0,8.0,8,Not on Wikipedia
+933,0,8.0,8,Not on Wikipedia
+934,1,8.0,8,On Wikipedia
+935,0,8.0,8,Not on Wikipedia
+936,0,8.0,8,Not on Wikipedia
+937,0,8.0,8,Not on Wikipedia
+938,0,8.0,8,Not on Wikipedia
+939,1,8.0,8,On Wikipedia
+940,1,8.0,8,On Wikipedia
+941,1,8.0,8,On Wikipedia
+942,1,8.0,8,On Wikipedia
+943,0,3.0,3,Not on Wikipedia
+944,1,3.0,3,On Wikipedia
+945,0,8.0,8,Not on Wikipedia
+946,1,3.0,3,On Wikipedia
+947,1,3.0,3,On Wikipedia
+948,1,3.0,3,On Wikipedia
+949,1,3.0,3,On Wikipedia
+950,1,3.0,3,On Wikipedia
+951,1,3.0,3,On Wikipedia
+952,1,3.0,3,On Wikipedia
+953,1,3.0,3,On Wikipedia
+954,1,5.0,5,On Wikipedia
+955,1,6.0,6,On Wikipedia
+956,1,3.0,3,On Wikipedia
+957,1,3.0,3,On Wikipedia
+958,1,3.0,3,On Wikipedia
+959,1,3.0,3,On Wikipedia
+960,1,3.0,3,On Wikipedia
+961,1,3.0,3,On Wikipedia
+962,1,3.0,3,On Wikipedia
+963,1,3.0,3,On Wikipedia
+964,1,3.0,3,On Wikipedia
+965,1,8.0,8,On Wikipedia
+966,0,5.0,5,Not on Wikipedia
+967,0,5.0,5,Not on Wikipedia
+968,1,5.0,5,On Wikipedia
+969,1,5.0,5,On Wikipedia
+970,1,5.0,5,On Wikipedia
+971,1,5.0,5,On Wikipedia
+972,1,4.011,4,On Wikipedia
+973,0,8.0,8,Not on Wikipedia
+974,0,6.0,6,Not on Wikipedia
+975,0,5.0,5,Not on Wikipedia
+976,0,4.0,4,Not on Wikipedia
+977,1,4.0,4,On Wikipedia
+978,1,3.0,3,On Wikipedia
+979,1,3.0,3,On Wikipedia
+980,1,3.0,3,On Wikipedia
+981,1,3.0,3,On Wikipedia
+982,1,3.0,3,On Wikipedia
+983,1,3.0,3,On Wikipedia
+984,1,5.0,5,On Wikipedia
+985,1,5.0,5,On Wikipedia
+986,1,3.0,3,On Wikipedia
+987,1,3.0,3,On Wikipedia
+988,0,3.0,3,Not on Wikipedia
+989,1,3.0,3,On Wikipedia
+990,1,3.0,3,On Wikipedia
+991,1,3.0,3,On Wikipedia
+992,1,3.0,3,On Wikipedia
+993,1,3.0,3,On Wikipedia
+994,1,3.0,3,On Wikipedia
+995,1,3.0,3,On Wikipedia

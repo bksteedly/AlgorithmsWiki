@@ -1,0 +1,720 @@
+Algorithm,DOI,Authors,Number of Authors,Title,Year,URL
+Melhorn's Approximation algorithm,,[],0,,,
+Karpinski,,[],0,,,
+Klawe; Mumey,10.1137/S0895480193256651,"['Maria Klawe', 'Brendan Mumey']",2,['Upper and Lower Bounds on Constructing Alphabetic Binary Trees'],1995.0,http://epubs.siam.org/doi/10.1137/S0895480193256651
+Larmore,10.1016/0196-6774(87)90052-6,['Lawrence L Larmore'],1,['A subquadratic algorithm for constructing approximately optimal binary search trees'],1987.0,https://linkinghub.elsevier.com/retrieve/pii/0196677487900526
+Hierarchical Navigable Small World (HNSW),10.1109/TPAMI.2018.2889473,"['Yu A. Malkov', 'D. A. Yashunin']",2,['Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs'],2020.0,https://ieeexplore.ieee.org/document/8594636/
+Locality-sensitive hashing,10.1017/cbo9781139924801.004,[],0,,,
+Projected radial search,10.1126/science.aao3924,"['P. Trocha', 'M. Karpov', 'D. Ganin', 'M. H. P. Pfeiffer', 'A. Kordts', 'S. Wolf', 'J. Krockenberger', 'P. Marin-Palomo', 'C. Weimann', 'S. Randel', 'W. Freude', 'T. J. Kippenberg', 'C. Koos']",13,['Ultrafast optical ranging using microresonator soliton frequency combs'],2018.0,https://www.science.org/doi/10.1126/science.aao3924
+Pisinger,10.1007/s00453-002-0989-y,['Pisinger'],1,['Dynamic Programming on the Word RAM'],2003.0,http://link.springer.com/10.1007/s00453-002-0989-y
+Faaland,10.1287/opre.21.1.332,['Bruce Faaland'],1,['Technical Note—Solution of the Value-Independent Knapsack Problem by Partitioning'],1973.0,https://pubsonline.informs.org/doi/10.1287/opre.21.1.332
+Pferschy,10.1007/s006070050042,['U. Pferschy'],1,['Dynamic Programming Revisited: Improving Knapsack Algorithms'],1999.0,http://link.springer.com/10.1007/s006070050042
+Klinz,10.1002/(SICI)1097-0037(199905)33:3%3C189::AID-NET5%3E3.0.CO;2-2,"['Bettina Klinz', 'Gerhard J. Woeginger']",2,['A note on the bottleneck graph partition problem'],1999.0,https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0037(199905)33:3<189::AID-NET5>3.0.CO;2-2
+Eppstein,10.1006/jagm.1996.0841,['David Eppstein'],1,['Minimum Range Balanced Cuts via Dynamic Subset Sums'],1997.0,https://linkinghub.elsevier.com/retrieve/pii/S019667749690841X
+Serang,http,[],0,,,
+Serang,10.1089/cmb.2015.0013,['Oliver Serang'],1,['A Fast Numerical Method for Max-Convolution and the Application to Efficient <tt>Max-Product</tt> Inference in Bayesian Networks'],2015.0,http://www.liebertpub.com/doi/10.1089/cmb.2015.0013
+Lokshtanov,10.1145/1806689.1806735,"['Daniel Lokshtanov', 'Jesper Nederlof']",2,['Saving space by algebraization'],2010.0,https://dl.acm.org/doi/10.1145/1806689.1806735
+"Valentin Polishchuk, and Jukka Suomela",10.48550/arXiv.0812.4893,[],0,,,
+"Lawrence, Reilly",10.1002/prot.340070105,"['Charles E. Lawrence', 'Andrew A. Reilly']",2,['An expectation maximization (EM) algorithm for the identification and characterization of common sites in unaligned biopolymer sequences'],1990.0,https://onlinelibrary.wiley.com/doi/10.1002/prot.340070105
+Lawrence Gibbs Sampling,10.1126/science.8211139,"['Charles E. Lawrence', 'Stephen F. Altschul', 'Mark S. Boguski', 'Jun S. Liu', 'Andrew F. Neuwald', 'John C. Wootton']",6,['Detecting Subtle Sequence Signals: a Gibbs Sampling Strategy for Multiple Alignment'],1993.0,https://www.science.org/doi/10.1126/science.8211139
+MotifSampler,10.1089/10665270252935566,"['Gert Thijs', 'Kathleen Marchal', 'Magali Lescot', 'Stephane Rombauts', 'Bart De Moor', 'Pierre Rouzé', 'Yves Moreau']",7,['A Gibbs Sampling Method to Detect Overrepresented Motifs in the Upstream Regions of Coexpressed Genes'],2002.0,http://www.liebertpub.com/doi/10.1089/10665270252935566
+tree-structured vector quantization Wei-Levoy,10.1145/344779.345009,"['Li-Yi Wei', 'Marc Levoy']",2,['Fast texture synthesis using tree-structured vector quantization'],2000.0,http://portal.acm.org/citation.cfm?doid=344779.345009
+"Spatial GAN-Based; Urs Bergmann, Nikolay Jetchev, Roland Vollgraf",10.48550/arXiv.1705.06566,[],0,,,
+Grigoryan,10.48550/arXiv.1912.05935,[],0,,,
+Sedgewick; Szymanski; and Yao,10.1137/0211030,"['Robert Sedgewick', 'Thomas G. Szymanski', 'Andrew C. Yao']",3,['The Complexity of Finding Cycles in Periodic Functions'],1982.0,http://epubs.siam.org/doi/10.1137/0211030
+Nivasch,,[],0,,,
+Intro Sort,10.1002/%28SICI%291097-024X%28199708%2927%3A8%3C983%3A%3AAID-SPE117%3E3.0.CO%3B2-%23,['DAVID R. MUSSER'],1,['Introspective Sorting and Selection Algorithms'],1997.0,https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291097-024X%28199708%2927%3A8%3C983%3A%3AAID-SPE117%3E3.0.CO%3B2-%23
+Heap Sort,,[],0,,,
+Counting Sort,10.1145/1434770.1434781,['R. R. Everett'],1,['The Whirlwind I computer'],1951.0,http://portal.acm.org/citation.cfm?doid=1434770.1434781
+Hoare's Selection Algorithm (QuickSelect),,[],0,,,
+Wagner and Fischer,,[],0,,,
+Ford & Fulkerson,,[],0,,,
+Dinitz,10.4236/jcc.2021.97005,"['Yiming Yan', 'Aimei Xiao']",2,['A Self-Adaptive Quantum Genetic Algorithm for Network Flow Vehicle Scheduling Problem'],2021.0,https://www.scirp.org/journal/doi.aspx?doi=10.4236/jcc.2021.97005
+Edmonds & Karp,10.1145/321694.321699,"['Jack Edmonds', 'Richard M. Karp']",2,['Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems'],1972.0,https://dl.acm.org/doi/10.1145/321694.321699
+Karzanov,,[],0,,,
+Galil & Naamad,10.1007/1-84628-168-7,"['Frederik Michel Dekking', 'Cornelis Kraaikamp', 'Hendrik Paul Lopuhaä', 'Ludolf Erwin Meester']",4,['A Modern Introduction to Probability and Statistics'],2005.0,http://link.springer.com/10.1007/1-84628-168-7
+Strassen's algorithm,10.1007%2FBF02165411,['Volker Strassen'],1,['Gaussian elimination is not optimal'],1969.0,http://link.springer.com/10.1007/BF02165411
+Pan's algorithm,10.1109/SFCS.1978.34,['V. Ya. Pan'],1,"[""Strassen's algorithm is not optimal trilinear technique of aggregating, uniting and canceling for constructing fast algorithms for matrix operations""]",1978.0,http://ieeexplore.ieee.org/document/4567976/
+Romani's algorithm,10.1137/0211020,['Francesco Romani'],1,['Some Properties of Disjoint Sums of Tensors Related to Matrix Multiplication'],1982.0,http://epubs.siam.org/doi/10.1137/0211020
+Coppersmith‚ÄìWinograd algorithm,10.1137/0211038,"['D. Coppersmith', 'S. Winograd']",2,['On the Asymptotic Complexity of Matrix Multiplication'],1982.0,http://epubs.siam.org/doi/10.1137/0211038
+Strassen's algorithm,10.1109/SFCS.1986.52,['V. Strassen'],1,['The asymptotic spectrum of tensors and the exponent of matrix multiplication'],1986.0,http://ieeexplore.ieee.org/document/4568194/
+Coppersmith‚ÄìWinograd algorithm,,[],0,,,
+Vassilevska Williams,10.1007/bf02165411,['Volker Strassen'],1,['Gaussian elimination is not optimal'],1969.0,http://link.springer.com/10.1007/BF02165411
+Fran√ßois Le Gall,10.48550/arXiv.1401.7714,[],0,,,
+Aasen's method,10.1007/BF01931804,['Jan Ole Aasen'],1,['On the reduction of a symmetric matrix to tridiagonal form'],1971.0,http://link.springer.com/10.1007/BF01931804
+Levinson‚ÄìDurbin recursion,10.1002/sapm1946251261,['Norman Levinson'],1,['The Wiener (Root Mean Square) Error Criterion in Filter Design and Prediction'],1946.0,http://doi.wiley.com/10.1002/sapm1946251261
+Bareiss Algorithm,10.1007/BF02163269,['Erwin H. Bareiss'],1,['Numerical solution of linear equations with Toeplitz and Vector Toeplitz matrices'],1969.0,http://link.springer.com/10.1007/BF02163269
+Bjorck-Pereyra,,[],0,,,
+Khachiyan Ellipsoid algorithm,10.1016/0041-5553(80)90061-0,['L.G. Khachiyan'],1,['Polynomial algorithms in linear programming'],1980.0,https://linkinghub.elsevier.com/retrieve/pii/0041555380900610
+Bentley‚ÄìOttmann algorithm,10.1109%2FTC.1979.1675432,"['Bentley', 'Ottmann']",2,['Algorithms for Reporting and Counting Geometric Intersections'],1979.0,http://ieeexplore.ieee.org/document/1675432/
+Jarvis,,[],0,,,
+Kruskal‚Äôs algorithm with demand-sorting,10.1007/BFb0028279,"['Bernard M. E. Moret', 'Henry D. Shapiro']",2,['An empirical analysis of algorithms for constructing a minimum spanning tree'],2005.0,http://link.springer.com/10.1007/BFb0028279
+Quick Kruskal algorithm,,[],0,,,
+Karger; Klein & Tarjan,,[],0,,,
+Crout and LUP algorithms,,[],0,,,
+Okunev; Johnson,10.48550/arXiv.math/0506382,[],0,,,
+A* Algorithm,10.1109/TSSC.1968.300136,"['Peter Hart', 'Nils Nilsson', 'Bertram Raphael']",3,['A Formal Basis for the Heuristic Determination of Minimum Cost Paths'],1968.0,http://ieeexplore.ieee.org/document/4082128/
+Bidirectional A* Algorithm,,[],0,,,
+Fringe Saving A* (FSA*),,[],0,,,
+Generalized Adaptive A* (GAA*),10.1145/1056777.1056779,"['Peter E. Hart', 'Nils J. Nilsson', 'Bertram Raphael']",3,"['&lt;u&gt;Correction&lt;/u&gt; to ""A Formal Basis for the Heuristic Determination of Minimum Cost Paths""']",1972.0,https://dl.acm.org/doi/10.1145/1056777.1056779
+Iterative Deepening A* (IDA*),,[],0,,,
+Jump Point Search (JPS),10.1109/ictai.2015.125,"['Daeseong Jong', 'Ickhwan Kwon', 'Donghyun Goo', 'DoHoon Lee']",4,['Safe Pathfinding Using Abstract Hierarchical Graph and Influence Map'],2015.0,https://ieeexplore.ieee.org/document/7372222
+Lifelong Planning A* (LPA*),,[],0,,,
+Simplified Memory-Bounded A* (SMA*),,[],0,,,
+Theta*,10.1613/jair.2994,"['K. Daniel', 'A. Nash', 'S. Koenig', 'A. Felner']",4,['Theta*: Any-Angle Path Planning on Grids'],2010.0,https://jair.org/index.php/jair/article/view/10676
+Anytime Repairing A* (ARA*),10.1109/wi-iat.2012.13,"['Bo Li', 'Jianwei Gong', 'Yan Jiang', 'Hany Nasry', 'Guangming Xiong']",5,['ARA*+: Improved Path Planning Algorithm Based on ARA*'],2012.0,http://ieeexplore.ieee.org/document/6511594/
+Time-Bounded A* (TBA*),10.1609/socs.v7i1.18410,['Vadim Bulitko'],1,['Searching for Real-Time Heuristic Search Algorithms'],2021.0,https://ojs.aaai.org/index.php/SOCS/article/view/18410
+Knuth-Morris-Pratt (KMP) algorithm,,[],0,,,
+Boyer-Moore (BM) algorithm,10.1145/359842.359859,"['Robert S. Boyer', 'J. Strother Moore']",2,['A fast string searching algorithm'],1977.0,https://dl.acm.org/doi/10.1145/359842.359859
+Rabin-Karp (RK) algorithm,,[],0,,,
+Needleman‚ÄìWunsch algorithm,10.1016/0022-2836(70)90057-4,"['Saul B. Needleman', 'Christian D. Wunsch']",2,['A general method applicable to the search for similarities in the amino acid sequence of two proteins'],1970.0,https://linkinghub.elsevier.com/retrieve/pii/0022283670900574
+Smith‚ÄìWaterman algorithm,10.1016/0022-2836(81)90087-5,"['T.F. Smith', 'M.S. Waterman']",2,['Identification of common molecular subsequences'],1981.0,https://linkinghub.elsevier.com/retrieve/pii/0022283681900875
+Masek; Patterson,10.1016/0022-0000(80)90002-1,"['William J. Masek', 'Michael S. Paterson']",2,['A faster algorithm computing string edit distances'],1980.0,https://linkinghub.elsevier.com/retrieve/pii/0022000080900021
+Hirschberg's algorithm,10.1145/360825.360861,['D. S. Hirschberg'],1,['A linear space algorithm for computing maximal common subsequences'],1975.0,https://dl.acm.org/doi/10.1145/360825.360861
+FASTA,10.1126/science.2983426,"['David J. Lipman', 'William R. Pearson']",2,['Rapid and Sensitive Protein Similarity Searches'],1985.0,https://www.science.org/doi/10.1126/science.2983426
+Gotoh,10.1016/0022-2836(82)90398-9,['Osamu Gotoh'],1,['An improved algorithm for matching biological sequences'],1982.0,https://linkinghub.elsevier.com/retrieve/pii/0022283682903989
+Altschul and Erickson,10.1007/BF02462326,"['Stephen F. Altschul', 'Bruce W. Erickson']",2,['Optimal sequence alignment using affine gap costs'],1986.0,http://link.springer.com/10.1007/BF02462326
+Myers and Miller,10.1093/bioinformatics/4.1.11,"['Eugene W. Myers', 'Webb Miller']",2,['Optimal alignments in linear space'],1988.0,https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/4.1.11
+David Sankoff,10.1073/pnas.69.1.4,['David Sankoff'],1,['Matching Sequences under Deletion/Insertion Constraints'],1972.0,https://pnas.org/doi/full/10.1073/pnas.69.1.4
+Cohen‚ÄìSutherland,,[],0,,,
+Liang‚ÄìBarsky,10.1145/357332.357333,"['You-Dong Liang', 'B. A. Barsky']",2,['A New Concept and Method for Line Clipping'],1984.0,https://dl.acm.org/doi/10.1145/357332.357333
+Cyrus‚ÄìBeck,10.1016/0097-8493(78)90021-3,"['Mike Cyrus', 'Jay Beck']",2,['Generalized two- and three-dimensional clipping'],1978.0,https://linkinghub.elsevier.com/retrieve/pii/0097849378900213
+Nicholl‚ÄìLee‚ÄìNicholl,10.1145/37401.37432,"['Tina M. Nicholl', 'D. T. Lee', 'Robin A. Nicholl']",3,['An efficient new algorithm for 2-D line clipping: Its development and analysis'],1987.0,http://portal.acm.org/citation.cfm?doid=37401.37432
+Fast clipping,10.1016/0097-8493(87)90061-6,"['Mark S. Sobkow', 'Paul Pospisil', 'Yee-Hong Yang']",3,['A fast two-dimensional line clipping algorithm via line encoding'],1987.0,https://linkinghub.elsevier.com/retrieve/pii/0097849387900616
+Rabin‚ÄìScott powerset construction,10.1147/rd.32.0114,"['M. O. Rabin', 'D. Scott']",2,['Finite Automata and Their Decision Problems'],1959.0,http://ieeexplore.ieee.org/document/5392601/
+Karatsuba Algorithm,10.1070/RM1991v046n02ABEH002747,['E A Karatsuba'],1,['On a new method for fast evaluation of transcendental functions'],1991.0,https://iopscience.iop.org/article/10.1070/RM1991v046n02ABEH002747
+Toom-3,10.1090/s0002-9947-1969-0249212-8,"['Stephen A. Cook', 'Stȧl O. Aanderaa']",2,['On the minimum computation time of functions'],1969.0,https://www.ams.org/tran/1969-142-00/S0002-9947-1969-0249212-8/
+Ramer‚ÄìDouglas‚ÄìPeucker algorithm,10.1016/S0146-664X(72)80017-0,['Urs Ramer'],1,['An iterative procedure for the polygonal approximation of plane curves'],1972.0,https://linkinghub.elsevier.com/retrieve/pii/S0146664X72800170
+Visvalingam‚ÄìWhyatt,,[],0,,,
+Opheim simplification,10.2312/eg.19811012,[],0,,,
+Zhao-Saalfeld,,[],0,,,
+k-d Tree,10.1145/355744.355745,"['Jerome H. Friedman', 'Jon Louis Bentley', 'Raphael Ari Finkel']",3,['An Algorithm for Finding Best Matches in Logarithmic Expected Time'],1977.0,https://dl.acm.org/doi/10.1145/355744.355745
+R-tree,10.1145/602259.602266,['Antonin Guttman'],1,['R-trees'],1984.0,http://portal.acm.org/citation.cfm?doid=602259.602266
+Horowitz and Sahni,10.1145/321812.321823,"['Ellis Horowitz', 'Sartaj Sahni']",2,['Computing Partitions with Applications to the Knapsack Problem'],1974.0,https://dl.acm.org/doi/10.1145/321812.321823
+Bellman dynamic programming algorithm,10.1002/nav.3800030107,['Richard Bellman'],1,['Notes on the theory of dynamic programming IV - Maximization over discrete sets'],1956.0,https://onlinelibrary.wiley.com/doi/10.1002/nav.3800030107
+Psinger,10.1006/jagm.1999.1034,['David Pisinger'],1,['Linear Time Algorithms for Knapsack Problems with Bounded Weights'],1999.0,https://linkinghub.elsevier.com/retrieve/pii/S0196677499910349
+Koiliaris and Xu,10.1145/3329863,"['Konstantinos Koiliaris', 'Chao Xu']",2,['Faster Pseudopolynomial Time Algorithms for Subset Sum'],2019.0,https://dl.acm.org/doi/10.1145/3329863
+Bringman,10.48550/arXiv.1610.04712,[],0,,,
+Faster Brute Force (via x[L:U] = x[L:U-1]+x[U]),10.1145/358234.381162,['Jon Bentley'],1,['Programming pearls'],1984.0,https://dl.acm.org/doi/10.1145/358234.381162
+Perumalla and Deo,,[],0,,,
+Speller,10.1007/BFb0054337,['Marie -France Sagot'],1,['Spelling approximate repeated or common motifs using a suffix tree'],1998.0,http://link.springer.com/10.1007/BFb0054337
+Mitra,10.1093/bioinformatics/18.suppl_1.s354,"['Eleazar Eskin', 'Pavel A. Pevzner']",2,['Finding composite regulatory patterns in DNA sequences'],2002.0,https://academic.oup.com/bioinformatics/article/18/suppl_1/S354/232354
+Census,10.1007/978-3-540-45078-8_5,"['Patricia A. Evans', 'Andrew D. Smith']",2,['Toward Optimal Motif Enumeration'],2003.0,http://link.springer.com/10.1007/978-3-540-45078-8_5
+Risotto,10.1007/11682462_69,"['Nadia Pisanti', 'Alexandra M. Carvalho', 'Laurent Marsan', 'Marie-France Sagot']",4,['RISOTTO: Fast Extraction of Motifs with Mismatches'],2006.0,http://link.springer.com/10.1007/11682462_69
+PMS,10.1109/TCBB.2007.70241,"['J. Davila', 'S. Balla', 'S. Rajasekaran']",3,"['Fast and Practical Algorithms for Planted (l, d) Motif Search']",2007.0,http://ieeexplore.ieee.org/document/4359890/
+Dynamic Programming,10.1145/321864.321874,['J. W. Wright'],1,['The Change-Making Problem'],1975.0,https://dl.acm.org/doi/10.1145/321864.321874
+Czumaj,,[],0,,,
+Czumaj,,[],0,,,
+Chandra,,[],0,,,
+Chin,,[],0,,,
+Bini's algorithm,10.1016/0020-0190(79)90113-3,"['Dario Bini', 'Milvio Capovani', 'Francesco Romani', 'Grazia Lotti']",4,['O(n2.7799) complexity for n × n approximate matrix multiplication'],1979.0,https://linkinghub.elsevier.com/retrieve/pii/0020019079901133
+Schonhage's algorithm,10.1137/0210032,['A. Schönhage'],1,['Partial and Total Matrix Multiplication'],1981.0,http://epubs.siam.org/doi/10.1137/0210032
+"Karger, Blum",,[],0,,,
+Br√©laz (DSatur),10.1145/359094.359101,['Daniel Brélaz'],1,['New methods to color the vertices of a graph'],1979.0,https://dl.acm.org/doi/10.1145/359094.359101
+Micali and Vazirani,10.1109/SFCS.1980.12,"['Silvio Micali', 'Vijay V. Vazirani']",2,['An O(v|v| c |E|) algoithm for finding maximum matching in general graphs'],1980.0,https://ieeexplore.ieee.org/document/4567800/
+Miller-Tucker-Zemlin (MTZ) formulation,10.1145/321043.321046,"['C. E. Miller', 'A. W. Tucker', 'R. A. Zemlin']",3,['Integer Programming Formulation of Traveling Salesman Problems'],1960.0,https://dl.acm.org/doi/10.1145/321043.321046
+Dantzig-Fulkerson-Johnson (DFJ) formulation,10.1287/opre.2.4.393,"['G. Dantzig', 'R. Fulkerson', 'S. Johnson']",3,['Solution of a Large-Scale Traveling-Salesman Problem'],1954.0,https://pubsonline.informs.org/doi/10.1287/opre.2.4.393
+Barvinok,10.1145/876638.876640,"['Alexander Barvinok', 'Sándor P. Fekete', 'David S. Johnson', 'Arie Tamir', 'Gerhard J. Woeginger', 'Russ Woodroofe']",6,['The geometric maximum traveling salesman problem'],2003.0,https://dl.acm.org/doi/10.1145/876638.876640
+Harris and Stephens algorithm,10.5244/c.2.23,"['C. Harris', 'M. Stephens']",2,['A Combined Corner and Edge Detector'],1988.0,http://www.bmva.org/bmvc/1988/avc-88-023.html
+L. Kitchen and A. Rosenfeld,10.1016/0167-8655(82)90020-4,"['Les Kitchen', 'Azriel Rosenfeld']",2,['Gray-level corner detection'],1982.0,https://linkinghub.elsevier.com/retrieve/pii/0167865582900204
+Chvatal greedy heuristic,,[],0,,,
+Alon; Moshkovitz & Safra,10.1145/1150334.1150336,"['Noga Alon', 'Dana Moshkovitz', 'Shmuel Safra']",3,['Algorithmic construction of sets for\n            <i>k</i>\n            -restrictions'],2006.0,https://dl.acm.org/doi/10.1145/1150334.1150336
+Roth AlignACE,10.1038/nbt1098-939,"['Frederick P. Roth', 'Jason D. Hughes', 'Preston W. Estep', 'George M. Church']",4,['Finding DNA regulatory motifs within unaligned noncoding sequences clustered by whole-genome mRNA quantitation'],1998.0,https://www.nature.com/articles/nbt1098-939
+non-parametric sampling Efros and Leung,10.1109/ICCV.1999.790383,"['A.A. Efros', 'T.K. Leung']",2,['Texture synthesis by non-parametric sampling'],1999.0,http://ieeexplore.ieee.org/document/790383/
+image analogies Hertzmann,10.1145/383259.383295,"['Aaron Hertzmann', 'Charles E. Jacobs', 'Nuria Oliver', 'Brian Curless', 'David H. Salesin']",5,['Image analogies'],2001.0,https://dl.acm.org/doi/10.1145/383259.383295
+R. Paget ; I.D. Longstaff,10.1109/83.679446,"['R. Paget', 'I.D. Longstaff']",2,['Texture synthesis via a noncausal nonparametric multiscale Markov random field'],1998.0,http://ieeexplore.ieee.org/document/679446/
+Image quilting Efros-Freeman,10.1145/383259.383296,"['Alexei A. Efros', 'William T. Freeman']",2,['Image quilting for texture synthesis and transfer'],2001.0,https://dl.acm.org/doi/10.1145/383259.383296
+EKF SLAM,10.1007/978-3-642-33965-3,"['Amitava Chatterjee', 'Anjan Rakshit', 'N. Nirmal Singh']",3,['Vision Based Autonomous Robot Navigation'],2013.0,https://link.springer.com/10.1007/978-3-642-33965-3
+UKF,10.1109/asspcc.2000.882463,"['E.A. Wan', 'R. Van Der Merwe']",2,['The unscented Kalman filter for nonlinear estimation'],2002.0,http://ieeexplore.ieee.org/document/882463/
+Compressed Extended KF,,[],0,,,
+Rao-Blackwellized Particle Filtering SLAM,10.1023/a:1008935410038,"['Arnaud Doucet', 'Simon Godsill', 'Christophe Andrieu']",3,[],2000.0,http://link.springer.com/10.1023/A:1008935410038
+Petford and Welsh,10.1016/0012-365X(89)90214-8,"['A.D. Petford', 'D.J.A. Welsh']",2,['A randomised 3-colouring algorithm'],1989.0,https://linkinghub.elsevier.com/retrieve/pii/0012365X89902148
+Fomin; Gaspers & Saurabh,10.1007/978-3-540-73545-8_9,"['Fedor V. Fomin', 'Serge Gaspers', 'Saket Saurabh']",3,['Improved Exact Algorithms for Counting 3- and 4-Colorings'],2007.0,http://link.springer.com/10.1007/978-3-540-73545-8_9
+Khuller; Matias,10.1006/inco.1995.1049,"['S. Khuller', 'Y. Matias']",2,['A Simple Randomized Sieve Algorithm for the Closest-Pair Problem'],1995.0,https://linkinghub.elsevier.com/retrieve/pii/S0890540185710498
+Bunch; Hopcroft,,[],0,,,
+Bitap algorithm,identifier,[],0,,,
+Tree sort,10.1007/978-1-349-08147-9_4,"['Keith McLuckie', 'Angus Barber']",2,['Binary Tree Sort'],1986.0,http://link.springer.com/10.1007/978-1-349-08147-9_4
+Quick Sort,,[],0,,,
+Cube Sort Parallel Implementation,10.1016/0196-6774(92)90016-6,"['Robert Cypher', 'Jorge L.C Sanz']",2,['Cubesort: A parallel algorithm for sorting N data items with S-sorters'],1992.0,https://linkinghub.elsevier.com/retrieve/pii/0196677492900166
+Shell Sort (Shell),,[],0,,,
+Shell Sort (Frank & Lazarus),,[],0,,,
+Shell Sort (Pratt),,[],0,,,
+Shell Sort (Sedgewick),10.1016/0196-6774(86)90001-5,['Robert Sedgewick'],1,['A new upper bound for Shellsort'],1986.0,https://linkinghub.elsevier.com/retrieve/pii/0196677486900015
+Bitonic Merge Sort Parallel Implementation,10.1137/0218014,"['Gianfranco Bilardi', 'Alexandru Nicolau']",2,['Adaptive Bitonic Sorting: An Optimal Parallel Algorithm for Shared-Memory Machines'],1989.0,http://epubs.siam.org/doi/10.1137/0218014
+Thorup's Sorting Algorithm,10.1006/jagm.2002.1211,['Mikkel Thorup'],1,"['Randomized Sorting in O(nloglogn) Time and Linear Space Using Addition, Shift, and Bit-wise Boolean Operations']",2002.0,https://linkinghub.elsevier.com/retrieve/pii/S0196677402912113
+Flash Sort,,[],0,,,
+Bead Sort,,[],0,,,
+Burst Sort,,[],0,,,
+Spreadsort,,[],0,,,
+T. C. Hu ; M. T. Shing,10.1137/0211028,"['T. C. Hu', 'M. T. Shing']",2,['Computation of Matrix Chain Products. Part I'],1982.0,http://epubs.siam.org/doi/10.1137/0211028
+Hunt and Szymanski,10.1145/359581.359603,"['James W. Hunt', 'Thomas G. Szymanski']",2,['A fast algorithm for computing longest common subsequences'],1977.0,https://dl.acm.org/doi/10.1145/359581.359603
+Mukhopadhyay,10.1016/0020-0255(80)90025-0,['Amar Mukhopadhyay'],1,['A fast algorithm for the longest-common-subsequence problem'],1980.0,https://linkinghub.elsevier.com/retrieve/pii/0020025580900250
+Dinitz (with dynamic trees),10.4236/jcc.2021.97005,"['Yiming Yan', 'Aimei Xiao']",2,['A Self-Adaptive Quantum Genetic Algorithm for Network Flow Vehicle Scheduling Problem'],2021.0,https://www.scirp.org/journal/doi.aspx?doi=10.4236/jcc.2021.97005
+Cherkassky,10.1016/S0377-2217(96)00269-X,"['Ravindra K. Ahuja', 'Murali Kodialam', 'Ajay K. Mishra', 'James B. Orlin']",4,['Computational investigations of maximum flow algorithms'],1997.0,https://linkinghub.elsevier.com/retrieve/pii/S037722179600269X
+Sleator & Tarjan,10.1016/0022-0000(83)90006-5,"['Daniel D. Sleator', 'Robert Endre Tarjan']",2,['A data structure for dynamic trees'],1983.0,https://linkinghub.elsevier.com/retrieve/pii/0022000083900065
+Goldberg & Tarjan,,[],0,,,
+Ahuja & Orlin,,[],0,,,
+Cheriyan & Hagerup,10.1109/SFCS.1989.63465,"['J. Cheriyan', 'T. Hagerup']",2,['A randomized maximum-flow algorithm'],1989.0,http://ieeexplore.ieee.org/document/63465/
+Cheriyan et al.,10.1007/BFb0032035,"['Joseph Cheriyan', 'Torben Hagerup', 'Kurt Mehlhorn']",3,['Can a maximum flow be computed in o(nm) time?'],2005.0,http://link.springer.com/10.1007/BFb0032035
+Alon,10.1016/0020-0190(90)90024-R,['Noga Alon'],1,['Generating pseudo-random permutations and maximum flow algorithms'],1990.0,https://linkinghub.elsevier.com/retrieve/pii/002001909090024R
+King et al. (KRT),,[],0,,,
+Phillips & Westbrook,,[],0,,,
+Goldberg & Rao,,[],0,,,
+Goldberg & Rao,,[],0,,,
+James B Orlin's + KRT (King; Rao; Tarjan)'s algorithm,,[],0,,,
+Lawler,10.1016/0020-0190(76)90065-X,['E.L. Lawler'],1,['A note on the complexity of the chromatic number problem'],1976.0,https://linkinghub.elsevier.com/retrieve/pii/002001907690065X
+Schiermeyer,10.1007/3-540-57899-4_51,['Ingo Schiermeyer'],1,['Deciding 3-colourability in less than O(1.415n) steps'],1994.0,http://link.springer.com/10.1007/3-540-57899-4_51
+Beigel & Eppstein,10.1109/SFCS.1995.492575,"['R. Beigel', 'D. Eppstein']",2,['3-coloring in time 0(1.3446/sup n/): a no-MIS algorithm'],2002.0,http://ieeexplore.ieee.org/document/492575/
+Beigel & Eppstein,10.1016/j.jalgor.2004.06.008,"['Richard Beigel', 'David Eppstein']",2,['3-coloring in time'],2005.0,https://linkinghub.elsevier.com/retrieve/pii/S0196677404001117
+Lawler,10.1016/0020-0190(76)90065-X,['E.L. Lawler'],1,['A note on the complexity of the chromatic number problem'],1976.0,https://linkinghub.elsevier.com/retrieve/pii/002001907690065X
+Byskov,10.1016/j.orl.2004.03.002,['Jesper Makholm Byskov'],1,['Enumerating maximal independent sets with applications to graph colouring'],2004.0,https://linkinghub.elsevier.com/retrieve/pii/S0167637704000409
+Conjugate Gradient,10.6028/jres.049.044,"['M.R. Hestenes', 'E. Stiefel']",2,['Methods of conjugate gradients for solving linear systems'],1952.0,https://nvlpubs.nist.gov/nistpubs/jres/049/jresv49n6p409_A1b.pdf
+Harrow (Quantum),10.1103/PhysRevLett.103.150502,"['Aram W. Harrow', 'Avinatan Hassidim', 'Seth Lloyd']",3,['Quantum Algorithm for Linear Systems of Equations'],2009.0,https://link.aps.org/doi/10.1103/PhysRevLett.103.150502
+Karmarkar's algorithm,10.1007/bf02579150,['N. Karmarkar'],1,['A new polynomial-time algorithm for linear programming'],1984.0,http://link.springer.com/10.1007/BF02579150
+Cohen; Lee and Song,10.48550/arXiv.1810.07896,[],0,,,
+Lee and Sidford,10.48550/arXiv.1503.01752,[],0,,,
+Chazelle & Edelsbrunner,10.1145/147508.147511,"['Bernard Chazelle', 'Herbert Edelsbrunner']",2,['An optimal algorithm for intersecting line segments in the plane'],1992.0,https://dl.acm.org/doi/10.1145/147508.147511
+CHAZELLE,10.1016/0022-0000(86)90025-5,['Bernard Chazelle'],1,['Reporting and counting segment intersections'],1986.0,https://linkinghub.elsevier.com/retrieve/pii/0022000086900255
+NIEVERGELT. J.. AND PREPARATA (Section 3),10.1145/358746.358755,"['Tim Teitelbaum', 'Thomas Reps']",2,['The Cornell program synthesizer'],1981.0,https://dl.acm.org/doi/10.1145/358746.358755
+"Jean-Daniel Boissonnat and Franco P.
+Preparata.",10.1137/S0097539797329373,"['Jean-Daniel Boissonnat', 'Franco P. Preparata']",2,['Robust Plane Sweep for Intersecting Segments'],2000.0,http://epubs.siam.org/doi/10.1137/S0097539797329373
+Balaban.,10.1145/220279.220302,['Ivan J. Balaban'],1,['An optimal algorithm for finding segments intersections'],1995.0,http://portal.acm.org/citation.cfm?doid=220279.220302
+Boissonnat; Snoeyink,,[],0,,,
+Goodrich,,[],0,,,
+Graham,10.1016/0020-0190(72)90045-2,['R.L. Graham'],1,['An efficient algorith for determining the convex hull of a finite planar set'],1972.0,https://linkinghub.elsevier.com/retrieve/pii/0020019072900452
+W. Eddy Quickhull,,[],0,,,
+Preparata and Hong,,[],0,,,
+Andrew's algorithm,10.1016/0020-0190(79)90072-3,['A.M. Andrew'],1,['Another efficient algorithm for convex hulls in two dimensions'],1979.0,https://linkinghub.elsevier.com/retrieve/pii/0020019079900723
+The ultimate planar convex hull algorithm,,[],0,,,
+Chan's algorithm,10.1007/BF02712873,['T. M. Chan'],1,['Optimal output-sensitive convex hull algorithms in two and three dimensions'],1996.0,http://link.springer.com/10.1007/BF02712873
+Miller; Stout,10.1109/12.9737,"['R. Miller', 'Q.F. Stout']",2,['Efficient parallel convex hull algorithms'],1988.0,http://ieeexplore.ieee.org/document/9737/
+Kosaraju's algorithm,10.1016/0898-1221(81)90008-0,['M. Sharir'],1,['A strong-connectivity algorithm and its applications in data flow analysis'],1981.0,https://linkinghub.elsevier.com/retrieve/pii/0898122181900080
+Tarjan's strongly connected components algorithm,,[],0,,,
+Path-based strong components algorithm; Dijkstra,,[],0,,,
+Fleischer forward-backward (FB) algorithm,10.2172/889876,"['Don Coppersmith', 'Lisa Fleischer', 'Bruce Hendrickson', 'Ali Pinar']",4,['A divide-and-conquer algorithm for identifying strongly connectedcomponents'],2003.0,http://www.osti.gov/servlets/purl/889876-HyvUva/
+Pearce,10.1016/j.ipl.2015.08.010,['David J. Pearce'],1,['A space-efficient algorithm for finding strongly connected components'],2016.0,https://linkinghub.elsevier.com/retrieve/pii/S0020019015001532
+Path-based depth-first search Gabow,10.1016/S0020-0190(00)00051-X,['Harold N. Gabow'],1,['Path-based depth-first search for strong and biconnected components'],2000.0,https://linkinghub.elsevier.com/retrieve/pii/S002001900000051X
+Paul Purdom,10.1007%2FBF01940892,['Paul Purdom'],1,['A transitive closure algorithm'],1970.0,http://link.springer.com/10.1007/BF01940892
+Lowe‚Äôs Algorithm,,[],0,,,
+Renault‚Äôs Algorithm,10.1007/978-3-642-45221-5_44,"['Etienne Renault', 'Alexandre Duret-Lutz', 'Fabrice Kordon', 'Denis Poitrenaud']",4,['Three SCC-Based Emptiness Checks for Generalized Büchi Automata'],2013.0,http://link.springer.com/10.1007/978-3-642-45221-5_44
+Couvreur,10.1007/3-540-48119-2_16,['Jean-Michel Couvreur'],1,['On-the-fly Verification of Linear Temporal Logic'],1999.0,http://link.springer.com/10.1007/3-540-48119-2_16
+Munro‚Äôs algorithm,10.1016/0020-0190(71)90006-8,['Ian Munro'],1,['Efficient determination of the transitive closure of a directed graph'],1971.0,https://linkinghub.elsevier.com/retrieve/pii/0020019071900068
+OBF Algorithm,10.1093/logcom/exp003,"['J. Barnat', 'J. Chaloupka', 'J. Van De Pol']",3,['Distributed Algorithms for SCC Decomposition'],2009.0,https://academic.oup.com/logcom/article-lookup/doi/10.1093/logcom/exp003
+CH Algorithm,,[],0,,,
+Hong‚Äôs algorithm,10.1145/2503210.2503246,"['Sungpack Hong', 'Nicole C. Rodia', 'Kunle Olukotun']",3,['On fast parallel detection of strongly connected components (SCC) in small-world graphs'],2013.0,https://dl.acm.org/doi/10.1145/2503210.2503246
+Prim's algorithm + adjacency matrix searching,10.1002/j.1538-7305.1957.tb01515.x,['R. C. Prim'],1,['Shortest Connection Networks And Some Generalizations'],1957.0,https://ieeexplore.ieee.org/document/6773228
+Prim's algorithm + Fibonacci heaps; Fredman & Tarjan,,[],0,,,
+Kruskal's algorithm,,[],0,,,
+Yao's algorithm,10.1016/0020-0190(75)90056-3,['Andrew Chi-chih Yao'],1,['An 0(|E|loglog|V|) algorithm for finding minimum spanning trees'],1975.0,https://linkinghub.elsevier.com/retrieve/pii/0020019075900563
+Cheriton-Tarjan Algorithm,10.1137/0205051,"['David Cheriton', 'Robert Endre Tarjan']",2,['Finding Minimum Spanning Trees'],1976.0,http://epubs.siam.org/doi/10.1137/0205051
+Filter Kruskal algorithm,,[],0,,,
+Chazelle's algorithm,,[],0,,,
+Thorup (reverse-delete),10.1145/335305.335345,['Mikkel Thorup'],1,['Near-optimal fully-dynamic graph connectivity'],2000.0,https://dl.acm.org/doi/10.1145/335305.335345
+Fortune and Hopcroft,10.1016/0020-0190(79)90085-1,"['Steve Fortune', 'John Hopcroft']",2,"[""A note on Rabin's nearest-neighbor algorithm""]",1979.0,https://linkinghub.elsevier.com/retrieve/pii/0020019079900851
+F. Preparata and M. Shamos,10.1007/978-1-4612-1098-6,"['Franco P. Preparata', 'Michael Ian Shamos']",2,['Computational Geometry'],1985.0,http://link.springer.com/10.1007/978-1-4612-1098-6
+Rabin' Algorithm,,[],0,,,
+Bentley,,[],0,,,
+Bentley; Shamos,,[],0,,,
+Hinrichs; Nievergelt; Schorn,10.1016/0020-0190(88)90150-0,"['Klaus Hinrichs', 'Jurg Nievergelt', 'Peter Schorn']",3,['Plane-sweep solves the closest pair problem elegantly'],1988.0,https://linkinghub.elsevier.com/retrieve/pii/0020019088901500
+Shamos; Hoey,10.1109/SFCS.1975.8,"['Michael Ian Shamos', 'Dan Hoey']",2,['Closest-point problems'],1975.0,http://ieeexplore.ieee.org/document/4567872/
+Dyer,10.1016/0020-0190(80)90035-6,['Charles R. Dyer'],1,['A fast parallel algorithm for the closest pair problem'],1980.0,https://linkinghub.elsevier.com/retrieve/pii/0020019080900356
+Bellman‚ÄìFord algorithm (Ford 1956),,[],0,,,
+Bellman‚ÄìFord algorithm (Shimbel 1955; Bellman 1958; Moore 1959),10.1090/qam/102435,['Richard Bellman'],1,['On a routing problem'],1958.0,https://www.ams.org/qam/1958-16-01/S0033-569X-1958-0102435-2/
+Bellman‚ÄìFord algorithm (Dantzig 1960),,[],0,,,
+Dijkstra's algorithm with list (Whiting & Hillier 1960),,[],0,,,
+Dijkstra's algorithm with binary heap (Johnson 1977),,[],0,,,
+Dijkstra's algorithm with Fibonacci heap (Fredman & Tarjan 1984; Fredman & Tarjan 1987),,[],0,,,
+Dijkstra's algorithm with Fibonacci heap (Johnson 1981; Karlsson & Poblete 1983),10.1016/0166-218X(83)90104-X,"['Rolf G. Karlsson', 'Patricio V. Poblete']",2,['An O(mlog logD) algorithm for shortest paths'],1983.0,https://linkinghub.elsevier.com/retrieve/pii/0166218X8390104X
+Gabow's algorithm,10.1109/SFCS.1983.68,['Harold N. Gabow'],1,['Scaling algorithms for network problems'],1983.0,http://ieeexplore.ieee.org/document/4568085/
+Gabow Ahuja Algorithm,10.1145/77600.77615,"['Ravindra K. Ahuja', 'Kurt Mehlhorn', 'James Orlin', 'Robert E. Tarjan']",4,['Faster algorithms for the shortest path problem'],1990.0,https://dl.acm.org/doi/10.1145/77600.77615
+Thorup's algorithm,10.1016/j.jcss.2004.04.003,['Mikkel Thorup'],1,['Integer priority queues with decrease key in constant time and the single source shortest paths problem'],2004.0,https://linkinghub.elsevier.com/retrieve/pii/S002200000400042X
+Shimbel Algorithm,10.1007/BF02476438,['Alfonso Shimbel'],1,['Structural parameters of communication networks'],1953.0,http://link.springer.com/10.1007/BF02476438
+Floyd‚ÄìWarshall algorithm,,[],0,,,
+Seidel's algorithm,10.1006/jcss.1995.1078,['R. Seidel'],1,['On the All-Pairs-Shortest-Path Problem in Unweighted Undirected Graphs'],1995.0,https://linkinghub.elsevier.com/retrieve/pii/S0022000085710781
+Williams,,[],0,,,
+Pettie & Ramachandran,,[],0,,,
+Thorup,,[],0,,,
+Chan (Geometrically Weighted),10.1145/1250790.1250877,['Timothy M. Chan'],1,['More algorithms for all-pairs shortest paths in weighted graphs'],2007.0,https://dl.acm.org/doi/10.1145/1250790.1250877
+Chan,10.1145/1250790.1250877,['Timothy M. Chan'],1,['More algorithms for all-pairs shortest paths in weighted graphs'],2007.0,https://dl.acm.org/doi/10.1145/1250790.1250877
+Pollard's rho algorithm,10.1007%2FBF01933667,['J. M. Pollard'],1,['A monte carlo method for factorization'],1975.0,http://link.springer.com/10.1007/BF01933667
+Pollard's p ‚àí 1 algorithm,10.1017/S0305004100049252,['J. M. Pollard'],1,['Theorems on factorization and primality testing'],1974.0,https://www.cambridge.org/core/product/identifier/S0305004100049252/type/journal_article
+Williams' p + 1 algorithm,,[],0,,,
+Lenstra elliptic curve factorization,,[],0,,,
+Fermat's factorization method,,[],0,,,
+Dixon's algorithm,10.1002/cpa.3160310407,"['Gregory J. Chaitin', 'Jacob T. Schwartz']",2,['A note on monte carlo primality tests and algorithmic information theory'],1978.0,https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160310407
+Continued fraction factorization (CFRAC),https,[],0,,,
+Quadratic sieve,,[],0,,,
+Rational sieve,10.1090/s0025-5718-1993-1182953-4,"['A. K. Lenstra', 'H. W. Lenstra', 'M. S. Manasse', 'J. M. Pollard']",4,['The factorization of the ninth Fermat number'],1993.0,https://www.ams.org/mcom/1993-61-203/S0025-5718-1993-1182953-4/
+Shanks's square forms factorization (SQUFOF),10.1090/s0025-5718-07-02010-8,"['Jason E. Gower', 'Samuel S. Wagstaff']",2,['Square form factorization'],2008.0,http://www.ams.org/journal-getitem?pii=S0025-5718-07-02010-8
+Randomized LU Decomposition,10.1016/j.acha.2016.04.006,"['Gil Shabat', 'Yaniv Shmueli', 'Yariv Aizenbud', 'Amir Averbuch']",4,['Randomized LU decomposition'],2018.0,https://linkinghub.elsevier.com/retrieve/pii/S1063520316300069
+"Press, Teukolsky, Flannery",,[],0,,,
+Block A*,10.1609/aaai.v25i1.7813,"['Peter Yap', 'Neil Burch', 'Robert Holte', 'Jonathan Schaeffer']",4,['Block A*: Database-Driven Search with Applications in Any-Angle Path-Planning'],2011.0,https://ojs.aaai.org/index.php/AAAI/article/view/7813
+D*,,[],0,,,
+Field D*,10.1002/rob.20109,"['Dave Ferguson', 'Anthony Stentz']",2,['Using interpolation to improve path planning: The Field D* algorithm'],2006.0,https://onlinelibrary.wiley.com/doi/10.1002/rob.20109
+Tuned Boyer-Moore algorithm,,[],0,,,
+FOGSAA,10.1038/srep01746,"['Angana Chakraborty', 'Sanghamitra Bandyopadhyay']",2,['FOGSAA: Fast Optimal Global Sequence Alignment Algorithm'],2013.0,https://www.nature.com/articles/srep01746
+O(lg N) algorithm,,[],0,,,
+Skala,10.1111/1467-8659.1510061,['Vaclav Skala'],1,['An Efficient Algorithm for Line Clipping by Convex and Non-convex Polyhedra in E3'],1996.0,https://onlinelibrary.wiley.com/doi/10.1111/1467-8659.1510061
+Sch√∂nhage‚ÄìStrassen algorithm,10.1007/BF02242355,"['A. Schönhage', 'V. Strassen']",2,['Schnelle Multiplikation großer Zahlen'],1971.0,http://link.springer.com/10.1007/BF02242355
+Furer's algorithm,10.1038/nrmicro3400,"['Michael D. J. Lynch', 'Josh D. Neufeld']",2,['Ecology and exploration of the rare biosphere'],2015.0,https://www.nature.com/articles/nrmicro3400
+De,10.48550/arXiv.0801.1416,[],0,,,
+Harvey; Hoeven,10.4007/annals.2021.193.2.4,"['David Harvey', 'Joris van der Hoeven']",2,"['Integer multiplication in time $O(n\\mathrm{log}\\, n)$']",2021.0,https://projecteuclid.org/journals/annals-of-mathematics/volume-193/issue-2/Integer-multiplication-in-time-Onmathrmlog-n/10.4007/annals.2021.193.2.4.full
+Harvey; Hoeven; Lecerf,10.48550/arXiv.1407.3360,[],0,,,
+Covanov and Thom√©,,[],0,,,
+Covanov and Thom√©,10.48550/arXiv.1502.02800,[],0,,,
+Harvey; Hoeven; Lecerf,10.2140/obs.2019.2.293,"['David Harvey', 'Joris van der Hoeven']",2,['Faster integer multiplication using short lattice vectors'],2019.0,https://msp.org/obs/2019/2-1/p18.xhtml
+Lamport's bakery algorithm,10.1145/361082.361093,['Leslie Lamport'],1,"[""A new solution of Dijkstra's concurrent programming problem""]",1974.0,https://dl.acm.org/doi/10.1145/361082.361093
+Szymanski's algorithm,,[],0,,,
+Taubenfeld's black-white bakery algorithm,10.1007/978-3-540-30186-8_5,['Gadi Taubenfeld'],1,"['The Black-White Bakery Algorithm and Related Bounded-Space, Adaptive, Local-Spinning and FIFO Algorithms']",2004.0,http://link.springer.com/10.1007/978-3-540-30186-8_5
+Maekawa's algorithm,10.1093/comjnl/31.4.289,"['J. M. Helary', 'N. Plouzeau', 'M. Raynal']",3,['A Distributed Algorithm for Mutual Exclusion in an Arbitrary Network'],1988.0,https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/31.4.289
+Raymond's algorithm,10.1145/58564.59295,['Kerry Raymond'],1,['A tree-based algorithm for distributed mutual exclusion'],1989.0,https://dl.acm.org/doi/10.1145/58564.59295
+Suzuki-Kasami's algorithm,,[],0,,,
+Painter's algorithm/Newell's algorithm,10.1145/800193.569954,"['M. E. Newell', 'R. G. Newell', 'T. L. Sancha']",3,['A solution to the hidden surface problem'],1972.0,http://portal.acm.org/citation.cfm?doid=800193.569954
+Warnock's algorithm,,[],0,,,
+Binary space partitioning (BSP),,[],0,,,
+Z-buffering,,[],0,,,
+Power Iteration,10.1002/zamm.19290090105,"['R. V. Mises', 'H. Pollaczek-Geiringer']",2,['Praktische Verfahren der Gleichungsauflösung .'],1929.0,https://onlinelibrary.wiley.com/doi/10.1002/zamm.19290090105
+Fortune,10.1007/bf01840357,['Steven Fortune'],1,['A sweepline algorithm for Voronoi diagrams'],1987.0,http://link.springer.com/10.1007/BF01840357
+Gries,10.1016/0167-6423(83)90015-1,['David Gries'],1,['A note on a standard strategy for developing loop invariants and loops'],1982.0,https://linkinghub.elsevier.com/retrieve/pii/0167642383900151
+Bird,10.1093/comjnl/32.2.122,['R. S. Bird'],1,['Algebraic Identities for Program Calculation'],1989.0,https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/32.2.122
+"Ferreira, Camargo, Song",10.1109/SBAC-PADW.2014.15,"['Cleber S. Ferreira', 'Raphael Y. Camargo', 'Siang Wun Song']",3,['A Parallel Maximum Subarray Algorithm on GPUs'],2014.0,http://ieeexplore.ieee.org/document/6972008/
+HJLS algorithm,10.1137/0218059,"['J. Hastad', 'B. Just', 'J. C. Lagarias', 'C. P. Schnorr']",4,['Polynomial Time Algorithms for Finding Integer Relations among Real Numbers'],1989.0,http://epubs.siam.org/doi/10.1137/0218059
+Resource hierarchy solution,,[],0,,,
+Arbitrator solution,,[],0,,,
+Applegate et al.,,[],0,,,
+Johnson; D. S.; McGeoch; L. A.,,[],0,,,
+Gutina; Gregory; Yeob; Anders; Zverovich; Alexey,,[],0,,,
+Rosenkrantz; D. J.; Stearns; R. E.; Lewis; P. M.,10.1007/978-1-4020-9688-4_3,"['Daniel J. Rosenkrantz', 'Richard E. Stearns', 'Philip M. Lewis']",3,['An analysis of several heuristics for the\xa0traveling salesman problem'],2009.0,http://link.springer.com/10.1007/978-1-4020-9688-4_3
+Lin‚ÄìKernighan,10.1287/opre.21.2.498,"['S. Lin', 'B. W. Kernighan']",2,['An Effective Heuristic Algorithm for the Traveling-Salesman Problem'],1973.0,https://pubsonline.informs.org/doi/10.1287/opre.21.2.498
+Greedy SEQAID,10.1093/nar/12.1part1.307,"['Hannu Peltola', 'Hans Söderlund', 'Esko Ukkonen']",3,['SEQAID: a DNA sequence assembling program based on a mathematical model'],1984.0,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/12.1Part1.307
+Appel's algorithm 1968,10.1145/1468075.1468082,['Arthur Appel'],1,['Some techniques for shading machine renderings of solids'],1968.0,http://portal.acm.org/citation.cfm?doid=1468075.1468082
+Whitted's algorithm 1979,10.1145/358876.358882,['Turner Whitted'],1,['An improved illumination model for shaded display'],1980.0,https://dl.acm.org/doi/10.1145/358876.358882
+J.-C. Nebel 1998,,[],0,,,
+Moravec's algorithm 1980,10.1184/r1/6557033.v1,[],0,,,
+J. J. Koenderink and W. Richards 1988,,[],0,,,
+Lindeberg (1998),10.1023/A:1008045108935,['Tony Lindeberg'],1,[],1998.0,http://link.springer.com/10.1023/A:1008045108935
+K. Mikolajczyk; K. and C. Schmid LoG 2004,10.1109/tpami.2005.188,"['K. Mikolajczyk', 'C. Schmid']",2,['A performance evaluation of local descriptors'],2005.0,http://ieeexplore.ieee.org/document/1498756/
+Lowe (2004),10.1023/b:visi.0000029664.99615.94,['David G. Lowe'],1,['Distinctive Image Features from Scale-Invariant Keypoints'],2004.0,http://link.springer.com/10.1023/B:VISI.0000029664.99615.94
+FAST E. Rosten and T. Drummond 2006,10.1007/11744023,"['Aleš Leonardis', 'Horst Bischof', 'Axel Pinz']",3,['Computer Vision – ECCV 2006'],2006.0,http://link.springer.com/10.1007/11744023
+Trujillo and Olague 2008,10.1162/evco.2008.16.4.483,"['Leonardo Trujillo', 'Gustavo Olague']",2,['Automated Design of Image Operators that Detect Interest Points'],2008.0,https://direct.mit.edu/evco/article/16/4/483-507/1300
+Geert Willems; Tinne Tuytelaars and Luc van Gool (2008),,[],0,,,
+Kwatra 2003,10.1145/882262.882264,"['Vivek Kwatra', 'Arno Schödl', 'Irfan Essa', 'Greg Turk', 'Aaron Bobick']",5,['Graphcut textures'],2003.0,https://dl.acm.org/doi/10.1145/882262.882264
+Digital Differential Analyzer (DDA),,[],0,,,
+Bresenham Algorithm,,[],0,,,
+FastSlam,10.1023/a:1008854305733,"['F. Lu', 'E. Milios']",2,[],1997.0,http://link.springer.com/10.1023/A:1008854305733
+srba,10.1109/icra.2013.6630548,"['Jawaad Bhatti', 'Pejman Iravani', 'Andrew Plummer', 'M. Necip Sahinkaya']",4,"[""Instantaneous control of a vertically hopping leg's total step-time""]",2013.0,http://ieeexplore.ieee.org/document/6630548/
+Probabilistic Convolution Tree,10.1371/journal.pone.0091507,['Oliver Serang'],1,['The Probabilistic Convolution Tree: Efficient Exact Bayesian Inference for Faster LC-MS/MS Protein Inference'],2014.0,https://dx.plos.org/10.1371/journal.pone.0091507
+Odd Even Sort Parallel  Implementation,,[],0,,,
+Spaghetti Sort Parallel Implementation,10.1007/978-94-009-2794-0_11,['Kenneth Steiglitz'],1,['Two Non-Standard Paradigms for Computation: Analog Machines and Cellular Automata'],1988.0,http://link.springer.com/10.1007/978-94-009-2794-0_11
+Heejo Lee; Jong Kim; Sungje Hong; and Sunggu Lee,,[],0,,,
+Prakesh Ramanan,10.1137/0225039,['Prakash Ramanan'],1,['An Efficient Parallel Algorithm for the Matrix-Chain-Product Problem'],1996.0,http://epubs.siam.org/doi/10.1137/0225039
+Czumaj,,[],0,,,
+Hsu and Du (Scheme 2),10.1016/0022-0000(84)90025-4,"['W.J. Hsu', 'M.W. Du']",2,['New algorithms for the LCS problem'],1984.0,https://linkinghub.elsevier.com/retrieve/pii/0022000084900254
+Apostolico and Guerra (HS1 Algorithm),10.1007/BF01840365,"['A. Apostolico', 'C. Guerra']",2,['The longest common subsequence problem revisited'],1987.0,http://link.springer.com/10.1007/BF01840365
+Kuo and Cross,,[],0,,,
+Rick,10.1007/3-540-60044-2_53,['Claus Rick'],1,['A new flexible algorithm for the longest common subsequence problem'],1995.0,http://link.springer.com/10.1007/3-540-60044-2_53
+Rick,10.1007/3-540-60044-2_53,['Claus Rick'],1,['A new flexible algorithm for the longest common subsequence problem'],1995.0,http://link.springer.com/10.1007/3-540-60044-2_53
+Hirschberg,,[],0,,,
+Hsu and Du (Scheme 1),10.1016/0022-0000(84)90025-4,"['W.J. Hsu', 'M.W. Du']",2,['New algorithms for the LCS problem'],1984.0,https://linkinghub.elsevier.com/retrieve/pii/0022000084900254
+Apostolico and Guerra (Algorithm 2),10.1007/BF01840365,"['A. Apostolico', 'C. Guerra']",2,['The longest common subsequence problem revisited'],1987.0,http://link.springer.com/10.1007/BF01840365
+Chin and Poon,,[],0,,,
+Nakatsu et al.,10.1007/BF00264437,"['Narao Nakatsu', 'Yahiko Kambayashi', 'Shuzo Yajima']",3,['A longest common subsequence algorithm suitable for similar text strings'],1982.0,http://link.springer.com/10.1007/BF00264437
+Miller and Myers,10.1002/spe.4380151102,"['Webb Miller', 'Eugene W. Myers']",2,['A file comparison program'],1985.0,https://onlinelibrary.wiley.com/doi/10.1002/spe.4380151102
+Wu et al.,10.1016/0020-0190(90)90035-v,"['Sun Wu', 'Udi Manber', 'Gene Myers', 'Webb Miller']",4,['An O(NP) sequence comparison algorithm'],1990.0,https://linkinghub.elsevier.com/retrieve/pii/002001909090035V
+Ahuja et al.,,[],0,,,
+Robson,10.1016/0196-6774(86)90032-5,['J.M Robson'],1,['Algorithms for maximum independent sets'],1986.0,https://linkinghub.elsevier.com/retrieve/pii/0196677486900325
+Sch√∂ning,10.1109/SFFCS.1999.814612,['T. Schoning'],1,['A probabilistic algorithm for k-SAT and constraint satisfaction problems'],2003.0,http://ieeexplore.ieee.org/document/814612/
+Hirsch,,[],0,,,
+Johnson,10.1016/0020-0190(88)90065-8,"['David S. Johnson', 'Mihalis Yannakakis', 'Christos H. Papadimitriou']",3,['On generating all maximal independent sets'],1988.0,https://linkinghub.elsevier.com/retrieve/pii/0020019088900658
+Alon and Kahale,10.1145/195058.195187,"['Noga Alon', 'Nabil Kahale']",2,['A spectral technique for coloring random 3-colorable graphs (preliminary version)'],1994.0,http://portal.acm.org/citation.cfm?doid=195058.195187
+Incremental convex hull algorithm; Michael Kallay,10.1016/0020-0190(84)90084-X,['Michael Kallay'],1,['The complexity of incremental convex hull algorithms in Rd'],1984.0,https://linkinghub.elsevier.com/retrieve/pii/002001908490084X
+Bader & Cong Parallel Implementation,10.1016/j.jpdc.2006.06.001,"['David A. Bader', 'Guojing Cong']",2,['Fast shared-memory algorithms for computing the minimum spanning forest of sparse graphs'],2006.0,https://linkinghub.elsevier.com/retrieve/pii/S0743731506001262
+General number field sieve,10.1090/dol/034/15,['Carl Pomerance'],1,['A Tale of Two Sieves'],2009.0,https://www.ams.org/dol/034
+Shor's algorithm Quantum Implementation,10.1109/SFCS.1994.365700,['P.W. Shor'],1,['Algorithms for quantum computation: discrete logarithms and factoring'],2002.0,http://ieeexplore.ieee.org/document/365700/
+Two-way String-Matching Algorithm,,[],0,,,
+Quick-Skip Searching,10.7763/ijcte.2012.v4.462,"['Mustafa Abdul Sahib Naser', ""Nur'Aini Abdul Rashid"", 'Mohammed Faiz Aboalmaaly']",3,['Quick-Skip Search Hybrid Algorithm for the Exact String Matching Problem'],2012.0,http://www.ijcte.org/show-41-447-1.html
+Fast Hybrid Algorithm,10.14569/ijacsa.2017.080615,"['Sinan Sameer', 'Nuraini bint', 'Mustafa Abdul', 'Nawaf Hazim']",4,['Fast Hybrid String Matching Algorithm based on the Quick-Skip and Tuned Boyer-Moore Algorithms'],2017.0,http://thesai.org/Publications/ViewPaper?Volume=8&Issue=6&Code=ijacsa&SerialNo=15
+Backward Non-Deterministic DAWG Matching (BNDM),10.1007/BFb0030778,"['Gonzalo Navarro', 'Mathieu Raffinot']",2,['A bit-parallel approach to suffix automata: Fast extended string matching'],1998.0,http://link.springer.com/10.1007/BFb0030778
+Commentz-Walter Algorithm,10.1007/3-540-09510-1_10,['Beate Commentz-Walter'],1,['A string matching algorithm fast on the average'],1979.0,http://link.springer.com/10.1007/3-540-09510-1_10
+Aho‚ÄìCorasick (AC) Algorithm,10.1145/360825.360855,"['Alfred V. Aho', 'Margaret J. Corasick']",2,['Efficient string matching'],1975.0,https://dl.acm.org/doi/10.1145/360825.360855
+Boyer-Moore-Horspool (BMH),10.1002/spe.4380100608,['R. Nigel Horspool'],1,['Practical fast searching in strings'],1980.0,https://onlinelibrary.wiley.com/doi/10.1002/spe.4380100608
+Raita Algorithm,10.1002/spe.4380221006,['Timo Raita'],1,['Tuning the boyer-moore-horspool string searching algorithm'],1992.0,https://onlinelibrary.wiley.com/doi/10.1002/spe.4380221006
+BOM (Backward Oracle Matching),10.1007/3-540-47849-3_18,"['Cyril Allauzen', 'Maxime Crochemore', 'Mathieu Raffinot']",3,['Factor Oracle: A New Structure for Pattern Matching'],1999.0,http://link.springer.com/10.1007/3-540-47849-3_18
+Apostolico‚ÄìGiancarlo Algorithm,,[],0,,,
+Gapped BLAST,10.1093/nar/25.17.3389,['S. Altschul'],1,['Gapped BLAST and PSI-BLAST: a new generation of protein database search programs'],1997.0,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/25.17.3389
+Basic Local Alignment Search Tool (BLAST),10.1016/S0022-2836(05)80360-2,"['Stephen F. Altschul', 'Warren Gish', 'Webb Miller', 'Eugene W. Myers', 'David J. Lipman']",5,['Basic local alignment search tool'],1990.0,https://linkinghub.elsevier.com/retrieve/pii/S0022283605803602
+Ford‚ÄìFulkerson algorithm,10.4153/CJM-1956-045-5,"['L. R. Ford', 'D. R. Fulkerson']",2,['Maximal Flow Through a Network'],1956.0,https://www.cambridge.org/core/product/identifier/S0008414X00036890/type/journal_article
+Hopcroft‚ÄìKarp algorithm,10.1137/0202019,"['John E. Hopcroft', 'Richard M. Karp']",2,['An $n^{5/2} $ Algorithm for Maximum Matchings in Bipartite Graphs'],1973.0,http://epubs.siam.org/doi/10.1137/0202019
+Mucha; Sankowski (planar),10.1007/s00453-005-1187-5,"['Marcin Mucha', 'Piotr Sankowski']",2,['Maximum matchings in planar graphs via gaussian elimination'],2006.0,http://link.springer.com/10.1007/s00453-005-1187-5
+Madry's algorithm,10.48550/arXiv.1307.2205,[],0,,,
+Chandran and Hochbaum,10.48550/arXiv.1105.1569,[],0,,,
+Blum,10.1007/bfb0032060,['Norbert Blum'],1,['A new approach to maximum matching in general graphs'],2005.0,http://link.springer.com/10.1007/BFb0032060
+Gabow; Tarjan,10.1145/115234.115366,"['Harold N. Gabow', 'Robert E. Tarjan']",2,['Faster scaling algorithms for general graph matching problems'],1991.0,https://dl.acm.org/doi/10.1145/115234.115366
+"Mucha, Sankowski (general)",10.1109/FOCS.2004.40,"['M. Mucha', 'P. Sankowski']",2,['Maximum Matchings via Gaussian Elimination'],2004.0,http://ieeexplore.ieee.org/document/1366244/
+Klein (section 5),10.1145/2213977,[],0,,,
+Diffie‚ÄìHellman key exchange,10.1109/TIT.1976.1055638,"['W. Diffie', 'M. Hellman']",2,['New directions in cryptography'],1976.0,http://ieeexplore.ieee.org/document/1055638/
+Elliptic-curve Diffie-Hellman (ECDH),10.6028/NIST.SP.800-56Ar,"['E B Barker', 'D Johnson', 'M E Smid']",3,['Recommendation for pair-wise key establishment schemes using discrete logarithm cryptography'],2007.0,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-56ar.pdf
+Peterson's algorithm,10.1145/945526.945527,['K. Alagarsamy'],1,['Some myths about famous mutual exclusion algorithms'],2003.0,https://dl.acm.org/doi/10.1145/945526.945527
+Naimi-Trehel's algorithm,10.1006/jpdc.1996.0041,"['Mohamed Naimi', 'Michel Trehel', 'André Arnold']",3,['A Log (N) Distributed Mutual Exclusion Algorithm Based on Path Reversal'],1996.0,https://linkinghub.elsevier.com/retrieve/pii/S0743731596900416
+Chan-Singhal-Liu,10.1109/PCCC.1991.113817,"['Y.-I. Chang', 'M. Singhal', 'M.T. Liu']",3,['A dynamic token-based distributed mutual exclusion algorithm'],2002.0,http://ieeexplore.ieee.org/document/113817/
+"Spielman, Teng",10.1145/1007352.1007372,"['Daniel A. Spielman', 'Shang-Hua Teng']",2,"['Nearly-linear time algorithms for graph partitioning, graph sparsification, and solving linear systems']",2004.0,https://dl.acm.org/doi/10.1145/1007352.1007372
+Gremban; Miller; Zagha,10.1109/ipps.1995.395915,"['K.D. Gremban', 'G.L. Miller', 'M. Zagha']",3,['Performance evaluation of a new parallel preconditioner'],2002.0,http://ieeexplore.ieee.org/document/395915/
+Bern; Gilbert;  Hendrickson,,[],0,,,
+Boman; Hendrickson,10.1137/S0895479801390637,"['Erik G. Boman', 'Bruce Hendrickson']",2,['Support Theory for Preconditioning'],2003.0,http://epubs.siam.org/doi/10.1137/S0895479801390637
+Boman; Chen; Hendrickson; Toledo,10.1002/nla.343,"['Erik G. Boman', 'Doron Chen', 'Bruce Hendrickson', 'Sivan Toledo']",4,['Maximum-weight-basis preconditioners'],2004.0,https://onlinelibrary.wiley.com/doi/10.1002/nla.343
+Koutis; Miller and Peng,10.48550/arXiv.1102.4842,[],0,,,
+Koutis; Miller and Peng,10.48550/arXiv.1003.2958,[],0,,,
+Blelloch; Koutis;  Miller; Tangwongsan,10.1109/SC.2010.29,"['Guy E. Blelloch', 'Ioannis Koutis', 'Gary L. Miller', 'Kanat Tangwongsan']",4,['Hierarchical Diagonal Blocking and Precision Reduction Applied to Combinatorial Multigrid'],2010.0,http://ieeexplore.ieee.org/document/5644892/
+Briggs; Henson; McCormick,10.1137/1.9780898719505,"['William L. Briggs', 'Van Emden Henson', 'Steve F. McCormick']",3,"['A Multigrid Tutorial, Second Edition']",2000.0,http://epubs.siam.org/doi/book/10.1137/1.9780898719505
+Kelner; Orecchia; Sidford; Zhu,10.48550/arXiv.1301.6628,[],0,,,
+Lee; Peng; Spielman,10.48550/arXiv.1506.08204,[],0,,,
+Daitch; Spielman,10.48550/arXiv.cs/0703119,[],0,,,
+Floyd's tortoise and hare algorithm,10.1145/321420.321422,['Robert W. Floyd'],1,['Nondeterministic Algorithms'],1967.0,https://dl.acm.org/doi/10.1145/321420.321422
+Brent's algorithm,,[],0,,,
+Gosper's algorithm,,[],0,,,
+Fisher‚ÄìYates/Knuth shuffle,,[],0,,,
+Durstenfeld's Algorithm 235,10.1145/364520.364540,['Richard Durstenfeld'],1,['Algorithm 235: Random permutation'],1964.0,https://dl.acm.org/doi/10.1145/364520.364540
+Sattolo's algorithm,10.1016/0020-0190(86)90073-6,['Sandra Sattolo'],1,['An algorithm to generate a random cyclic permutation'],1986.0,https://linkinghub.elsevier.com/retrieve/pii/0020019086900736
+Gomory's cutting method,10.1287/opre.9.6.849,"['P. C. Gilmore', 'R. E. Gomory']",2,['A Linear Programming Approach to the Cutting-Stock Problem'],1961.0,https://pubsonline.informs.org/doi/10.1287/opre.9.6.849
+Wolfe; Lemar√©chal; Kiwiel,10.1007/bfb0120703,['Philip Wolfe'],1,['A method of conjugate subgradients for minimizing nondifferentiable functions'],1975.0,http://link.springer.com/10.1007/BFb0120703
+Ellipsoid method,10.1016/0041-5553(80)90061-0,['L.G. Khachiyan'],1,['Polynomial algorithms in linear programming'],1980.0,https://linkinghub.elsevier.com/retrieve/pii/0041555380900610
+Subgradient method,10.1007/978-3-642-82118-9,['Naum Zuselevich Shor'],1,['Minimization Methods for Non-Differentiable Functions'],1985.0,http://link.springer.com/10.1007/978-3-642-82118-9
+Buchberger's algorithm,10.1145/1088216.1088219,['B. Buchberger'],1,['A theoretical basis for the reduction of polynomials to canonical forms'],1976.0,https://dl.acm.org/doi/10.1145/1088216.1088219
+Faug√®re F4 algorithm,,[],0,,,
+Faug√®re F5 algorithm,10.1145/780506.780516,['Jean Charles Faugère'],1,['A new efficient algorithm for computing Gröbner bases without reduction to zero (\n            <i>F</i>\n            <sub>5</sub>\n            )'],2002.0,https://dl.acm.org/doi/10.1145/780506.780516
+SMAWK algorithm,10.1007/BF01840359,"['Alok Aggarwal', 'Maria M. Klawe', 'Shlomo Moran', 'Peter Shor', 'Robert Wilber']",5,['Geometric applications of a matrix-searching algorithm'],1987.0,http://link.springer.com/10.1007/BF01840359
+Steinhaus‚ÄìJohnson‚ÄìTrotter algorithm,10.2307/2004229,[],0,,,
+Tompkins‚ÄìPaige algorithm,,[],0,,,
+Heap's algorithm,10.1093/comjnl/6.3.293,['B. R. Heap'],1,['Permutations by Interchanges'],1963.0,https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/6.3.293
+Garsia‚ÄìWachs algorithm,10.1137/0206045,"['Adriano M. Garsia', 'Michelle L. Wachs']",2,['A New Algorithm for Minimum Cost Binary Trees'],1977.0,http://epubs.siam.org/doi/10.1137/0206045
+Hu‚ÄìTucker algorithm,10.1137/0121057,"['T. C. Hu', 'A. C. Tucker']",2,['Optimal Computer Search Trees and Variable-Length Alphabetical Codes'],1971.0,http://epubs.siam.org/doi/10.1137/0121057
+Modified Knuth's DP algorithm,,[],0,,,
+Knuth's DP algorithm,,[],0,,,
+Naive algorithm,,[],0,,,
+Yao,10.1137/0603055,['F. Frances Yao'],1,['Speed-Up in Dynamic Programming'],1982.0,https://epubs.siam.org/doi/10.1137/0603055
+Levcopoulos; Lingas; Sack,10.1016/0304-3975(89)90134-5,"['Christos Levcopoulos', 'Andrzej Lingas', 'Jörg-R. Sack']",3,['Heuristics for optimum binary search trees and minimum weight triangulation problems'],1989.0,https://linkinghub.elsevier.com/retrieve/pii/0304397589901345
+de Prisco,10.1016/0020-0190(93)90212-R,"['Roberto De Prisco', 'Alfredo De Santis']",2,['On binary search trees'],1993.0,https://linkinghub.elsevier.com/retrieve/pii/002001909390212R
+Lemke‚ÄìHowson algorithm,10.1137/0112033,"['C. E. Lemke', 'J. T. Howson, Jr.']",2,['Equilibrium Points of Bimatrix Games'],1964.0,http://epubs.siam.org/doi/10.1137/0112033
+Lipton; Mehta,10.1145/779928.779933,"['Richard J. Lipton', 'Evangelos Markakis', 'Aranyak Mehta']",3,['Playing large games using simple strategies'],2003.0,https://dl.acm.org/doi/10.1145/779928.779933
+Hungarian algorithm,10.1002/nav.3800020109,['H. W. Kuhn'],1,['The Hungarian method for the assignment problem'],1955.0,https://onlinelibrary.wiley.com/doi/10.1002/nav.3800020109
+Edmonds,10.1016/0095-8956(83)90011-4,['A Schrijver'],1,['Short proofs on the matching polyhedron'],1983.0,https://linkinghub.elsevier.com/retrieve/pii/0095895683900114
+Micali; Vazirani,10.1109/SFCS.1980.12,"['Silvio Micali', 'Vijay V. Vazirani']",2,['An O(v|v| c |E|) algoithm for finding maximum matching in general graphs'],1980.0,https://ieeexplore.ieee.org/document/4567800/
+Mucha and Sankowski,10.1109/FOCS.2004.40,"['M. Mucha', 'P. Sankowski']",2,['Maximum Matchings via Gaussian Elimination'],2004.0,http://ieeexplore.ieee.org/document/1366244/
+Fleury's algorithm + Tarjan,10.1016/0020-0190(74)90003-9,['R.Endre Tarjan'],1,['A note on finding the bridges of a graph'],1974.0,https://linkinghub.elsevier.com/retrieve/pii/0020019074900039
+Fleury's algorithm + Thorup,10.1145/335305.335345,['Mikkel Thorup'],1,['Near-optimal fully-dynamic graph connectivity'],2000.0,https://dl.acm.org/doi/10.1145/335305.335345
+Cooley‚ÄìTukey algorithm,10.1007/978-1-4612-0667-5,"['Samuel Kotz', 'Norman L. Johnson']",2,['Breakthroughs in Statistics'],2011.0,http://link.springer.com/10.1007/978-1-4612-0667-5
+Rader‚ÄìBrenner algorithm,10.1109/TASSP.1976.1162805,"['C. Rader', 'N. Brenner']",2,['A new principle for fast Fourier transformation'],1976.0,http://ieeexplore.ieee.org/document/1162805/
+Bruun's FFT algorithm,10.1109/TASSP.1978.1163036,['G. Bruun'],1,"[""z-transform DFT filters and FFT's""]",1978.0,http://ieeexplore.ieee.org/document/1163036/
+Yavne Split Radix FFT algorithm,,[],0,,,
+Gentleman; Morven and Gordon Sande radix-4 algorithm,,[],0,,,
+Bergland; Glenn radix-8 algorithm,10.1109/TAU.1969.1162043,['G. Bergland'],1,['A radix-eight fast Fourier transform subroutine for real-valued series'],1969.0,http://ieeexplore.ieee.org/document/1162043/
+Extended Split Radix FFT algorithm,10.1109/97.917698,['D. Takahashi'],1,['An extended split-radix FFT algorithm'],2001.0,http://ieeexplore.ieee.org/document/917698/
+Von zur Gathen-Gerhard additive FFT,10.1145/236869.236882,"['Joachim von zur Gathen', 'Jürgen Gerhard']",2,['Arithmetic and factorization of polynomial over <b>F</b><sub>2</sub> (extended abstract)'],1996.0,http://portal.acm.org/citation.cfm?doid=236869.236882
+Wang-Zhu-Cantor additive FFT,10.1109/49.1926,"['Y. Wang', 'X. Zhu']",2,['A fast algorithm for the Fourier transform over finite fields and its VLSI implementation'],1988.0,http://ieeexplore.ieee.org/document/1926/
+Gao‚Äôs additive FFT,10.1109/TIT.2010.2079016,"['Shuhong Gao', 'Todd Mateer']",2,['Additive Fast Fourier Transforms Over Finite Fields'],2010.0,http://ieeexplore.ieee.org/document/5625613/
+Bresenham's line algorithm,10.1147/sj.41.0025,['J. E. Bresenham'],1,['Algorithm for computer control of a digital plotter'],1965.0,http://ieeexplore.ieee.org/document/5388473/
+Xiaolin Wu's line algorithm,,[],0,,,
+Gupta-Sproull algorithm,,[],0,,,
+Greiner‚ÄìHormann clipping algorithm,,[],0,,,
+Sutherland‚ÄìHodgman algorithm,10.1145/360767.360802,"['Ivan E. Sutherland', 'Gary W. Hodgman']",2,['Reentrant polygon clipping'],1974.0,https://dl.acm.org/doi/10.1145/360767.360802
+Vatti clipping algorithm,10.1145/129902.129906,['Bala R. Vatti'],1,['A generic solution to polygon clipping'],1992.0,https://dl.acm.org/doi/10.1145/129902.129906
+Weiler‚ÄìAtherton clipping algorithm,10.1145/965141.563896,"['Kevin Weiler', 'Peter Atherton']",2,['Hidden surface removal using polygon area sorting'],1977.0,https://dl.acm.org/doi/10.1145/965141.563896
+Inverse iteration,10.1002/zamm.19210010104,['E. Pohlhausen'],1,['Berechnung der Eigenschwingungen statisch-bestimmter Fachwerke'],1921.0,https://onlinelibrary.wiley.com/doi/10.1002/zamm.19210010104
+QR algorithm,10.1093/comjnl/4.4.332,['J. G. F. Francis'],1,['The QR Transformation--Part 2'],1962.0,https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/4.4.332
+Jacobi eigenvalue algorithm,,[],0,,,
+Divide-and-conquer,10.1007/bf01389480,"['A. S. Krishnakumar', 'Martin Morf']",2,['Eigenvalues of a symmetric tridiagonal matrix: A divide-and-conquer approach'],1986.0,http://link.springer.com/10.1007/BF01389480
+Homotopy method,10.4236/gep.2017.57002,"['Yuliang Rong', 'Xia Zhang', 'Qianshan He']",3,['Study and Analysis of Meteorological Effect on Shanghai Sheshan National Tourist Resorts in Shanghai'],2017.0,http://www.scirp.org/journal/doi.aspx?DOI=10.4236/gep.2017.57002
+Folded spectrum method,10.1103/PhysRev.46.828,['J. K. L. MacDonald'],1,['On the Modified Ritz Variation Method'],1934.0,https://link.aps.org/doi/10.1103/PhysRev.46.828
+MRRR algorithm,10.1145/1186785.1186788,"['Inderjit S. Dhillon', 'Beresford N. Parlett', 'Christof Vömel']",3,['The design and implementation of the MRRR algorithm'],2006.0,https://dl.acm.org/doi/10.1145/1186785.1186788
+Ridder's method,10.1109/TCS.1979.1084580,['C. Ridders'],1,['A new algorithm for computing a single root of a real continuous function'],1979.0,http://ieeexplore.ieee.org/document/1084580/
+Muller's method,,[],0,,,
+Todd‚ÄìCoxeter algorithm,10.1017/S0013091500008221,"['J. A. Todd', 'H. S. M. Coxeter']",2,['A practical method for enumerating cosets of a finite abstract group'],1936.0,https://www.cambridge.org/core/product/identifier/S0013091500008221/type/journal_article
+Knuth‚ÄìBendix algorithm,10.1016/b978-0-08-012975-4.50028-x,"['DONALD E. KNUTH', 'PETER B. BENDIX']",2,['Simple Word Problems in Universal Algebras††The work reported in this paper was supported in part by the U.S. Office of Naval Research.'],1970.0,https://linkinghub.elsevier.com/retrieve/pii/B978008012975450028X
+Expectation‚Äìmaximization (EM) algorithm,,[],0,,,
+Parameter-expanded expectation maximization (PX-EM) algorithm,,[],0,,,
+Expectation conditional maximization (ECM),10.48550/arXiv.1709.06970,[],0,,,
+Generalized expectation maximization (GEM) algorithm,10.1109/78.324732,"['J.A. Fessler', 'A.O. Hero']",2,['Space-alternating generalized expectation-maximization algorithm'],1994.0,http://ieeexplore.ieee.org/document/324732/
+Œ±-EM algorithm,10.1109/TIT.2002.808105,['Y. Matsuyama'],1,['The α-EM algorithm: surrogate likelihood maximization using α-logarithmic information measures'],2003.0,http://ieeexplore.ieee.org/document/1184145/
+Flajolet‚ÄìMartin algorithm,10.1109/infocom.2015.7218646,"['Gil Einziger', 'Benny Fellman', 'Yaron Kassner']",3,['Independent counter estimation buckets'],2015.0,http://ieeexplore.ieee.org/document/7218646/
+LogLog algorithm,10.1007/b13632,"['Giuseppe Di Battista', 'Uri Zwick']",2,['Algorithms - ESA 2003'],2010.0,http://link.springer.com/10.1007/b13632
+HyperLogLog algorithm,10.46298/dmtcs.3545,"['Philippe Flajolet', 'Éric Fusy', 'Olivier Gandouet', 'Frédéric Meunier']",4,['HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm'],2007.0,https://dmtcs.episciences.org/3545
+HyperLogLog++,10.1145/2452376.2452456,"['Stefan Heule', 'Marc Nunkesser', 'Alexander Hall']",3,['HyperLogLog in practice'],2013.0,https://dl.acm.org/doi/10.1145/2452376.2452456
+Chaitin's Algorithm,10.1145/872726.806984,['G. J. Chaitin'],1,['Register allocation &amp; spilling via graph coloring'],1982.0,https://dl.acm.org/doi/10.1145/872726.806984
+Chow's Algorithm,10.1145/502874.502896,"['Frederick Chow', 'John Hennessy']",2,['Register allocation by priority-based coloring'],1984.0,http://portal.acm.org/citation.cfm?doid=502874.502896
+"Linear Scan, Poletto & Sarkar",10.1145/330249.330250,"['Massimiliano Poletto', 'Vivek Sarkar']",2,['Linear scan register allocation'],1999.0,https://dl.acm.org/doi/10.1145/330249.330250
+"Optimal Register Allocation (ORA), Goodwin & Wilken Algorithm",10.1002/(SICI)1097-024X(199608)26:8%3C929::AID-SPE40%3E3.0.CO;2-T,"['DAVID W. GOODWIN', 'KENT D. WILKEN']",2,['Optimal and Near-optimal Global Register Allocation Using 0-1 Integer Programming'],1996.0,https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-024X(199608)26:8<929::AID-SPE40>3.0.CO;2-T
+Kong and Wilken Algorithm,,[],0,,,
+Fortune's algorithm,10.1007/bf01840357,['Steven Fortune'],1,['A sweepline algorithm for Voronoi diagrams'],1987.0,http://link.springer.com/10.1007/BF01840357
+Linde‚ÄìBuzo‚ÄìGray algorithm,10.1109/TCOM.1980.1094577,"['Y. Linde', 'A. Buzo', 'R. Gray']",3,['An Algorithm for Vector Quantizer Design'],1980.0,https://ieeexplore.ieee.org/document/1094577/
+Bowyer‚ÄìWatson algorithm,10.1093/comjnl/24.2.167,['D. F. Watson'],1,['Computing the n-dimensional Delaunay tessellation with application to Voronoi polytopes'],1981.0,https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/24.2.167
+Welford's Online algorithm,,[],0,,,
+Weighted incremental algorithm,10.1145/359146.359153,['D. H. D. West'],1,['Updating mean and variance estimates'],1979.0,https://dl.acm.org/doi/10.1145/359146.359153
+Chan's algorithm Parallel Implementation,10.1007/978-3-642-51461-6_3,"['T. F. Chan', 'G. H. Golub', 'R. J. LeVeque']",3,['Updating Formulae and a Pairwise Algorithm for Computing Sample Variances'],1982.0,http://link.springer.com/10.1007/978-3-642-51461-6_3
+Kahn's algorithm,10.1145/368996.369025,['A. B. Kahn'],1,['Topological sorting of large networks'],1962.0,https://dl.acm.org/doi/10.1145/368996.369025
+Tarjan's DFS based algorithm,10.1007/BF00268499,['Robert Endre Tarjan'],1,['Edge-disjoint spanning trees and depth-first search'],1976.0,http://link.springer.com/10.1007/BF00268499
+Dekel; Nassimi & Sahni Parallel Implementation,,[],0,,,
+Hopcroft's algorithm,,[],0,,,
+Moore's algorithm,10.2307/2964500,['Alonzo Church'],1,"['Edward F. Moore. Gedanken-experiments on sequential machines. Automata studies, edited by C. E. Shannon and J. McCarthy, Annals of Mathematics studies no. 34, litho-printed, Princeton University Press, Princeton1956, pp. 129–153.']",1958.0,https://www.cambridge.org/core/product/identifier/S0022481200059491/type/journal_article
+Brzozowski's algorithm,,[],0,,,
+Revuz's algorithm,10.1016/0304-3975(92)90142-3,['Dominique Revuz'],1,['Minimisation of acyclic deterministic automata in linear time'],1992.0,https://linkinghub.elsevier.com/retrieve/pii/0304397592901423
+Almeida & Zeitoun,10.1016/j.ipl.2008.01.003,"['Jorge Almeida', 'Marc Zeitoun']",2,['Description and analysis of a bottom-up DFA minimization algorithm'],2008.0,https://linkinghub.elsevier.com/retrieve/pii/S0020019008000112
+Tarjan's off-line lowest common ancestors algorithm,10.1137/0213024,"['Dov Harel', 'Robert Endre Tarjan']",2,['Fast Algorithms for Finding Nearest Common Ancestors'],1984.0,http://epubs.siam.org/doi/10.1137/0213024
+Schieber; Vishkin,10.1137/0217079,"['Baruch Schieber', 'Uzi Vishkin']",2,['On Finding Lowest Common Ancestors: Simplification and Parallelization'],1988.0,http://epubs.siam.org/doi/10.1137/0217079
+Berkman; Vishkin,,[],0,,,
+Bender; Colton [LCA <=> RMQ],10.1007/10719839,"['Gaston H. Gonnet', 'Alfredo Viola']",2,['LATIN 2000: Theoretical Informatics'],2007.0,http://link.springer.com/10.1007/10719839
+"Stephen Alstrup, Cyril Gavoille, Haim Kaplan & Theis Rauhe",10.1007/s00224-004-1155-5,"['Stephen Alstrup', 'Cyril Gavoille', 'Haim Kaplan', 'Theis Rauhe']",4,['Nearest Common Ancestors: A Survey and a New Algorithm for a Distributed Environment'],2004.0,http://link.springer.com/10.1007/s00224-004-1155-5
+X Chen,10.1016/j.knosys.2018.10.002,"['Xiaoyang Chen', 'Hongwei Huo', 'Jun Huan', 'Jeffrey Scott Vitter']",4,['An efficient algorithm for graph edit distance computation'],2019.0,https://linkinghub.elsevier.com/retrieve/pii/S095070511830488X
+Y Bai,,[],0,,,
+L Chang,10.48550/arXiv.1709.06810,[],0,,,
+K Riesen,10.1007/978-3-642-38221-5_15,"['Kaspar Riesen', 'Sandro Emmenegger', 'Horst Bunke']",3,['A Novel Software Toolkit for Graph Edit Distance Computation'],2013.0,http://link.springer.com/10.1007/978-3-642-38221-5_15
+Alberto Sanfeliu and King-Sun Fu,10.1109/TSMC.1983.6313167,"['Alberto Sanfeliu', 'King-Sun Fu']",2,['A distance measure between attributed relational graphs for pattern recognition'],1983.0,http://ieeexplore.ieee.org/document/6313167/
+"Neuhaus, Riesen, Bunke",10.1007/11815921_17,"['Michel Neuhaus', 'Kaspar Riesen', 'Horst Bunke']",3,['Fast Suboptimal Algorithms for the Computation of Graph Edit Distance'],2006.0,http://link.springer.com/10.1007/11815921_17
+Wang Y-K; Fan K-C; Horng J-T,10.1109/3477.604100,"['Yuan-Kai Wang', 'Kuo-Chin Fan', 'Jorng-Tzong Horng']",3,['Genetic-based search for error-correcting graph isomorphism'],1997.0,https://ieeexplore.ieee.org/document/604100/
+Tao D; Tang X; Li X et al,10.1109/tpami.2006.134,"['Dacheng Tao', 'Xiaoou Tang', 'Xuelong Li', 'Xindong Wu']",4,['Asymmetric bagging and random subspace for support vector machines-based relevance feedback in image retrieval'],2006.0,http://ieeexplore.ieee.org/document/1634340/
+Finch,10.1162/089976698300017188,"['Andrew M. Finch', 'Richard C. Wilson', 'Edwin R. Hancock']",3,['An Energy Function and Continuous Edit Process for Graph Matching'],1998.0,https://direct.mit.edu/neco/article/10/7/1873-1894/6225
+Bron‚ÄìKerbosch algorithm,10.1145/362342.362367,"['Coen Bron', 'Joep Kerbosch']",2,['Algorithm 457: finding all cliques of an undirected graph'],1973.0,https://dl.acm.org/doi/10.1145/362342.362367
+Akkoyunlu; E. A.,10.1137/0202001,['E. A. Akkoyunlu'],1,['The Enumeration of Maximal Cliques of Large Graphs'],1973.0,http://epubs.siam.org/doi/10.1137/0202001
+Tomita; Tanaka & Takahashi,,[],0,,,
+Segundo; Artieda;  Strash Parallel,10.1016/j.cor.2017.12.006,"['Pablo San Segundo', 'Jorge Artieda', 'Darren Strash']",3,['Efficiently enumerating all maximal cliques with bit-parallelism'],2018.0,https://linkinghub.elsevier.com/retrieve/pii/S0305054817302988
+"David Eppstein, Maarten L√∂ffler, Darren Strash",10.48550/arXiv.1006.5440,[],0,,,
+Chiba and Nishizeki,,[],0,,,
+M. Chrobak and D. Eppstein,10.1016/0304-3975(91)90020-3,"['Marek Chrobak', 'David Eppstein']",2,['Planar orientations with low out-degree and compaction of adjacency matrices'],1991.0,https://linkinghub.elsevier.com/retrieve/pii/0304397591900203
+"Shuji Tsukiyama, Mikio Ide, Hiromu Ariyoshi, and Isao Shirakawa",,[],0,,,
+"Kazuhisa Makino, Takeaki Uno; Section 5",10.1007/978-3-540-27810-8_23,"['Kazuhisa Makino', 'Takeaki Uno']",2,['New Algorithms for Enumerating All Maximal Cliques'],2004.0,http://link.springer.com/10.1007/978-3-540-27810-8_23
+Held‚ÄìKarp algorithm,,[],0,,,
+Christofides algorithm,,[],0,,,
+Lawler; E. L.,10.1002/net.3230180309,"['R. Johnson', 'M. G. Pilcher']",2,"['The traveling salesman problem, edited by E.L. Lawler, J.K. Lenstra, A.H.G. Rinnooy Kan, and D.B Shmoys, John Wiley &amp; Sons, Chichester, 1985, 463 pp']",1988.0,https://onlinelibrary.wiley.com/doi/10.1002/net.3230180309
+TSPLIB,10.1287/ijoc.3.4.376,['Gerhard Reinelt'],1,['TSPLIB—A Traveling Salesman Problem Library'],1991.0,https://pubsonline.informs.org/doi/10.1287/ijoc.3.4.376
+9-point Tensor product,10.1137/0113067,"['Robert E. Lynch', 'John R. Rice', 'Donald H. Thomas']",3,['Tensor Product Analysis of Alternating Direction Implicit Methods'],1965.0,http://epubs.siam.org/doi/10.1137/0113067
+9-point Tensor product,10.1137/0113067,"['Robert E. Lynch', 'John R. Rice', 'Donald H. Thomas']",3,['Tensor Product Analysis of Alternating Direction Implicit Methods'],1965.0,http://epubs.siam.org/doi/10.1137/0113067
+Flipping algorithm,10.1007/PL00009464,"['F. Hurtado', 'M. Noy', 'J. Urrutia']",3,['Flipping Edges in Triangulations'],1999.0,http://link.springer.com/10.1007/PL00009464
+de Berg; Cheong,10.1145/2935764.2935766,"['Guy E. Blelloch', 'Yan Gu', 'Julian Shun', 'Yihan Sun']",4,['Parallelism in Randomized Incremental Algorithms'],2016.0,https://dl.acm.org/doi/10.1145/2935764.2935766
+Bowyer‚ÄìWatson algorithm,10.1093/comjnl/24.2.167,['D. F. Watson'],1,['Computing the n-dimensional Delaunay tessellation with application to Voronoi polytopes'],1981.0,https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/24.2.167
+Belloch,10.1145/2935764.2935766,"['Guy E. Blelloch', 'Yan Gu', 'Julian Shun', 'Yihan Sun']",4,['Parallelism in Randomized Incremental Algorithms'],2016.0,https://dl.acm.org/doi/10.1145/2935764.2935766
+Guibas; Stofli,,[],0,,,
+Fortune,10.1145/142675.142695,['Steven Fortune'],1,['Numerical stability of algorithms for 2D Delaunay triangulations'],1992.0,http://portal.acm.org/citation.cfm?doid=142675.142695
+S-hull (Sinclair),10.48550/arxiv.1604.01428,[],0,,,
+Dwyer,10.1007/BF01840356,['Rex A. Dwyer'],1,['A faster divide-and-conquer algorithm for constructing delaunay triangulations'],1987.0,http://link.springer.com/10.1007/BF01840356
+Katajainen and M. Koppinen,10.1109/TSMC.1983.6313167,"['Alberto Sanfeliu', 'King-Sun Fu']",2,['A distance measure between attributed relational graphs for pattern recognition'],1983.0,http://ieeexplore.ieee.org/document/6313167/
+Drysdale; Su,10.1016/s0925-7721(96)00025-9,"['Peter Su', 'Robert L. Scot Drysdale']",2,['A comparison of sequential Delaunay triangulation algorithms'],1997.0,https://linkinghub.elsevier.com/retrieve/pii/S0925772196000259
+Dwyer (higher dimensions),10.1007/BF02574694,['Rex A. Dwyer'],1,['Higher-dimensional voronoi diagrams in linear expected time'],1991.0,http://link.springer.com/10.1007/BF02574694
+"de Bruijn Graph (Idury, Waterman)",10.1089/cmb.1995.2.291,"['RAMANA M. IDURY', 'MICHAEL S. WATERMAN']",2,['A New Algorithm for DNA Sequence Assembly'],1995.0,http://www.liebertpub.com/doi/10.1089/cmb.1995.2.291
+String Graph (Myers),10.1089/cmb.1995.2.275,['EUGENE W. MYERS'],1,['Toward Simplifying and Accurately Formulating Fragment Assembly'],1995.0,http://www.liebertpub.com/doi/10.1089/cmb.1995.2.275
+"String Graph with Ferragina‚ÄìManzini Index (Simpson, Durbin)",10.1093/bioinformatics/btq217,"['Jared T. Simpson', 'Richard Durbin']",2,['Efficient construction of an assembly string graph using the FM-index'],2010.0,https://academic.oup.com/bioinformatics/article/26/12/i367/286190
+Brute force algorithm,10.1016/0166-218X(92)90031-5,"['Heikki Mannila', 'Kari-Jouko Räihä']",2,['On the complexity of inferring functional dependencies'],1992.0,https://linkinghub.elsevier.com/retrieve/pii/0166218X92900315
+Schlimmer,,[],0,,,
+Liu,10.1016/0950-5849(92)90028-N,['W.-Y. Liu'],1,['Method to determine existence of perfect BCNF decomposition'],1992.0,https://linkinghub.elsevier.com/retrieve/pii/095058499290028N
+R√§ih√§; Manilla,10.1016/0166-218X(92)90031-5,"['Heikki Mannila', 'Kari-Jouko Räihä']",2,['On the complexity of inferring functional dependencies'],1992.0,https://linkinghub.elsevier.com/retrieve/pii/0166218X92900315
+Catriel Beeri Ronald Fagin John H. Howard,10.1145/509404.509414,"['Catriel Beeri', 'Ronald Fagin', 'John H. Howard']",3,['A complete axiomatization for functional and multivalued dependencies in database relations'],1977.0,http://portal.acm.org/citation.cfm?doid=509404.509414
+Sam Buss,10.1007/bfb0020811,"['Jonathan F. Buss', 'Judy Goldsmith']",2,['Nondeterminism within P'],2005.0,http://link.springer.com/10.1007/BFb0020811
+Chen; I. Kanj; and W. Jia.,,[],0,,,
+Chandran and F. Grandoni,,[],0,,,
+Chen; I. Kanj; and W. Jia.,10.1016/j.tcs.2010.06.026,"['Jianer Chen', 'Iyad A. Kanj', 'Ge Xia']",3,['Improved upper bounds for vertex cover'],2010.0,https://linkinghub.elsevier.com/retrieve/pii/S0304397510003609
+J. Chen; L. Liu; and W. Jia.,10.1002/1097-0037(200007)35:4%3C253::AID-NET3%3E3.0.CO;2-K,"['Jianer Chen', 'Lihua Liu', 'Weijia Jia']",3,['Improvement on vertex cover for low-degree graphs'],2000.0,https://onlinelibrary.wiley.com/doi/10.1002/1097-0037(200007)35:4<253::AID-NET3>3.0.CO;2-K
+Balasubramanian; Fellows,,[],0,,,
+Papadimitriou and M Yannakakis,10.1006/jcss.1996.0058,"['Christos H. Papadimitriou', 'Mihalis Yannakakis']",2,['On Limited Nondeterminism and the Complexity of the V-C Dimension'],1996.0,https://linkinghub.elsevier.com/retrieve/pii/S0022000096900586
+"Niedermeier, Rossmanith",,[],0,,,
+Downey,,[],0,,,
+Cocke‚ÄìYounger‚ÄìKasami algorithm,,[],0,,,
+Valiant,,[],0,,,
+Earley parser,10.1145/362007.362035,['Jay Earley'],1,['An efficient context-free parsing algorithm'],1970.0,https://dl.acm.org/doi/10.1145/362007.362035
+GLR parser,10.1007%2F978-3-662-21545-6_18,['Bernard Lang'],1,['Deterministic Techniques for Efficient Non-Deterministic Parsers'],1974.0,http://link.springer.com/10.1007/978-3-662-21545-6_18
+A-Priori algorithm,,[],0,,,
+The Algorithm of Park; Chen; and Yu (PCY),10.1145/568271.223813,"['Jong Soo Park', 'Ming-Syan Chen', 'Philip S. Yu']",3,['An effective hash-based algorithm for mining association rules'],1995.0,https://dl.acm.org/doi/10.1145/568271.223813
+The Multistage Algorithm,,[],0,,,
+The Multihash Algorithm,,[],0,,,
+Gupta; Verdu,10.1109/TIT.2009.2016040,"['Ankit Gupta', 'Sergio Verdu']",2,['Nonlinear Sparse-Graph Codes for Lossy Compression'],2009.0,http://ieeexplore.ieee.org/document/4839023/
+Discrete Cosine Transform,10.1109%2FT-C.1974.223784,"['N. Ahmed', 'T. Natarajan', 'K.R. Rao']",3,['Discrete Cosine Transform'],1974.0,http://ieeexplore.ieee.org/document/1672377/
+Maneva and M. J. Wainwright,10.1109/ISIT.2005.1523592,"['M.J. Wainwright', 'E. Maneva']",2,['Lossy source encoding via message-passing and decimation over generalized codewords of LDGM codes'],2005.0,http://ieeexplore.ieee.org/document/1523592/
+Ciliberti; M√©zard,10.48550/arXiv.cond-mat/0504509,[],0,,,
+Matsunaga; Yamamoto,10.1109/TIT.2003.815805,"['Y. Matsunaga', 'H. Yamamoto']",2,['A coding theorem for lossy data compression by LDPC codes'],2003.0,http://ieeexplore.ieee.org/document/1226608/
+Sun; M. Shao; J. Chen; K. Wong; and X. Wu,10.1109/TCOMM.2010.06.090203,"['Zhibin Sun', 'Mingkai Shao', 'Jun Chen', 'Kon Wong', 'Xiaolin Wu']",5,['Achieving the rate-distortion bound with low-density generator matrix codes'],2010.0,http://ieeexplore.ieee.org/document/5474629/
+Miyake 2006,10.1109/ISIT.2006.261726,['Shigeki Miyake'],1,['Lossy Data Compression over Zq by LDPC Code'],2006.0,http://ieeexplore.ieee.org/document/4036076/
+Martinian and M. J. Wainwright,10.48550/arXiv.cs/0602046,[],0,,,
+Jalali and T. Weissman,10.1109/ciss.2008.4558567,"['Shirin Jalali', 'Tsachy Weissman']",2,['Near optimal lossy source coding and compression-based denoising via Markov chain Monte Carlo'],2008.0,https://ieeexplore.ieee.org/document/4558567/
+Jalali; A. Montanari; and T. Weissman,10.1109/tit.2010.2040889,"['Shirin Jalali', 'Sergio Verdu', 'Tsachy Weissman']",3,['A Universal Scheme for Wyner–Ziv Coding of Discrete Sources'],2010.0,http://ieeexplore.ieee.org/document/5437417/
+Korada and R. Urbanke;,10.48550/arXiv.0903.0307,[],0,,,
+Berlekamp's algorithm,10.1002/j.1538-7305.1967.tb03174.x,['E. R. Berlekamp'],1,['Factoring Polynomials Over Finite Fields'],1967.0,https://ieeexplore.ieee.org/document/6768643
+Cantor‚ÄìZassenhaus algorithm,10.2307/2004849,[],0,,,
+Victor Shoup's algorithm,10.1016/0020-0190(90)90195-4,['Victor Shoup'],1,['On the deterministic complexity of factoring polynomials over finite fields'],1990.0,https://linkinghub.elsevier.com/retrieve/pii/0020019090901954
+Berlekamp‚ÄìMassey algorithm,10.1109/TIT.1969.1054260,['J. Massey'],1,['Shift-register synthesis and BCH decoding'],1969.0,http://ieeexplore.ieee.org/document/1054260/
+Gale‚ÄìShapley algorithm,10.1073/pnas.39.10.1095,['L. S. Shapley'],1,['Stochastic Games'],1953.0,https://pnas.org/doi/full/10.1073/pnas.39.10.1095
+Irving's Algorithm,10.1016/0196-6774(85)90033-1,['Robert W Irving'],1,['An efficient algorithm for the “stable roommates” problem'],1985.0,https://linkinghub.elsevier.com/retrieve/pii/0196677485900331
+Manlove; Malley,10.1007/s10601-022-09335-y,"['Ágnes Cseh', 'Guillaume Escamocher', 'Begüm Genç', 'Luis Quesada']",4,['A collection of Constraint Programming models for the three-dimensional stable matching problem with cyclic preferences'],2022.0,https://link.springer.com/10.1007/s10601-022-09335-y
+Unsworth; C.; Prosser; P,10.48550/arxiv.1308.0183,[],0,,,
+Hentenryck et. al.,10.1016/0004-3702(92)90020-X,"['Pascal Van Hentenryck', 'Yves Deville', 'Choh-Man Teng']",3,['A generic arc-consistency algorithm and its specializations'],1992.0,https://linkinghub.elsevier.com/retrieve/pii/000437029290020X
+Gent; I.P.; Irving; R.W.; Manlove; D.F.; Prosser; P.; Smith; B.M.,10.1007/3-540-45578-7_16,"['Ian P. Gent', 'Robert W. Irving', 'David F. Manlove', 'Patrick Prosser', 'Barbara M. Smith']",5,['A Constraint Programming Approach to the Stable Marriage Problem'],2001.0,http://link.springer.com/10.1007/3-540-45578-7_16
+Patrick Posser,10.1007%2F978-3-319-07046-9_2,['Patrick Prosser'],1,['Stable Roommates and Constraint Programming'],2014.0,http://link.springer.com/10.1007/978-3-319-07046-9_2
+S. S. TSENG and R. C. T. LEE,10.1007/bf02136029,"['S. S. Tseng', 'R. C. T. Lee']",2,['A parallel algorithm to solve the stable marriage problem'],1984.0,http://link.springer.com/10.1007/BF02136029
+"Tomas Feder, Nimrod Megiddoy, Serge A Plotki",,[],0,,,
+Ioannidou; Kyriaki; Mertzios; George B.; Nikolopoulos; Stavros D.,10.1007/s00453-010-9411-3,"['Kyriaki Ioannidou', 'George B. Mertzios', 'Stavros D. Nikolopoulos']",3,['The Longest Path Problem has a Polynomial Solution on Interval Graphs'],2010.0,http://link.springer.com/10.1007/s00453-010-9411-3
+Weiner's algorithm,,[],0,,,
+Ukkonen,10.1007/bf01206331,['E. Ukkonen'],1,['On-line construction of suffix trees'],1995.0,http://link.springer.com/10.1007/BF01206331
+Ukkonen and D. Wood,10.1007/BF01769703,"['Esko Ukkonen', 'Derick Wood']",2,['Approximate string matching with suffix automata'],1993.0,http://link.springer.com/10.1007/BF01769703
+Hariharan,10.1006/jcss.1997.1496,['Ramesh Hariharan'],1,['Optimal Parallel Suffix Tree Construction'],1997.0,https://linkinghub.elsevier.com/retrieve/pii/S0022000097914963
+S√ºleyman Cenk Sahinalp ; Uzi Vishkin,10.1007/3-540-57811-0,"['M. Bonuccelli', 'P. Crescenzi', 'R. Petreschi']",3,['Algorithms and Complexity'],2012.0,http://link.springer.com/10.1007/3-540-57811-0
+Farach,10.1007/3-540-61440-0,"['Friedhelm Meyer', 'Burkhard Monien']",2,"['Automata, Languages and Programming']",2012.0,http://link.springer.com/10.1007/3-540-61440-0
+Rytter,,[],0,,,
+McCreight,,[],0,,,
+Fellegi & Sunter Model,,[],0,,,
+Gupta & Sarawagi CRF,10.14778/1687627.1687661,"['Rahul Gupta', 'Sunita Sarawagi']",2,['Answering table augmentation queries from unstructured lists on the web'],2009.0,https://dl.acm.org/doi/10.14778/1687627.1687661
+EM Based Winkler,,[],0,,,
+Ravikumar & Cohen Generative Models,10.48550/arXiv.1207.4180,[],0,,,
+Bellare Active Learning,10.1145/2339530.2339707,"['Kedar Bellare', 'Suresh Iyengar', 'Aditya G. Parameswaran', 'Vibhor Rastogi']",4,['Active sampling for entity matching'],2012.0,https://dl.acm.org/doi/10.1145/2339530.2339707
+Ananthakrishna,10.1016/B978-155860869-6/50058-5,"['Rohit Ananthakrishna', 'Surajit Chaudhuri', 'Venkatesh Ganti']",3,['Eliminating Fuzzy Duplicates in Data Warehouses'],2002.0,https://linkinghub.elsevier.com/retrieve/pii/B9781558608696500585
+BOYS algorithm,10.1016/0167-9473(93)90116-B,['Yasar Yesilcay'],1,['The BOYS algorithm for determining optimum matching rules'],1993.0,https://linkinghub.elsevier.com/retrieve/pii/016794739390116B
+Manacher,10.1145%2F321892.321896,['Glenn Manacher'],1,"[""A New Linear-Time ``On-Line'' Algorithm for Finding the Smallest Initial Palindrome of a String""]",1975.0,https://dl.acm.org/doi/10.1145/321892.321896
+Jeuring,10.1007%2FBF01182773,['Johan Jeuring'],1,"['The derivation of on-line algorithms, with an application to finding palindromes']",1994.0,http://link.springer.com/10.1007/BF01182773
+Gusfield,10.1007/BFb0030779,"['Michal Ziv-Ukelson', 'Aaron Kershenbaum']",2,['A dictionary matching algorithm fast on the average for terms of varying length'],1998.0,http://link.springer.com/10.1007/BFb0030779
+Demand-Driven Register Allocation,10.1145/236114.236117,"['Todd A. Proebsting', 'Charles N. Fischer']",2,['Demand-driven register allocation'],1996.0,https://dl.acm.org/doi/10.1145/236114.236117
+Sethi‚ÄìUllman Algorithm,10.1145/321607.321620,"['Ravi Sethi', 'J. D. Ullman']",2,['The Generation of Optimal Code for Arithmetic Expressions'],1970.0,https://dl.acm.org/doi/10.1145/321607.321620
+Babai and Luks,10.1145/800061.808746,"['László Babai', 'Eugene M. Luks']",2,['Canonical labeling of graphs'],1983.0,http://portal.acm.org/citation.cfm?doid=800061.808746
+Babai,10.1137/0209018,['László Babai'],1,['On the Complexity of Canonical Labeling of Strongly Regular Graphs'],1980.0,http://epubs.siam.org/doi/10.1137/0209018
+Spielman,,[],0,,,
+McKay,,[],0,,,
+Schmidt & Druffel,10.1145/321958.321963,"['Douglas C. Schmidt', 'Larry E. Druffel']",2,['A Fast Backtracking Algorithm to Test Directed Graphs for Isomorphism Using Distance Matrices'],1976.0,https://dl.acm.org/doi/10.1145/321958.321963
+Ullman,10.1145/321921.321925,['J. R. Ullmann'],1,['An Algorithm for Subgraph Isomorphism'],1976.0,https://dl.acm.org/doi/10.1145/321921.321925
+Babai,,[],0,,,
+Muzychuk,10.1112/S0024611503014412,['M. Muzychuk'],1,['A solution of the isomorphism problem for circulant graphs'],2004.0,http://doi.wiley.com/10.1112/S0024611503014412
+Bodlaender,10.1016/0196-6774(90)90013-5,['Hans L Bodlaender'],1,['Polynomial algorithms for graph isomorphism and chromatic index on partial k-trees'],1990.0,https://linkinghub.elsevier.com/retrieve/pii/0196677490900135
+Babai & Codenotti,10.1109/focs.2008.80,"['Laszlo Babai', 'Paolo Codenotti']",2,['Isomorhism of Hypergraphs of Low Rank in Moderately Exponential Time'],2008.0,http://ieeexplore.ieee.org/document/4690999/
+Kleitman‚ÄìWang Algorithm,,[],0,,,
+Fulkerson‚ÄìChen‚ÄìAnstee,10.4153/CJM-1982-029-3,['R. P. Anstee'],1,"['Properties of a Class of (0,1)-Matrices Covering a given Matrix']",1982.0,https://www.cambridge.org/core/product/identifier/S0008414X00032831/type/journal_article
+Berger & M√ºller-Hannemann,10.48550/arXiv.1203.3636,[],0,,,
+Sorted Neighborhood Algorithm (SNA),10.1023/A:1009761603038,"['Mauricio A. Hernández', 'Salvatore J. Stolfo']",2,[],1998.0,http://link.springer.com/10.1023/A:1009761603038
+Adaptive Duplicate Detection Algorithm (ADD),10.1145/956750.956759,"['Mikhail Bilenko', 'Raymond J. Mooney']",2,['Adaptive duplicate detection using learnable string similarity measures'],2003.0,https://dl.acm.org/doi/10.1145/956750.956759
+B.I. Kvasov,10.1134/S0965542508040039,['B. I. Kvasov'],1,['Construction of hyperbolic interpolation splines'],2008.0,http://link.springer.com/10.1134/S0965542508040039
+V. A. Lyul‚Äôka and A. V. Romanenko,10.1134/S0965542507010022,"['V. A. Lyul’ka', 'I. E. Mikhailov', 'B. N. Tyumnev']",3,['On the construction of interpolation mesh surfaces'],2007.0,http://link.springer.com/10.1134/S0965542507010022
+V. A. Lyul‚Äôka and I. E. Mikhailov,10.1134/S0965542507010022,"['V. A. Lyul’ka', 'I. E. Mikhailov', 'B. N. Tyumnev']",3,['On the construction of interpolation mesh surfaces'],2007.0,http://link.springer.com/10.1134/S0965542507010022
+"P. Costantini, B. I. Kvasov, and C. Manni",10.1023/A:1018988312596,"['Paolo Costantini', 'Boris I. Kvasov', 'Carla Manni']",3,[],1999.0,http://link.springer.com/10.1023/A:1018988312596
+B. I. Kvasov,10.1023/a:1011818621589,['Boris I. Kvasov'],1,[],2001.0,http://link.springer.com/10.1023/A:1011818621589
+ECK M.; DEROSE T.; DUCHAMP T.; 1995,10.1145/218380.218440,"['Matthias Eck', 'Tony DeRose', 'Tom Duchamp', 'Hugues Hoppe', 'Michael Lounsbery', 'Werner Stuetzle']",6,['Multiresolution analysis of arbitrary meshes'],1995.0,http://portal.acm.org/citation.cfm?doid=218380.218440
+FLOATER 1997,10.1016/j.advengsoft.2023.103478,"['Zhenbiao Guo', 'Hailiang Su', 'Xinqing Li', 'Yingjun Wang']",4,['Multi-resolution topology optimization using B-spline to represent the density field'],2023.0,https://linkinghub.elsevier.com/retrieve/pii/S0965997823000698
+PINKALL U.; POLTHIER K 1993,\�nh�7o���Q,[],0,,,
+FLOATER 2003,10.1090/s0025-5718-00-01273-4,"['Harald Niederreiter', 'Igor Shparlinski']",2,['On the distribution of inversive congruential pseudorandom numbers in parts of the period'],2000.0,https://www.ams.org/mcom/2001-70-236/S0025-5718-00-01273-4/
+LEE Y.; KIM H. S.; LEE S 2002,10.1016/S0097-8493(02)00123-1,"['Yunjin Lee', 'Hyoung Seok Kim', 'Seungyong Lee']",3,['Mesh parameterization with a virtual boundary'],2002.0,https://linkinghub.elsevier.com/retrieve/pii/S0097849302001231
+DESBRUN M.; MEYER M.; ALLIEZ P. 2002,10.1145/566654.566588,"['Pierre Alliez', 'Mark Meyer', 'Mathieu Desbrun']",3,['Interactive geometry remeshing'],2002.0,https://dl.acm.org/doi/10.1145/566654.566588
+L√âVY B.; PETITJEAN S.; RAY N.; MAILLOT J 2002,,[],0,,,
+KARNI Z.; GOTSMAN C.; GORTLER S. J. 2005,10.1109/smi.2005.22,"['Z. Kami', 'C. Gotsman', 'S.J. Gortler']",3,['Free-boundary linear parameterization of 3D meshes in the presence of constraints'],2006.0,http://ieeexplore.ieee.org/document/1563232/
+HORMANN K.; GREINER G 1999,,[],0,,,
+SHEFFER A.; DE STURLER E. 2000,10.1007/PL00013391,"['A. Sheffer', 'E. de Sturler']",2,['Parameterization of Faceted Surfaces for Meshing using Angle-Based Flattening'],2001.0,http://link.springer.com/10.1007/PL00013391
+SHEFFER A.; L√âVY B.; MOGILNITSKY M.; BOGOMYAKOV A. 2005,�e`�SQ�,[],0,,,
+ZAYER R.; L√âVY B.; SEIDEL H.-P. 2007,,[],0,,,
+SANDER P. V.; SNYDER J.; GORTER S. J.; HOPPE 2001,10.1145/383259.383307,"['Pedro V. Sander', 'John Snyder', 'Steven J. Gortler', 'Hugues Hoppe']",4,['Texture mapping progressive meshes'],2001.0,https://dl.acm.org/doi/10.1145/383259.383307
+ZAYER R.; ROESSL C.; SEIDEL H.-P 2005,,[],0,,,
+YOSHIZAWA S.; BELYAEV A. G.; SEIDEL H.-P 2004,,[],0,,,
+CHEN Z. G.; LIU L. G.; ZHANG Z. Y.; WANG G. J. 2007,10.1145/1236246.1236287,"['Zhonggui Chen', 'Ligang Liu', 'Zhengyue Zhang', 'Guojin Wang']",4,['Surface parameterization via aligning optimal local flattening'],2007.0,https://dl.acm.org/doi/10.1145/1236246.1236287
+BEN-CHEN M.; GOTSMAN C.; BUNIN G. 2008,,[],0,,,
+SPRINGBORN B.; SCHROEDER P.; PINKALL U. 2008,10.1145/1399504.1360676,"['Boris Springborn', 'Peter Schröder', 'Ulrich Pinkall']",3,['Conformal equivalence of triangle meshes'],2008.0,https://dl.acm.org/doi/10.1145/1399504.1360676
+Expectation-Maximization (EM) algorithm,,[],0,,,
+EM with Quasi-Newton Methods (Jamshidian; Mortaza; Jennrich; Robert I.),10.1111/1467-9868.00083,"['Mortaza Jamshidian', 'Robert I. Jennrich']",2,['Acceleration of the EM Algorithm by using Quasi-Newton Methods'],1997.0,https://academic.oup.com/jrsssb/article/59/3/569/7083073
+Parameter-expanded expectation maximization (PX-EM),10.1093/biomet/85.4.755,['C Liu'],1,['Parameter expansion to accelerate EM: the PX-EM algorithm'],1998.0,https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/85.4.755
+Expectation conditional maximization (ECM),10.1093/biomet/80.2.267,"['XIAO-LI MENG', 'DONALD B. RUBIN']",2,['Maximum likelihood estimation via the ECM algorithm: A general framework'],1993.0,https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/80.2.267
+Expectation conditional maximization either (ECME) (Liu; Chuanhai; Rubin; Donald B),,[],0,,,
+Œ±-EM Algorithm,10.1109/TIT.2002.808105,['Y. Matsuyama'],1,['The α-EM algorithm: surrogate likelihood maximization using α-logarithmic information measures'],2003.0,http://ieeexplore.ieee.org/document/1184145/
+Shaban; Amirreza; Mehrdad; Farajtabar,,[],0,,,
+"alpha-HMM (Matsuyama, Yasuo)",10.1109/TSP.2017.2692724,['Yasuo Matsuyama'],1,['The Alpha-HMM Estimation Algorithm: Prior Cycle Guides Fast Paths'],2017.0,http://ieeexplore.ieee.org/document/7895145/
+Kushner non-linear filter,10.1109/TAC.1967.1098671,['H. Kushner'],1,['Approximations to optimal nonlinear filters'],1967.0,http://ieeexplore.ieee.org/document/1098671/
+Zakai,10.1007/BF00536382,['Moshe Zakai'],1,['On the optimal filtering of diffusion processes'],1969.0,http://link.springer.com/10.1007/BF00536382
+Damiano Brigo; Bernard Hanzon and Fran√ßois LeGland,10.1109/9.661075,"['D. Brigo', 'B. Hanzon', 'F. LeGland']",3,['A differential geometric approach to nonlinear filtering: the projection filter'],1998.0,http://ieeexplore.ieee.org/document/661075/
+Del Moral; Pierre,10.1214/aoap/1028903535,['P. Del Moral'],1,['Measure-valued processes and interacting particle systems. Application to nonlinear filtering problems'],1998.0,https://projecteuclid.org/journals/annals-of-applied-probability/volume-8/issue-2/Measure-valued-processes-and-interacting-particle-systems-Application-to-nonlinear/10.1214/aoap/1028903535.full
+Ocone,10.1007/978-1-4612-1784-8_28,['Daniel Ocone'],1,['Entropy Inequalities and Entropy Dynamics in Nonlinear Filtering of Diffusion Processes'],1999.0,http://link.springer.com/10.1007/978-1-4612-1784-8_28
+Bellman Value Iteration (VI),,[],0,,,
+Howard Policy Iteration (PI),10.1287/msom.2022.1149,"['Collin Drent', 'Melvin Drent', 'Joachim Arts', 'Stella Kapodistria']",4,['Real-Time Integrated Learning and Decision Making for Cumulative Shock Degradation'],2023.0,https://pubsonline.informs.org/doi/10.1287/msom.2022.1149
+Integer linear program Vazirani,10.1007/978-3-662-04565-7_13,['Vijay V. Vazirani'],1,['Set Cover via Dual Fitting'],2003.0,http://link.springer.com/10.1007/978-3-662-04565-7_13
+Greedy Algorithm,10.1145/237814.237991,['Petr Slavík'],1,['A tight analysis of the greedy algorithm for set cover'],1996.0,http://portal.acm.org/citation.cfm?doid=237814.237991
+Lund & Yannakakis,10.1145%2F185675.306789,"['Carsten Lund', 'Mihalis Yannakakis']",2,['On the hardness of approximating minimization problems'],1994.0,https://dl.acm.org/doi/10.1145/185675.306789
+Feige,10.1145/237814.237977,['Uriel Feige'],1,['A threshold of ln <i>n</i> for approximating set cover (preliminary version)'],1996.0,http://portal.acm.org/citation.cfm?doid=237814.237977
+Raz & Safra,10.1145/258533.258641,"['Ran Raz', 'Shmuel Safra']",2,"['A sub-constant error-probability low-degree test, and a sub-constant error-probability PCP characterization of NP']",1997.0,http://portal.acm.org/citation.cfm?doid=258533.258641
+Dinur & Steurer,10.48550/arxiv.1305.1979,[],0,,,
+Cardoso; Nuno; Abreu; Rui,,[],0,,,
+Helden Oligo-Analysis,10.1006/jmbi.1998.1947,"['J. van Helden', 'B. André', 'J. Collado-Vides']",3,['Extracting regulatory sites from the upstream region of yeast genes by computational analysis of oligonucleotide frequencies 1 1Edited by G. von Heijne'],1998.0,https://linkinghub.elsevier.com/retrieve/pii/S0022283698919477
+van Helden J; Rios AF; Collado-Vides J,10.1093/nar/28.8.1808,['J. v. Helden'],1,['Discovering regulatory elements in non-coding sequences by analysis of spaced dyads'],2000.0,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/28.8.1808
+Tompa M,,[],0,,,
+Sinha S; Tompa M YMF (Yeast Motif Finder),10.1093/nar/gkf669.,[],0,,,
+Bailey TL; Elkan C MEME,10.1007/BF00993379,"['Timothy L. Bailey', 'Charles Elkan']",2,['Unsupervised learning of multiple motifs in biopolymers using expectation maximization'],1995.0,http://link.springer.com/10.1007/BF00993379
+Sagot M,10.1007/BFb0054337,['Marie -France Sagot'],1,['Spelling approximate repeated or common motifs using a suffix tree'],1998.0,http://link.springer.com/10.1007/BFb0054337
+Liang Cwinnower,10.1142/S0219720004000466,"['S. LIANG', 'M. P. SAMANTA', 'B. A. BIEGEL']",3,['cWINNOWER ALGORITHM FOR FINDING FUZZY DNA MOTIFS'],2004.0,https://www.worldscientific.com/doi/abs/10.1142/S0219720004000466
+Kingsford,10.1007/11780441_22,"['Carl Kingsford', 'Elena Zaslavsky', 'Mona Singh']",3,['A Compact Mathematical Programming Formulation for DNA Motif Finding'],2006.0,http://link.springer.com/10.1007/11780441_22
+Naive,,[],0,,,
+The INDEGREE Algorithm,10.1017/nws.2016.21,['SEBASTIANO VIGNA'],1,['Spectral ranking'],2016.0,https://www.cambridge.org/core/product/identifier/S2050124216000217/type/journal_article
+The PAGERANK Algorithm,,[],0,,,
+The (Hyperlink-Induced Topic Search) HITS Algorithm,10.1145/324133.324140,['Jon M. Kleinberg'],1,['Authoritative sources in a hyperlinked environment'],1999.0,https://dl.acm.org/doi/10.1145/324133.324140
+Kleinberg,,[],0,,,
+The (Stochastic Approach for Link Structure Analysis) SALSA Algorithm,10.1145/382979.383041,"['R. Lempel', 'S. Moran']",2,['SALSA'],2001.0,https://dl.acm.org/doi/10.1145/382979.383041
+Randomized HITS,10.1145/383952.384003,"['Andrew Y. Ng', 'Alice X. Zheng', 'Michael I. Jordan']",3,['Stable algorithms for link analysis'],2001.0,https://dl.acm.org/doi/10.1145/383952.384003
+PHITS Coheng Chan,10.1007/s10817-022-09658-8,"['Emre Yolcu', 'Scott Aaronson', 'Marijn J. H. Heule']",3,['An Automated Approach to the Collatz Conjecture'],2023.0,https://link.springer.com/10.1007/s10817-022-09658-8
+Haveliwala,10.1145/511446.511513,['Taher H. Haveliwala'],1,['Topic-sensitive PageRank'],2002.0,https://dl.acm.org/doi/10.1145/511446.511513
+Jeh and Widom,10.1145/775152.775191,"['Glen Jeh', 'Jennifer Widom']",2,['Scaling personalized web search'],2003.0,http://portal.acm.org/citation.cfm?doid=775152.775191
+Richardson and Domingos,10.1145/290941.290972,"['Krishna Bharat', 'Monika R. Henzinger']",2,['Improved algorithms for topic distillation in a hyperlinked environment'],1998.0,https://dl.acm.org/doi/10.1145/290941.290972
+Tomlin,10.1145/775152.775202,['John A. Tomlin'],1,['A new paradigm for ranking pages on the world wide web'],2003.0,http://portal.acm.org/citation.cfm?doid=775152.775202
+Achlioptas,10.1109/sfcs.2001.959926,"['D. Achlioptas', 'A. Fiat', 'A.R. Karlin', 'F. McSherry']",4,['Web search via hub synthesis'],2001.0,https://ieeexplore.ieee.org/document/959926/
+Leases (Cary G Gray and David R Cheriton),,[],0,,,
+Chubby (Mike Burrows),,[],0,,,
+Tushar Deepak Chandra and Sam Toueg,10.1145/226643.226647,"['Tushar Deepak Chandra', 'Sam Toueg']",2,['Unreliable failure detectors for reliable distributed systems'],1996.0,https://dl.acm.org/doi/10.1145/226643.226647
+Ray casting algorithm Shimrat; M,10.1145/368637.368653,['M. Shimrat'],1,['Algorithm 112: Position of point relative to polygon'],1962.0,https://dl.acm.org/doi/10.1145/368637.368653
+Nordbeck and Rystedt (Grid Method),10.1007/BF01934125,"['Stig Nordbeck', 'Bengt Rystedt']",2,['Computer cartography point-in-polygon programs'],1967.0,http://link.springer.com/10.1007/BF01934125
+Salomon (Swath Method),10.1016/0098-3004(78)90085-7,['Kenneth B. Salomon'],1,['An efficient point-in-polygon algorithm'],1978.0,https://linkinghub.elsevier.com/retrieve/pii/0098300478900857
+Nordbeck and Rystedt (Sum of area),10.1007/BF01934125,"['Stig Nordbeck', 'Bengt Rystedt']",2,['Computer cartography point-in-polygon programs'],1967.0,http://link.springer.com/10.1007/BF01934125
+Preparata and Shamos (Wedge),10.1007/978-1-4612-1098-6,"['Franco P. Preparata', 'Michael Ian Shamos']",2,['Computational Geometry'],1985.0,http://link.springer.com/10.1007/978-1-4612-1098-6
+Saalfeld (Sign of offset),10.1080/02693798708927823,['ALAN SAALFELD'],1,"[""Technical note It doesn't make me nearly as CROSS Some advantages of the point-vector representation of line segments in automated cartography""]",1987.0,http://www.tandfonline.com/doi/abs/10.1080/02693798708927823
+Preparata and Shamos (Intersection sum of angle),10.1007/978-1-4612-1098-6,"['Franco P. Preparata', 'Michael Ian Shamos']",2,['Computational Geometry'],1985.0,http://link.springer.com/10.1007/978-1-4612-1098-6
+Nordbeck and Rystedt (Orientation),10.1007/BF01934125,"['Stig Nordbeck', 'Bengt Rystedt']",2,['Computer cartography point-in-polygon programs'],1967.0,http://link.springer.com/10.1007/BF01934125
+ASP,10.1109/ICDCS.2004.1281624,"['Jang-Ping Sheu', 'Chih-Min Chao', 'Ching-Wen Sun']",3,['A clock synchronization algorithm for multi-hop wireless ad hoc networks'],2004.0,http://ieeexplore.ieee.org/document/1281624/
+Clock-sampling mutual network synchronization,,[],0,,,
+MATSF,10.1109/TPDS.2007.1116,"['Dong Zhou', 'Ten-Hwang Lai']",2,['An Accurate and Scalable Clock Synchronization Protocol for IEEE 802.11-Based Multihop Ad Hoc Networks'],2007.0,http://ieeexplore.ieee.org/document/4359404/
+Iterative naive,,[],0,,,
+Motwani & Raghavan,10.48550/arXiv.1203.1525,[],0,,,
+Mitzenmacher & Upfal,10.1017/cbo9780511813603,"['Michael Mitzenmacher', 'Eli Upfal']",2,['Probability and Computing'],2005.0,https://www.cambridge.org/core/product/identifier/9780511813603/type/book
+"Khuller; Raghavachari & Young, ""Greedy Methods""",10.1145/1059876.1059886,"['Jason Cong', 'Joseph R. Shinnerl', 'Min Xie', 'Tim Kong', 'Xin Yuan']",5,['Large-scale circuit placement'],2005.0,https://dl.acm.org/doi/10.1145/1059876.1059886
+Ausiello et al.,10.1007/978-3-642-58412-1,"['Giorgio Ausiello', 'Alberto Marchetti-Spaccamela', 'Pierluigi Crescenzi', 'Giorgio Gambosi', 'Marco Protasi', 'Viggo Kann']",6,['Complexity and Approximation'],1999.0,http://link.springer.com/10.1007/978-3-642-58412-1
+Dunning; Gupta & Silberholz,10.1287/ijoc.2017.0798,"['Iain Dunning', 'Swati Gupta', 'John Silberholz']",3,['What Works Best When? A Systematic Evaluation of Heuristics for Max-Cut and QUBO'],2018.0,https://pubsonline.informs.org/doi/10.1287/ijoc.2017.0798
+Ruchansky,10.1145/2723372.2749449,"['Natali Ruchansky', 'Francesco Bonchi', 'David García-Soriano', 'Francesco Gullo', 'Nicolas Kourtellis']",5,['The Minimum Wiener Connector Problem'],2015.0,https://dl.acm.org/doi/10.1145/2723372.2749449
+Bareiss algorithm,10.4236/ns.2009.11004,"['Run Fang', 'Xian-Su Cheng', 'Jian Fu', 'Zuan-Bin Zheng']",4,['Research on the Graft Copolymerization of EH-lignin with acrylamide'],2009.0,http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/ns.2009.11004
+Ferguson‚ÄìForcade algorithm,10.1145/2465506.2465930,['Stephen Wolfram'],1,['Computer algebra'],2013.0,https://dl.acm.org/doi/10.1145/2465506.2465930
+LLL algorithm,10.1007/bf01457454,"['A. K. Lenstra', 'H. W. Lenstra', 'L. Lovász']",3,['Factoring polynomials with rational coefficients'],1982.0,http://link.springer.com/10.1007/BF01457454
+PSOS algorithm,10.1090/s0025-5718-1988-0917835-1,['David H. Bailey'],1,"['Numerical results on the transcendence of constants involving 𝜋,𝑒, and Euler’s constant']",1988.0,https://www.ams.org/mcom/1988-50-181/S0025-5718-1988-0917835-1/
+PSLQ algorithm,10.1090/s0025-5718-99-00995-3,"['Helaman Ferguson', 'David Bailey', 'Steve Arno']",3,"['Analysis of PSLQ, an integer relation finding algorithm']",1999.0,https://www.ams.org/mcom/1999-68-225/S0025-5718-99-00995-3/
+Amir et al.,10.1007/3-540-63307-3_56,"['Amihood Amir', 'Moshe Lewenstein', 'Noa Lewenstein']",3,['Pattern matching in hypertext'],1997.0,http://link.springer.com/10.1007/3-540-63307-3_56
+Navarro,10.1016/S0304-3975(99)00333-3,['Gonzalo Navarro'],1,['Improved approximate pattern matching on hypertext'],2000.0,https://linkinghub.elsevier.com/retrieve/pii/S0304397599003333
+HybridSpades,10.1093/bioinformatics/btv688,"['Dmitry Antipov', 'Anton Korobeynikov', 'Jeffrey S. McLean', 'Pavel A. Pevzner']",4,['<scp>hybrid</scp>SPA<scp>des</scp>: an algorithm for hybrid assembly of short and long reads'],2015.0,https://academic.oup.com/bioinformatics/article/32/7/1009/1743807
+V-ALIGN,10.1101/124941,"['Kavya Vaddadi', 'Naveen Sivadasan', 'Kshitij Tayal', 'Rajgopal Srinivasan']",4,['Sequence Alignment on Directed Graphs'],2017.0,http://biorxiv.org/lookup/doi/10.1101/124941
+Rautiainen and Marschall,10.1093/bioinformatics/btv688,"['Dmitry Antipov', 'Anton Korobeynikov', 'Jeffrey S. McLean', 'Pavel A. Pevzner']",4,['<scp>hybrid</scp>SPA<scp>des</scp>: an algorithm for hybrid assembly of short and long reads'],2015.0,https://academic.oup.com/bioinformatics/article/32/7/1009/1743807
+"Jain, Chang",10.1101/522912,"['Chirag Jain', 'Haowen Zhang', 'Yu Gao', 'Srinivas Aluru']",4,['On the Complexity of Sequence to Graph Alignment'],2019.0,http://biorxiv.org/lookup/doi/10.1101/522912
+"Rautiainen, Marschall",10.1093/bioinformatics/btz162,"['Mikko Rautiainen', 'Veli Mäkinen', 'Tobias Marschall']",3,['Bit-parallel sequence-to-graph alignment'],2019.0,https://academic.oup.com/bioinformatics/article/35/19/3599/5372677
+Baby-step Giant-step,10.1090/pspum/020,['Donald Lewis'],1,['1969 Number Theory Institute'],2013.0,http://www.ams.org/pspum/020
+Function Field Sieve (FFS),10.1006/inco.1998.2761,"['Leonard M. Adleman', 'Ming-Deh A. Huang']",2,['Function Field Sieve Method for Discrete Logarithms over Finite Fields'],1999.0,https://linkinghub.elsevier.com/retrieve/pii/S0890540198927614
+Number Field Sieve (NFS),10.1090/dol/034/15,['Carl Pomerance'],1,['A Tale of Two Sieves'],2009.0,https://www.ams.org/dol/034
+Pohlig-Hellman,,[],0,,,
+Pollard's rho algorithm,10.2307/2006496,['J. M. Pollard'],1,['Monte Carlo Methods for Index Computation (mod p)'],1978.0,https://www.jstor.org/stable/2006496?origin=crossref
+Pollard's kangaroo algorithm,10.2307/2006496,['J. M. Pollard'],1,['Monte Carlo Methods for Index Computation (mod p)'],1978.0,https://www.jstor.org/stable/2006496?origin=crossref
+"Guibas, Sedgewick Red-Black Tree",10.1109/SFCS.1978.3,"['Leo J. Guibas', 'Robert Sedgewick']",2,['A dichromatic framework for balanced trees'],1978.0,http://ieeexplore.ieee.org/document/4567957/
+"Guibas, Sedgewick Red-Black Tree",10.1109/SFCS.1978.3,"['Leo J. Guibas', 'Robert Sedgewick']",2,['A dichromatic framework for balanced trees'],1978.0,http://ieeexplore.ieee.org/document/4567957/
+"Guibas, Sedgewick Red-Black Tree",10.1109/SFCS.1978.3,"['Leo J. Guibas', 'Robert Sedgewick']",2,['A dichromatic framework for balanced trees'],1978.0,http://ieeexplore.ieee.org/document/4567957/
+"Guibas, Sedgewick Red-Black Tree",10.1109/SFCS.1978.3,"['Leo J. Guibas', 'Robert Sedgewick']",2,['A dichromatic framework for balanced trees'],1978.0,http://ieeexplore.ieee.org/document/4567957/
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Aho, Garey & Ullman",10.1137/0201008,"['A. V. Aho', 'M. R. Garey', 'J. D. Ullman']",3,['The Transitive Reduction of a Directed Graph'],1972.0,http://epubs.siam.org/doi/10.1137/0201008
+"Gries, Martin",10.1016/0167-6423(89)90039-7,"['David Gries', 'Alain J. Martin', 'Jan L.A. van de Snepscheut', 'Jan Tijmen Udding']",4,['An algorithm for transitive reduction of an acyclic graph'],1989.0,https://linkinghub.elsevier.com/retrieve/pii/0167642389900397
+Dijkstra,,[],0,,,
+"Rivin, Zabih",10.1016/0020-0190(92)90168-u,"['Igor Rivin', 'Ramin Zabih']",2,['A dynamic programming solution to the n-queens problem'],1992.0,https://linkinghub.elsevier.com/retrieve/pii/002001909290168U
+Hanoi graph,,[],0,,,
+RC5,10.1007/3-540-60590-8_7,['Ronald L. Rivest'],1,['The RC5 encryption algorithm'],1995.0,http://link.springer.com/10.1007/3-540-60590-8_7
+Rijndael / AES,10.1007/10721064,"['Jean-Jacques Quisquater', 'Bruce Schneier']",2,['Smart Card Research and Applications'],2006.0,http://link.springer.com/10.1007/10721064
+Blowfish,10.1007/3-540-58108-1_24,['Bruce Schneier'],1,"['Description of a new variable-length key, 64-bit block cipher (Blowfish)']",1994.0,http://link.springer.com/10.1007/3-540-58108-1_24
+Bjorck,,[],0,,,
+Higham,10.1093/imanum/8.4.473,['NICHOLAS J. HIGHAM'],1,['Fast Solution of Vandermonde-Like Systems Involving Orthogonal Polynomials'],1988.0,https://academic.oup.com/imajna/article-lookup/doi/10.1093/imanum/8.4.473
+"Calvetti, Reichel",10.1007/BF01990529,"['D. Calvetti', 'L. Reichel']",2,['Fast inversion of vandermonde-like matrices involving orthogonal polynomials'],1993.0,http://link.springer.com/10.1007/BF01990529
+Binary GCD algorithm,10.48550/arXiv.0910.0095,[],0,,,
+"Sthele, Zimmermann",10.1007/b98210,['Duncan Buell'],1,['Algorithmic Number Theory'],2010.0,https://link.springer.com/10.1007/b98210
+Banker's Algorithm,,[],0,,,
+Longest distance first (LDF) page replacement algorithm,,[],0,,,
+ARIES,10.1145/128765.128770,"['C. Mohan', 'Don Haderle', 'Bruce Lindsay', 'Hamid Pirahesh', 'Peter Schwarz']",5,['ARIES'],1992.0,https://dl.acm.org/doi/10.1145/128765.128770

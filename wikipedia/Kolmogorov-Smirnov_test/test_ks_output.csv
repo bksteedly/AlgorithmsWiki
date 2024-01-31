@@ -1,0 +1,1041 @@
+,Wikipedia Problem,Sheet1 Problem,Time Complexity Class,Space Complexity Class,Time Complexity Class,Time Complexity Class
+0,,Optimal Binary Search Trees,3,3,3,
+1,,Optimal Binary Search Trees,2.6,1,2.6,
+2,,Optimal Binary Search Trees,3,3,3,
+3,,Optimal Binary Search Trees,4.6,3,4.6,
+4,Nearest Neighbor Search,Nearest Neighbor Search,4,1,4,4
+5,Nearest Neighbor Search,Nearest Neighbor Search,3,3,3,3
+6,Nearest Neighbor Search,Nearest Neighbor Search,3,1,3,3
+7,Nearest Neighbor Search,Nearest Neighbor Search,3,,3,3
+8,,The Subset-Sum Problem,3,1,3,
+9,,The Subset-Sum Problem,3,1,3,
+10,,The Subset-Sum Problem,3,1,3,
+11,,The Subset-Sum Problem,4.5,1,4.5,
+12,,The Subset-Sum Problem,4,1,4,
+13,,The Subset-Sum Problem,4,1,4,
+14,,The Subset-Sum Problem,4,1,4,
+15,,The Subset-Sum Problem,6,5,6,
+16,Stable Matching Problem,Stable Matching Problem,1,1,1,1
+17,,Motif Search,3,3,3,
+18,,Motif Search,3,2.5,3,
+19,,Motif Search,3,2.5,3,
+20,,Texture Synthesis,5.01,3,5.01,
+21,,Texture Synthesis,3,3,3,
+22,,n-Queens Problem,3,5,3,
+23,Cycle Detection,Cycle Detection,3,1,3,3
+24,Cycle Detection,Cycle Detection,3,2,3,3
+25,Sorting,Sorting,5,1,5,5
+26,Sorting,Sorting,5,1,5,5
+27,Sorting,Sorting,4,3,4,4
+28,Sorting,Sorting,5,1,5,5
+29,Sorting,Sorting,4,2,4,4
+30,Sorting,Sorting,4,1,4,4
+31,Sorting,Sorting,3,3,3,3
+32,Sorting,Sorting,5,3,5,5
+33,Sorting,Sorting,3,3,3,3
+34,,kth Order Statistic,4,1,4,
+35,,kth Order Statistic,5,1,5,
+36,,Matrix Chain Multiplication,8,3,8,
+37,,Matrix Chain Multiplication,6,5,6,
+38,,Longest Common Subsequence,5,5,5,
+39,Maximum Flow,Maximum Flow,7,5,7,7
+40,Maximum Flow,Maximum Flow,7,5,7,7
+41,Maximum Flow,Maximum Flow,7,5,7,7
+42,Maximum Flow,Maximum Flow,6,5,6,6
+43,Maximum Flow,Maximum Flow,6.02,5,6.02,6.02
+44,Matrix Product,Matrix Product,4.5,1,4.5,4.5
+45,Matrix Product,Matrix Product,4.4035,3,4.4035,4.4035
+46,Matrix Product,Matrix Product,4.3975,3,4.3975,4.3975
+47,Matrix Product,Matrix Product,4.258325,3,4.258325,4.258325
+48,Matrix Product,Matrix Product,4.247774,3,4.247774,4.247774
+49,Matrix Product,Matrix Product,4.23925,3,4.23925,4.23925
+50,Matrix Product,Matrix Product,4.18775,3,4.18775,4.18775
+51,Matrix Product,Matrix Product,4.1864365,3,4.1864365,4.1864365
+52,Matrix Product,Matrix Product,4.18643195,3,4.18643195,4.18643195
+53,,Graph Coloring,8,3,8,
+54,,Graph Coloring,8,3,8,
+55,Linear System,Linear System,4.5,3,4.5,4.5
+56,Linear System,Linear System,4.5,3,4.5,4.5
+57,Linear System,Linear System,4.5,3,4.5,4.5
+58,Linear System,Linear System,3,3,3,3
+59,Linear System,Linear System,3,3,3,3
+60,Linear System,Linear System,3,3,3,3
+61,Linear Programming,Linear Programming,8,8,8,8
+62,Linear Programming,Linear Programming,7,3,7,7
+63,,Line segment intersection,5,1,5,
+64,,Line segment intersection,4,3,4,
+65,Convex Hull,Convex Hull,6,3,6,6
+66,Convex Hull,Convex Hull,3,1,3,3
+67,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5,5.01,5.01
+68,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5,5.01,5.01
+69,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,5,5,5
+70,,Closest Pair Problem,5,1,5,
+71,LU Decomposition,LU Decomposition,4.5,1,4.5,4.5
+72,LU Decomposition,LU Decomposition,4.5,1,4.5,4.5
+73,LU Decomposition,LU Decomposition,6,1,6,6
+74,Informed Search,Informed Search,8,8,8,8
+75,Informed Search,Informed Search,8,8,8,8
+76,Informed Search,Informed Search,8,8,8,8
+77,Informed Search,Informed Search,8,8,8,8
+78,Informed Search,Informed Search,8,8,8,8
+79,Informed Search,Informed Search,8,8,8,8
+80,Informed Search,Informed Search,8,8,8,8
+81,Informed Search,Informed Search,8,8,8,8
+82,Informed Search,Informed Search,8,8,8,8
+83,Informed Search,Informed Search,8,8,8,8
+84,Informed Search,Informed Search,8,8,8,8
+85,String Search,String Search,5,1,5,5
+86,String Search,String Search,3,3,3,3
+87,String Search,String Search,5,1,5,5
+88,String Search,String Search,5,1,5,5
+89,Sequence Alignment,Sequence Alignment,5,5,5,5
+90,Sequence Alignment,Sequence Alignment,6,5,6,6
+91,Sequence Alignment,Sequence Alignment,4.99,3,4.99,4.99
+92,Sequence Alignment,Sequence Alignment,5,3,5,5
+93,Sequence Alignment,Sequence Alignment,5,5,5,5
+94,Sequence Alignment,Sequence Alignment,5,5,5,5
+95,Sequence Alignment,Sequence Alignment,5,5,5,5
+96,Sequence Alignment,Sequence Alignment,5,3,5,5
+97,Sequence Alignment,Sequence Alignment,5,5,5,5
+98,Line Clipping,Line Clipping,3,1,3,3
+99,Line Clipping,Line Clipping,3,1,3,3
+100,Line Clipping,Line Clipping,3,1,3,3
+101,Line Clipping,Line Clipping,3,1,3,3
+102,Line Clipping,Line Clipping,3,1,3,3
+103,,NFA to DFA conversion,8,1,8,
+104,Multiplication,Multiplication,4.58,3,4.58,4.58
+105,Multiplication,Multiplication,4.46,3,4.46,4.46
+106,Multiplication,Multiplication,5,3,5,5
+107,Line Simplification,Line Simplification,5,3,5,5
+108,Line Simplification,Line Simplification,5,3,5,5
+109,Line Simplification,Line Simplification,3,1,3,3
+110,Line Simplification,Line Simplification,3,1,3,3
+111,Line Simplification,Line Simplification,3,1,3,3
+112,Line Simplification,Line Simplification,3,3,3,3
+113,Nearest Neighbor Search,Nearest Neighbor Search,3,1,3,3
+114,Nearest Neighbor Search,Nearest Neighbor Search,4,3,4,4
+115,Nearest Neighbor Search,Nearest Neighbor Search,4,2,4,4
+116,,The Subset-Sum Problem,8,8,8,
+117,,The Subset-Sum Problem,3,1,3,
+118,,The Subset-Sum Problem,3,1,3,
+119,,The Subset-Sum Problem,4,1,4,
+120,,The Subset-Sum Problem,4,3,4,
+121,Maximum Subarray Problem,Maximum Subarray Problem,6,1,6,6
+122,Maximum Subarray Problem,Maximum Subarray Problem,5,3,5,5
+123,Maximum Subarray Problem,Maximum Subarray Problem,5,1,5,5
+124,Maximum Subarray Problem,Maximum Subarray Problem,4,2,4,4
+125,Maximum Subarray Problem,Maximum Subarray Problem,3,1,3,3
+126,Maximum Subarray Problem,Maximum Subarray Problem,2,3,2,2
+127,,Motif Search,5.5,5.5,5.5,
+128,,Motif Search,3,3,3,
+129,,Motif Search,3,3,3,
+130,,Motif Search,5.5,5.5,5.5,
+131,,Motif Search,5.5,5.5,5.5,
+132,,Rod-Cutting Problem,8,3,8,
+133,,Rod-Cutting Problem,5,3,5,
+134,,Change-Making Problem,8,3,8,
+135,,Change-Making Problem,5,5,5,
+136,,Matrix Chain Multiplication,2,3,2,
+137,,Matrix Chain Multiplication,1.99,3,1.99,
+138,,Matrix Chain Multiplication,3,3,3,
+139,,Matrix Chain Multiplication,3,3,3,
+140,Matrix Product,Matrix Product,4.38995,3,4.38995,4.38995
+141,Matrix Product,Matrix Product,4.2609,3,4.2609,4.2609
+142,,Graph Coloring,7,,7,
+143,,Graph Coloring,5,5,5,
+144,,Maximum Cardinality Matching,5.5,3,5.5,
+145,The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,7,8,8
+146,The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,8,8,8
+147,The Traveling-Salesman Problem,The Traveling-Salesman Problem,5.01,3,5.01,5.01
+148,,Feature Detection,5,,5,
+149,,Feature Detection,6,,6,
+150,,Feature Detection,6,,6,
+151,,The Set-Covering Problem,5,5,5,
+152,,The Set-Covering Problem,4,,4,
+153,,Motif Search,3,2,3,
+154,,Image Compositing,5,3,5,
+155,,Texture Synthesis,6,,6,
+156,,Texture Synthesis,3,,3,
+157,,Texture Synthesis,6,,6,
+158,,Texture Synthesis,6,,6,
+159,SLAM Algorithms,SLAM Algorithms,6,5,6,6
+160,SLAM Algorithms,SLAM Algorithms,6,5,6,6
+161,SLAM Algorithms,SLAM Algorithms,6,5,6,6
+162,SLAM Algorithms,SLAM Algorithms,5,3,5,5
+163,,Graph Coloring,4,3,4,
+164,,Graph Coloring,8,3,8,
+165,,Closest Pair Problem,3,3,3,
+166,LU Decomposition,LU Decomposition,4.188,4,4.188,4.188
+167,String Search,String Search,5,3,5,5
+168,Sorting,Sorting,4,3,4,4
+169,Sorting,Sorting,5,2,5,5
+170,Sorting,Sorting,4,3,4,4
+171,Sorting,Sorting,4,3,4,4
+172,Sorting,Sorting,5,1,5,5
+173,Sorting,Sorting,4.5,1,4.5,4.5
+174,Sorting,Sorting,4.01,1,4.01,4.01
+175,Sorting,Sorting,4.33,1,4.33,4.33
+176,Sorting,Sorting,2,1,2,2
+177,Sorting,Sorting,4,3,4,4
+178,Sorting,Sorting,5,1,5,5
+179,Sorting,Sorting,5,3,5,5
+180,Sorting,Sorting,3,5,3,3
+181,Sorting,Sorting,4,4,4,4
+182,Sorting,Sorting,4,3,4,4
+183,,kth Order Statistic,3,3,3,
+184,,Matrix Chain Multiplication,4,3,4,
+185,,Longest Common Subsequence,3,3,3,
+186,,Longest Common Subsequence,3,3,3,
+187,Maximum Flow,Maximum Flow,7,6,7,7
+188,Maximum Flow,Maximum Flow,6,5,6,6
+189,Maximum Flow,Maximum Flow,6,5,6,6
+190,Maximum Flow,Maximum Flow,6.01,5,6.01,6.01
+191,Maximum Flow,Maximum Flow,6,5,6,6
+192,Maximum Flow,Maximum Flow,6,5,6,6
+193,Maximum Flow,Maximum Flow,6.01,5,6.01,6.01
+194,Maximum Flow,Maximum Flow,5.99,5,5.99,5.99
+195,Maximum Flow,Maximum Flow,6,5,6,6
+196,Maximum Flow,Maximum Flow,6,5,6,6
+197,Maximum Flow,Maximum Flow,6,5,6,6
+198,Maximum Flow,Maximum Flow,6,5,6,6
+199,Maximum Flow,Maximum Flow,5.66,5,5.66,5.66
+200,Maximum Flow,Maximum Flow,6,5,6,6
+201,,Graph Coloring,8,3,8,
+202,,Graph Coloring,8,6,8,
+203,,Graph Coloring,8,5,8,
+204,,Graph Coloring,8,5,8,
+205,,Graph Coloring,8,3,8,
+206,,Graph Coloring,8,5,8,
+207,Linear System,Linear System,3,3,3,3
+208,Linear System,Linear System,2,2,2,2
+209,Linear Programming,Linear Programming,6.5,3,6.5,6.5
+210,Linear Programming,Linear Programming,8,3,8,8
+211,Linear Programming,Linear Programming,8,3,8,8
+212,Linear Programming,Linear Programming,6.5,3,6.5,6.5
+213,Linear Programming,Linear Programming,6,5,6,6
+214,Linear Programming,Linear Programming,5.5,5,5.5,5.5
+215,,Line segment intersection,4,3,4,
+216,,Line segment intersection,4,3,4,
+217,,Line segment intersection,4,3,4,
+218,,Line segment intersection,4,3,4,
+219,,Line segment intersection,4,3,4,
+220,,Line segment intersection,4,3,4,
+221,,Line segment intersection,2,3,2,
+222,Convex Hull,Convex Hull,4,3,4,4
+223,Convex Hull,Convex Hull,5,3,5,5
+224,Convex Hull,Convex Hull,4,3,4,4
+225,Convex Hull,Convex Hull,4,3,4,4
+226,Convex Hull,Convex Hull,4,3,4,4
+227,Convex Hull,Convex Hull,4,3,4,4
+228,Convex Hull,Convex Hull,,3,,
+229,Strongly Connected Components,Strongly Connected Components,5,5,5,5
+230,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+231,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+232,Strongly Connected Components,Strongly Connected Components,5.01,3,5.01,5.01
+233,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+234,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+235,Strongly Connected Components,Strongly Connected Components,6,5,6,6
+236,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+237,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+238,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+239,Strongly Connected Components,Strongly Connected Components,5,3,5,5
+240,Strongly Connected Components,Strongly Connected Components,6,5,6,6
+241,Strongly Connected Components,Strongly Connected Components,6,3,6,6
+242,Strongly Connected Components,Strongly Connected Components,6,3,6,6
+243,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,3,5.01,5.01
+244,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,3,5,5
+245,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,3,5,5
+246,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5,5.01,5.01
+247,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.001,5,5.001,5.001
+248,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.001,5,5.001,5.001
+249,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,5,5.01,5.01
+250,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5,5,5,5
+251,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.02,5,5.02,5.02
+252,,Closest Pair Problem,4,3,4,
+253,,Closest Pair Problem,4,3,4,
+254,,Closest Pair Problem,5,3,5,
+255,,Closest Pair Problem,4,3,4,
+256,,Closest Pair Problem,4,3,4,
+257,,Closest Pair Problem,4,3,4,
+258,,Closest Pair Problem,4,3,4,
+259,,Closest Pair Problem,3,5,3,
+260,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),7,5,7,7
+261,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),6,3,6,6
+262,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5.01,5,5.01,5.01
+263,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3,5,5
+264,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5.01,3,5.01,5.01
+265,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3,5,5
+266,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3,5,5
+267,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3,5,5
+268,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,5,5,5
+269,Shortest Path (Directed Graphs),Shortest Path (Directed Graphs),5,3,5,5
+270,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),7,5,7,7
+271,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,5,6,6
+272,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),5.373,5,5.373,5.373
+273,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,5,6,6
+274,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,,6,6
+275,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,6,6,6
+276,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),5.844,5,5.844,5.844
+277,All-Pairs Shortest Paths (APSP),All-Pairs Shortest Paths (APSP),6,5,6,6
+278,Integer Factoring,Integer Factoring,8,3,8,8
+279,Integer Factoring,Integer Factoring,8,3,8,8
+280,Integer Factoring,Integer Factoring,,3,,
+281,Integer Factoring,Integer Factoring,8,8,8,8
+282,Integer Factoring,Integer Factoring,8,3,8,8
+283,Integer Factoring,Integer Factoring,8,3,8,8
+284,Integer Factoring,Integer Factoring,8,3,8,8
+285,Integer Factoring,Integer Factoring,8,3,8,8
+286,Integer Factoring,Integer Factoring,8,3,8,8
+287,Integer Factoring,Integer Factoring,8,3,8,8
+288,Integer Factoring,Integer Factoring,,3,,
+289,Integer Factoring,Integer Factoring,8,3,8,8
+290,Integer Factoring,Integer Factoring,8,3,8,8
+291,LU Decomposition,LU Decomposition,2.51,,2.51,2.51
+292,LU Decomposition,LU Decomposition,4.5,3,4.5,4.5
+293,LU Decomposition,LU Decomposition,2.51,,2.51,2.51
+294,LU Decomposition,LU Decomposition,4.5,2.5,4.5,4.5
+295,Informed Search,Informed Search,8,8,8,8
+296,Informed Search,Informed Search,8,,8,8
+297,Informed Search,Informed Search,8,8,8,8
+298,Informed Search,Informed Search,8,8,8,8
+299,Informed Search,Informed Search,8,8,8,8
+300,Informed Search,Informed Search,8,8,8,8
+301,String Search,String Search,5,3,5,5
+302,Sequence Alignment,Sequence Alignment,5,5,5,5
+303,Line Clipping,Line Clipping,3,1,3,3
+304,Line Clipping,Line Clipping,3,1,3,3
+305,Multiplication,Multiplication,4.001,3,4.001,4.001
+306,Multiplication,Multiplication,7,3,7,7
+307,Multiplication,Multiplication,7,3,7,7
+308,Multiplication,Multiplication,4,3,4,4
+309,Multiplication,Multiplication,7,3,7,7
+310,Multiplication,Multiplication,7,3,7,7
+311,Multiplication,Multiplication,7,3,7,7
+312,Multiplication,Multiplication,7,3,7,7
+313,Mutual Exclusion,Mutual Exclusion,3,3,3,3
+314,Mutual Exclusion,Mutual Exclusion,3,3,3,3
+315,Mutual Exclusion,Mutual Exclusion,3,3,3,3
+316,Mutual Exclusion,Mutual Exclusion,2.5,3,2.5,2.5
+317,Mutual Exclusion,Mutual Exclusion,2,3,2,2
+318,Mutual Exclusion,Mutual Exclusion,3,3,3,3
+319,Shown Surface Determination,Shown Surface Determination,4,3,4,4
+320,Shown Surface Determination,Shown Surface Determination,3,3,3,3
+321,Shown Surface Determination,Shown Surface Determination,3,3,3,3
+322,Shown Surface Determination,Shown Surface Determination,5,5,5,5
+323,Shown Surface Determination,Shown Surface Determination,3,3,3,3
+324,Shown Surface Determination,Shown Surface Determination,3,3,3,3
+325,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,2.5,3,3
+326,Delaunay Triangulation,Delaunay Triangulation,4,3,4,4
+327,Maximum Subarray Problem,Maximum Subarray Problem,3,1,3,3
+328,Maximum Subarray Problem,Maximum Subarray Problem,3,1,3,3
+329,Maximum Subarray Problem,Maximum Subarray Problem,2,3,2,2
+330,Integer Relation,Integer Relation,7,5,7,7
+331,Deadlock avoidance,Deadlock Avoidance,8,3,8,8
+332,Deadlock avoidance,Deadlock Avoidance,8,1,8,8
+333,The Traveling-Salesman Problem,The Traveling-Salesman Problem,7,,7,7
+334,The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,,8,8
+335,The Traveling-Salesman Problem,The Traveling-Salesman Problem,,,,
+336,The Traveling-Salesman Problem,The Traveling-Salesman Problem,5,1,5,5
+337,The Traveling-Salesman Problem,The Traveling-Salesman Problem,5,3,5,5
+338,,De Novo Genome Assembly,5,5,5,
+339,,De Novo Genome Assembly,5,5,5,
+340,,Ray Tracing,5,,5,
+341,,Ray Tracing,5,,5,
+342,,Ray Tracing,5,,5,
+343,,Ray Tracing,5,,5,
+344,,Ray Tracing,5,,5,
+345,,Feature Detection,6,,6,
+346,,Feature Detection,5.02,,5.02,
+347,,Feature Detection,6,,6,
+348,,Feature Detection,5,,5,
+349,,Feature Detection,5,,5,
+350,,Feature Detection,5,,5,
+351,,Feature Detection,5,,5,
+352,,Feature Detection,5,,5,
+353,,Feature Detection,5,,5,
+354,,Feature Detection,5,,5,
+355,,Feature Detection,5.02,,5.02,
+356,,Feature Detection,6,,6,
+357,,Feature Detection,5,,5,
+358,,Feature Detection,5,,5,
+359,,Feature Detection,5,,5,
+360,,Feature Detection,5,,5,
+361,,Feature Detection,4,,4,
+362,,Feature Detection,6,,6,
+363,,Feature Detection,6,,6,
+364,,Feature Detection,6,,6,
+365,,Feature Detection,5,,5,
+366,,Feature Detection,6,,6,
+367,,Feature Detection,5,,5,
+368,,Feature Detection,6,,6,
+369,,Feature Detection,5.03,,5.03,
+370,,Feature Detection,6,,6,
+371,,Feature Detection,5.001,,5.001,
+372,,Feature Detection,6,,6,
+373,,Feature Detection,6,,6,
+374,,Culling,5,,5,
+375,,Culling,5,,5,
+376,,Culling,5,,5,
+377,,Culling,5,,5,
+378,,Texture Synthesis,6,,6,
+379,,Texture Synthesis,6,,6,
+380,,Texture Mapping,5,,5,
+381,,Texture Mapping,3,,3,
+382,,Texture Mapping,5,,5,
+383,,Texture Mapping,5,,5,
+384,,Texture Mapping,5,,5,
+385,,Texture Mapping,5,,5,
+386,,Texture Mapping,5,,5,
+387,,Texture Mapping,6,,6,
+388,,Texture Mapping,6,,6,
+389,,Texture Mapping,5,,5,
+390,,Texture Mapping,4.68,,4.68,
+391,,Texture Mapping,5.01,,5.01,
+392,Image Segmentation,Image Segmentation,5,,5,5
+393,Image Segmentation,Image Segmentation,5,,5,5
+394,Image Segmentation,Image Segmentation,4,,4,4
+395,Image Segmentation,Image Segmentation,4,,4,4
+396,Image Segmentation,Image Segmentation,5,,5,5
+397,Image Segmentation,Image Segmentation,5,,5,5
+398,Image Segmentation,Image Segmentation,4,,4,4
+399,Image Segmentation,Image Segmentation,5,,5,5
+400,Image Segmentation,Image Segmentation,5,,5,5
+401,Image Segmentation,Image Segmentation,5,,5,5
+402,Image Segmentation,Image Segmentation,5,,5,5
+403,Image Segmentation,Image Segmentation,5,,5,5
+404,Image Segmentation,Image Segmentation,5,,5,5
+405,Image Segmentation,Image Segmentation,5,,5,5
+406,Image Segmentation,Image Segmentation,5,,5,5
+407,Image Segmentation,Image Segmentation,5,,5,5
+408,Image Segmentation,Image Segmentation,5,,5,5
+409,Image Segmentation,Image Segmentation,4,,4,4
+410,Image Segmentation,Image Segmentation,5,,5,5
+411,,Mesh Simplification,,,,
+412,,Mesh Simplification,,,,
+413,,Mesh Simplification,,,,
+414,,Mesh Simplification,,,,
+415,,Mesh Simplification,,,,
+416,,Mesh Simplification,,,,
+417,,Mesh Simplification,,,,
+418,,Mesh Simplification,,,,
+419,,Mesh Simplification,,,,
+420,,Mesh Simplification,,,,
+421,,Mesh Simplification,,,,
+422,,Mesh Simplification,,,,
+423,,Mesh Simplification,,,,
+424,,Mesh Simplification,,,,
+425,,Mesh Simplification,,,,
+426,,Mesh Simplification,,,,
+427,,Mesh Simplification,,,,
+428,,Mesh Simplification,,,,
+429,,Mesh Simplification,,,,
+430,,Mesh Simplification,,,,
+431,,Mesh Simplification,,,,
+432,,Mesh Simplification,,,,
+433,,POMDPs,,,,
+434,,POMDPs,,,,
+435,,POMDPs,,,,
+436,,POMDPs,,,,
+437,,POMDPs,,,,
+438,,POMDPs,,,,
+439,,POMDPs,,,,
+440,,POMDPs,,,,
+441,,POMDPs,,,,
+442,,POMDPs,,,,
+443,,POMDPs,,,,
+444,,POMDPs,,,,
+445,,POMDPs,,,,
+446,Rasterization,Rasterization,3,1,3,3
+447,Rasterization,Rasterization,3,1,3,3
+448,,Texture Mapping,,,,
+449,,Texture Mapping,7,,7,
+450,,Texture Mapping,,,,
+451,,Texture Mapping,6,,6,
+452,,Texture Mapping,6,,6,
+453,,Texture Mapping,,,,
+454,,Texture Mapping,5,,5,
+455,,Occupancy Grid Mapping,6,,6,
+456,SLAM Algorithms,SLAM Algorithms,2,3,2,2
+457,SLAM Algorithms,SLAM Algorithms,5,5,5,5
+458,,Change-Making Problem,4,4,4,
+459,Sorting,Sorting,5,1,5,5
+460,Sorting,Sorting,3,1,3,3
+461,,Matrix Chain Multiplication,5,5,5,
+462,,Matrix Chain Multiplication,2.03,3,2.03,
+463,,Matrix Chain Multiplication,2.02,5,2.02,
+464,,Longest Common Subsequence,5.01,5,5.01,
+465,,Longest Common Subsequence,5,3,5,
+466,,Longest Common Subsequence,5,3,5,
+467,,Longest Common Subsequence,5,3,5,
+468,,Longest Common Subsequence,5,3,5,
+469,,Longest Common Subsequence,5,3,5,
+470,,Longest Common Subsequence,5,5,5,
+471,,Longest Common Subsequence,5,3,5,
+472,,Longest Common Subsequence,5,3,5,
+473,,Longest Common Subsequence,5,5,5,
+474,,Longest Common Subsequence,5,5,5,
+475,,Longest Common Subsequence,5,5,5,
+476,Maximum Flow,Maximum Flow,6,,6,6
+477,,Graph Coloring,8,,8,
+478,,Graph Coloring,8,,8,
+479,,Graph Coloring,8,,8,
+480,,Graph Coloring,8,,8,
+481,,Graph Coloring,8,,8,
+482,Convex Hull,Convex Hull,4,,4,4
+483,Minimum Spanning Tree (MST),Minimum Spanning Tree (MST),5.01,3,5.01,5.01
+484,Integer Factoring,Integer Factoring,8,2.66,8,8
+485,Integer Factoring,Integer Factoring,8,2.66,8,8
+486,Integer Factoring,Integer Factoring,3,3,3,3
+487,String Search,String Search,3,1,3,3
+488,String Search,String Search,5,3,5,5
+489,String Search,String Search,5,3,5,5
+490,String Search,String Search,3,3,3,3
+491,String Search,String Search,3,3,3,3
+492,String Search,String Search,5,3,5,5
+493,String Search,String Search,3,3,3,3
+494,String Search,String Search,5,1,5,5
+495,String Search,String Search,5,1,5,5
+496,String Search,String Search,5,3,5,5
+497,String Search,String Search,3,3,3,3
+498,Sequence Alignment,Sequence Alignment,5,5,5,5
+499,Sequence Alignment,Sequence Alignment,5,5,5,5
+500,,Joins,5,1,5,
+501,,Joins,4,3,4,
+502,,Joins,3,3,3,
+503,,Maximum Cardinality Matching,6,5,6,
+504,,Maximum Cardinality Matching,5.5,3,5.5,
+505,,Maximum Cardinality Matching,4.1864298,4,4.1864298,
+506,,Maximum Cardinality Matching,5.857,5,5.857,
+507,,Maximum Cardinality Matching,3,5,3,
+508,,Maximum Cardinality Matching,5.5,5,5.5,
+509,,Maximum Cardinality Matching,5.5,5,5.5,
+510,,Maximum Cardinality Matching,5.376,5,5.376,
+511,,Maximum Cardinality Matching,4.33,4.33,4.33,
+512,Key Exchange,Key Exchange,7,3,7,7
+513,Key Exchange,Key Exchange,7,3,7,7
+514,Mutual Exclusion,Mutual Exclusion,3,,3,3
+515,Mutual Exclusion,Mutual Exclusion,3,3,3,3
+516,Mutual Exclusion,Mutual Exclusion,2,3,2,2
+517,Mutual Exclusion,Mutual Exclusion,2,3,2,2
+518,,SDD Systems Solvers,4,2.5,4,
+519,,SDD Systems Solvers,4.375,2.5,4.375,
+520,,SDD Systems Solvers,3,3,3,
+521,,SDD Systems Solvers,2.501,,2.501,
+522,,SDD Systems Solvers,4.25,,4.25,
+523,,SDD Systems Solvers,2.5,2.5,2.5,
+524,,SDD Systems Solvers,4,2.5,4,
+525,,SDD Systems Solvers,4,2.5,4,
+526,,SDD Systems Solvers,2.51,2.5,2.51,
+527,,SDD Systems Solvers,2.635,,2.635,
+528,,SDD Systems Solvers,4.011,2.5,4.011,
+529,,SDD Systems Solvers,2.5,2.5,2.5,
+530,,SDD Systems Solvers,2.635,2.5,2.635,
+531,,SDD Systems Solvers,4.5,3,4.5,
+532,,SDD Systems Solvers,8,3,8,
+533,Cycle Detection,Cycle Detection,3,1,3,3
+534,Cycle Detection,Cycle Detection,3,1,3,3
+535,Cycle Detection,Cycle Detection,4,2,4,4
+536,Generating Random Permutations,Generating Random Permutations,5,3,5,5
+537,Generating Random Permutations,Generating Random Permutations,3,1,3,3
+538,Generating Random Permutations,Generating Random Permutations,3,3,3,3
+539,Generating Random Permutations,Generating Random Permutations,3,1,3,3
+540,,Convex Optimization (Non-linear),8,3,8,
+541,,Convex Optimization (Non-linear),7,3,7,
+542,,Convex Optimization (Non-linear),5.01,3,5.01,
+543,,Convex Optimization (Non-linear),5,3,5,
+544,,Convex Optimization (Non-linear),5,3,5,
+545,Gröbner Bases,Gröbner Bases,8,8,8,8
+546,Gröbner Bases,Gröbner Bases,8,8,8,8
+547,Gröbner Bases,Gröbner Bases,8,8,8,8
+548,,Minimum value in each row of an implicitly-defined totally monotone matrix,3,1,3,
+549,,Minimum value in each row of an implicitly-defined totally monotone matrix,2.51,2.5,2.51,
+550,All Permutations,All Permutations,3,1,3,3
+551,All Permutations,All Permutations,3,3,3,3
+552,All Permutations,All Permutations,3,3,3,3
+553,,Optimal Binary Search Trees,4,3,4,
+554,,Optimal Binary Search Trees,4,3,4,
+555,,Optimal Binary Search Trees,5,5,5,
+556,,Optimal Binary Search Trees,6,5,6,
+557,,Optimal Binary Search Trees,8,1,8,
+558,,Optimal Binary Search Trees,5,5,5,
+559,,Optimal Binary Search Trees,3,3,3,
+560,,Optimal Binary Search Trees,3,3,3,
+561,,Nash Equilibria,8,3,8,
+562,,Nash Equilibria,8,,8,
+563,Maximum-Weight Matching,Maximum-Weight Matching,7,5,7,7
+564,Maximum-Weight Matching,Maximum-Weight Matching,7,7,7,7
+565,Maximum-Weight Matching,Maximum-Weight Matching,6.01,,6.01,6.01
+566,Maximum-Weight Matching,Maximum-Weight Matching,6,,6,6
+567,Constructing Eulerian Trails in a Graph,Constructing Eulerian Trails in a Graph,7,5,7,7
+568,Constructing Eulerian Trails in a Graph,Constructing Eulerian Trails in a Graph,5,5,5,5
+569,Constructing Eulerian Trails in a Graph,Constructing Eulerian Trails in a Graph,5.03,5,5.03,5.03
+570,Discrete Fourier Transform,Discrete Fourier Transform,5,1,5,5
+571,Discrete Fourier Transform,Discrete Fourier Transform,4,3,4,4
+572,Discrete Fourier Transform,Discrete Fourier Transform,4,3,4,4
+573,Discrete Fourier Transform,Discrete Fourier Transform,4,3,4,4
+574,Discrete Fourier Transform,Discrete Fourier Transform,4,3,4,4
+575,Discrete Fourier Transform,Discrete Fourier Transform,4,3,4,4
+576,Discrete Fourier Transform,Discrete Fourier Transform,4,3,4,4
+577,Discrete Fourier Transform,Discrete Fourier Transform,4,3,4,4
+578,Discrete Fourier Transform,Discrete Fourier Transform,4.01,3,4.01,4.01
+579,Discrete Fourier Transform,Discrete Fourier Transform,4.00585,3,4.00585,4.00585
+580,Discrete Fourier Transform,Discrete Fourier Transform,4.001,3,4.001,4.001
+581,Line Drawing,Line Drawing,3,1,3,3
+582,Line Drawing,Line Drawing,3,1,3,3
+583,Line Drawing,Line Drawing,3,1,3,3
+584,Line Drawing,Line Drawing,3,1,3,3
+585,Line Drawing,Line Drawing,3,1,3,3
+586,,Polygon Clipping,5,5,5,
+587,,Polygon Clipping,5,3,5,
+588,,Polygon Clipping,5,5,5,
+589,,Polygon Clipping,5,5,5,
+590,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3,3,3
+591,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3,3,3
+592,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,2.5,3,3
+593,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3,3,3
+594,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3,3,3
+595,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3,3,3
+596,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3,3,3
+597,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),2.51,3,2.51,2.51
+598,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,3,3,3
+599,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),3,2.5,3,3
+600,Eigenvalues (Iterative Methods),Eigenvalues (Iterative Methods),2.5,3,2.5,2.5
+601,Root Computation,Root Computation,3,1,3,3
+602,Root Computation,Root Computation,3,1,3,3
+603,Root Computation,Root Computation,3,1,3,3
+604,Root Computation,Root Computation,3,1,3,3
+605,Root Computation,Root Computation,3,1,3,3
+606,Root Computation,Root Computation,3,1,3,3
+607,Root Computation,Root Computation,3,1,3,3
+608,,Coset Enumeration,8,8,8,
+609,,Coset Enumeration,8,8,8,
+610,,Coset Enumeration,8,8,8,
+611,Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3,6,6
+612,Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3,6,6
+613,Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3,6,6
+614,Maximum Likelihood Parameters,Maximum Likelihood Parameters,5.01,3,5.01,5.01
+615,Maximum Likelihood Parameters,Maximum Likelihood Parameters,7,3,7,7
+616,Maximum Likelihood Parameters,Maximum Likelihood Parameters,6,3,6,6
+617,Cardinality Estimation,Cardinality Estimation,3,3,3,3
+618,Cardinality Estimation,Cardinality Estimation,3,2,3,3
+619,Cardinality Estimation,Cardinality Estimation,3,1.99,3,3
+620,Cardinality Estimation,Cardinality Estimation,3,2,3,3
+621,Cardinality Estimation,Cardinality Estimation,3,2,3,3
+622,Cardinality Estimation,Cardinality Estimation,3,1,3,3
+623,Cardinality Estimation,Cardinality Estimation,3,3,3,3
+624,,Register Allocation,5,5,5,
+625,,Register Allocation,5,5,5,
+626,,Register Allocation,3,1,3,
+627,,Register Allocation,5,,5,
+628,,Register Allocation,6,,6,
+629,,Register Allocation,6,,6,
+630,,Voronoi Diagrams,4,3,4,
+631,,Voronoi Diagrams,4,,4,
+632,,Voronoi Diagrams,4,3,4,
+633,,Variance Calculations,3,1,3,
+634,,Variance Calculations,3,1,3,
+635,,Variance Calculations,3,1,3,
+636,,Variance Calculations,3,1,3,
+637,,Variance Calculations,2,3,2,
+638,,Topological Sorting,5,3,5,
+639,,Topological Sorting,5,3,5,
+640,,Topological Sorting,2,5,2,
+641,,DFA Minimization,4,3,4,
+642,,DFA Minimization,5,3,5,
+643,,DFA Minimization,8,8,8,
+644,,DFA Minimization,3,3,3,
+645,,DFA Minimization,3,3,3,
+646,,Lowest Common Ancestor,3,3,3,
+647,,Lowest Common Ancestor,3,3,3,
+648,,Lowest Common Ancestor,3,3,3,
+649,,Lowest Common Ancestor,3,3,3,
+650,,Lowest Common Ancestor,3,3,3,
+651,,Graph Edit Distance Computation,8,6,8,
+652,,Graph Edit Distance Computation,5,5,5,
+653,,Graph Edit Distance Computation,7,3,7,
+654,,Graph Edit Distance Computation,5,3,5,
+655,,Graph Edit Distance Computation,7,,7,
+656,,Graph Edit Distance Computation,5,5,5,
+657,,Graph Edit Distance Computation,7,,7,
+658,,Graph Edit Distance Computation,5,,5,
+659,,Graph Edit Distance Computation,7,5,7,
+660,Clique Problems,Clique Problems,8,5,8,8
+661,Clique Problems,Clique Problems,8,5,8,8
+662,Clique Problems,Clique Problems,8,5,8,8
+663,Clique Problems,Clique Problems,8,5,8,8
+664,Clique Problems,Clique Problems,8,5,8,8
+665,Clique Problems,Clique Problems,6,5,6,6
+666,Clique Problems,Clique Problems,8,3,8,8
+667,Clique Problems,Clique Problems,6,5,6,6
+668,Clique Problems,Clique Problems,5.3728596,5,5.3728596,5.3728596
+669,The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,8,8,8
+670,The Traveling-Salesman Problem,The Traveling-Salesman Problem,6,5,6,6
+671,The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,,8,8
+672,The Traveling-Salesman Problem,The Traveling-Salesman Problem,8,,8,8
+673,,Poisson Problem,8,8,8,
+674,,Poisson Problem,7,7,7,
+675,,Poisson Problem,7.01,5,7.01,
+676,,Poisson Problem,6.01,5,6.01,
+677,,Poisson Problem,5.02,5,5.02,
+678,,Poisson Problem,6,5,6,
+679,,Poisson Problem,6,5,6,
+680,,Poisson Problem,5.01,5,5.01,
+681,,Poisson Problem,5.01,5,5.01,
+682,,Poisson Problem,5.01,5,5.01,
+683,,Poisson Problem,5.01,5,5.01,
+684,,Poisson Problem,5.01,5,5.01,
+685,,Poisson Problem,8,8,8,
+686,,Poisson Problem,7,7,7,
+687,,Poisson Problem,7,6,7,
+688,,Poisson Problem,7,6,7,
+689,,Poisson Problem,6.02,6,6.02,
+690,,Poisson Problem,7,6,7,
+691,,Poisson Problem,7,6,7,
+692,,Poisson Problem,6.01,6,6.01,
+693,,Poisson Problem,6.01,6,6.01,
+694,,Poisson Problem,6.01,6,6.01,
+695,,Poisson Problem,6.01,6,6.01,
+696,,Poisson Problem,6.01,6,6.01,
+697,Delaunay Triangulation,Delaunay Triangulation,7,3,7,7
+698,Delaunay Triangulation,Delaunay Triangulation,5,3,5,5
+699,Delaunay Triangulation,Delaunay Triangulation,4,3,4,4
+700,Delaunay Triangulation,Delaunay Triangulation,4,3,4,4
+701,Delaunay Triangulation,Delaunay Triangulation,4,3,4,4
+702,Delaunay Triangulation,Delaunay Triangulation,4,3,4,4
+703,Delaunay Triangulation,Delaunay Triangulation,5,3,5,5
+704,Delaunay Triangulation,Delaunay Triangulation,4,3,4,4
+705,Delaunay Triangulation,Delaunay Triangulation,4,3,4,4
+706,Delaunay Triangulation,Delaunay Triangulation,4,,4,4
+707,Delaunay Triangulation,Delaunay Triangulation,3,3,3,3
+708,Delaunay Triangulation,Delaunay Triangulation,3.99,3,3.99,3.99
+709,,De Novo Genome Assembly,5,3,5,
+710,,De Novo Genome Assembly,4,3,4,
+711,,De Novo Genome Assembly,3,3,3,
+712,,De Novo Genome Assembly,5,,5,
+713,,The Subset-Sum Problem,8,3,8,
+714,,The Subset-Sum Problem,8,8,8,
+715,,Dependency Inference Problem,8,8,8,
+716,,Dependency Inference Problem,8,8,8,
+717,,BCNF Decomposition,6,3,6,
+718,,4NF Decomposition,8,,8,
+719,,4NF Decomposition,8,,8,
+720,,4NF Decomposition,8,,8,
+721,,4NF Decomposition,8,,8,
+722,,4NF Decomposition,8,,8,
+723,,4NF Decomposition,8,,8,
+724,,4NF Decomposition,8,,8,
+725,,4NF Decomposition,8,,8,
+726,,Dependency Inference Problem,8,8,8,
+727,,Dependency Inference Problem,8,,8,
+728,,Disk Scheduling,3,1,3,
+729,,Disk Scheduling,4,3,4,
+730,,Disk Scheduling,4,3,4,
+731,,Disk Scheduling,4,3,4,
+732,,Disk Scheduling,4,3,4,
+733,,Disk Scheduling,4,3,4,
+734,,The Vertex Cover Problem,8,3,8,
+735,,The Vertex Cover Problem,8,5,8,
+736,,The Vertex Cover Problem,8,6,8,
+737,,The Vertex Cover Problem,8,8,8,
+738,,The Vertex Cover Problem,8,7,8,
+739,,The Vertex Cover Problem,8,6,8,
+740,,The Vertex Cover Problem,8,6,8,
+741,,The Vertex Cover Problem,8,3,8,
+742,,The Vertex Cover Problem,8,6,8,
+743,,The Vertex Cover Problem,8,6,8,
+744,CFG Problems,CFG Problems,6,5,6,6
+745,CFG Problems,CFG Problems,5.3728596,5,5.3728596,5.3728596
+746,CFG Problems,CFG Problems,6,5,6,6
+747,CFG Problems,CFG Problems,6,6,6,6
+748,,Finding Frequent Itemsets,5,5,5,
+749,,Finding Frequent Itemsets,5,5,5,
+750,,Finding Frequent Itemsets,5,5,5,
+751,,Finding Frequent Itemsets,5,5,5,
+752,,Data Compression,5.03,3,5.03,
+753,,Data Compression,5,3,5,
+754,,Data Compression,5,5,5,
+755,,Data Compression,5,5,5,
+756,,Data Compression,8,8,8,
+757,,Data Compression,8,8,8,
+758,,Data Compression,8,3,8,
+759,,Data Compression,8,8,8,
+760,,Data Compression,8,3,8,
+761,,Data Compression,3,3,3,
+762,,Data Compression,3,3,3,
+763,,Data Compression,8,8,8,
+764,,Factorization of Polynomials Over Finite Fields,6.01,3,6.01,
+765,,Factorization of Polynomials Over Finite Fields,6,3,6,
+766,,Factorization of Polynomials Over Finite Fields,6,3,6,
+767,,Factorization of Polynomials Over Finite Fields,6,3,6,
+768,,Factorization of Polynomials Over Finite Fields,6.01,3,6.01,
+769,,Factorization of Polynomials Over Finite Fields,5,3,5,
+770,,Cryptanalysis of Linear Feedback Shift Registers,5,3,5,
+771,Stable Matching Problem,Stable Matching Problem,5,3,5,5
+772,Stable Matching Problem,Stable Matching Problem,5,5,5,5
+773,Stable Matching Problem,Stable Matching Problem,5,5,5,5
+774,Stable Matching Problem,Stable Matching Problem,5,5,5,5
+775,Stable Matching Problem,Stable Matching Problem,6,6,6,6
+776,Stable Matching Problem,Stable Matching Problem,5,5,5,5
+777,Stable Matching Problem,Stable Matching Problem,6,3,6,6
+778,Stable Matching Problem,Stable Matching Problem,5,3,5,5
+779,Stable Matching Problem,Stable Matching Problem,2.5,2.5,2.5,2.5
+780,Longest Path Problem,Longest Path Problem,7,6,7,7
+781,,Constructing Suffix Trees,5,3,5,
+782,,Constructing Suffix Trees,3,3,3,
+783,,Constructing Suffix Trees,3,,3,
+784,,Constructing Suffix Trees,3,3,3,
+785,,Constructing Suffix Trees,5,5,5,
+786,,Constructing Suffix Trees,2.03,3,2.03,
+787,,Constructing Suffix Trees,2.01,4.01,2.01,
+788,,Constructing Suffix Trees,2,3,2,
+789,,Constructing Suffix Trees,2,3,2,
+790,,Constructing Suffix Trees,3,3,3,
+791,,Entity Resolution,6.5,2.5,6.5,
+792,,Entity Resolution,6.5,4.5,6.5,
+793,,Entity Resolution,5.01,,5.01,
+794,,Entity Resolution,6.5,2.5,6.5,
+795,,Entity Resolution,5.5,2.5,5.5,
+796,,Entity Resolution,5.01,,5.01,
+797,,Entity Resolution,5.5,3,5.5,
+798,,Entity Resolution,5.5,5,5.5,
+799,Longest Palindromic Substring,Longest Palindromic Substring,6,1,6,6
+800,Longest Palindromic Substring,Longest Palindromic Substring,5,5,5,5
+801,Longest Palindromic Substring,Longest Palindromic Substring,3,3,3,3
+802,Longest Palindromic Substring,Longest Palindromic Substring,3,3,3,3
+803,Longest Palindromic Substring,Longest Palindromic Substring,3,3,3,3
+804,,Register Allocation,5,5,5,
+805,,AST to Code Translation,3,1,3,
+806,,Graph Isomorphism Problem,8,,8,
+807,,Graph Isomorphism Problem,8,5,8,
+808,,Graph Isomorphism Problem,8,,8,
+809,,Graph Isomorphism Problem,,6,,
+810,,Graph Isomorphism Problem,8,5,8,
+811,,Graph Isomorphism Problem,,3m,,
+812,,Graph Isomorphism Problem,7.5,,7.5,
+813,,Graph Isomorphism Problem,5,5,5,
+814,,Graph Isomorphism Problem,7,,7,
+815,,Graph Isomorphism Problem,8,,8,
+816,,Graph Realization Problems,3,3,3,
+817,,Graph Realization Problems,3,1,3,
+818,,Graph Realization Problems,8,,8,
+819,Duplicate Elimination,Duplicate Elimination,4,3,4,4
+820,Duplicate Elimination,Duplicate Elimination,4,,4,4
+821,Duplicate Elimination,Duplicate Elimination,4,2,4,4
+822,Duplicate Elimination,Duplicate Elimination,5,3,5,5
+823,Duplicate Elimination,Duplicate Elimination,5,3,5,5
+824,Duplicate Elimination,Duplicate Elimination,4,,4,4
+825,Duplicate Elimination,Duplicate Elimination,6,1,6,6
+826,,Hyperbolic Spline Interpolation,6,3,6,
+827,,Hyperbolic Spline Interpolation,7,,7,
+828,,Hyperbolic Spline Interpolation,7,,7,
+829,,Hyperbolic Spline Interpolation,7,,7,
+830,,Hyperbolic Spline Interpolation,7,3,7,
+831,,Hyperbolic Spline Interpolation,7,3,7,
+832,,Mesh Parameterization,5,,5,
+833,,Mesh Parameterization,5,,5,
+834,,Mesh Parameterization,5,,5,
+835,,Mesh Parameterization,5,,5,
+836,,Mesh Parameterization,4.02,,4.02,
+837,,Mesh Parameterization,5,,5,
+838,,Mesh Parameterization,4.015,,4.015,
+839,,Mesh Parameterization,5,,5,
+840,,Mesh Parameterization,5,,5,
+841,,Mesh Parameterization,5,,5,
+842,,Mesh Parameterization,5,,5,
+843,,Mesh Parameterization,3,,3,
+844,,Mesh Parameterization,5,,5,
+845,,Mesh Parameterization,5,,5,
+846,,Mesh Parameterization,4,,4,
+847,,Mesh Parameterization,5,,5,
+848,,Mesh Parameterization,5,,5,
+849,,Mesh Parameterization,3.99,,3.99,
+850,,Mesh Parameterization,4.01,,4.01,
+851,,Mesh Parameterization,4.01,,4.01,
+852,,Maximum Likelihood Methods in Unknown Latent Variables,6,3,6,
+853,,Maximum Likelihood Methods in Unknown Latent Variables,5.03,3,5.03,
+854,,Maximum Likelihood Methods in Unknown Latent Variables,6,3,6,
+855,,Maximum Likelihood Methods in Unknown Latent Variables,6,3,6,
+856,,Maximum Likelihood Methods in Unknown Latent Variables,6,3,6,
+857,,Maximum Likelihood Methods in Unknown Latent Variables,6,3,6,
+858,,Maximum Likelihood Methods in Unknown Latent Variables,5.02,1,5.02,
+859,,Maximum Likelihood Methods in Unknown Latent Variables,5.02,,5.02,
+860,,Collaborative Filtering,4.5,3,4.5,
+861,,Collaborative Filtering,3,3,3,
+862,,Collaborative Filtering,3,3,3,
+863,,Filtering Problem (Stochastic Processes),6,5,6,
+864,,Filtering Problem (Stochastic Processes),6,3,6,
+865,,Filtering Problem (Stochastic Processes),6,,6,
+866,,Filtering Problem (Stochastic Processes),6,,6,
+867,,Filtering Problem (Stochastic Processes),6,5,6,
+868,,Filtering Problem (Stochastic Processes),6,,6,
+869,,Filtering Problem (Stochastic Processes),5.02,5,5.02,
+870,,Filtering Problem (Stochastic Processes),5.46,,5.46,
+871,,Filtering Problem (Stochastic Processes),5,,5,
+872,,Filtering Problem (Stochastic Processes),5,,5,
+873,Optimal Policies for MDPs,Optimal Policies for MDPs,8,3,8,8
+874,Optimal Policies for MDPs,Optimal Policies for MDPs,6,3,6,6
+875,Optimal Policies for MDPs,Optimal Policies for MDPs,6,3,6,6
+876,,The Set-Covering Problem,5,1,5,
+877,,The Set-Covering Problem,6.01,1,6.01,
+878,,The Set-Covering Problem,8,,8,
+879,,The Set-Covering Problem,8,,8,
+880,,The Set-Covering Problem,6.03,,6.03,
+881,,The Set-Covering Problem,5.01,,5.01,
+882,,The Set-Covering Problem,5,,5,
+883,,The Set-Covering Problem,8,1,8,
+884,,Motif Search,3,2.5,3,
+885,,Motif Search,3,2.5,3,
+886,,Motif Search,3,3,3,
+887,,Motif Search,2.83,2.5,2.83,
+888,,Motif Search,5,3,5,
+889,,Motif Search,4.225,4.5,4.225,
+890,,Motif Search,2.75,3,2.75,
+891,,Motif Search,3,5,3,
+892,,All Maximal Non-Branching Paths in a Graph,5,3,5,
+893,Link Analysis,Link Analysis,6,3,6,6
+894,Link Analysis,Link Analysis,6,3,6,6
+895,Link Analysis,Link Analysis,5,3,5,5
+896,Link Analysis,Link Analysis,7,,7,7
+897,Link Analysis,Link Analysis,7,3,7,7
+898,Link Analysis,Link Analysis,6.01,3,6.01,6.01
+899,Link Analysis,Link Analysis,6,3,6,6
+900,Link Analysis,Link Analysis,6,3,6,6
+901,Link Analysis,Link Analysis,6,3,6,6
+902,Link Analysis,Link Analysis,6,3,6,6
+903,Link Analysis,Link Analysis,6,3,6,6
+904,Link Analysis,Link Analysis,6,5,6,6
+905,,Distributed Locking Algorithms,3,1,3,
+906,,Distributed Locking Algorithms,3,1,3,
+907,,Distributed Locking Algorithms,3,,3,
+908,,Cyclic Peptide Sequencing Problem,8,3,8,
+909,,Cyclic Peptide Sequencing Problem,8,8,8,
+910,Point-in-Polygon,Point-in-Polygon,3,1,3,3
+911,Point-in-Polygon,Point-in-Polygon,3,3,3,3
+912,Point-in-Polygon,Point-in-Polygon,4,5,4,4
+913,Point-in-Polygon,Point-in-Polygon,3,1,3,3
+914,Point-in-Polygon,Point-in-Polygon,3,3,3,3
+915,Point-in-Polygon,Point-in-Polygon,3,1,3,3
+916,Point-in-Polygon,Point-in-Polygon,3,1,3,3
+917,Point-in-Polygon,Point-in-Polygon,3,1,3,3
+918,,Clock Synchronization in Distributed Systems,3,3,3,
+919,,Clock Synchronization in Distributed Systems,3,1,3,
+920,,Clock Synchronization in Distributed Systems,3,3,3,
+921,,d-Neighborhood of a String,8,3,8,
+922,,Maximum Cut,8,,8,
+923,,Maximum Cut,3,3,3,
+924,,Maximum Cut,6,3,6,
+925,,Maximum Cut,5,3,5,
+926,,Maximum Cut,6.01,5,6.01,
+927,,Maximum Cut,6,,6,
+928,,Wiener Index,5.01,5,5.01,
+929,,Determinant of Matrices with Integer Entries,5.52,4.51,5.52,
+930,,Determinant of Matrices with Integer Entries,5.011,4.51,5.011,
+931,Integer Relation,Integer Relation,6,5,6,6
+932,Integer Relation,Integer Relation,7,5,7,7
+933,Integer Relation,Integer Relation,6,5,6,6
+934,Integer Relation,Integer Relation,6,5,6,6
+935,,Sequence-to-Graph Alignment,6,6,6,
+936,,Sequence-to-Graph Alignment,5,3,5,
+937,,Sequence-to-Graph Alignment,7,7,7,
+938,,Sequence-to-Graph Alignment,6,3,6,
+939,,Sequence-to-Graph Alignment,5,3,5,
+940,,Sequence-to-Graph Alignment,5,3,5,
+941,,Sequence-to-Graph Alignment,5,3,5,
+942,Logarithm Calculations,Logarithm Calculations,8,1,8,8
+943,Logarithm Calculations,Logarithm Calculations,8,8,8,8
+944,Logarithm Calculations,Logarithm Calculations,8,3,8,8
+945,Logarithm Calculations,Logarithm Calculations,8,3,8,8
+946,Logarithm Calculations,Logarithm Calculations,8,3,8,8
+947,Logarithm Calculations,Logarithm Calculations,8,8,8,8
+948,Logarithm Calculations,Logarithm Calculations,8,1,8,8
+949,Logarithm Calculations,Logarithm Calculations,8,1,8,8
+950,,Self-Balancing Trees Creation,4,3,4,
+951,,Self-Balancing Trees Creation,4,3,4,
+952,,Self-Balancing Trees Creation,4,3,4,
+953,,Self-Balancing Trees Creation,4,3,4,
+954,,Self-Balancing Trees Creation,4,3,4,
+955,,Self-Balancing Trees Insertion,2,1,2,
+956,,Self-Balancing Trees Insertion,2,1,2,
+957,,Self-Balancing Trees Deletion,2,1,2,
+958,,Self-Balancing Trees Deletion,2,1,2,
+959,,Self-Balancing Trees Search,2,1,2,
+960,,Self-Balancing Trees Search,2,1,2,
+961,,Transitive Reduction Problem,5.3728596,5,5.3728596,
+962,,Transitive Reduction Problem,5.807,5,5.807,
+963,,Transitive Reduction Problem,5.8,5,5.8,
+964,,Transitive Reduction Problem,5.78,5,5.78,
+965,,Transitive Reduction Problem,5.52,5,5.52,
+966,,Transitive Reduction Problem,5.518,5,5.518,
+967,,Transitive Reduction Problem,5.495,5,5.495,
+968,,Transitive Reduction Problem,5.48,5,5.48,
+969,,Transitive Reduction Problem,5.372,5,5.372,
+970,,Transitive Reduction Problem,5.373,5,5.373,
+971,,Transitive Reduction Problem,5.371,5,5.371,
+972,,Transitive Reduction Problem,6,5,6,
+973,,Turnpike Problem,8,3,8,
+974,,n-Queens Problem,8,2.5,8,
+975,,n-Queens Problem,8,2.5,8,
+976,,n-Queens Problem,8,2.5,8,
+977,,n-Queens Problem,8,,8,
+978,,n-Queens Problem,8,8,8,
+979,,n-Queens Problem,8,8,8,
+980,,Median String Problem,8,3,8,
+981,,Frequent Words with Mismatches Problem,8,8,8,
+982,Tower of Hanoi,Tower of Hanoi,8,3,8,8
+983,Tower of Hanoi,Tower of Hanoi,8,4,8,8
+984,Tower of Hanoi,Tower of Hanoi,8,3,8,8
+985,Tower of Hanoi,Tower of Hanoi,8,3,8,8
+986,Tower of Hanoi,Tower of Hanoi,8,,8,8
+987,,The Frequent Words Problem,3,3,3,
+988,,The Frequent Words Problem,3,3,3,
+989,,Integral Equations,8,,8,
+990,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+991,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+992,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+993,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+994,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+995,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+996,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+997,One-Way Hash Functions,One-Way Hash Functions,3,1,3,3
+998,,Secret Sharing,5,5,5,
+999,,Secret Sharing,6,5,6,
+1000,,Solutions to Nonlinear Equations,3,1,3,
+1001,,Solutions to Nonlinear Equations,3,1,3,
+1002,,Solutions to Nonlinear Equations,3,1,3,
+1003,,Solutions to Nonlinear Equations,3,1,3,
+1004,Block Ciphers,Block Ciphers,3,3,3,3
+1005,Block Ciphers,Block Ciphers,3,3,3,3
+1006,Block Ciphers,Block Ciphers,3,1,3,3
+1007,Block Ciphers,Block Ciphers,3,3,3,3
+1008,Block Ciphers,Block Ciphers,3,3,3,3
+1009,,Polynomial Interpolation,8,5,8,
+1010,,Polynomial Interpolation,5,3,5,
+1011,,Polynomial Interpolation,5,3,5,
+1012,,Polynomial Interpolation,5,3,5,
+1013,Greatest Common Divisor,Greatest Common Divisor,5,3,5,5
+1014,Greatest Common Divisor,Greatest Common Divisor,5,3,5,5
+1015,Greatest Common Divisor,Greatest Common Divisor,5,3,5,5
+1016,Greatest Common Divisor,Greatest Common Divisor,4.011,3,4.011,4.011
+1017,,Interval Scheduling,8,3,8,
+1018,,Interval Scheduling,6,5,6,
+1019,,Interval Scheduling,5,3,5,
+1020,,Interval Scheduling,4,3,4,
+1021,,Interval Scheduling,4,3,4,
+1022,,Interval Scheduling,3,3,3,
+1023,,Interval Scheduling,3,3,3,
+1024,,Interval Scheduling,3,3,3,
+1025,,Interval Scheduling,3,3,3,
+1026,,Interval Scheduling,3,3,3,
+1027,,Interval Scheduling,3,,3,
+1028,Deadlock avoidance,Deadlock avoidance,5,3,5,5
+1029,Page Replacements,Page Replacements,5,1,5,5
+1030,Page Replacements,Page Replacements,3,1,3,3
+1031,Page Replacements,Page Replacements,3,1,3,3
+1032,Page Replacements,Page Replacements,3,1,3,3
+1033,Page Replacements,Page Replacements,3,1,3,3
+1034,Page Replacements,Page Replacements,3,1,3,3
+1035,Page Replacements,Page Replacements,3,1,3,3
+1036,Page Replacements,Page Replacements,3,1,3,3
+1037,Page Replacements,Page Replacements,3,1,3,3
+1038,Page Replacements,Page Replacements,3,1,3,3
+1039,,Recovery,3,3,3,

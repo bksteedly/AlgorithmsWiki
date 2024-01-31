@@ -1,0 +1,94 @@
+Has dedicated page?,Part of another page?,One of them,Page title,Best known upper bound,Old Family #,Family Name,Looked at?,Variation,Algo ID,Algorithm Description,Final Call,Exact Problem Statement?,Exact algorithm?,Time Complexity (Average),Average Case Distribution,Reference?,Unnamed: 17,Algorithm Name,Year,Paper/Reference Link,Constants,Derived?,Paper Reference for Constants,Time Complexity Improvement?,Transition Class,Time Complexity Class,Param: Time Class,Time Complexity (Worst Only),Parameter definitions,Preferred Parameter,Time Complexity Reference,Derived Time Complexity?,Computational Model,Unit of Space,Space Complexity Class,Param: Space Class,Space Complexity (Auxiliary),Space Complexity Reference,Derived Space Complexity?,Space Complexity in Original Paper?,Interesting Space Complexity?,Randomized?,"Type of Randomized Algorithm (e.g. Las Vegas, Monte Carlo, Atlantic City)",Approximate?,Approximation Factor (if approximate algorithm),Heuristic-based?,Parallel?,"# of
+Processors",Quantum?,GPU-based?,Other References,Problem Statement,"Algorithm family
+parameters",Description of Inputs,Ratios of input parameter sizes,Space n = 1000 value,Space n = 1000 rate,Space n = 10^6 value,Space n = 10^6 rate,Space n = 10^9 value,Space n = 10^9 rate,n = 1000 value,n = 1000 scale,n = 1000 Rate,n = 10^6 value,n = 10^6 scale,n = 10^6 Rate,n = 10^9 value,n = 10^9 scale,n = 10^9 Rate,Starting Complexity,Remarks,Papers for ratio evaluations,Domains,formatted_title,reads_url
+0,0,0,,,38,Optimal Binary Search Trees,2,Approximate OBST,348,,,1,0,O(n),,,[https://people.mpi-inf.mpg.de/~mehlhorn/ftp/mehlhorn3.pdf Melhorn's Approximation algorithm (1975)],Melhorn's Approximation algorithm,1975,https://people.mpi-inf.mpg.de/~mehlhorn/ftp/mehlhorn3.pdf,,,,0,0,3.0,n: 3,$O(n)$,"H: entropy of the distribution
+P_opt:
+P_balanced: 
+n: number of elements",n,,,,,3,n: 3,O(n),"https://people.mpi-inf.mpg.de/~mehlhorn/ftp/mehlhorn3.pdf, storing left/right subtrees' weights",0,1,,0,,1,0.63 H \leq P_opt \leq P_balanced \leq 2 + 1.44 H,0,0,,0,0,,"an optimal binary search tree (Optimal BST); sometimes called a weight-balanced
+ binary tree; is a binary search tree which provides the smallest possible search
+ time (or expected search time) for a given sequence of accesses
+ (or access probabilities). Optimal BSTs are generally divided
+ into two types: static and dynamic.",,,,,,,,,,1000.0,,,,,,,,,1,,,Combinatorics,,
+0,0,0,,,38,Optimal Binary Search Trees,2,Approximate OBST,350,,,1,0,O(n^0.6),,,[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.6940&rep=rep1&type=pdf Karpinski (1996)],Karpinski,1996,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.6940&rep=rep1&type=pdf,,,,0,0,2.6,n: 2.6,O(n^{0.6}),n: number of elements,n,,,,,1,n: 1,O(1),Derived: dynamic programming and making use of Monge matrix properties,1,0,,0,,1,\epsilon = o(1),0,1,n,0,0,,"an optimal binary search tree (Optimal BST); sometimes called a weight-balanced
+ binary tree; is a binary search tree which provides the smallest possible search
+ time (or expected search time) for a given sequence of accesses
+ (or access probabilities). Optimal BSTs are generally divided
+ into two types: static and dynamic.",,,,,,,,,,63.0,,,,,,,,,1,,,Combinatorics,,
+0,0,0,,,38,Optimal Binary Search Trees,2,Alphabetic Tree Problem,351,,,1,1,O(n),,,[https://epubs.siam.org/doi/abs/10.1137/S0895480193256651?journalCode=sjdmec Klawe; Mumey (1993)],Klawe; Mumey,1993,https://epubs.siam.org/doi/abs/10.1137/S0895480193256651?journalCode=sjdmec,,,,0,0,3.0,n: 3,O(n),n: number of elements,n,,,,,3,n: 3,O(n),Derived: uses a worklist of size O(n),1,0,,0,,0,,0,0,,0,0,,"an optimal binary search tree (Optimal BST); sometimes called a weight-balanced
+ binary tree; is a binary search tree which provides the smallest possible search
+ time (or expected search time) for a given sequence of accesses
+ (or access probabilities). Optimal BSTs are generally divided
+ into two types: static and dynamic.",,weights within constant factors of each other or exponentially separated,,,,,,,,1000.0,inf,,1000000.0,inf,,1000000000.0,inf,,1,,,Combinatorics,,
+0,0,0,,,38,Optimal Binary Search Trees,2,Approximate OBST,352,,,1,0,O(n^1.6),,,[https://www.sciencedirect.com/science/article/pii/0196677487900526 Larmore (1987)],Larmore,1987,https://www.sciencedirect.com/science/article/pii/0196677487900526,,,,0,0,4.6,n: 4.6,O(n^{1.6}),n: number of elements,n,,,,,3,n: 3,O(n),"Derived: Computing and storing f_{d,l} for each n elements",1,0,,0,,1,\epsilon = o(1),0,0,,0,0,,"an optimal binary search tree (Optimal BST); sometimes called a weight-balanced
+ binary tree; is a binary search tree which provides the smallest possible search
+ time (or expected search time) for a given sequence of accesses
+ (or access probabilities). Optimal BSTs are generally divided
+ into two types: static and dynamic.",,,,,,,,,,63095.0,,,,,,,,,1,,,Combinatorics,,
+0,1,1,Nearest neighbor search,,49,Nearest Neighbor Search,2,k-ANNS,419,,,1,0,O(nlogn),,,[https://doi.org/10.1109/TPAMI.2018.2889473 Hierarchical Navigable Small World (HNSW) (2018)],Hierarchical Navigable Small World (HNSW),2018,https://doi.org/10.1109/TPAMI.2018.2889473,,,,0,0,4.0,n: 4,O(nlogn),"n: number of elements
+M: heuristic choice -- number of closest neighbors for a part of the algo",n,,,,bytes of memory,1,"n: 1,
+M: 3",O(M),"https://arxiv.org/abs/1603.09320, ""Memory usage is proportional to choice of M""",0,1,,0,,1,? experimental results,1,0,,0,0,,,,,,,,,,,,9965.0,,,,,,,,,4,,,Combinatorics,Nearest_neighbor_search,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Nearest_neighbor_search/monthly/20150701/20230731
+1,0,1,Locality-sensitive hashing,,49,Nearest Neighbor Search,2,k-ANNS,420,,,1,0,"O(nLkt) [pre-processing]
+O(L(kt+dnP_2^k)) [query-time]",,,[http://infolab.stanford.edu/~ullman/mmds/ch3n.pdf Locality-sensitive hashing (2010)],Locality-sensitive hashing,2010,http://infolab.stanford.edu/~ullman/mmds/ch3n.pdf,,,,0,0,3.0,"n: 3,
+k: 3,
+L: 3,
+t: 3,
+d: 3","$O(nLkt)$ [pre-processing]
+$O(L(kt+dnP_2^k))$ [query-time]","$n$: number of elements
+$L$: number of hash tables
+$k$: width parameter
+$t$: time to evaluate a function
+$d$: dimensionality of the data
+$P_1, P_2$: Probabilities inherent in the hash functions
+$c$: approximation factor",n,,,,hash table cells,3,"n: 3,
+L: 3",O(nL),https://en.wikipedia.org/wiki/Locality-sensitive_hashing#LSH_algorithm_for_nearest_neighbor_search,0,0,,0,,1,c,0,0,,0,0,https://en.wikipedia.org/wiki/Locality-sensitive_hashing#LSH_algorithm_for_nearest_neighbor_search,,,,,,,,,,,9965.0,,,,,,,,,4,,,Combinatorics,Locality-sensitive_hashing,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Locality-sensitive_hashing/monthly/20150701/20230731
+0,0,0,,,49,Nearest Neighbor Search,2,k-ANNS for a dense 3D map of geometric points,421,,,1,0,O(k),,,[http://www.araa.asn.au/acra/acra2013/papers/pap148s1-file1.pdf Projected radial search (2013)],Projected radial search,2013,http://www.araa.asn.au/acra/acra2013/papers/pap148s1-file1.pdf,,,,0,0,3.0,k: 3,O(k),k: number of neighbors to find,n,,,Word RAM,words,1,n: 1,O(1),Derived: There are 5 local variables and no tables or lists aside from input/output,1,0,,0,,1,?,0,0,,0,0,,,,,,,,,,,,1000.0,,,,,,,,,4,,,Combinatorics,,
+1,0,1,Vector quantization,,49,Nearest Neighbor Search,2,k-ANNS,422,,,1,0,Varies by codebook structure,,,[ Compression/Clustering [Vector Quantization] (1992)],Compression/Clustering [Vector Quantization],1992,,,,,1,5->6,3.0,n: 3,Varies by codebook structure,n: number of elements,n,,,,,#VALUE!,,Varies by codebook structure,Table 2,0,0,,0,,1,,0,0,,0,0,,,,,,,,,,,,1000.0,,,,,,,,,4,,,Combinatorics,Vector_quantization,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Vector_quantization/monthly/20150701/20230731
+0,1,1,Knapsack problem,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,546,,,1,1,O(nt/logt),,,[https://link.springer.com/article/10.1007/s00453-002-0989-y Pisinger (2003)],Pisinger,2003,https://link.springer.com/article/10.1007/s00453-002-0989-y,,,,0,0,3.0,"n: 3,
+t: 2.99",O(nt/logt),"n: number of elements in the set
+t: target sum",n,,,Word RAM,words,1,"n: 1,
+t: 2.5",O(t/logt),https://link.springer.com/article/10.1007/s00453-002-0989-y,0,1,,0,,0,,0,0,,0,0,,,,,,,,,,,,,,,,,,,,,1,,,Combinatorics,Knapsack_problem,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Knapsack_problem/monthly/20150701/20230731
+0,0,0,,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,547,,,1,1,O(n' t),,,[https://doi.org/10.1287/opre.21.1.332 Faaland (1973)],Faaland,1973,https://doi.org/10.1287/opre.21.1.332,,,,0,0,3.0,"n: 3,
+n': 3,
+t: 3",O(n' t),"n': number of distinct elements in the set
+t: target sum",n,,,,,1,"n: 1,
+t: 3",O(t),https://doi.org/10.1287/opre.21.1.332,0,1,,0,,0,,0,0,,0,0,"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",,,,,,,,,,,,,,,,,,,,1,Dynamic Programming,,Combinatorics,,
+0,1,1,Subset sum problem,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,548,,,1,1,O(n' t),,,[https://link.springer.com/article/10.1007/s006070050042 Pferschy (1999)],Pferschy,1999,https://link.springer.com/article/10.1007/s006070050042,,,,0,0,3.0,"n: 3,
+n': 3,
+t: 3",O(n' t),"n': number of distinct elements in the set
+t: target sum",n,,,,,1,"n: 1,
+t: 3",O(t),"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",0,0,,0,,0,,0,0,,0,0,"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",,,,,,,,,,,,,,,,,,,,1,,,Combinatorics,Subset_sum_problem,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Subset_sum_problem/monthly/20150701/20230731
+0,0,0,,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,549,,,1,1,O(œÉ^{(3/2)}),,,[https://doi.org/10.1002/(SICI)1097-0037(199905)33:3%3C189::AID-NET5%3E3.0.CO;2-2 Klinz (1999)],Klinz,1999,https://doi.org/10.1002/(SICI)1097-0037(199905)33:3%3C189::AID-NET5%3E3.0.CO;2-2,,,,0,0,4.5,"n: 4.5,
+\sigma: 4.5",$O(œÉ^{(3/2)})$,$\sigma$: sum of integers in the set ($\sigma \geq n$),n,,,,,1,"n: 1,
+t: 3",O(t),"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",0,0,,0,,0,,0,0,,0,0,"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",,,,,,,,,,,,,,,,,,,,1,,,Combinatorics,,
+0,0,0,,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,550,,,1,1,\tilde{O}(n max(S)),,,[https://www.sciencedirect.com/science/article/abs/pii/S019667749690841X?via%3Dihub Eppstein (1997)],Eppstein,1997,https://www.sciencedirect.com/science/article/abs/pii/S019667749690841X?via%3Dihub,,,,0,0,4.0,"n: 4,
+max(S): 3",$\tilde{O}(n max(S))$,"n: number of elements in the set
+S: the set
+t: target sum",n,,,,,1,"n: 1,
+t: 4",O(t logt),"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",0,0,,0,,0,,0,0,,0,0,,,,,,,,,,,,,,,,,,,,,1,,,Combinatorics,,
+0,0,0,,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,551,,,1,1,\tilde{O}(n max(S)),,,[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091507 Serang (2014)],Serang,2014,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091507,,,,0,0,4.0,"n: 4,
+max(S): 3",$\tilde{O}(n max(S))$,"n: number of elements in the set
+S: the set
+t: target sum",n,,,,,1,"n: 1,
+t: 4",O(t logt),"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",0,0,,0,,0,,0,0,,0,0,,,,,,,,,,,,,,,,,,,,,1,,,Combinatorics,,
+0,0,0,,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,552,,,1,1,\tilde{O}(n max(S)),,,[https://www.liebertpub.com/doi/10.1089/cmb.2015.0013 Serang (2015)],Serang,2015,https://www.liebertpub.com/doi/10.1089/cmb.2015.0013,,,,0,0,4.0,"n: 4,
+max(S): 3",$\tilde{O}(n max(S))$,"n: number of elements in the set
+S: the set
+t: target sum",n,,,,,1,"n: 1,
+t: 4",O(t logt),"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",0,0,,0,,0,,0,0,,0,0,,,,,,,,,,,,,,,,,,,,,1,,,Combinatorics,,
+0,0,0,,"\tilde{O}(min{\sqrt{n'}t, t^{5/4}, œÉ})",66,The Subset-Sum Problem,2,Subset Sum,553,,,1,1,\tilde{O}(n^3 t),,,[https://dl.acm.org/doi/abs/10.1145/1806689.1806735 Lokshtanov (2010)],Lokshtanov,2010,https://dl.acm.org/doi/abs/10.1145/1806689.1806735,,,,0,0,6.0,"n: 6,
+t: 3",$\tilde{O}(n^3 t)$,"n: number of elements in the set
+t: target sum",n,,,,,5,"n: 5,
+t: 1",O(n^2),"https://dl.acm.org/doi/pdf/10.1145/3329863, Table 1",0,0,,0,,0,,0,0,,0,0,,,,,,,,,,,,,,,,,,,,,1,,,Combinatorics,,
+0,0,0,,,78,Stable Matching Problem,2,Almost Stable Marriage Problem,619,,,1,0,O(1),,,"[https://arxiv.org/pdf/0812.4893.pdf Valentin Polishchuk, and Jukka Suomela (2008)]","Valentin Polishchuk, and Jukka Suomela",2008,https://arxiv.org/pdf/0812.4893.pdf,,,,0,0,1.0,n: 1,O(1),n: number of people in set,n,,,Word RAM,words,1,n: 1,O(1),derived: must be \leq time complexity,1,0,,0,,1,2 + \epsilon,0,1,,0,0,,,,,,,,,,,,1.0,,,,,,,,,4,,,Combinatorics,,
+0,0,0,,,99,Motif Search,2,Motif Search,784,,,1,0,O(nm),,,"[https://www.ncbi.nlm.nih.gov/pubmed/2184437 Lawrence, Reilly (1990)]","Lawrence, Reilly",1990,https://www.ncbi.nlm.nih.gov/pubmed/2184437,,,,0,0,3.0,"n: 3,
+m: 3,
+mn: 3",O(nm),"n: number of sequences
+m: length of sequences",mn,,,Word RAM,words,3,"n: 3,
+m: 3,
+mn: 3",O(nm),https://www.ncbi.nlm.nih.gov/pubmed/2184437,0,1,,0,,1,,0,0,,0,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2966288/,,,,m=n= (value/2),,,,,,,250000.0,0.0,,250000000000.0,0.0,,2.5e+17,0.0,,4,,,Bioinformatics,,
+0,1,1,Charles Lawrence (mathematician),,99,Motif Search,2,Motif Search,785,,,1,0,O(nm),,,[https://science.sciencemag.org/content/262/5131/208 Lawrence Gibbs Sampling (1993)],Lawrence Gibbs Sampling,1993,https://science.sciencemag.org/content/262/5131/208,,,,0,0,3.0,"n: 3,
+m: 3,
+mn: 3",O(nm),"n: number of sequences
+m: length of sequences",mn,,,Word RAM,words,2.5,"n: 3,
+m: 3,
+mn: 2.5",O(n + m),"derived: two data structures, one uses O(n) and one uses O(m)",1,0,,0,,1,,0,0,,0,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2966288/,,,,,,,,,,,,,,,,,,,,4,,,Bioinformatics,Charles_Lawrence_%28mathematician%29,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Charles_Lawrence_%28mathematician%29/monthly/20150701/20230731

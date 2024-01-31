@@ -1,0 +1,56 @@
+Time Complexity Class,Space Complexity Class,overall avg reads,Label
+8,2.5,84410.0105,Exponential
+3,3,68817.1158,Linear
+8,8,63366.8211,Exponential
+3,1,52458.8632,Linear
+3,3,52175.6,Linear
+2,1,48445.2737,Logorithmic
+4,2,46936.3895,n log n
+3,1,45196.4421,Linear
+6,3,43920.2947,Cubic
+5,1,43182.6737,Quadratic
+3,3,42517.8526,Linear
+3,3,39003.4947,Linear
+3,3,38586.8737,Linear
+5,3,29690.979,Quadratic
+3,3,26360.1684,Linear
+3,3,22562.9368,Linear
+4.5,3,21058.2737,Quadratic
+3,3,20738.9158,Linear
+5.01,5,20115.1579,Cubic
+5,3,19504.4737,Quadratic
+6,3,19314.9368,Cubic
+7,5,18727.7579,Poly (> Cubic)
+6,5,18021.1263,Cubic
+8,3,17382.6947,Exponential
+3,1,15870.5053,Linear
+3,3,15767.0421,Linear
+5,3,13338.179,Quadratic
+3,3,12411.9684,Linear
+3,3,12059.7368,Linear
+3,3,10973.6211,Linear
+7,5,10415.4737,Poly (> Cubic)
+4.58,3,8828.90526,Quadratic
+7,5,8574.26316,Poly (> Cubic)
+4.4035,3,8243.08421,Quadratic
+4,3,7904.66316,n log n
+5,3,6197.77895,Quadratic
+5,5,6149.9579,Quadratic
+3,2,5790.61053,Linear
+3,3,5776.54737,Linear
+5,3,5657.77895,Quadratic
+6,5,5532.51579,Cubic
+5,3,5465.84211,Quadratic
+3,3,5168.36842,Linear
+3,3,4585.67368,Linear
+5,5,4484.05263,Quadratic
+3,3,4379.86316,Linear
+3,1,4142.97895,Linear
+7,5,4020.8,Poly (> Cubic)
+6,5,3900.02105,Cubic
+3,1,3641.32632,Linear
+8,3,3479.27368,Exponential
+4,3,3372.86316,n log n
+3,3,3344.83158,Linear
+4.001,3,3281.81053,Quadratic
+5,3,2920.09474,Quadratic
